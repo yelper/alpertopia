@@ -28,6 +28,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+# add some custom collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
