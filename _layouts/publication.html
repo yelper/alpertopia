@@ -1,0 +1,119 @@
+---
+layout: default
+---
+{% capture asset_uri  %}/assets/publications/{{ page.title | downcase }}/{% endcapture %}
+
+<article class="publication container" itemscope itemtype="http://schema.org/ScholarlyArticle" >
+  <div class="row">
+    <div class="col">
+      <h1 class="pub-title" itemprop="headline">{{ page.articletitle }}</h1>
+      <p class="pub-details lead">
+          {{ page.authors | array_to_sentence_string }}. 
+          <span itemprop="name">{{ page.articletitle }}</span>. 
+          <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue" itemid="#issue">
+              <em itemprop="name">{{ page.publication }}</em>.
+              <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume" href="#periodical">
+                  <span itemprop="volumeNumber">{{ page.volume }}</span>(<span itemprop="issueNumber">{{ page.number }}</span>): 
+              </span><span itemprop="pageStart">{{ page.pagestart }}</span>&ndash;<span itemprop="pageEnd">{{ page.pageend }}</span>.
+              <span itemprop="datePublished">{{ page.datepublished | date: "%Y" }}</span>.
+          </span>
+      </p>
+    </div>
+  </div>
+  <div class="row resources">
+    <div class="col">
+      <ul class="list-inline">
+        {% if page.link_paperlink %}
+        <li class="list-inline-item">
+          <a href="{% unless page.link_paperlink contains "/" %}{{asset_uri}}{% endunless %}{{ page.link_paperlink }}" title="paper link (PDF)" target="_blank">
+            <span class="fa fa-file-text" aria-hidden="true"></span>
+            paper
+          </a>
+        </li>
+        {% endif %}
+        {% if page.link_labrepo %}
+        <li class="list-inline-item">
+          <a href="{{ page.link_labrepo }}" title="paper repository permalink" target="_blank">
+            <span class="fa fa-link" aria-hidden="true"></span>
+            lab repository
+          </a>
+        </li>
+        {% endif %}
+        {% if page.website_project %}
+        <li class="list-inline-item">
+          <a href="{{ page.website_project }}" title="project website" target="_blank">
+            <span class="fa fa-sitemap" aria-hidden="true"></span>
+            project website (official)
+          </a>
+        </li>
+        {% endif %}
+        {% if page.doi %}
+        <li class="list-inline-item">
+          <a href="{{ page.doi | prepend: "http://dx.doi.org/" }}" title="Digital Object Identifier" target="_blank">
+            <span class="fa fa-link" aria-hidden="true"></span>
+            DOI
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+  <div class="row pb-3 resources">
+    <div class="col">
+      <ul class="list-inline">
+        {% if page.video_teaser %}
+        <li class="list-inline-item">
+          <a href="{% unless page.video_teaser contains "/" %}{{asset_uri}}{% endunless %}{{ page.video_teaser }}" title="teaser video" target="_blank">
+            <span class="fa fa-film" aria-hidden="true"></span>
+            teaser video
+          </a>
+        </li>
+        {% endif %}
+        {% if page.video_paper %}
+        <li class="list-inline-item">
+          <a href="{% unless page.video_paper contains "/" %}{{asset_uri}}{% endunless %}{{ page.video_paper }}" title="video associated with the paper" target="_blank">
+            <span class="fa fa-video-camera" aria-hidden="true"></span>
+            video
+          </a>
+        </li>
+        {% endif %}
+        {% if page.website_repo %}
+        <li class="list-inline-item">
+          <a href="{{ page.website_repo }}" title="code repository" target="_blank">
+            <span class="fa fa-github" aria-hidden="true"></span>
+            repository
+          </a>
+        </li>
+        {% endif %}
+        {% if page.talk_slides %}
+        <li class="list-inline-item">
+          <a href="{% unless page.talk_slides contains "/" %}{{asset_uri}}{% endunless %}{{ page.talk_slides }}" title="talk slides (PDF)" target="_blank">
+            <span class="fa fa-desktop" aria-hidden="true"></span>
+            slides
+          </a>
+        </li>
+        {% endif %}
+        {% if page.talk_video %}
+        <li class="list-inline-item">
+          <a href="{{ page.talk_video }}" title="video of the talk" target="_blank">
+            <span class="fa fa-volume-up" aria-hidden="true"></span>
+            talk recording
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="row justify-content-between">
+    <div class="post-content col col-sm-6" itemprop="articleBody">
+      {{ content }}
+    </div>
+    <div class="col col-sm-5 mx-auto">
+      <figure class="figure">
+        <img src="{{ asset_uri }}{{ page.figure1 }}" class="figure-img img-fluid" alt="Figure 1">
+        <figcaption class="figure-caption">{{ page.caption1 | textilize }}</figcaption>
+      </figure>
+    </div>
+  </div>
+</article>
