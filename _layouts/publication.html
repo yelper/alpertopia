@@ -33,9 +33,9 @@ layout: default
         {% endif %}
         {% if page.link_labrepo %}
         <li class="list-inline-item">
-          <a href="{{ page.link_labrepo }}" title="paper repository permalink" target="_blank">
+          <a href="{{ page.link_labrepo }}" title="lab paper repository permalink" target="_blank">
             <span class="fa fa-link" aria-hidden="true"></span>
-            lab repository
+            lab permalink
           </a>
         </li>
         {% endif %}
@@ -112,7 +112,7 @@ layout: default
     <div class="col col-sm-5 mx-auto">
       <figure class="figure">
         <img src="{{ asset_uri }}{{ page.figure1 }}" class="figure-img img-fluid" alt="Figure 1">
-        <figcaption class="figure-caption">{{ page.caption1 | textilize }}</figcaption>
+        <figcaption class="figure-caption">{{ page.caption1 | markdownify }}</figcaption>
       </figure>
     </div>
   </div>

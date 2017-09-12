@@ -29,3 +29,8 @@ body {
 .resources .list-inline-item {
     margin-right: 7px;
 }
+
+.resources a:hover {
+    text-decoration: none;
+    color: #333;
+}
