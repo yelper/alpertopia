@@ -7,7 +7,10 @@ conf: eurovis
 bibtextype: article
 publication: Computer Graphics Forum
 authors: 
-- Alper Sarikaya 
+- Alper Sarikaya
+- Michael Correll
+- Jorge M. Dinis
+- David H. O'Connor
 - Michael Gleicher
 volume: 35
 number: 3

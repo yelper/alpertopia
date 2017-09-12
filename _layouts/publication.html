@@ -8,15 +8,12 @@ layout: default
     <div class="col">
       <h1 class="pub-title" itemprop="headline">{{ page.articletitle }}</h1>
       <p class="pub-details lead">
-          {{ page.authors | array_to_sentence_string }}. 
-          <span itemprop="name">{{ page.articletitle }}</span>. 
-          <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue" itemid="#issue">
-              <em itemprop="name">{{ page.publication }}</em>.
-              <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume" href="#periodical">
-                  <span itemprop="volumeNumber">{{ page.volume }}</span>(<span itemprop="issueNumber">{{ page.number }}</span>): 
-              </span><span itemprop="pageStart">{{ page.pagestart }}</span>&ndash;<span itemprop="pageEnd">{{ page.pageend }}</span>.
-              <span itemprop="datePublished">{{ page.datepublished | date: "%Y" }}</span>.
-          </span>
+        {{ page.authors | array_to_sentence_string }}. 
+        <span itemprop="name">{{ page.articletitle }}</span>. 
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue"><em itemprop="name">{{ page.publication }}</em>.</span>
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume"><span itemprop="volumeNumber">{{ page.volume }}</span></span>(<span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue"><span itemprop="issueNumber">{{ page.number }}</span></span>): 
+        <span itemprop="pageStart">{{ page.pagestart }}</span>&ndash;<span itemprop="pageEnd">{{ page.pageend }}</span>.
+        <span itemprop="datePublished">{{ page.datepublished | date: "%Y" }}</span>.
       </p>
     </div>
   </div>
@@ -106,12 +103,12 @@ layout: default
   </div>
 
   <div class="row justify-content-between">
-    <div class="post-content col col-sm-6" itemprop="articleBody">
+    <div class="post-content col-md-6 pb-4" itemprop="articleBody">
       {{ content }}
     </div>
-    <div class="col col-sm-5 mx-auto">
+    <div class="col-md-5 mx-auto pb-4">
       <figure class="figure">
-        <img src="{{ asset_uri }}{{ page.figure1 }}" class="figure-img img-fluid" alt="Figure 1">
+        <a href="{{ asset_uri }}{{ page.figure1 }}" alt="(click to expand)" target="_blank"><img src="{{ asset_uri }}{{ page.figure1 }}" class="figure-img img-fluid" alt="Figure 1"></a>
         <figcaption class="figure-caption">{{ page.caption1 | markdownify }}</figcaption>
       </figure>
     </div>
