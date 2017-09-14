@@ -20,6 +20,9 @@ layout: default
   <div class="row resources">
     <div class="col">
       <ul class="list-inline">
+        <li class="list-inline-item resource-title">
+          publication:
+        </li>
         {% if page.link_paperlink %}
         <li class="list-inline-item">
           <a href="{% unless page.link_paperlink contains "/" %}{{asset_uri}}{% endunless %}{{ page.link_paperlink }}" title="paper link (PDF)" target="_blank">
@@ -55,9 +58,12 @@ layout: default
       </ul>
     </div>
   </div>
-  <div class="row pb-3 resources">
+  <div class="row resources">
     <div class="col">
       <ul class="list-inline">
+        <li class="list-inline-item resource-title">
+          materials:
+        </li>
         {% if page.video_teaser %}
         <li class="list-inline-item">
           <a href="{% unless page.video_teaser contains "/" %}{{asset_uri}}{% endunless %}{{ page.video_teaser }}" title="teaser video" target="_blank">
@@ -82,6 +88,15 @@ layout: default
           </a>
         </li>
         {% endif %}
+      </ul>
+    </div>
+  </div>
+  <div class="row pb-3 resources">
+    <div class="col">
+      <ul class="list-inline">
+        <li class="list-inline-item resource-title">
+          presentation:
+        </li>
         {% if page.talk_slides %}
         <li class="list-inline-item">
           <a href="{% unless page.talk_slides contains "/" %}{{asset_uri}}{% endunless %}{{ page.talk_slides }}" title="talk slides (PDF)" target="_blank">

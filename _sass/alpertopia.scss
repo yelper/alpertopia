@@ -1,6 +1,5 @@
 /* necessary edits for sticky footer */
 html {
-    padding-top: 5rem;
     position: relative;
     min-height: 100%;
 }
@@ -8,6 +7,10 @@ body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
 }
+body.with-nav {
+    padding-top: 5rem;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
@@ -26,6 +29,10 @@ body {
     vertical-align: text-bottom;
 }
 
+.resources ul {
+    line-height: 10px;
+}
+
 .resources .list-inline-item {
     margin-right: 7px;
 }
@@ -33,4 +40,16 @@ body {
 .resources a:hover {
     text-decoration: none;
     color: #333;
+}
+
+.resources li.resource-title {
+    color: #aaa;
+    width: 90px;
+    text-align: right;
+}
+
+
+.publication-entry .publication-meta {
+    color: #aaa;
+    font-size: 0.9em;
 }

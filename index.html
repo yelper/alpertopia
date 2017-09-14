@@ -1,13 +1,79 @@
 ---
-layout: default
+layout: bare
 ---
 
-<div class="home">
+<div class="jumbotron">
+  <div class="container">
+    <h1 clas="display-3">Alper Sarikaya</h1>
+    <p>Hello there, I'm Alper!</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h3>Publications</h3>
+    </div>
+  </div>
+  {% for page in site.publications %}
+  <div class="row py-4 publication-entry">
+    <div class="col-md-2 col-sm-3">
+      <img src="{{ page.thumbnail }}" alt="{{ page.articletitle }}" class="img-fluid img-thumbnail mt-1">
+    </div>
+    <div class="col-md-10 col-sm-9">
+      <h4 class="publication-title">
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.articletitle }}</a>
+      </h4>
+      <p class="publication-meta">
+        {{ page.authors | join: ", " }}<br />
+        {{ page.publication }}{% if page.presented %} (proceedings {{ page.presented }}){% endif %}
+      </p>
+      <p class="publication-excerpt">
+        {{ page.excerpt }}
+      </p>
+      <ul class="list-inline resources">
+        {% if page.link_paperlink %}
+        <li class="list-inline-item">
+          <a href="{% unless page.link_paperlink contains "/" %}{{asset_uri}}{% endunless %}{{ page.link_paperlink }}" title="paper link (PDF)" target="_blank">
+            <span class="fa fa-file-text" aria-hidden="true"></span>
+            paper
+          </a>
+        </li>
+        {% endif %}
+        {% if page.website_project %}
+        <li class="list-inline-item">
+          <a href="{{ page.website_project }}" title="project website" target="_blank">
+            <span class="fa fa-sitemap" aria-hidden="true"></span>
+            project website (official)
+          </a>
+        </li>
+        {% endif %}
+        {% if page.doi %}
+        <li class="list-inline-item">
+          <a href="{{ page.doi | prepend: "http://dx.doi.org/" }}" title="Digital Object Identifier" target="_blank">
+            <span class="fa fa-link" aria-hidden="true"></span>
+            DOI
+          </a>
+        </li>
+        {% endif %}
+        <li class="list-inline-item pl-3">
+          <a href="{{ page.url | prepend: site.baseurl }}">
+            More details &raquo;
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+
+<!-- <div class="home">
 
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.publications %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -20,4 +86,4 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</div>
+</div> -->

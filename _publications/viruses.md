@@ -31,7 +31,7 @@ talk_video:
 
 imgteaser:
 figure1: fullproto.png
-caption1: An overall view of SIV loaded into *CooccurViewer*.  Annotations (a) denote regions of the genome that have some biological context, and the overview (b) denotes positions of significant co-occurrence, summarizing three user-controlled metrics using color. The correlation diagrams (c) provide a representation of correlation between pairs of positions, and some details (d) about metric values.  The current position's summary of correlations (e) is given on the left, with small-multiple representations.  The sliders (f) control the thresholds for the interest metrics and filters the co-occurrences shown in the visualization.
+caption1: An overall view of SIV loaded into [*CooccurViewer*]({{ page.website_project }}).  Annotations (a) denote regions of the genome that have some biological context, and the overview (b) denotes positions of significant co-occurrence, summarizing three user-controlled metrics using color. The correlation diagrams (c) provide a representation of correlation between pairs of positions, and some details (d) about metric values.  The current position's summary of correlations (e) is given on the left, with small-multiple representations.  The sliders (f) control the thresholds for the interest metrics and filters the co-occurrences shown in the visualization.
 figure2: 
 caption2: 
 
