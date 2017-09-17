@@ -29,7 +29,7 @@ website_repo: https://github.com/uwgraphics/layercake
 talk_slides: 
 talk_video: 
 
-thumbnail: 
+thumbnail: thumbnail.png
 imgteaser:
 figure1: overview.png
 caption1: |

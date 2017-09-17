@@ -26,7 +26,7 @@ website_repo: https://github.com/uwgraphics/scattertasks/
 talk_slides: 
 talk_video:
 
-thumbnail: 
+thumbnail: thumbnail.png
 imgteaser: scatterplot-header.png
 figure1: scatterplot-teaser.png
 caption1: |

@@ -28,7 +28,7 @@ website_repo:
 talk_slides: eurovis14-vvpsc-slides.pptx
 talk_video: http://vimeo.com/98439215
 
-thumbnail: 
+thumbnail: thumbnail.png
 imgteaser:
 figure1: psc-example.png
 caption1: |

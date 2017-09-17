@@ -26,7 +26,7 @@ website_repo: https://github.com/uwgraphics/splatterjs
 talk_slides: 15-DSIA-SplatterJs-talk.pdf
 talk_video:
 
-thumbnail: 
+thumbnail: thumbnail.png
 imgteaser: 
 figure1: splatter-example.png
 caption1: |

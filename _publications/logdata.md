@@ -29,7 +29,7 @@ website_repo:
 talk_slides: event_log_preprocessing.pdf
 talk_video:
 
-thumbnail: 
+thumbnail: thumbnail.png
 imgteaser: 
 figure1: fig3.png
 caption1: |

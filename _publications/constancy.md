@@ -27,7 +27,7 @@ website_repo:
 talk_slides: 16-VIS-Constancy.pdf
 talk_video:
 
-thumbnail: 
+thumbnail: thumbnail.png
 imgteaser: 
 figure1: example.png
 caption1: |

@@ -29,7 +29,7 @@ website_repo: https://github.com/uwgraphics/CooccurViewer
 talk_slides: eurovis16-cooccur-slides.pdf
 talk_video:
 
-thumbnail: 
+thumbnail: thumbnail.png
 imgteaser:
 figure1: fullproto.png
 caption1: An overall view of SIV loaded into [*CooccurViewer*](http://graphics.cs.wisc.edu/Vis/CooccurViewer/).  Annotations (a) denote regions of the genome that have some biological context, and the overview (b) denotes positions of significant co-occurrence, summarizing three user-controlled metrics using color. The correlation diagrams (c) provide a representation of correlation between pairs of positions, and some details (d) about metric values.  The current position's summary of correlations (e) is given on the left, with small-multiple representations.  The sliders (f) control the thresholds for the interest metrics and filters the co-occurrences shown in the visualization.
