@@ -4,6 +4,13 @@ layout: default
 {% capture asset_uri  %}/assets/publications/{{ page.title | downcase }}/{% endcapture %}
 
 <article class="publication container" itemscope itemtype="http://schema.org/ScholarlyArticle" >
+  {% if page.imgteaser %}
+  <div class="row pb-3">
+    <div class="col">
+      <img src="{{ asset_uri }}{{ page.imgteaser }}" alt="header teaser" class="img-fluid mx-auto">
+    </div>
+  </div>
+  {% endif %}
   <div class="row">
     <div class="col">
       <h1 class="pub-title" itemprop="headline">{{ page.articletitle }}</h1>
@@ -11,8 +18,8 @@ layout: default
         {{ page.authors | array_to_sentence_string }}. 
         <span itemprop="name">{{ page.articletitle }}</span>. 
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue"><em itemprop="name">{{ page.publication }}</em>.</span>
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume"><span itemprop="volumeNumber">{{ page.volume }}</span></span>(<span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue"><span itemprop="issueNumber">{{ page.number }}</span></span>): 
-        <span itemprop="pageStart">{{ page.pagestart }}</span>&ndash;<span itemprop="pageEnd">{{ page.pageend }}</span>.
+        {% if page.volume %}<span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume"><span itemprop="volumeNumber">{{ page.volume }}</span>{% endif %}{% if page.number %}</span>(<span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue"><span itemprop="issueNumber">{{ page.number }}</span></span>){% endif %}{% if page.pagestart %}: 
+        <span itemprop="pageStart">{{ page.pagestart }}</span>&ndash;<span itemprop="pageEnd">{{ page.pageend }}</span>{% endif %}{% if page.volume %}.{% endif %}
         <span itemprop="datePublished">{{ page.datepublished | date: "%Y" }}</span>.
       </p>
     </div>

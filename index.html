@@ -5,7 +5,9 @@ layout: bare
 <div class="jumbotron">
   <div class="container">
     <h1 clas="display-3">Alper Sarikaya</h1>
-    <p>Hello there, I'm Alper!</p>
+    <p>I build software enabling people to create data visualizations to help everyone understand large amounts of data.</p>
+    <p>I attended the <a href="https://uw.edu/" target="_blank">University of Washington</a>, and then earned a PhD from the <a href="https://wisc.edu" target="_blank">University of Wisconsin-Madison</a>.  My experience includes creating visualizations for specific biological analyses, and using visualization to summarize large amounts of data to highlight trends, patterns, and anomalies. Currently, I work as an R&amp;D engineer for Microsoft's data visualization product, <a href="https://powerbi.microsoft.com" target="_blank">Power BI</a>.</p>
+    <p>Find me on <a href="http://twitter.com/yelperalp" target="_blank">Twitter</a>, <a href="http://github.com/yelper/" target="_blank">GitHub</a>, <a href="http://www.reddit.com/user/yelper" target="_blank">Reddit</a>, and <a href="https://keybase.io/yelper" target="_blank">Keybase</a>.  <a href="assets/content/sarikaya-cv.pdf" target="_blank">My CV is available</a>, as well as statements on research and teaching on request.</p>
   </div>
 </div>
 
@@ -15,7 +17,9 @@ layout: bare
       <h3>Publications</h3>
     </div>
   </div>
-  {% for page in site.publications %}
+  {% assign sorted_pubs = site.publications | sort: 'datepublished'  | reverse %}
+  {% for page in sorted_pubs %}
+  {% capture asset_uri  %}/assets/publications/{{ page.title | downcase }}/{% endcapture %}
   <div class="row py-4 publication-entry">
     <div class="col-md-2 col-sm-3">
       <img src="{{ page.thumbnail }}" alt="{{ page.articletitle }}" class="img-fluid img-thumbnail mt-1">
@@ -26,7 +30,7 @@ layout: bare
       </h4>
       <p class="publication-meta">
         {{ page.authors | join: ", " }}<br />
-        {{ page.publication }}{% if page.presented %} (proceedings {{ page.presented }}){% endif %}
+        {{ page.publication }}{% if page.presented %} (proceedings {{ page.presented }}){% else %}, {{ page.datepublished | date: "%Y" }}{% endif %}
       </p>
       <p class="publication-excerpt">
         {{ page.excerpt }}
@@ -65,6 +69,9 @@ layout: bare
     </div>
   </div>
   {% endfor %}
+  <div class="row pt-3">
+
+  </div>
 </div>
 
 
