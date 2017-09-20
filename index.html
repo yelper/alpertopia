@@ -27,7 +27,7 @@ layout: bare
     </div>
     <div class="col-md-10 col-sm-9">
       <h4 class="publication-title">
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.articletitle }}</a>
+        <a href="{{ page.url | prepend: site.baseurl | append: ".html" }}">{{ page.articletitle }}</a>
       </h4>
       <p class="publication-meta">
         {{ page.authors | join: ", " }}<br />
@@ -62,7 +62,7 @@ layout: bare
         </li>
         {% endif %}
         <li class="list-inline-item pl-3">
-          <a href="{{ page.url | prepend: site.baseurl }}">
+          <a href="{{ page.url | prepend: site.baseurl | append: ".html" }}">
             More details &raquo;
           </a>
         </li>
@@ -74,24 +74,3 @@ layout: bare
 
   </div>
 </div>
-
-
-<!-- <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.publications %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div> -->
