@@ -18,7 +18,7 @@ email: alper@datav.is
 description: > # this means to ignore newlines until "baseurl:"
   The homepage for Alper Sarikaya, data visualizer.  Current and previous projects are detailed.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alper.datav.is/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alper.datav.is" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yelperalp
 github_username:  yelper
 
