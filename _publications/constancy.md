@@ -43,7 +43,7 @@ postdate: 2017-09-17 14:25:00 -0700
 categories: vis design-study scatterplots
 ---
 
-This project led us to ask and run empirical studies to see how perception of lightness constancy comes into play when displaying data using color on surfaces (such as [molecular surfaces](#)) that use shading to convey a sense of three-dimensional shape. 
+This project led us to ask and run empirical studies to see how perception of lightness constancy comes into play when displaying data using color on surfaces (such as [molecular surfaces]({{ site.baseurl }}{% link _publications/proteins.md %})) that use shading to convey a sense of three-dimensional shape. 
 
 Our work uses a sequential series of experiments to test the presence of lightness constancy, the effect of structural information, approximation of shadow darkening, the effect of luminance-encoded color ramps, and addition of optional shape cues (stereoscopic and suggestive contours). We provide a series of conclusions about supporting color constancy to ensure viewers obtain accurate judgments of shadowed data in computer-generated visualizations.
 

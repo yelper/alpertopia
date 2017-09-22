@@ -129,10 +129,10 @@ layout: default
       {{ content }}
     </div>
     <div class="col-md-5 mx-auto pb-4">
-      <figure class="figure">
+      {% if page.figure1 %}<figure class="figure">
         <a href="{{ asset_uri }}{{ page.figure1 }}" alt="(click to expand)" target="_blank"><img src="{{ asset_uri }}{{ page.figure1 }}" class="figure-img img-fluid" alt="Figure 1"></a>
         <figcaption class="figure-caption">{{ page.caption1 | markdownify }}</figcaption>
-      </figure>
+      </figure>{% endif %}
     </div>
   </div>
 </article>

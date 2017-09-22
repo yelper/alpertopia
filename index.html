@@ -8,7 +8,7 @@ layout: bare
     <h1 clas="display-3">Alper Sarikaya</h1>
     <p>I build software enabling people to create data visualizations in order to help everyone understand large amounts of data.</p>
     <p>I attended the <a href="https://uw.edu/" target="_blank">University of Washington</a>, and then earned a PhD from the <a href="https://wisc.edu" target="_blank">University of Wisconsin-Madison</a>.  My experience includes creating visualizations for specific biological analyses, and using visualization to summarize large amounts of data to highlight trends, patterns, and anomalies. Currently, I work as an R&amp;D engineer for Microsoft's data visualization product, <a href="https://powerbi.microsoft.com" target="_blank">Power BI</a>.</p>
-    <p>Find me on <a href="http://twitter.com/yelperalp" target="_blank">Twitter</a>, <a href="http://github.com/yelper/" target="_blank">GitHub</a>, <a href="http://www.reddit.com/user/yelper" target="_blank">Reddit</a>, and <a href="https://keybase.io/yelper" target="_blank">Keybase</a>.  <a href="assets/content/sarikaya-cv.pdf" target="_blank">My CV is available</a>, as well as statements on research and teaching on request.</p>
+    <p>Find me on <a href="http://twitter.com/yelperalp" target="_blank">Twitter</a>, <a href="http://github.com/yelper/" target="_blank">GitHub</a>, <a href="http://www.reddit.com/user/yelper" target="_blank">Reddit</a>, and <a href="https://keybase.io/yelper" target="_blank">Keybase</a>.  <a href="/assets/content/sarikaya-cv.pdf" target="_blank">My CV is available</a>, as well as statements on research and teaching on request.</p>
   </div>
 </div>
 
@@ -27,7 +27,7 @@ layout: bare
     </div>
     <div class="col-md-10 col-sm-9">
       <h4 class="publication-title">
-        <a href="{{ page.url | prepend: site.baseurl | append: ".html" }}">{{ page.articletitle }}</a>
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.articletitle }}</a>
       </h4>
       <p class="publication-meta">
         {{ page.authors | join: ", " }}<br />
@@ -62,7 +62,7 @@ layout: bare
         </li>
         {% endif %}
         <li class="list-inline-item pl-3">
-          <a href="{{ page.url | prepend: site.baseurl | append: ".html" }}">
+          <a href="{{ page.url | prepend: site.baseurl }}">
             More details &raquo;
           </a>
         </li>
