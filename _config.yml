@@ -19,8 +19,10 @@ description: > # this means to ignore newlines until "baseurl:"
   The homepage for Alper Sarikaya, data visualizer.  Current and previous projects are detailed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alper.datav.is" # the base hostname & protocol for your site, e.g. http://example.com
+authors: Alper Sarikaya
 twitter_username: yelperalp
 github_username:  yelper
+social_image_path: /assets/img/face2.jpg
 
 # Build settings
 markdown: kramdown

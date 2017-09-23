@@ -1,36 +1,40 @@
+{% capture asset_uri  %}/assets/publications/{{ page.title | downcase }}/{% endcapture %}
+{% capture desc %}{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+{% capture img %}{% if page.figure1 %}{{ site.url }}{{ asset_uri }}{{ page.figure1 }}{% else %}{{ site.url }}{{ site.social_image_path }}{% endif %}{% endcapture %}
+
 <!-- Meta -->
-<meta name="description" content="{{ site.description }}">
+<meta name="description" content="{{ desc }}">
 <meta name="author" content="{{ site.authors }}">
 
 <!-- Twitter -->
-<meta name="twitter:site" content="@{{ site.twitter }}">
-<meta name="twitter:creator" content="@{{ site.twitter }}">
+<meta name="twitter:site" content="@{{ site.twitter_username }}">
+<meta name="twitter:creator" content="@{{ site.twitter_username }}">
 
 {% if page.title %}
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ page.description }}">
-  <meta name="twitter:image" content="{{ site.url }}{{ site.social_logo_path }}">
-{% else %}
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.articletitle %}{{ page.articletitle }}{% else %}{{ page.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ desc }}">
+  <meta name="twitter:image" content="{{ img }}">
+{% else %}
+  <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ site.title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
-  <meta name="twitter:image" content="{{ site.url }}{{ site.social_image_path }}">
+  <meta name="twitter:description" content="{{ desc }}">
+  <meta name="twitter:image" content="{{ img }}">
 {% endif %}
 
 <!-- Facebook -->
 {% if page.title %}
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:title" content="{% if page.articletitle %}{{ page.articletitle }}{% else %}{{ page.title }}{% endif %}">
+  <meta property="og:description" content="{{ desc }}">
   <meta property="og:type" content="website">
 {% else %}
   <meta property="og:url" content="{{ site.url }}">
   <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:description" content="{{ desc }}">
 {% endif %}
-<meta property="og:image" content="{{ site.url | replace: 'https://', 'http://' }}{{ site.social_image_path }}">
-<meta property="og:image:secure_url" content="{{ site.url }}{{ site.social_image_path }}">
+<meta property="og:image" content="{{ img | replace: 'https://', 'http://' }}">
+<meta property="og:image:secure_url" content="{{ img }}">
 <meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<!--<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">-->
