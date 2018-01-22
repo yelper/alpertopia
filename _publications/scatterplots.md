@@ -11,10 +11,10 @@ authors:
 - Michael Gleicher
 volume: 28
 number: 1
-pagestart: 
-pageend: 
+pagestart: 402
+pageend: 412
 doi: 10.1109/TVCG.2017.2744184
-datepublished: 2018-01-01
+datepublished: 2017-08-29
 
 link_paperlink: scatterplots-preprint.pdf
 link_suppl: scatterplot-suppl.zip
@@ -23,8 +23,8 @@ video_teaser: scatterplot-paper-ff.mp4
 video_paper: 
 website_project: http://graphics.cs.wisc.edu/Vis/scattertasks/
 website_repo: https://github.com/uwgraphics/scattertasks/
-talk_slides: 
-talk_video:
+talk_slides: scatterplot-talk.pdf
+talk_video: https://vimeo.com/237972937
 
 thumbnail: thumbnail.png
 imgteaser: scatterplot-header.png
