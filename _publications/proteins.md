@@ -51,4 +51,4 @@ Understanding how the performance of a trained classifier varies over a labeled 
 
 We have developed a visualization platform to view the results of protein structural classifiers to be able to see the performance over both the entire test corpus (200+ proteins) and the protein structure.
 
-
+*This work was presented at [EuroVis 2014](http://eurovis.swansea.ac.uk/) in Swansea, Wales.*

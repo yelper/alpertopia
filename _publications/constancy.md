@@ -47,4 +47,4 @@ This project led us to ask and run empirical studies to see how perception of li
 
 Our work uses a sequential series of experiments to test the presence of lightness constancy, the effect of structural information, approximation of shadow darkening, the effect of luminance-encoded color ramps, and addition of optional shape cues (stereoscopic and suggestive contours). We provide a series of conclusions about supporting color constancy to ensure viewers obtain accurate judgments of shadowed data in computer-generated visualizations.
 
-An [early version of this work](../assets/publications/constancy/template.pdf) won SciVis best poster at IEEE Vis 2013.  This paper was presented by Danielle Szafir as an out-of-band TVCG paper at SciVis 2016.
+*An [early version of this work](../assets/publications/constancy/template.pdf) won SciVis best poster at IEEE Vis 2013.  This paper was presented by Danielle Szafir as an out-of-band TVCG paper at SciVis 2016.*

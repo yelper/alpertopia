@@ -48,3 +48,4 @@ stood as complete, irreducible units.
 While we believe that each approach has benefits for evaluating visualizations, we claim that strict adherence to one perspective or the other
 can  make  it  difficult  to  generate  a  full  evaluative  picture of visualization tools and techniques.  We argue for movement between and among these perspectives in order to generate knowledge that is both *grounded* (i.e. its constituent parts work) and *validated* (i.e. the whole operates correctly).
 
+*This paper was presented by Michael Correll at the [2014 BELIV workshop](https://beliv-workshop.github.io/2014/) co-located with [IEEE VIS 2014](http://ieeevis.org/year/2014/info/vis-welcome/welcome) in Paris, France.*

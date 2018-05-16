@@ -42,8 +42,8 @@ postdate: 2017-09-17 15:21:00 -0700
 categories: vis scatterplots implementation
 ---
 
-This work was presented at [the 1st Workshop on Data Systems for Interactive Analysis](http://www.interactive-analysis.org/year/2015/) at IEEE VIS in 2015.
-
 Implementing the [Splatterplot paradigm](http://graphics.cs.wisc.edu/Papers/2013/MG13/) for WebGL to allow for arbitrary data to be loaded into a widely-accessible prototype. A splatterplot offers higher-level judgments of data over a conventional scatterplot by trying to minimize overdraw by communicating dense regions by closed regions and KDE blurring, while also preserving potentially interesting features such as outliers. This methodology scales well in the browser for modern GPUs, and can support comparisons between multiple data series.
 
 Our preliminary publication submitted to the DSIA workshop discusses the potential benefits of utilizing WebGL and HTML5 binary scaffolds for supporting interactive visualizations and summarizations of large amounts of data in the browser.
+
+*This work was presented at the 1st Workshop on [Data Systems for Interactive Analysis](http://www.interactive-analysis.org/year/2015/) at [IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome) in Chicago, Illinois.*

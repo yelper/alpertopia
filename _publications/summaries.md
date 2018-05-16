@@ -50,4 +50,4 @@ In this paper, we take a guided approach to surveying the state of visualization
 
 The result of this process is a set of 16 themes, which collectively define a series of challenges in designing summary visualizations, and suggestions for ensuring the efficacy of new designs.
 
-*Work to be presented at <a href="http://eurovis.org/" target="_blank">EuroVis 2018</a> in Brno, Czech Republic.*
+*Work to be presented at [EuroVis 2018](http://eurovis.org/) in Brno, Czech Republic.*

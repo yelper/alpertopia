@@ -47,6 +47,6 @@ postdate: 2017-09-17 15:05:00 -0700
 categories: vis design-study taxonomy log-data
 ---
 
-This work was presented at [the Workshop on Temporal & Sequential Event Analysis](https://eventevent.github.io) at IEEE VIS in 2016.
-
 Log event data are become increasingly prevalent in analysis scenarios. In this work, we identify several common trends of noise that appear in telemetry or machine log data. We then propose multiple methods for pre-processing this data, and how these methods may integrate into the analysis workflow to help focus the analysis. We envision that these methods could be used in an iterative fashion in a future visual analytics tool and become a valuable provenance component of such visualizations.
+
+*This work was presented at the [Workshop on Temporal & Sequential Event Analysis](https://eventevent.github.io) at [IEEE VIS 2016](http://ieeevis.org/year/2016/info/vis-welcome/welcome) in Baltimore, Maryland.*

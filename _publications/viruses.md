@@ -45,3 +45,5 @@ categories: vis design-study biovis
 Our exploration of the co-occurrences of mutations in populations of viral genomes led us to propose several designs for the rapid identification of these co-occurrences. Identifying these co-occurrences is critical step to target potential therapies for fast-mutating viruses, especially those in the class of RNA viruses. Co-occurrences of mutations can indicate that the virus is successfully adapting to outside pressures, such as the host's immune system. 
 
 We present a design study that looks at the problem of identifying potentially interesting co-occurrences of events (in this case, mutations), and show both a negative example (MatrixViewer) and a positive example ([CooccurViewer](http://graphics.cs.wisc.edu/Vis/CooccurViewer/)) that helps analysts identify interesting co-occurrences.
+
+*This work was presented at [EuroVis 2016](http://www.cs.rug.nl/jbi/eurovis2016/) in Groningen, Netherlands.*

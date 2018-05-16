@@ -31,14 +31,15 @@ plugins:
   - jekyll-feed
 #  - jekyll-contentblocks
 
+permalink: /blog/:year/:month/:title/
 
 # add some custom collections
 collections:
   publications:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
 
-include: ['.htaccess']
+include: ['.htaccess','about.html']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
