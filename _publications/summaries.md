@@ -12,9 +12,9 @@ authors:
 - Danielle Albers Szafir
 volume: 37
 number: 3
-pagestart: 
-pageend: 
-doi: 
+pagestart: 145
+pageend: 156
+doi: 10.1111/cgf.13408
 datepublished: 2018-06-01
 
 link_paperlink: summaries-preprint.pdf
@@ -24,7 +24,7 @@ video_teaser:
 video_paper: 
 website_project: http://graphics.cs.wisc.edu/Vis/vis_summaries/
 website_repo: https://github.com/uwgraphics/VisualSummaries-Survey/
-talk_slides: 
+talk_slides: summaries-talk-eurovis2018.pdf
 talk_video: 
 
 thumbnail: summaries.png
@@ -50,4 +50,6 @@ In this paper, we take a guided approach to surveying the state of visualization
 
 The result of this process is a set of 16 themes, which collectively define a series of challenges in designing summary visualizations, and suggestions for ensuring the efficacy of new designs.
 
-*Work to be presented at [EuroVis 2018](http://eurovis.org/) in Brno, Czech Republic.*
+The [results of the survey are available online](http://graphics.cs.wisc.edu/Vis/vis_summaries/) using the [SurVis system](https://github.com/fabian-beck/survis).
+
+*This work was presented at [EuroVis 2018](http://eurovis.org/) in Brno, Czech Republic.*
