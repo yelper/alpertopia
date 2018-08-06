@@ -141,6 +141,10 @@ layout: default
         <a href="{{ asset_uri }}{{ page.figure1 }}" alt="(click to expand)" target="_blank"><img src="{{ asset_uri }}{{ page.figure1 }}" class="figure-img img-fluid" alt="Figure 1"></a>
         <figcaption class="figure-caption">{{ page.caption1 | markdownify }}</figcaption>
       </figure>{% endif %}
+      {% if page.figure2 %}<figure class="figure">
+        <a href="{{ asset_uri }}{{ page.figure2 }}" alt="(click to expand)" target="_blank"><img src="{{ asset_uri }}{{ page.figure2 }}" class="figure-img img-fluid" alt="Figure 2"></a>
+        <figcaption class="figure-caption">{{ page.caption2 | markdownify }}</figcaption>
+      </figure>{% endif %}
     </div>
   </div>
 </article>
