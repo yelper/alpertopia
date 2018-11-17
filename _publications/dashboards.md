@@ -14,9 +14,9 @@ authors:
 - Danyel Fisher
 volume: 29
 number: 1
-pagestart: 
-pageend: 
-doi: 
+pagestart: 682
+pageend: 692
+doi: 10.1109/TVCG.2018.2864903
 datepublished: 2019-01-30
 
 link_paperlink: dashboards-preprint.pdf
@@ -26,8 +26,8 @@ video_teaser: dashboards-ff.mp4
 video_paper: 
 website_project: 
 website_repo: 
-talk_slides: 
-talk_video: 
+talk_slides: dashboards-talk-infovis2018.pdf
+talk_video: https://vimeo.com/299862354
 
 thumbnail: thumbnail.png
 imgteaser: 
@@ -50,4 +50,4 @@ In this paper, we explore the genre of dashboards through a two-prong approach. 
 
 We call ourselves the "dashboard conspiracy:" a truly diverse collection of authors across Tableau Research, Microsoft Research, and Simon Fraiser University.
 
-*This work will be presented at [IEEE VIS 2018](http://ieeevis.org/year/2018/welcome) in Berlin, Germany.*
+*This work was presented at [IEEE VIS 2018](http://ieeevis.org/year/2018/welcome) in Berlin, Germany.*
