@@ -51,3 +51,5 @@ In this paper, we explore the genre of dashboards through a two-prong approach. 
 We call ourselves the "dashboard conspiracy:" a truly diverse collection of authors across Tableau Research, Microsoft Research, and Simon Fraiser University.
 
 *This work was presented at [IEEE VIS 2018](http://ieeevis.org/year/2018/welcome) in Berlin, Germany.*
+
+*This work was discussed in an half-hour datastori.es podcast, [give it a listen](https://datastori.es/135-the-dashboard-conspiracy-with-lyn-bartram-and-alper-sarikaya/)!*
