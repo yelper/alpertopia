@@ -2,7 +2,7 @@ on: push
 name: Publish Website
 jobs:
   deploy_website:
-    name: FTP-Deploy-Action
+    name: Deploy the darned thing
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
