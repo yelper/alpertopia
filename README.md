@@ -1,6 +1,10 @@
 # alpertopia
 Jekyll-driven homepage
 
+### Automatic deployment
+
+Yey GitHub Actions!  See the [main.yml](.github/workflows/main.yml) file for what it does.
+
 ### Installation instructions (Windows)
 
 1. Get Ruby using [RubyInstaller](https://rubyinstaller.org/downloads/); Ruby 2.4 or better is recommended
