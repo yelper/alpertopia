@@ -3,6 +3,8 @@ Jekyll-driven homepage
 
 ### Automatic deployment
 
+![](https://github.com/yelper/alpertopia/workflows/Publish%20Website/badge.svg) 
+
 Yey GitHub Actions!  See the [main.yml](.github/workflows/main.yml) file for what it does.
 
 ### Installation instructions (Windows)
