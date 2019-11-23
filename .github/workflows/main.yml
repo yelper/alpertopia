@@ -1,0 +1,20 @@
+on: push
+name: Publish Website
+jobs:
+  deploy_website:
+    name: Deploy the darned thing
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Jekyll build
+      uses: gha-utilities/jekyll-build@v0.0.1
+      with:
+        destination: ~/site
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@2.0.0
+      env:
+        FTP_SERVER: s52592.gridserver.com
+        FTP_USERNAME: deploy@alper.datav.is
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        LOCAL_DIR: ~/site
+        REMOTE_DIR: html
