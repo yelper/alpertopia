@@ -43,6 +43,18 @@ body.with-nav {
     margin-right: 5px;
 }
 
+.future-card {
+    a, a:hover { 
+        color: #666;
+    }
+
+    .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        user-select: none;
+    }
+}
+
 .resources ul {
     line-height: 10px;
 }

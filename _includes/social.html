@@ -1,6 +1,6 @@
 {% capture asset_uri  %}/assets/publications/{{ page.title | downcase }}/{% endcapture %}
 {% capture desc %}{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
-{% capture img %}{% if page.figure1 %}{{ site.url }}{{ asset_uri }}{{ page.figure1 }}{% else %}{{ site.url }}{{ site.social_image_path }}{% endif %}{% endcapture %}
+{% capture img %}{% if page.figure1 %}{{ site.url }}{{ asset_uri }}{{ page.figure1 }}{% elsif page.teaser %}{{ site.url }}/assets/img/{{ page.teaser }}{% else %}{{ site.url }}{{ site.social_image_path }}{% endif %}{% endcapture %}
 
 <!-- Meta -->
 <meta name="description" content="{{ desc }}">

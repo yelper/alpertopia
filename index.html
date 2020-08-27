@@ -14,7 +14,48 @@ layout: bare
 </div>
 
 <div class="container">
-  <div class="row">
+  <div class="row my-3">
+    <h3>Blog posts</h3>
+  </div>
+  <div class="row row-cols-1 row-cols-md-3">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse | slice: 0, 3 %}
+    {% for post in sorted_posts %}
+    <div class="col mb-4">
+      <div class="card">
+        <a href="{{ post.url }}"">
+          <img src="/assets/img/{{ post.teaser }}" class="card-img-top" alt="...">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+          <p class="card-text">{{ post.excerpt }}</p>
+          <p class="card-text"><small class="text-muted">{{ post.date | date_to_long_string }}</small></p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    <!-- remove placeholders when adding more posts -->
+    <div class="col mb-4">
+      <div class="card future-card">
+        <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Future post</title><rect width="100%" height="100%" fill="#868e96"></rect><text x="50%" y="50%" fill="#dee2e6" dy=".3em">... future post ...</text></svg>
+        <div class="card-body">
+          <h5 class="card-title"><a href="#">Future post</a></h5>
+          <p class="card-text"></p>
+          <p class="card-text"><small class="text-muted"></small></p>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-4">
+      <div class="card future-card">
+        <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Future post</title><rect width="100%" height="100%" fill="#868e96"></rect><text x="50%" y="50%" fill="#dee2e6" dy=".3em">... future post ...</text></svg>
+        <div class="card-body">
+          <h5 class="card-title"><a href="#">Future post</a></h5>
+          <p class="card-text"></p>
+          <p class="card-text"><small class="text-muted"></small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row mt-5">
     <div class="col">
       <h3>Publications</h3>
     </div>

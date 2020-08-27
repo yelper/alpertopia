@@ -7,7 +7,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Jekyll build
-      uses: gha-utilities/jekyll-build@v0.0.1
+      uses: gha-utilities/jekyll-build@v0.0.4
       with:
         destination: ~/site
     - name: FTP-Deploy-Action
