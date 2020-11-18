@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Making the IEEE VIS Conference Virtual"
-date:   2020-11-14 12:30:00 -0800
+title: "Making the IEEE VIS Conference Virtual"
+date: 2020-11-18 08:20:00 -0800
 categories: vis ieeevis
 teaser: virtual-vis/teaser.png
 excerpt: "A little write-up of how we built the IEEE VIS virtual website experience."
@@ -232,7 +232,7 @@ We had something on the order of 100 channels on Discord.  While we create a Dis
 
 With so many channels, it seemed to be hard for a non-author (e.g., typical conference attendee) to serendipitously meet others.  Typical session channels were very dynamic, but very quickly died down after the live presentations ended.  VIS is bolstered by its many nighttime parties, and those ancillary events using tools such as [gather.town](http://gather.town) or [Remo](https://remo.co/) seemed to help with promoting serendipitous interactions.  Due to time, we did not use these tools as first-party tools for building community.
 
-We'd be interested in hearing how other conference organizers have dealt with trying to support building community, both between established members and newcomers.
+We'd be interested in hearing how other conference organizers have dealt with trying to support building community, both between established members and newcomers.  Perhaps the use of forum software to catalog discussions per-paper or session?
 
 **Paper browsing**
 
