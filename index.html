@@ -16,7 +16,7 @@ layout: bare
 <div class="container">
   <div class="row my-3">
     <div class="col-md-12">
-      <h3>Blog posts</h3>
+      <h3><a href="/blog"">Blog posts →</a></h3>
     </div>
   </div>
   <div class="row row-cols-1 row-cols-md-3">
@@ -25,7 +25,7 @@ layout: bare
     <div class="col mb-4">
       <div class="card">
         <a href="{{ post.url }}"">
-          <img src="/assets/img/{{ post.teaser }}" class="card-img-top" alt="...">
+          <img src="/assets/img/{{ post.teaser }}" class="card-img-top" alt="Teaser image for this blog post">
         </a>
         <div class="card-body">
           <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
@@ -35,6 +35,11 @@ layout: bare
       </div>
     </div>
     {% endfor %}
+  </div>
+  <div class="row mt-2">
+    <div class="col-md-6">
+      <a href="/blog">More posts ({{ site.posts | size }} total) &raquo;</a>
+    </div>
   </div>
   <div class="row mt-5">
     <div class="col">

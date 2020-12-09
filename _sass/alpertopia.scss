@@ -11,6 +11,10 @@ body.with-nav {
     padding-top: 5rem;
 }
 
+h1, h2 {
+    scroll-margin-top: 4rem;
+}
+
 .jumbotron {
     border-radius: 0;
     .container {
@@ -44,7 +48,7 @@ body.with-nav {
 }
 
 .future-card {
-    a, a:hover { 
+    a, a:hover {
         color: #666;
     }
 
