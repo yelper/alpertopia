@@ -10,10 +10,10 @@ title: Alper's blog index
 </div>
 {% for post in site.posts %}
 <div class="row my-3">
-  <div class="col-md-3">
+  <div class="col-lg-3 col-md-4 mb-3">
     <img class="img-fluid" src="/assets/img/{{ post.teaser }}" alt="Teaser image for this blog post.">
   </div>
-  <div class="col-md-6">
+  <div class="col-lg-6 col-md-8">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p class="text-muted">{{ post.date | date_to_long_string }}</p>
     <p>{{ post.excerpt }}</p>

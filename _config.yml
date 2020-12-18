@@ -39,7 +39,7 @@ collections:
     output: true
     permalink: /:collection/:name/
 
-include: ['.htaccess','about.html']
+include: ['.htaccess']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
