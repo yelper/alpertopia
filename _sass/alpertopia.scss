@@ -82,3 +82,10 @@ h1, h2 {
     color: #aaa;
     font-size: 0.9em;
 }
+
+/** post-specific styling */
+article {
+    ul li {
+        margin-bottom: 0.5rem;
+    }
+}
