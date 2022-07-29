@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A data visualization reading list"
-date: 2022-07-06 16:00:00 -0800
+date: 2022-08-06 16:00:00 -0800
 categories: vis
 teaser: TBD
 excerpt: "Capturing the historical context and current state-of-the-art of the discipline"
