@@ -7,7 +7,7 @@ layout: bare
     <img src="assets/img/face2.jpg" alt="Alper Sarikaya's smiling mug" class="rounded float-left mr-4 mb-2" >
     <h1 clas="display-3">Alper Sarikaya</h1>
     <p>I build software enabling people to create data visualizations in order to help <strong>everyone</strong> make sense of large amounts of data.</p>
-    <p>I attended the <a href="https://uw.edu/" target="_blank">University of Washington</a>, and then earned a PhD from the <a href="https://wisc.edu" target="_blank">University of Wisconsin-Madison</a>.  My experience includes creating visualizations for biological analyses and using visualization to summarize large amounts of data to highlight trends, patterns, and anomalies. Currently, I work as an R&amp;D engineer for Microsoft's data visualization product, <a href="https://powerbi.microsoft.com" target="_blank">Power BI</a>.</p>
+    <p>I attended the <a href="https://uw.edu/" target="_blank">University of Washington</a>, and then earned a PhD from the <a href="https://wisc.edu" target="_blank">University of Wisconsin-Madison</a>.  My experience includes creating visualizations for biological analyses and using visualization to summarize large amounts of data to highlight trends, patterns, and anomalies. Currently, I work as an senior R&amp;D software engineer for Microsoft's data visualization product: <a href="https://powerbi.microsoft.com" target="_blank">Power BI</a>.</p>
     <p>Find me on <a href="http://twitter.com/yelperalp" target="_blank">Twitter</a>, <a href="http://github.com/yelper/" target="_blank">GitHub</a>, <a href="http://www.reddit.com/user/yelper" target="_blank">Reddit</a>, and <a href="https://keybase.io/yelper" target="_blank">Keybase</a>.  <a href="/assets/content/sarikaya-cv.pdf" target="_blank">My CV is available</a>, as well as statements on research and teaching on request.</p>
     <p><i class="fa fa-info-circle inline-icon"></i>  <a href="/about/">More details &raquo;</a></p>
   </div>
@@ -20,7 +20,9 @@ layout: bare
     </div>
   </div>
   <div class="row row-cols-1 row-cols-md-3">
-    {% assign sorted_posts = site.posts | sort: 'date' | reverse | slice: 0, 3 %}
+    {% assign w_posts = site.posts | where_exp: 'post', 'post.categories contains "vis"' %}
+    {% assign p_posts = site.posts | where_exp: 'post', 'post.categories contains "personal"' %}
+    {% assign sorted_posts = w_posts | sort: 'date' | reverse | slice: 0, 3 %}
     {% for post in sorted_posts %}
     <div class="col mb-4">
       <div class="card">
@@ -38,7 +40,7 @@ layout: bare
   </div>
   <div class="row mt-2">
     <div class="col-md-6">
-      <a href="/blog">More posts ({{ site.posts | size }} total) &raquo;</a>
+      <a href="/blog">More posts ({{ site.posts | size }} total, including {{ p_posts | size }} personal posts) &raquo;</a>
     </div>
   </div>
   <div class="row mt-5">

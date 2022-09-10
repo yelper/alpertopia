@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making the IEEE VIS Conference Virtual"
+title: "Making Virtual IEEE VIS"
 date: 2020-11-18 08:20:00 -0800
 categories: vis ieeevis
 teaser: virtual-vis/teaser.png
