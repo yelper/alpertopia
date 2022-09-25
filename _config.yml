@@ -39,6 +39,18 @@ collections:
     output: true
     permalink: /:collection/:name/
 
+  receipes:
+    output: true
+    permalink: /:collection/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "receipes"
+    values:
+      layout: "receipes"
+
+
 include: ['.htaccess']
 
 # Exclude from processing.
