@@ -1,0 +1,88 @@
+Date,Appointment,Virtual,Outcome,Provider,Type
+6/8/2021,Ultrasound,,No natal heartbeat,Specialist,OB/GYN
+6/8/2021,Consult,Yes,Plan,HMO,PCP
+6/11/2021,D&E,,,Specialist,OB/GYN
+7/7/2021,Ultrasound,,Observation,HMO,OB/GYN
+9/27/2022,Ultrasound,,Observation,HMO,OB/GYN
+10/5/2021,Ultrasound,,"Observation, treatment plan",HMO,OB/GYN
+11/2/2021,Preop,,,HMO,OB/GYN
+11/5/2021,COVID test,,,HMO,Lab
+11/8/2021,Surgery (arthroscopic),,Ovary excised,HMO,OB/GYN surgeon
+11/12/2021,Urgent care,,Diagnosis of postop pneumonia,HMO,Urgent Care
+11/23/2021,Postop,Yes,"Cancer confirmed, referral",HMO,OB/GYN
+11/29/2021,Surgery consult,,Surgery required,Specialist,OB/GYN
+12/9/2021,X-ray,,Pneunomia cleared,HMO,PCP
+12/20/2021,CT,,Surgery plan,Specialist,OB/GYN surgeon
+12/26/2021,COVID test,,,Specialist,Lab
+12/28/2021,Surgery (arthroscopic),,"Appendix excised, biopsy collected",Specialist,OB/GYN surgeon
+1/13/2022,Postop,Yes,Cleared,Specialist,OB/GYN
+1/20/2022,Consult,Yes,,HMO,Gastroenterology
+3/1/2022,Colonoscopy,,Cleared,HMO,Gastroenterology
+3/30/2022,Ultrasound,,Observation,Specialist,OB/GYN
+5/3/2022,Consult,,Breast evaluation,HMO,PCP
+5/10/2022,Ultrasound,,Mass identified,HMO,Women's center
+5/11/2022,Consult,,,HMO,Geneticist
+5/13/2022,Biopsy,,Cancer confirmed,HMO,Women's center
+5/26/2022,Consult,,Breast cancer treatment plan,HMO,General surgery
+5/26/2022,Consult,,Breast cancer treatment plan,HMO,Plastic surgery
+5/26/2022,Consult,,Breast cancer treatment plan,HMO,Social Worker
+5/26/2022,Consult,,Breast cancer treatment plan,HMO,Radiology
+5/26/2022,Consult,,Breast cancer treatment plan,HMO,Geneticist
+5/26/2022,Consult,,Breast cancer treatment plan,HMO,Oncology
+5/26/2022,Consult,,Breast cancer treatment plan,HMO,Hematology
+5/30/2022,MRI,,Surgery plan,HMO,General surgery
+6/2/2022,Consult,,Planning,HMO,Plastic surgery
+6/3/2022,Consult,Yes,Surgery plan,HMO,General surgery
+6/7/2022,Consult,Yes,,HMO,Geneticist
+6/9/2022,CT,,Surgery plan,HMO,General surgery
+6/9/2022,Bone scan,,Cleared,HMO,Radiology
+6/10/2022,Surgery (mascetomy),,Breast removed,HMO,General surgery
+6/17/2022,Postop,,,HMO,General surgery
+6/20/2022,Postop,,,HMO,General surgery
+7/1/2022,Consult,Yes,,HMO,Physical therapy
+7/8/2022,Consult,,Treatment plan,HMO,Oncology
+7/14/2022,Consult,,,HMO,Radiology
+7/14/2022,Consult,,,HMO,Physical therapy
+7/27/2022,Radiation,,,HMO,Radiology
+7/28/2022,Radiation,,,HMO,Radiology
+7/29/2022,Radiation,,,HMO,Radiology
+8/1/2022,Radiation,,,HMO,Radiology
+8/2/2022,Radiation,,,HMO,Radiology
+8/3/2022,Radiation,,,HMO,Radiology
+8/4/2022,Radiation,,,HMO,Radiology
+8/5/2022,Radiation,,,HMO,Radiology
+8/8/2022,Radiation,,,HMO,Radiology
+8/9/2022,Radiation,,,HMO,Radiology
+8/10/2022,Radiation,,,HMO,Radiology
+8/11/2022,Radiation,,,HMO,Radiology
+8/12/2022,Radiation,,,HMO,Radiology
+8/15/2022,Radiation,,,HMO,Radiology
+8/16/2022,Radiation,,,HMO,Radiology
+8/17/2022,Radiation,,,HMO,Radiology
+8/18/2022,Radiation,,,HMO,Radiology
+8/19/2022,Radiation,,,HMO,Radiology
+8/22/2022,Radiation,,,HMO,Radiology
+8/23/2022,Radiation,,,HMO,Radiology
+8/24/2022,Radiation,,,HMO,Radiology
+8/25/2022,Radiation,,,HMO,Radiology
+8/26/2022,Radiation,,,HMO,Radiology
+8/29/2022,Ultrasound,,Observation,Specialist,OB/GYN
+8/29/2022,Radiation,,,HMO,Radiology
+8/30/2022,Radiation,,,HMO,Radiology
+8/31/2022,Radiation,,,HMO,Radiology
+9/1/2022,Radiation,,,HMO,Radiology
+9/2/2022,Radiation,,,HMO,Radiology
+9/6/2022,Radiation,,,HMO,Radiology
+9/7/2022,Radiation,,,HMO,Radiology
+9/8/2022,Radiation,,,HMO,Radiology
+9/9/2022,Radiation,,,HMO,Radiology
+9/12/2022,Radiation,,,HMO,Radiology
+10/4/2022,Consult,,Treatment plan,HMO,Oncology
+10/7/2022,Consult,,,HMO,PCP
+11/3/2022,Consult,,,HMO,Physical therapy
+11/16/2022,Consult,,Second opinion,SCCA,Oncology
+11/18/2022,Consult,,,HMO,Audiology
+11/21/2022,Consult,,,HMO,ENT
+11/29/2022,Ultrasound,,Observation,Specialist,OB/GYN
+12/14/2022,Consult,Yes,FMLA,HMO,PCP
+12/16/2022,Consult,,,HMO,Physical therapy
