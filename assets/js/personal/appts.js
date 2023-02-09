@@ -1,6 +1,7 @@
 
 const formatTime = d3.timeParse("%m/%d/%Y");
 
+
 // with thanks to <https://observablehq.com/@d3/calendar>
 function calendar(data) {
     window.data = data;
@@ -25,9 +26,10 @@ function calendar(data) {
     const y = d3.map(allDates, d => d.data);
     const ind = d3.range(x.length)
 
+    const niceDate = d3.timeFormat("%B %_d, %Y");
     const titles = d3.map(allDates, d => {
         if (d.data == null) return;
-        let name = d3.timeFormat("%B %_d, %Y")(d.date);
+        let name = niceDate(d.date);
 
         for (const datum of (d.data || [])) {
             name += `\n${datum.type}${datum.outcome ? `: ${datum.outcome.toLowerCase()}` : ''} (${datum.doc} at ${datum.provider})`;
@@ -39,47 +41,113 @@ function calendar(data) {
     // #5F4690,#1D6996,#38A6A5,#0F8554,#73AF48,#EDAD08,#E17C05,#CC503E,#94346E,#6F4070,#994E95,#666666
     const typeCategoryMap = {
         '(none)': 'lightgray',
+        '(unknown)': 'white',
         'Multiple': 'black',
         'Consult': '#0F8554',
         'Pre/postop': '#EDAD08',
         'Imaging': '#5F4690',
-        'Surgery': '#E17C05',
-        'Radiation': '#94346E',
+        'Surgery': '#94346E',
+        'Radiation': '#E17C05',
     }
-    const color = i => {
+    const typeCategory = i => {
         const d = y[i];
-        if (d == null) return 'lightgray';
-        if (d.length > 1) return 'black';
+        return datumCategory(d);
+    };
+
+    const datumCategory = d => {
+        if (d == null) return '(none)';
+        if (d.length > 1) return 'Multiple';
 
         switch(d[0].type) {
             case 'Consult':
             case 'Surgery consult':
             case 'COVID test':
-                return '#0F8554';
+                return 'Consult';
             case 'Preop':
             case 'Postop':
-                return '#EDAD08';
+                return 'Pre/postop';
             case 'Ultrasound':
             case 'X-ray':
             case 'CT':
             case 'MRI':
             case 'Bone scan':
-                return '#5F4690';
+                return 'Imaging';
             case 'Surgery (arthroscopic)':
             case 'Surgery (mascetomy)':
             case 'D&E':
             case 'Colonoscopy':
             case 'Biopsy':
             case 'Urgent care':
-                return '#E17C05';
+                return 'Surgery';
             case 'Radiation':
-                return '#94346E';
+                return 'Radiation';
             default:
-                return 'white';
+                return '(unknown)';
         }
     }
 
+    const tooltips = d3.map(allDates, d => {
+        if (d.data == null) return;
+
+        let tip = `
+            <span style="font-weight: 700;">${niceDate(d.date)}</span><br>
+            <p style="margin: 5px;"><div style="display: inline-block; width: 15px; height: 15px; background-color: ${typeCategoryMap[datumCategory(d.data)]};"></div> ${datumCategory(d.data)}</p>`;
+
+        for (const datum of (d.data || [])) {
+            tip += `${datum.type}${datum.outcome ? `: ${datum.outcome.toLowerCase()}` : ''} (${datum.doc} at ${datum.provider})<br>`;
+        }
+        return tip;
+    });
+    const toolipContent = i => tooltips[i];
+
     const years = d3.groups(ind, i => x[i].getUTCFullYear());
+
+    const svg = d3.select('#svg')
+        .attr('width', width)
+        .attr('height', height * years.length)
+        .attr('viewBox', [0, 0, width, height * years.length])
+        .attr('style', `height: auto; position: sticky; top: 50px; left: 0; right: ${width}`)
+        .attr('font-size', 10);
+    svg.append('rect')
+        .attr('width', width)
+        .attr('height', height * years.length)
+        .style('fill', 'white');
+
+    // <https://d3-graph-gallery.com/graph/interactivity_tooltip.html>
+    const tooltip = d3.select("body")
+        .append('div')
+            .attr('id', 'tooltip')
+            .style('opacity', 0)
+            .attr('class', 'tooltip')
+            .style('background-color', 'white')
+            .style('border', 'solid')
+            .style('border-width', '2px')
+            .style('border-radius', '5px')
+            .style('padding', '5px');
+
+    const tooltipOver = function(_event, i) {
+        if (y[i] == null) return;
+        tooltip.style('opacity', 1);
+        d3.select(this)
+            .style('z-index', 33)
+            .style('stroke', 'black')
+            .style('stroke-width', 2);
+    }
+
+    const tooltipMove = function(event, i) {
+        if (y[i] == null) return;
+        const mouseCoord = d3.pointer(event, svg);
+        tooltip.html(toolipContent(i))
+            .style('left', `${mouseCoord[0] + 10}px`)
+            .style('top', `${mouseCoord[1] + 5}px`);
+    }
+
+    const tooltipOut = function(_event) {
+        tooltip.style('opacity', 0);
+        d3.select(this)
+            .style('stroke', null)
+            .style('z-index', null);
+    }
 
     function pathMonth(t) {
         const d = countDay(t.getUTCDay());
@@ -88,13 +156,6 @@ function calendar(data) {
             : d === weekDays ? `M${(w + 1) * cellSize},0`
             : `M${(w + 1) * cellSize},0V${d * cellSize}H${w * cellSize}`}V${weekDays * cellSize}`;
     }
-
-    const svg = d3.select('#svg')
-        .attr('width', width)
-        .attr('height', height * years.length)
-        .attr('viewBox', [0, 0, width, height * years.length])
-        .attr('style', `height: auto; position: absolute; left: 0; right: ${width}`)
-        .attr('font-size', 10);
 
     const year = svg.selectAll('g')
         .data(years)
@@ -126,9 +187,11 @@ function calendar(data) {
             .attr('height', cellSize - 1)
             .attr('x', i => timeWeek.count(d3.utcYear(x[i]), x[i]) * cellSize + 0.5)
             .attr('y', i => countDay(x[i].getUTCDay()) * cellSize + 0.5)
-            .attr('fill', color)
-            .append('title')
-                .text(title);
+            .attr('fill', i => typeCategoryMap[typeCategory(i)])
+            .style('cursor', i => typeCategory(i) === '(none)' ? 'auto' : 'pointer')
+            .on('pointerover', tooltipOver)
+            .on('pointermove', tooltipMove)
+            .on('pointerout', tooltipOut);
 
     const month = year.append('g')
         .selectAll('g')
