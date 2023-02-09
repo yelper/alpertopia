@@ -1,17 +1,17 @@
 ---
 title: Cranberry-Walnut Oatmeal
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 4
 prep_time: 10
 cook_time: 5
 reference: https://www.tasteofhome.com/recipes/cranberry-walnut-oatmeal/
 ingredients:
 - slug: water
-  amount: 3 1/2 cups
+  amount: 3 1/2 C
 - slug: salt
   amount: 1/4 tsp
 - slug: quick-cooking oats
-  amount: 2 cups
+  amount: 2 C
 - slug: sugar
   amount: 2 tbsp
 - slug: vanilla extract
@@ -19,9 +19,9 @@ ingredients:
 - slug: cinnamon-sugar
   amount: 2 tsp
 - slug: dried cranberries
-  amount: 1 cup
+  amount: 1 C
 - slug: walnuts
-  amount: 1/4 cup
+  amount: 1/4 C
   notes: chopped and toasted
 
 ---

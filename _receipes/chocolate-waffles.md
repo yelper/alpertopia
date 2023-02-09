@@ -1,17 +1,17 @@
 ---
 title: Chocolate Waffles
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 8
 prep_time: 10
 cook_time: 20
 reference: https://thesaltymarshmallow.com/perfect-chocolate-waffles/
 ingredients:
 - slug: all-purpose flour
-  amount: 2 1/4 cups
+  amount: 2 1/4 C
 - slug: cocoa powder
-  amount: 1/2 cup
+  amount: 1/2 C
 - slug: sugar
-  amount: 1/3 cup
+  amount: 1/3 C
 - slug: baking powder
   amount: 2 tsp
 - slug: baking soda
@@ -24,11 +24,11 @@ ingredients:
   amount: 2
   notes: separated
 - slug: vegatable oil or applesauce
-  amount: 1/2 cup
+  amount: 1/2 C
 - slug: milk
-  amount: 1 1/2 cups
+  amount: 1 1/2 C
 - slug: coffee
-  amount: 1/2 cup
+  amount: 1/2 C
 - slug: vanilla extract
   amount: 1 tsp
 

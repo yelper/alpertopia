@@ -1,6 +1,6 @@
 ---
 title: Christmas Peaches and Cream French Toast
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 6
 prep_time: 20
 cook_time: 60
@@ -12,21 +12,21 @@ ingredients:
 - slug: large eggs
   amount: 8
 - slug: whole milk
-  amount: 2 cups
+  amount: 2 C
 - slug: sugar
-  amount: 1/4 cup
+  amount: 1/4 C
 - slug: vanilla extract
   amount: 1 tsp
 - slug: sliced peaches
   amount: 2 15 oz cans
   notes: drained
 - slug: dark brown sugar
-  amount: 1/2 cup
+  amount: 1/2 C
   notes: packed
 - slug: cinnamon
   amount: 1/2 tsp
 - slug: heavy cream
-  amount: 1/2 cup
+  amount: 1/2 C
 
 ---
 

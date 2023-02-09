@@ -1,13 +1,13 @@
 ---
 title: Carne Asada Hash
-categories: [breakfast, beef]
+categories: [breakfast]
 servings: 2
 prep_time: 10
 cook_time: 20
 reference: https://www.macheesmo.com/carne-asada-hash/
 ingredients:
-- slug: 8 oz
-  amount: steak
+- slug: steak
+  amount: 8 oz
   notes: cubed, sirloin or flank
 - slug: all-purpose spice rub
   amount: 1 tbsp
@@ -32,8 +32,9 @@ ingredients:
   amount: 2
   notes: over-easy or poached
 - slug: salt and pepper
+  notes: to taste
 - slug: chives
-  amount: garnish
+  notes: for garnish
 
 ---
 

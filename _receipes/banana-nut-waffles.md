@@ -1,13 +1,13 @@
 ---
 title: Banana Nut Waffles
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 4
 prep_time: 10
 cook_time: 10
 reference: https://cookieandkate.com/2013/banana-nut-waffles/
 ingredients:
 - slug: whole-wheat flour
-  amount: 1 1/2 cup
+  amount: 1 1/2 C
 - slug: brown sugar (or normal)
   amount: 2 tbsp
 - slug: baking powder
@@ -17,17 +17,18 @@ ingredients:
   amount: 1/2 tsp
 - slug: nutmeg
   amount: 1/4 tsp
+  notes: ground
 - slug: pecans
-  amount: 3/4 cup
+  amount: 3/4 C
   notes: chopped
 - slug: coconut oil
-  amount: 1/3 cup
+  amount: 1/3 C
   notes: melted
 - slug: milk
-  amount: 3/4 cup
+  amount: 3/4 C
   notes: lukewarm
 - slug: very ripe bananas
-  amount: 3/4 cup
+  amount: 3/4 C
   notes: mashed
 - slug: large egg
   amount: 1

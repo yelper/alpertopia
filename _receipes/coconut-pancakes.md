@@ -1,32 +1,32 @@
 ---
 title: Chocolate Chip Pancakes with Toasted Coconut
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 4
 prep_time: 20
 cook_time: 20
 reference: https://www.foodabovegold.com/chocolate-chip-pancakes/
 ingredients:
 - slug: all-purpose flour
-  amount: 1 1/2 cups
+  amount: 1 1/2 C
 - slug: baking powder
-  amount: 5 tsp (??)
+  amount: 5 tsp
 - slug: salt
   amount: 1 tbsp
 - slug: sugar
   amount: 1 tbsp
 - slug: shredded coconut
-  amount: 1 cup
+  amount: 1 C
 - slug: mini chocolate chips
-  amount: 3/4 cup
+  amount: 3/4 C
 - slug: egg
   amount: 1
 - slug: milk
-  amount: 1 1/2 cups
+  amount: 1 1/2 C
 - slug: butter
   amount: 3 tbsp
   notes: melted
 - slug: heavy whipping cream
-  amount: 1 cup
+  amount: 1 C
 - slug: sugar
   amount: 1 tsp
   notes: for cream

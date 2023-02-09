@@ -1,19 +1,19 @@
 ---
 title: Pigs in a Blanket
-categories: [breakfast, pork]
+categories: [breakfast]
 servings: 4
 prep_time: 20
 cook_time: 10
 reference: https://www.splendidtable.org/story/2016/04/15/pigs-in-a-blanket
 ingredients:
 - slug: all-purpose flour
-  amount: 1 cup
+  amount: 1 C
 - slug: light brown sugar
   amount: 2 tsp
 - slug: salt
   amount: 1/2 tsp
 - slug: whole milk
-  amount: 1 cup
+  amount: 1 C
 - slug: egg
   amount: 1
 - slug: vanilla extract

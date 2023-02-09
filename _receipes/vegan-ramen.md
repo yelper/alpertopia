@@ -1,19 +1,19 @@
 ---
 title: Creamy Vegan Ramen
-categories: [breakfast, veggie]
+categories: [vegan, soup]
 servings: 4
 prep_time: 20
 cook_time: 20
 reference: https://www.forksoverknives.com/recipes/vegan-soups-stews/creamy-vegan-ramen/
 ingredients:
 - slug: trumpet mushrooms
-  amount: 2 cups
+  amount: 2 C
   notes: thinly sliced
 - slug: shiitake mushrooms
-  amount: 3 (1 cup)
+  amount: 3 (1 C)
   notes: stemmed and cut into thin strips
 - slug: onion
-  amount: 1/2 cup
+  amount: 1/2 C
   notes: thinly sliced
 - slug: garlic
   amount: 6 cloves
@@ -22,31 +22,31 @@ ingredients:
   amount: 1 tbsp
   notes: grated
 - slug: vegetable broth
-  amount: 4 cups
+  amount: 4 C
 - slug: sweet potato
-  amount: 1 (2 cups)
+  amount: 1 (2 C)
   notes: cut into 1-inch pieces
 - slug: carrots
-  amount: 1 cup
+  amount: 1 C
   notes: thinly sliced
 - slug: dry ramen noodles
   amount: 6 oz.
 - slug: unsweetened plant-based milk
-  amount: 1 cup
+  amount: 1 C
 - slug: yellow miso paste
   amount: 3 tbsp
 - slug: firm tofu
   amount: 12 oz.
   notes: cut into 3/4 inch cubes
 - slug: sugar snap peas
-  amount: 1 cup
+  amount: 1 C
   notes: halved
 - slug: brown rice vinegar
   amount: 1 tbsp
 - slug: scallions
-  amount: 1/4 cup
+  amount: 1/4 C
   notes: thinly sliced
-- slug: toated nori
+- slug: toasted nori
   amount: 1/4 sheet
   notes: thinly sliced
 - slug: togarashi seasoning

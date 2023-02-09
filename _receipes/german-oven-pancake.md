@@ -1,6 +1,6 @@
 ---
 title: German Oven Pancake
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 4
 prep_time: 5
 cook_time: 12

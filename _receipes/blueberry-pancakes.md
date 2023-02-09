@@ -1,17 +1,17 @@
 ---
 title: Blueberry Pancakes
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 2
 prep_time: 10
 cook_time: 10
 reference: https://pinchofyum.com/fluffiest-blueberry-pancakes
 ingredients:
 - slug: milk
-  amount: 3/4 cup
+  amount: 3/4 C
 - slug: white vinegar
   amount: 2 tbsp
 - slug: flour
-  amount: 1 cup
+  amount: 1 C
 - slug: sugar
   amount: 2 tbsp
 - slug: baking powder
@@ -25,8 +25,9 @@ ingredients:
 - slug: butter
   amount: 2 tbsp
   notes: melted
-- slug: fresh blueberries
-  amount: 1+ cup
+- slug: blueberries
+  amount: 1+ C
+  notes: fresh
 
 ---
 

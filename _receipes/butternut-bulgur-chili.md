@@ -1,6 +1,6 @@
 ---
 title: Butternut-Bulgur Chili
-categories: soup veggie
+categories: [soup]
 servings: 8
 prep_time: 20
 cook_time: 70
@@ -10,7 +10,7 @@ ingredients:
   amount: 4 lb
   notes: quartered
 - slug: onions
-  amount: 2 cups
+  amount: 2 C
   notes: roughly chopped
 - slug: poblano peppers
   amount: 4
@@ -21,15 +21,15 @@ ingredients:
 - slug: apple cider vinegar
   amount: 2 tbsp
 - slug: vegetable broth
-  amount: 4 cups
+  amount: 4 C
 - slug: butternut squash
-  amount: 4 cups
+  amount: 4 C
   notes: cubed to 1/2 inch
-- slug: pino beans
-  amount: 2 15oz cans
+- slug: pinto beans
+  amount: 2 15 oz cans
   notes: rinsed and drained
 - slug: uncooked bulgur
-  amount: 3/4 cup
+  amount: 3/4 C
 - slug: unsweetened cocoa powder
   amount: 2 tsp
 - slug: chili powder
@@ -42,7 +42,7 @@ ingredients:
 - slug: salt and pepper
   notes: to taste
 - slug: roasted pepitas
-  amount: 1/4 cup
+  amount: 1/4 C
 - slug: scallions
   notes: sliced
 - slug: fresh cilanto

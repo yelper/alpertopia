@@ -1,16 +1,16 @@
 ---
-title: Six Ingredient Breakfast Quinoa
-categories: [breakfast, veggie]
+title: Breakfast Quinoa
+categories: [breakfast]
 servings: 1
 prep_time: 10
 cook_time: 20
 reference: https://themodernproper.com/six-ingredient-breakfast-quinoa
 ingredients:
 - slug: quinoa
-  amount: 1/3 cup
+  amount: 1/3 C
   notes: rinsed
 - slug: almond milk
-  amount: 2/3 cup
+  amount: 2/3 C
 - slug: cinnamon
   amount: 1/4 tsp
 - slug: salt

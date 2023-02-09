@@ -1,6 +1,6 @@
 ---
 title: Asparagus, Spinach, & Feta Quiche
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 1
 prep_time: 20
 cook_time: 45
@@ -12,17 +12,17 @@ ingredients:
   amount: 8
   notes: ends removed, 1-inch pieces
 - slug: baby spinach
-  amount: 4 cups
+  amount: 4 C
 - slug: eggs
   amount: 5
   notes: large
 - slug: milk
-  amount: 1 cup
+  amount: 1 C
 - slug: feta cheese
-  amount: 3/4 cup
+  amount: 3/4 C
   notes: crumbed
 - slug: mozzarella cheese
-  amount: 1/4 cup
+  amount: 1/4 C
   notes: shredded
 - slug: salt and pepper
   notes: to taste

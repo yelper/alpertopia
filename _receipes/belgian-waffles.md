@@ -1,13 +1,13 @@
 ---
 title: Belgian Waffles
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 8
 prep_time: 15
 cook_time: 20
 reference: https://thesaltymarshmallow.com/homemade-belgian-waffle-recipe/#recipe
 ingredients:
 - slug: all-purpose flour
-  amount: 2 1/4 cups
+  amount: 2 1/4 C
 - slug: baking powder
   amount: 1 tbsp
 - slug: sugar
@@ -20,9 +20,9 @@ ingredients:
   amount: 2
   notes: separated
 - slug: vegetable oil / applesauce
-  amount: 1/2 cup
+  amount: 1/2 C
 - slug: milk
-  amount: 2 cups
+  amount: 2 C
 - slug: vanilla extract
   amount: 1 tsp
 

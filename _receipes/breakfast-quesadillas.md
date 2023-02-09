@@ -1,6 +1,6 @@
 ---
 title: Breakfast Quesadillas
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 2
 prep_time: 15
 cook_time: 10
@@ -11,8 +11,8 @@ ingredients:
 - slug: hot sauce (Cholula)
 - slug: salt
   amount: pinch
-- slug: cooked pinto or black beans
-  amount: 2/3 cup
+- slug: pinto or black beans
+  amount: 1 can
   notes: rinsed and drained
 - slug: butter
   amount: 2 tsp
@@ -28,9 +28,9 @@ ingredients:
   notes: chopped
 - slug: whole grain tortilla
   amount: 2 medium (8")
-- slug: sharp cheddar cheese
-  amount: 1/2 cup
-  notes: shredded
+- slug: cheddar cheese
+  amount: 1/2 C
+  notes: sharp, shredded
 - slug: salsa
   notes: for serving
 

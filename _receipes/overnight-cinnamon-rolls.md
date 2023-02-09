@@ -1,13 +1,13 @@
 ---
 title: Overnight Cinnamon Rolls
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 12
 prep_time: 30
 cook_time: 120
-reference:
+reference: https://natashaskitchen.com/overnight-cinnamon-rolls-recipe/#jump-to-recipe
 ingredients:
 - slug: milk
-  amount: 1 cup
+  amount: 1 C
   notes: warm, not hot
 - slug: active dry yeast
   amount: 1/2 tbsp
@@ -15,26 +15,34 @@ ingredients:
   amount: 4 tbsp
   notes: divided
 - slug: all-purpose flour
-  amount: 3 cups (+ 2-4 tbsp)
+  amount: 3 C (+ 2-4 tbsp)
   notes: divided
 - slug: large egg
   amount: 1
   notes: room-temp
 - slug: unsalted butter
   amount: 2 tbsp
-  notes: room-temp (roll)
+  notes: melted, divided
+- slug: salt
+  amount: 1/2 tsp
+- slug:
+  amount:
+  notes:
 - slug: unsalted butter
   amount: 7 tbsp
-  notes: softened, divided (for filling)
+  notes: softened, divided, for filling
 - slug: granulated sugar
-  amount: 1/4 cup
+  amount: 1/4 C
   notes: for filling
 - slug: cinnamon
   amount: 1 tbsp
   notes: for filling
+- slug:
+  amount:
+  notes:
 - slug: unsalted butter
   amount: 2 tbsp
-  notes: softened (for icing)
+  notes: softened, for icing
 - slug: milk
   amount: 4 tbsp
   notes: for icing
@@ -42,7 +50,7 @@ ingredients:
   amount: 2 tsp
   notes: for icing
 - slug: powdered sugar
-  amount: 2 cups
+  amount: 2 C
   notes: for icing
 
 ---

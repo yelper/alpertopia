@@ -1,13 +1,13 @@
 ---
 title: Banana Chocolate Chip Pancakes
-categories: [breakfast, veggie]
+categories: [breakfast]
 servings: 4
 prep_time: 10
 cook_time: 10
 reference: https://www.crazyforcrust.com/banana-chocolate-chip-pancakes/#wprm-recipe-container-42328
 ingredients:
 - slug: all-purpose flour
-  amount: 1 1/2 cups
+  amount: 1 1/2 C
 - slug: brown sugar
   amount: 2 tbsp
   notes: packed
@@ -18,7 +18,7 @@ ingredients:
 - slug: cinnamon
   amount: 1/2 tsp
 - slug: milk
-  amount: 1 cup
+  amount: 1 C
 - slug: large egg
   amount: 1
 - slug: applesauce
@@ -27,9 +27,9 @@ ingredients:
   amount: 1/2 tsp
 - slug: very ripe bananas
   amount: 2
-  notes: mashed (about 1 cup)
+  notes: mashed (about 1 C)
 - slug: mini chocolate chips
-  amount: 1/2 cup
+  amount: 1/2 C
 
 ---
 
