@@ -1,6 +1,6 @@
 ---
 title: Roasted Red Pepper Chipotle Pasta Salad
-categories: [veggie dinner, vegan]
+categories: [salad, vegan]
 servings: hella
 prep_time: 15
 cook_time: 15

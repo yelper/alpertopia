@@ -1,6 +1,6 @@
 ---
 title: Grilled Salmon Salad with Goat Cheese, Walnuts and Strawberry Dressing
-categories: [meat dinner]
+categories: [salad]
 servings: 4
 prep_time: 35
 cook_time: 0
