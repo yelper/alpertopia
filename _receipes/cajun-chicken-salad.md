@@ -1,6 +1,6 @@
 ---
 title: Cajun Style Chicken Salad
-categories: [meat dinner]
+categories: [salad]
 servings: 4
 prep_time: 10
 cook_time: 20

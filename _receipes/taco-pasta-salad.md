@@ -1,6 +1,6 @@
 ---
 title: Taco Vegan Pasta Salad
-categories: [vegan, veggie dinner]
+categories: [vegan, salad]
 servings: hella
 prep_time: 15
 cook_time: 35
