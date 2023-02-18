@@ -1,10 +1,10 @@
 ---
 title: Oil-Free Hummus
-categories: [appetizer]
+categories: [appetizers]
 servings: 1 batch
 prep_time: 10
-cook_time: 0 
-reference: https://www.forksoverknives.com/recipes/vegan-salads-sides/healthy-homemade-hummus/ 
+cook_time: 0
+reference: https://www.forksoverknives.com/recipes/vegan-salads-sides/healthy-homemade-hummus/
 ingredients:
 - slug: chickpeas
   amount: 2 cans
@@ -14,7 +14,7 @@ ingredients:
   notes:
 - slug: lemon juice
   amount: 2 tbsp
-  notes: 
+  notes:
 - slug: ground cumin
   amount: 2 tsp
   notes:

@@ -1,6 +1,6 @@
 ---
 title: Fruit Popsicle
-categories: [frozen treat]
+categories: [frozen treats]
 servings: 6
 prep_time: 15
 cook_time: 4 hours to chill

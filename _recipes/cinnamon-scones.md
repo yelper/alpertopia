@@ -1,6 +1,6 @@
 ---
 title: Cinnamon Sugar Scones
-categories: [baekd goods]
+categories: [baked goods]
 servings: 6
 prep_time: 10
 cook_time: 20

@@ -1,6 +1,6 @@
 ---
 title: Carrot Cake
-categories: [gram recipe]
+categories: [gram recipes]
 servings: 12
 prep_time: 10
 cook_time: 60
@@ -55,6 +55,6 @@ ingredients:
 
 
 
-1. Preheat oven to 350 degrees. Grease and flour 9x13 pan. Mix all ingredients very well. Bake for 60 minutes. 
+1. Preheat oven to 350 degrees. Grease and flour 9x13 pan. Mix all ingredients very well. Bake for 60 minutes.
 2. Beat together frosting ingredients.
 3. "A popular birthday choice."

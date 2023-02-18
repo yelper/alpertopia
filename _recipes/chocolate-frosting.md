@@ -1,9 +1,9 @@
 ---
 title: Chocolate Frosting
-categories: [gram recipe]
+categories: [gram recipes]
 servings: for 1 cake
 prep_time: 10
-cook_time: 0 
+cook_time: 0
 reference: From Gram
 ingredients:
 - slug: butter

@@ -1,6 +1,6 @@
 ---
 title: Corn Bread
-categories: [gram recipe]
+categories: [gram recipes]
 servings: 8
 prep_time: 10
 cook_time: 25
