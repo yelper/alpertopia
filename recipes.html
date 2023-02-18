@@ -1,0 +1,19 @@
+---
+layout: page
+title: Recipes index
+permalink: /recipes
+---
+
+{% assign recipes = site.recipes %}
+{% assign categories = recipes | map: 'categories' | uniq %}
+
+{% for category in categories %}
+<h2 class="my-3">{{ category | capitalize }}</h2>
+<ul class="unstyled-list">
+{% assign cat_recipes = recipes | where: 'categories', category
+                                  | sort: "title" %}
+{% for recipes in cat_recipes %}
+<li><a href="{{ recipes.url }}">{{ recipes.title }}</a></li>
+{% endfor %}
+</ul>
+{% endfor %}
