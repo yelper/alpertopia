@@ -90,6 +90,17 @@ article {
     }
 }
 
+#recipe-list.card-columns {
+    column-gap: 2rem;
+
+    @include media-breakpoint-only(md) {
+        column-count: 2;
+    }
+    @include media-breakpoint-only(sm) {
+        column-count: 2;
+    }
+}
+
 div.receipe {
     ul > li {
         margin-bottom: 0.3rem;

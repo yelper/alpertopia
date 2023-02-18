@@ -1,0 +1,25 @@
+---
+layout: page
+title: Recipes index
+permalink: /recipes
+---
+
+{% assign recipes = site.recipes %}
+{% assign categories = recipes | map: 'categories' | uniq %}
+
+{% assign sorted_categories = "asian dinner,pasta dinner,veggie dinner,meat dinner,salad,soup,appetizers,sides,breakfast,drinks,thanksgiving,christmas cookies,canned goods,frozen treats" | split: "," | concat: categories | uniq %}
+
+<div id="recipe-list" class="card-columns my-5">
+    {% for category in sorted_categories %}
+    <div class="card">
+        <div class="card-header font-weight-bold">{{ category | capitalize }}</div>
+        <ul class="list-group list-group-flush">
+        {% assign cat_recipes = recipes | where: 'categories', category
+                                        | sort: "title" %}
+        {% for recipes in cat_recipes %}
+            <li class="list-group-item"><a href="{{ recipes.url }}">{{ recipes.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</div>

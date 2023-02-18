@@ -39,16 +39,16 @@ collections:
     output: true
     permalink: /:collection/:name/
 
-  receipes:
+  recipes:
     output: true
     permalink: /:collection/:name/
 
 defaults:
   - scope:
       path: ""
-      type: "receipes"
+      type: "recipes"
     values:
-      layout: "receipes"
+      layout: "recipes"
 
 
 include: ['.htaccess']
