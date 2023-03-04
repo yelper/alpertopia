@@ -20,7 +20,6 @@ jobs:
       uses: yelper/FTP-Deploy-Action@master
       with:
         protocol: ftps
-        port: 22
         server: ${{ secrets.FTP_HOST }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
