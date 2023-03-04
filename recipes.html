@@ -9,11 +9,37 @@ permalink: /recipes/index.html
 
 {% assign sorted_categories = "asian dinner,pasta dinner,veggie dinner,meat dinner,salad,soup,appetizers,sides,breakfast,drinks,thanksgiving,christmas cookies,canned goods,frozen treats" | split: "," | concat: categories | uniq %}
 
-<div id="recipe-list" class="card-columns my-5">
+<div class="row justify-content-between mt-5 mb-4">
+    <div class="col-md-5">
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false" disabled>By ingredient</button>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">By ingredient</a>
+                    <a class="dropdown-item" href="#">By title</a>
+                    <a class="dropdown-item" href="#" disabled>By any text</a>
+                </div>
+            </div>
+            <input type="text" class="form-control" placeholder="Type ingredients here..." disabled>
+        </div>
+    </div>
+
+    <div class="col-md-4 btn-group" role="group">
+        <button type="button" class="btn btn-secondary" id="buttonExpand">Expand all </button>
+        <button type="button" class="btn btn-secondary" id="buttonCollapse">Collapse all </button>
+    </div>
+</div>
+
+<div id="recipe-list" class="card-columns mb-5">
     {% for category in sorted_categories %}
+    {% assign cat_slug = category | slugify %}
     <div class="card">
-        <div class="card-header font-weight-bold">{{ category | capitalize }}</div>
-        <ul class="list-group list-group-flush">
+        <div class="card-header font-weight-bold">
+            <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapse-{{ cat_slug }}" aria-expanded="false">
+                {{ category | capitalize }}
+            </button>
+        </div>
+        <ul id="collapse-{{ cat_slug }}" class="list-group list-group-flush collapse">
         {% assign cat_recipes = recipes | where: 'categories', category
                                         | sort: "title" %}
         {% for recipes in cat_recipes %}
@@ -23,3 +49,39 @@ permalink: /recipes/index.html
     </div>
     {% endfor %}
 </div>
+
+<!-- do autocomplete here, change results based on dropdown value -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap-4-autocomplete/dist/bootstrap-4-autocomplete.min.js" crossorigin="anonymous"></script> -->
+
+<script type="text/javascript">
+
+    const recipeGroups = $(".collapse");
+
+    $("#buttonExpand").on('click', () => {
+        recipeGroups.collapse('show');
+        window.location.hash = "";
+    });
+    $("#buttonCollapse").on('click', () => {
+        recipeGroups.collapse('hide')
+        window.location.hash = "";
+    });
+
+    if (window.location.hash) {
+        const recipeGroup = window.location.hash.slice(1);
+        $("#collapse-" + recipeGroup).collapse('show');
+    }
+
+    {% comment %}
+    var ingredients = {{ recipes | map: 'ingredients' | map: 'slug' | uniq | sort_natural | jsonify }};
+    var recipeSlugs = {{ recipes | map: 'slug' | jsonify }};
+    var recipes = {};
+
+
+    {% assign ingredients = recipes | map: 'ingredients' | map: 'slug' | uniq | sort_natural %}
+    {% for ingredient in ingredients %}
+        recipes[ingredient] = {{ recipes | where_exp: "recipe", "recipe.ingredients | map: 'slug' | contains integredient" | map: 'slug' | jsonify }}
+    {% endfor %}
+
+    {% endcomment %}
+
+</script>
