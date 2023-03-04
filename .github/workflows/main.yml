@@ -14,7 +14,7 @@ jobs:
       with:
         destination: ~/site
     - name: 📂 Sync files
-      uses: yelper/FTP-Deploy-Action
+      uses: yelper/FTP-Deploy-Action@94148d6498f94b5cfd2f30abf78a01b21fb0c83d
       with:
         protocol: ftps
         port: 22
