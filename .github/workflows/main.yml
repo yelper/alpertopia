@@ -1,4 +1,6 @@
 on: push
+  branches:
+    - master
 name: 🚀 Publish Website
 jobs:
   deploy_website:
@@ -11,9 +13,9 @@ jobs:
       with:
         destination: ~/site
     - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@2.0.0
-      env:
-        FTP_SERVER: ${{ secrets.FTP_HOST }}
-        FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-        LOCAL_DIR: ~/site
+      uses: yelper/FTP-Deploy-Action
+      with:
+        server: ${{ secrets.FTP_HOST }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ~/site/
