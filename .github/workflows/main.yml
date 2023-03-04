@@ -1,6 +1,7 @@
-on: push
-  branches:
-    - master
+on:
+  push:
+    branches:
+      - master
 name: 🚀 Publish Website
 jobs:
   deploy_website:
@@ -15,6 +16,8 @@ jobs:
     - name: 📂 Sync files
       uses: yelper/FTP-Deploy-Action
       with:
+        protocol: ftps
+        port: 22
         server: ${{ secrets.FTP_HOST }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
