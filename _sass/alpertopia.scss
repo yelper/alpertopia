@@ -99,6 +99,18 @@ article {
     @include media-breakpoint-only(sm) {
         column-count: 2;
     }
+
+    /* enable accordion for collapsible list-groups;
+     * specify at higher specificity to override bootstrap styling of list-group */
+    .list-group {
+        &.collapse {
+            display: none;
+        }
+
+        &.collapse.show {
+            display: flex;
+        }
+    }
 }
 
 div.receipe {
