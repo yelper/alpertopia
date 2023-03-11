@@ -7,7 +7,7 @@ cook_time: 50
 reference: Instagram
 ingredients:
 - slug: cauliflower
-  amount: 1 large head
+  amount: 2 large heads
   notes: florets
 - slug: sesame oil
   amount: 3 tbsp
@@ -19,7 +19,7 @@ ingredients:
   amount: 15 oz
   notes: long or medium-sized
 - slug:  avocado oil
-  amount: 1/2 C
+  amount: 2 tbsp
   notes:
 - slug: garlic
   amount: 6 cloves
@@ -38,7 +38,7 @@ ingredients:
   notes:
 - slug:  ground black pepper
   amount:
-  notes: to tastes
+  notes: to taste
 - slug: sliced green onions
   amount:
   notes: for serving
