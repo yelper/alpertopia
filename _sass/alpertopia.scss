@@ -90,6 +90,16 @@ article {
     }
 }
 
+/* enable collapse for recipe search results
+ * specify at higher specificity to override bootstrap styling of card */
+#recipe-results {
+    display: none;
+
+    &.show {
+        display: flex;
+    }
+}
+
 #recipe-list.card-columns {
     column-gap: 2rem;
 

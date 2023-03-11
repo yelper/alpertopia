@@ -51,7 +51,7 @@ defaults:
       layout: "recipes"
 
 
-include: ['.htaccess']
+include: ['.htaccess', 'recipe_data.json']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

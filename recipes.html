@@ -12,21 +12,35 @@ permalink: /recipes/index.html
 <div class="row justify-content-between mt-5 mb-4">
     <div class="col-md-5">
         <div class="input-group">
-            <div class="input-group-prepend">
-                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false" disabled>By ingredient</button>
+            <div id="queryType" class="input-group-prepend">
+                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">By ingredient</button>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">By ingredient</a>
+                    <a class="dropdown-item active" href="#">By ingredient</a>
                     <a class="dropdown-item" href="#">By title</a>
-                    <a class="dropdown-item" href="#" disabled>By any text</a>
+                    <a class="dropdown-item disabled" href="#">By any text</a>
                 </div>
             </div>
-            <input type="text" class="form-control" placeholder="Type ingredients here..." disabled>
+            <input type="text" class="form-control autocomplete" placeholder="Type ingredients here..." autocomplete="off">
         </div>
     </div>
 
     <div class="col-md-4 btn-group" role="group">
         <button type="button" class="btn btn-secondary" id="buttonExpand">Expand all </button>
         <button type="button" class="btn btn-secondary" id="buttonCollapse">Collapse all </button>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-5 my-3">
+        <div id="recipe-results" class="card">
+            <div class="card-header d-flex">
+                Ingredient search for&nbsp;<span id="searchQuery" class="font-weight-bold"></span>
+                <button type="button" id="closeResults" class="close ml-auto" data-toggle="collapse" data-target="#recipe-results" aria-label="close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="card-body"><ul></ul></div>
+        </div>
     </div>
 </div>
 
@@ -51,7 +65,7 @@ permalink: /recipes/index.html
 </div>
 
 <!-- do autocomplete here, change results based on dropdown value -->
-<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap-4-autocomplete/dist/bootstrap-4-autocomplete.min.js" crossorigin="anonymous"></script> -->
+<script src="https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"></script>
 
 <script type="text/javascript">
 
@@ -66,22 +80,81 @@ permalink: /recipes/index.html
         window.location.hash = "";
     });
 
+    $('#closeResults').on('click', () => {
+        $('input.autocomplete').val('');
+    });
+
+    let queryByIngredient = true;
+    $('#queryType a.dropdown-item').on('click', function() {
+        if ($(this).hasClass('active') || $(this).hasClass('disabled'))
+            return;
+
+        $('#recipe-results').removeClass('show');
+        $('input.autocomplete').val('');
+
+        $('#queryType a.dropdown-item').removeClass('active');
+
+        const queryType = $(this).addClass('active').text();
+        $('#queryType > button').text(queryType);
+
+        queryByIngredient = queryType == "By ingredient";
+    });
+
     if (window.location.hash) {
         const recipeGroup = window.location.hash.slice(1);
         $("#collapse-" + recipeGroup).collapse('show');
     }
 
-    {% comment %}
-    var ingredients = {{ recipes | map: 'ingredients' | map: 'slug' | uniq | sort_natural | jsonify }};
-    var recipeSlugs = {{ recipes | map: 'slug' | jsonify }};
-    var recipes = {};
+    let ingredients = {}, recipes = [];
+    function populateIngredientResults(text) {
+        const result_box = $('#recipe-results');
+        const result_list = result_box.find('.card-body ul').empty();
 
+        const matchedRecipes = ingredients[text];
+        if (matchedRecipes.length === 0) {
+            $('#searchQuery').text("");
+            result_box.addClass('collapse');
+        } else {
+            result_box.addClass('show');
+            $('#searchQuery').text(text);
+            for (const recipe of matchedRecipes) {
+                result_list.append(`<li><a href="${recipe.value}">${recipe.text}</a></li>`);
+            }
+        }
+    }
 
-    {% assign ingredients = recipes | map: 'ingredients' | map: 'slug' | uniq | sort_natural %}
-    {% for ingredient in ingredients %}
-        recipes[ingredient] = {{ recipes | where_exp: "recipe", "recipe.ingredients | map: 'slug' | contains integredient" | map: 'slug' | jsonify }}
-    {% endfor %}
+    $.ajax('/recipe_data.json').done(function (data) {
+        ingredients = data.ingredients;
+        recipes = data.recipes;
 
-    {% endcomment %}
+        const ingredients_list = Object.keys(ingredients);
+        const recipe_list = recipes.map(recipe => recipe.text);
+
+        $('.autocomplete')
+            .autoComplete({
+                resolver: 'custom',
+                events: {
+                    search: function(query, callback) {
+                        query = query.toLocaleLowerCase('en-US');
+                        let results = [];
+                        if (queryByIngredient)
+                            results = ingredients_list.filter(ingredient => ingredient.toLocaleLowerCase('en-US').indexOf(query) !== -1);
+                        else
+                            results = recipe_list.filter(recipe => recipe.toLocaleLowerCase('en-US').indexOf(query) !== -1);
+
+                        callback(results);
+                    },
+                },
+            })
+            .on('autocomplete.select', function(_evt, item) {
+                if (queryByIngredient)
+                    populateIngredientResults(item);
+                else {
+                    const recipe_url = recipes.find(recipe => recipe.text == item)?.value;
+                    if (recipe_url)
+                        window.location = recipe_url;
+                }
+            });
+    });
 
 </script>
