@@ -1,6 +1,6 @@
 ---
 title: Sausage Flowers
-categories: [soup, veggie]
+categories: [appetizers]
 servings: 24
 prep_time: 25
 cook_time: 10

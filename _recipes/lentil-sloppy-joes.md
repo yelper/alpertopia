@@ -1,7 +1,7 @@
 ---
 title: Lentil Sloppy Joes
 categories: [veggie dinner]
-servings: 4
+servings: 8
 prep_time: 10
 cook_time: 15
 reference: Instagram

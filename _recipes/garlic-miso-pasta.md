@@ -1,7 +1,7 @@
 ---
 title: Garlic Miso Pasta with Roasted Cauliflower
 categories: [pasta dinner]
-servings: 2
+servings: 4
 prep_time: 10
 cook_time: 50
 reference: Instagram

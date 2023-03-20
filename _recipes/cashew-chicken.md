@@ -1,7 +1,7 @@
 ---
 title: Chicken and Cashew Stir Fry
 categories: [asian dinner]
-servings: 4
+servings: 5
 prep_time: 10
 cook_time: 10
 reference: Nourish the Cancer Care Cookbook
@@ -48,12 +48,16 @@ ingredients:
 - slug: salt and pepper
   amount:
   notes: to taste
+- slug: cashews
+  notes: for serving
+- slug: sriracha
+  notes: for serving
 
 
 ---
 
 1. Lightly toast the nuts in a dry skillet over medium heat 1 minute, stirring, then set aside. Put the egg into a large bowl, add the cornstarch and a pinch of salt and whisk to combine. Add the chicken and coat with the egg mixture.
 
-2. .Heat a skillet or wok with olive oil over medium heat. Stir-fry the chicken 4-5 minutes until lightly colored, then remove with a slotted spoon.
+2. Heat a skillet or wok with olive oil over medium heat. Stir-fry the chicken 4-5 minutes until lightly colored, then remove with a slotted spoon.
 
-3. Add the green onions and stir-fry for a few seconds. Add the snow peas, bok choy, and peppers and stir fry for 1 minute longer, or until just soft. Add the chicken, mushrooms, stock, lime juice and soy sauce to taste. Simmer 1 minute longer, or until the mushrooms are soft. Stir in the nuts and cilantro, then season with salt and pepper. Serve.
+3. Add the green onions and stir-fry for a few seconds. Add the snow peas, bok choy, and peppers and stir fry for 1 minute longer, or until just soft. Add the chicken, mushrooms, stock, lime juice and soy sauce to taste. Simmer 1 minute longer, or until the mushrooms are soft. Stir in the nuts and cilantro, then season with salt and pepper and sriracha. Serve.

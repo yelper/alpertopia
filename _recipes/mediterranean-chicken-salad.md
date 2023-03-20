@@ -36,7 +36,7 @@ ingredients:
 - slug: pepper
   amount:
   notes: to taste
-- slug: chicken breats
+- slug: chicken breast or thighs
   amount: 1 lb
   notes: skinless, boneless
 - slug: romaine lettuce

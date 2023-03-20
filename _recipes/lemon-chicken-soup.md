@@ -19,9 +19,9 @@ ingredients:
   amount: 3 cloves
   notes: minced
 - slug: chicken broth
-  amount: 8-10 C
+  amount: 8 C
   notes:
-- slug: whole wheat orzo
+- slug: orzo
   amount: 1 C
   notes:
 - slug: cooked chicken
@@ -33,7 +33,7 @@ ingredients:
 - slug: lemon juice
   amount: 1/2 C
   notes:
-- slug: fresh spinach
+- slug: spinach
   amount: handful
   notes:
 - slug: salt

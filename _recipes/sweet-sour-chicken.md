@@ -34,7 +34,7 @@ ingredients:
   amount: 1 tsp
   notes: minced
 - slug: red pepper flakes
-  amount: 1/4 tsp
+  amount: 1/2 tsp
   notes:
 - slug: brown sugar
   amount: 2 tbsp

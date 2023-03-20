@@ -36,6 +36,8 @@ ingredients:
 - slug: parmesan cheese
   amount:
   notes: for serving
+- slug: rice or other side
+  notes: for serving
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cranberry Sauce
-categories: [soup, veggie]
+categories: [thanksgiving]
 servings: 12
 prep_time: 10
 cook_time: 35

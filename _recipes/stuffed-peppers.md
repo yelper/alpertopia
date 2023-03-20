@@ -48,6 +48,8 @@ ingredients:
 - slug: salt and pepper
   amount:
   notes: to taste
+- slug: yogurt and potatoes
+  notes: for serving
 
 
 ---
