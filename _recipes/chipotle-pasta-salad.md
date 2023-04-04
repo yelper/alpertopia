@@ -48,7 +48,7 @@ ingredients:
 - slug: almond-based yogurt
   amount: 1/4 C
   notes: plain
-- slug:  roasted red pepppers
+- slug:  roasted red peppers
   amount: 1/3 C
   notes: drained well
 - slug: chipotles in adobo

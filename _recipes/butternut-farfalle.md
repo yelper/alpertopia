@@ -49,7 +49,7 @@ ingredients:
 
 ---
 
-1. In a medium saucepan combine the first six ingredients (through oregano) with 1½ cups water. Cover and bring to boiling. Cook about 10 minutes or until squash is very tender.
+1. In a medium saucepan combine the first six ingredients (through oregano) with 1½ cups water. Cover and bring to boiling. Cook about 10&ndash;14 minutes or until squash is very tender.
 2. Cook farfalle according to package directions for al dente, adding beans the last 1 minute of cooking
-3. Meanwhile, immersion blend squash mixture and almond butter. Process to a smooth sauce with immersion blender. Season with salt and pepper.
+3. Meanwhile, once squash is tender, add almond butter and immersion blend squash mixture until smooth. Season with salt and pepper.
 4. Drain pasta and beans; return to pot. Add sauce, stirring to coat. If desired, sprinkle with pumpkin seeds and paprika.

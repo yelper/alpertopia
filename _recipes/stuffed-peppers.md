@@ -6,7 +6,7 @@ prep_time: 10
 cook_time: 35
 reference: Healthy Eating Cookbook
 ingredients:
-- slug: bell pepppers
+- slug: bell peppers
   amount: 4 large
   notes:
 - slug: olive oil
