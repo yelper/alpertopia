@@ -39,13 +39,13 @@ ingredients:
 - slug: garlic
   amount: 1 tbsp
   notes:
-- slug: shiitake mushrooms
+- slug:  mushrooms
   amount: 1 C
-  notes:
-- slug: red bell pepper
+  notes: shiitake
+- slug: bell peppers
   amount: 1
-  notes: sliced
-- slug: carrot
+  notes: red, sliced
+- slug: carrots
   amount: 1/3 C
   notes: shredded
 - slug: broccoli

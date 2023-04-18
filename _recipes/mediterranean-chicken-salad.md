@@ -18,9 +18,9 @@ ingredients:
 - slug: red wine vinegar
   amount: 2 tbsp
   notes:
-- slug: fresh parsley
+- slug:  parsley
   amount: 2 tbsp
-  notes: chopped
+  notes: fresh, chopped
 - slug: dried basil
   amount: 2 tsp
   notes:

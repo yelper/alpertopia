@@ -36,15 +36,15 @@ ingredients:
 - slug: shelled edamame
   amount: 1 C
   notes:
-- slug: carrot
+- slug: carrots
   amount: 1
   notes: shredded
 - slug: shallot
   amount: 1
   notes: thinly sliced
-- slug: red bell pepper
+- slug: bell pepper
   amount: 1
-  notes: cut into strips
+  notes: red, cut into strips
 - slug: red cabbage
   amount: 1 small head
   notes: chopped

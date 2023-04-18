@@ -15,9 +15,9 @@ ingredients:
 - slug: onion
   amount: 1
   notes: diced
-- slug: red bell pepper
+- slug: bell peppers
   amount: 1
-  notes: diced
+  notes: red, diced
 - slug: mushrooms
   amount: 1 pack
   notes: sliced

@@ -60,9 +60,11 @@ ingredients:
 - slug: cilantro
   amount: 1/2 C (about 1 bunch)
   notes: stems and leaves, rinsed and chopped
+- slug: rice
+  amount: 1 C
 ---
 
-1. Make the tomatillo sauce
+1. Make the tomatillo sauce and rice
 
 Remove the papery husks from the tomatillos and rinse well. Cut the tomatillos in half and place them cut-side down on an aluminum foil-lined roasting pan.
 

@@ -12,9 +12,9 @@ ingredients:
 - slug: onion
   amount: 1 small
   notes: finely chopped
-- slug: green bell pepper
+- slug: bell peppers
   amount: 1
-  notes: seeded and finely chopped
+  notes: green, seeded and finely chopped
 - slug: ground turkey
   amount: 1 costco pack
   notes:

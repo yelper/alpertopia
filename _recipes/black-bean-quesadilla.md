@@ -12,12 +12,12 @@ ingredients:
 - slug: chicken thighs
   amount: 1 costco pack
   notes: boneless, skinless
-- slug: green bell pepper
+- slug: bell peppers
   amount: 1
-  notes: sliced
-- slug: red bell pepper
+  notes: green, sliced
+- slug: bell peppers
   amount: 1
-  notes: sliced
+  notes: red, sliced
 - slug: lime juice
   amount: 2 tbsp
   notes:

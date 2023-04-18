@@ -51,7 +51,7 @@ ingredients:
 - slug: jalapenos
   amount: 2
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/4 C
   notes: chopped
 - slug: brown rice

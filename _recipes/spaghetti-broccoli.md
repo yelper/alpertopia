@@ -10,7 +10,7 @@ ingredients:
   amount: 10 oz
   notes:
 - slug: broccoli
-  amount: 2 1/4 lb
+  amount: 2-3 heads
   notes: florets
 - slug: olive oil
   amount: 1 tbsp
@@ -18,9 +18,9 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: crushed
-- slug: red chiles (serranos work)
+- slug: red chiles
   amount: 2
-  notes: seeded and finely chopped
+  notes: (serranos work), seeded and finely chopped
 - slug: green onions
   amount: 4
   notes: thinly sliced

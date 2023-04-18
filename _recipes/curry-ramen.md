@@ -21,9 +21,9 @@ ingredients:
 - slug: oil
   amount: 2 tbsp
   notes:
-- slug: shiitake mushrooms
+- slug: mushrooms
   amount: 8 oz (2-3 C)
-  notes: sliced
+  notes: shiitake, sliced
 - slug: bok choy
   amount: 3 (2-3 C)
   notes: chopped

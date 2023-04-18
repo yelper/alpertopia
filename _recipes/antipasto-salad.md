@@ -21,12 +21,12 @@ ingredients:
 - slug: tomatoes
   amount: 3 medium
   notes: chopped
-- slug: red bell pepper
+- slug:  bell peppers
   amount: 1 medium
-  notes: diced
-- slug: green bell pepper
+  notes: red, diced
+- slug: bell peppers
   amount: 1 medium
-  notes: diced
+  notes: green, diced
 - slug: black olives
   amount: 1 6 oz can
   notes: drained and chopped
@@ -38,10 +38,10 @@ ingredients:
   notes:
 - slug: balsamic vinegar
   amount: 1/4 C
-  notes: 
+  notes:
 - slug: dried oregano
   amount: 2 tbsp
-  notes: 
+  notes:
 - slug: dried parsley
   amount: 1 tbsp
   notes:

@@ -6,21 +6,21 @@ prep_time: 15
 cook_time: 30 + 60 minutes resting
 reference: https://binnurturkishcookbook.blogspot.com/2010/02/
 ingredients:
-- slug: all purpose flour
+- slug: flour
   amount: 2 1/4 C
-  notes:
-- slug: active dry yeast
+  notes: all purpose
+- slug: yeast
   amount: 7 gr
-  notes:
+  notes: active dry
 - slug: sugar
   amount: 1 tsp
   notes:
 - slug: olive oil
   amount: 2 tbsp + 1 tsp
   notes:
-- slug: water or milk
+- slug: milk
   amount: 1/4 + 3/4 C
-  notes: warm
+  notes: or water, warm
 - slug: salt
   amount: 1 tsp
   notes:

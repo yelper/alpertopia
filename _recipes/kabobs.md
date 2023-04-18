@@ -45,9 +45,9 @@ ingredients:
 - slug: bell peppers
   amount: 2
   notes: seeded and cut into 1 1/2 inch squares
-- slug: white mushrooms
+- slug:  mushrooms
   amount: 8 oz
-  notes: stems removed
+  notes: white, stems removed
 
 
 ---

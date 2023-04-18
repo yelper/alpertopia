@@ -56,10 +56,8 @@ ingredients:
   notes:
 - slug: parlsey
   amount: 1 tbsp
-  notes: finely chopped
-- slug:
-  amount:
-  notes:
+  notes: fresh, finely chopped
+
 ---
 1. Add contents of seasoning packet, black pepper, and minced garlic to a small bowl and mix to combine.
 2. Add broth, onion, bay leaf, and thyme sprigs to the slow cooker. Then place the brisket on top with the fat side up. Spread the spice blend evenly over the fat of the brisket, making sure that very little falls off into the broth. Cook on LOW for 6 hours.

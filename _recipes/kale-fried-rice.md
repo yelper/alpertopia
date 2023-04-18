@@ -18,7 +18,7 @@ ingredients:
 - slug: green onions
   amount: 1 bunch
   notes: chopped
-- slug: bell pepper
+- slug: bell peppers
   amount: 1
   notes: chopped
 - slug: kale
@@ -45,9 +45,9 @@ ingredients:
 - slug: lime
   amount: 1
   notes: halved
-- slug: fresh cilantro
+- slug:  cilantro
   amount: handful
-  notes: for serving
+  notes: fresh, for serving
 
 ---
 

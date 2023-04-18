@@ -12,9 +12,9 @@ ingredients:
 - slug: garlic
   amount: 3 cloves
   notes: finely chopped
-- slug: green bell pepper
+- slug: bell peppers
   amount: 1
-  notes: diced
+  notes: green, diced
 - slug: jalapeno pepper
   amount: 1
   notes: seeded and diced

@@ -37,7 +37,7 @@ ingredients:
 - slug: chives
   amount: 2 tbsp
   notes: chopped
-- slug: zuchinni
+- slug: zucchini
   amount: 1 small
   notes: sliced paper-thin, tossed with salt and lemon juice, marinated for 15 minutes or longer
 - slug: garlic croutons

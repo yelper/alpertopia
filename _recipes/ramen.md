@@ -30,9 +30,9 @@ ingredients:
 - slug: green and yellow beans
   amount: handful
   notes:
-- slug: red bell pepper
+- slug: bell pepper
   amount: 1
-  notes:
+  notes: red
 - slug: salt and pepper
   amount:
   notes: to taste

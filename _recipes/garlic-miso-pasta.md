@@ -24,9 +24,9 @@ ingredients:
 - slug: garlic
   amount: 6 cloves
   notes: minced
-- slug: reserved water
+- slug: water
   amount: 2 C
-  notes: from pasta
+  notes: reserved from pasta
 - slug: miso paste
   amount: 1/4 C
   notes:
@@ -39,9 +39,9 @@ ingredients:
 - slug:  ground black pepper
   amount:
   notes: to taste
-- slug: sliced green onions
+- slug:  green onions
   amount:
-  notes: for serving
+  notes: sliced, for serving
 - slug:  red chili flakes
   amount:
   notes: for serving

@@ -12,7 +12,7 @@ ingredients:
 - slug: white onion
   amount: 1 medium
   notes: diced
-- slug: carrot
+- slug: carrots
   amount: 1 medium
   notes: diced into small cubes
 - slug: celery

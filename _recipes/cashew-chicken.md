@@ -30,9 +30,9 @@ ingredients:
 - slug: bell peppers
   amount: 2
   notes: sliced
-- slug: shiitake mushrooms
+- slug: mushrooms
   amount: 2/3 C
-  notes:
+  notes: shiitake
 - slug: vegetable broth
   amount: 4 tbsp
   notes:

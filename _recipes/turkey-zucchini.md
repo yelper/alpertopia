@@ -15,9 +15,9 @@ ingredients:
 - slug: ground turkey
   amount: 1 lb (half a costco pack)
   notes:
-- slug: cremini mushrooms
+- slug: mushrooms
   amount: 8 oz
-  notes: chopped
+  notes: cremini, chopped
 - slug: herbes de Provence
   amount: 1 tbsp
   notes:
@@ -30,9 +30,9 @@ ingredients:
 - slug: zucchini
   amount: 4 medium
   notes:
-- slug: heirloom tomatoes
+- slug: tomatoes
   amount: 2 large
-  notes: chopped
+  notes: heirloom, chopped
 - slug: parmesan cheese
   amount:
   notes: for serving

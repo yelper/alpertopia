@@ -36,7 +36,7 @@ ingredients:
 - slug: cooked brown rice
   amount: 2 1/2 C
   notes:
-- slug: bell pepper
+- slug: bell peppers
   amount: 1
   notes: chopped
 - slug: soy sauce

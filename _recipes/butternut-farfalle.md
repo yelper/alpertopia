@@ -24,9 +24,9 @@ ingredients:
 - slug: dried oregano
   amount: 1/2 tsp
   notes:
-- slug: whole wheat farfalle or bow tie pasta
+- slug: whole wheat pasta
   amount: 8 oz
-  notes:
+  notes: farfalle or bow tie
 - slug: black beans
   amount: 1 15 oz can
   notes: drained and rinsed
@@ -39,9 +39,9 @@ ingredients:
 - slug: black pepper
   amount:
   notes: to taste
-- slug: unsalted roasted pumpkin seeds
+- slug: pumpkin seeds
   amount: 1/4 C
-  notes:
+  notes: unsalted roasted
 - slug: smoked paprika
   amount:
   notes: for serving

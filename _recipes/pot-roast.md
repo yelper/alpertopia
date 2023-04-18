@@ -42,9 +42,9 @@ ingredients:
 - slug: salt and pepper
   amount:
   notes: to taste
-- slug: white mushrooms
+- slug:  mushrooms
   amount: 8
-  notes: sliced
+  notes: white, sliced
 - slug: carrots
   amount: 2
   notes: chopped

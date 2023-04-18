@@ -13,10 +13,10 @@ ingredients:
   amount: 1/2 C
   notes: sliced
 - slug: garlic
-  amount: 2 cloves
+  amount: 4 cloves
   notes: minced
 - slug: frozen spinach
-  amount: 1 10 oz packaged
+  amount: 2 10 oz packaged
   notes: thawed and squeezed well
 - slug: ricotta cheese
   amount: 1 C
@@ -28,11 +28,11 @@ ingredients:
   amount: 2 C
   notes: shredded
 - slug: corn tortillas
-  amount: 10
+  amount: 16
   notes:
 - slug: enchilada sauce
   amount: 1 19 oz can
-  notes:
+  notes: (or 3 tbsp olive oil, 3 tbsp flour, 1 tbsp chili powder, 1 tsp cumin, 1/2 tsp garlic powder, 1/4 tsp dried oregano, 1/4 tsp salt, pinch of cinnamon, 2 tbsp tomato paste, 2 C vegetable broth, 1 tsp apple cider vinegar, black pepper)
 
 
 ---

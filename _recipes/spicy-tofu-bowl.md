@@ -18,9 +18,9 @@ ingredients:
 - slug: broccoli
   amount: 2 small heads
   notes: cut into florets
-- slug: red bell peppers
+- slug: bell peppers
   amount: 2
-  notes: cut into strips
+  notes: red, cut into strips
 - slug: rice
   amount: 1 1/2 C
   notes: uncooked

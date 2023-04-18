@@ -9,10 +9,10 @@ ingredients:
 - slug: red onion
   amount: 1
   notes: chopped
-- slug: carrot
+- slug: carrots
   amount: 2
   notes: chopped
-- slug: bell pepper
+- slug: bell peppers
   amount: 1
   notes: chopped
 - slug: garlic

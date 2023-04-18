@@ -4,7 +4,7 @@ categories: [salad]
 servings: 6
 prep_time: 15
 cook_time: 75
-reference: https://cooking.nytimes.com/recipes/1019480-smoked-bulgur-and-pomegranate-salad 
+reference: https://cooking.nytimes.com/recipes/1019480-smoked-bulgur-and-pomegranate-salad
 ingredients:
 - slug: yellow onion
   amount: 1/2 large
@@ -12,14 +12,14 @@ ingredients:
 - slug: celery
   amount: 1 stalk
   notes: halved crosswise
-- slug: carrot
-  amount: 1 
+- slug: carrots
+  amount: 1
   notes: peeled and halved crosswise
 - slug: bay leaf
   amount: 1
   notes:
 - slug: serrano chile
-  amount: 1 
+  amount: 1
   notes: halved lengthwise
 - slug: kosher salt
   amount: 2 tbsp
@@ -27,7 +27,7 @@ ingredients:
 - slug: bulgur
   amount: 2 2/3 C
   notes: coarse
-- slug: 
+- slug:
   amount:
   notes:
 - slug: red wine vinegar
@@ -50,7 +50,7 @@ ingredients:
   notes:
 - slug: pomegranate seeds
   amount: 1 C
-  notes: 
+  notes:
 - slug: walnuts
   amount: 1 C
   notes: roasted and chopped
@@ -68,7 +68,7 @@ ingredients:
   notes: to taste
 - slug: creme fraiche
   amount: 1/2 C
-  notes: 
+  notes:
 - slug: garlic
   amount: 1 clove
   notes: finely minced

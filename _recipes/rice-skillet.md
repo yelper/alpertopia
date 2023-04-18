@@ -15,9 +15,9 @@ ingredients:
 - slug: onion
   amount: 1/2 C
   notes: chopped
-- slug: green bell pepper
+- slug: bell peppers
   amount: 1
-  notes: diced
+  notes: green, diced
 - slug: black beans
   amount: 1 15 oz can
   notes: drained and rinsed

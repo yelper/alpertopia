@@ -42,13 +42,13 @@ ingredients:
 - slug: avocado oil
   amount: 1  tsp
   notes:
-- slug: trumpet mushrooms
+- slug: mushrooms
   amount: 3
-  notes: thinly sliced
+  notes: trumpet, thinly sliced
 - slug: bok choy
   amount: 1 big head
   notes: leaves separated
-- slug: carrot
+- slug: carrots
   amount: 2-3 medium
   notes: thinly sliced
 - slug: green onion
@@ -57,15 +57,15 @@ ingredients:
 - slug:
   amount:
   notes:
-- slug: cilantro leaves
+- slug: cilantro
   amount: small handful
   notes:
-- slug: almond pieces
+- slug: almond
   amount: small handful
-  notes: toasted
-- slug: lime wedges
+  notes: toasted and chopped
+- slug: lime
   amount:
-  notes:
+  notes: wedges
 
 
 ---

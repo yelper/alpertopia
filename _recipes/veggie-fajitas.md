@@ -12,9 +12,9 @@ ingredients:
 - slug: red onion
   amount: 1 small
   notes: thinly sliced
-- slug: red bell pepper
+- slug: bell peppers
   amount: 1
-  notes: julienned
+  notes: red, julienned
 - slug: grilled portobello mushrooms
   amount: 1 batch
   notes: (3 tbsp soy sauce, 3 tbsp honey, 3 cloves garlic, 1 tbsp grated ginger, 4 portobello mushrooms and pepper)

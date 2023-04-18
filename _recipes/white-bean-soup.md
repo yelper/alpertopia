@@ -12,7 +12,7 @@ ingredients:
 - slug: onion
   amount: 1 large
   notes: chopped
-- slug: carrot
+- slug: carrots
   amount: 1 large
   notes: chopped
 - slug: celery

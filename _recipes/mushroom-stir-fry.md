@@ -15,10 +15,10 @@ ingredients:
 - slug: soy sauce
   amount: 2 tbsp
   notes:
-- slug: shiitake mushrooms
+- slug: mushrooms
   amount: 2 C
-  notes:
-- slug: bell pepper
+  notes: shiitake
+- slug: bell peppers
   amount: 1
   notes: diced
 - slug: baby bok choy

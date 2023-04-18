@@ -18,12 +18,12 @@ ingredients:
 - slug: snap peas
   amount: 3/4 lb
   notes: trimmed
-- slug: bell pepper
+- slug: bell peppers
   amount: 1
   notes: diced
-- slug: fresh ginger
+- slug:  ginger
   amount: 2 tbsp
-  notes: peeled and grated
+  notes: fresh, peeled and grated
 - slug: garlic
   amount: 2 cloves
   notes: minced

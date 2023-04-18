@@ -4,23 +4,23 @@ categories: [salad]
 servings: 4
 prep_time: 10
 cook_time: 30
-reference: https://veganbowls.com/blogs/mains/fiber-rich-wild-rice-kale-salad 
+reference: https://veganbowls.com/blogs/mains/fiber-rich-wild-rice-kale-salad
 ingredients:
 - slug: wild rice
   amount: 2 C
   notes: cooked and cooled
-- slug: cabbage 
+- slug: cabbage
   amount: 1 1/2 C
   notes: shredded
 - slug: kale
   amount: 1 1/2 C
   notes: chopped
 - slug: mandarins
-  amount: 2 
-  notes: peeled and chopped
-- slug: persian cucumbers
   amount: 2
-  notes: quartered and chopped 
+  notes: peeled and chopped
+- slug: cucumbers
+  amount: 1
+  notes: quartered and chopped
 - slug: cherry tomatoes
   amount: 8-10
   notes: halved
@@ -42,7 +42,7 @@ ingredients:
 - slug: lemon juice
   amount: 2 tbsp
   notes:
-- slug: 
+- slug:
   amount:
   notes:
 - slug: cauliflower
@@ -60,7 +60,7 @@ ingredients:
 - slug: garlic powder
   amount: 1/2 tsp
   notes:
-- slug: 
+- slug:
   amount:
   notes:
 - slug: olive oil

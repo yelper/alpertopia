@@ -24,16 +24,16 @@ ingredients:
 - slug: dried parsley
   amount: 1 tsp
   notes:
-- slug: button mushrooms
+- slug: mushrooms
   amount: 8 oz
-  notes: chopped
+  notes: button, chopped
 - slug: onion
   amount: 1
   notes: diced
-- slug: bell pepper
+- slug: bell peppers
   amount: 1
   notes: diced
-- slug: carrot
+- slug: carrots
   amount: 1
   notes: diced
 - slug: tomato paste
