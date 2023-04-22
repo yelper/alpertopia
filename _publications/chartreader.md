@@ -13,6 +13,9 @@ authors:
 - Edward Cutrell
 - Bongshin Lee
 doi: 10.1145/3544548.3581186
+number: 802
+pagestart: 1
+pageend: 18
 publisher: ACM
 location: New York, NY, USA
 datepublished: 2023-04-20
@@ -20,12 +23,12 @@ datepublished: 2023-04-20
 link_paperlink: chartreader-preprint.pdf
 link_suppl: chartreader-suppl.zip
 link_labrepo:
-video_teaser: currency-multi-line.mp4
-video_paper:
-website_project:
-website_repo:
+video_teaser: ChartReader-video-preview.mp4
+video_paper: currency-multi-line.mp4
+website_project: https://www.microsoft.com/en-us/research/publication/chart-reader-accessible-visualization-experiences-designed-with-screen-reader-users/
+website_repo: https://github.com/microsoft/chart-reader
 talk_slides:
-talk_video:
+talk_video: ChartReader-talk-video.mp4
 
 thumbnail: thumbnail.png
 figure1: annotated-screen.png
