@@ -1,7 +1,7 @@
 ---
 title: Curry Ground Turkey with Rice and Peas
 categories: [meat dinner]
-servings: 4
+servings: 5
 prep_time: 5
 cook_time: 15
 reference: https://www.familyfoodonthetable.com/curry-ground-turkey-with-rice-and-peas/
@@ -54,7 +54,7 @@ ingredients:
 - slug: cilantro
   amount: 1/4 C
   notes: chopped
-- slug: brown rice
+- slug: brown rice, naan or potatoes
   amount:
   notes: for serving
 
