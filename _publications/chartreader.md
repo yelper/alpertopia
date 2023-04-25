@@ -59,4 +59,6 @@ We describe several exemplar strategies of personas perusing a chart using Chart
 We also describe the suggestions, expectations, and difficulties our design partners provided throughout the three iterations of the Chart Reader prototype.
 It is our hope that such all-in-one engines like Chart Reader can help build an explorable data experience for all from a visualization representation.
 
+*Check out [live examples on John's webpage](https://jrthomp.com/chart-reader/), and don't miss [the code on GitHub](https://github.com/microsoft/chart-reader)!*
+
 *This work will be presented at [ACM CHI 2023](https://chi2023.acm.org/) in Hamburg, Germany.*
