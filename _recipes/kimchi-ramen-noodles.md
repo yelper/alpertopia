@@ -1,7 +1,7 @@
 ---
 title: Kimchi Ramen Noodles
 categories: [asian dinner]
-servings: 3 big portions
+servings: 4
 prep_time:  10
 cook_time: 20
 reference: instagram
@@ -28,16 +28,16 @@ ingredients:
   amount: 1 C
   notes:
 - slug: vegetable broth
-  amount: 1 1/2 C
+  amount: 1 C
   notes:
 - slug: tofu
   amount: 1 pack
   notes: extra firim
 - slug: broccoli
-  amount: 3 small heads
+  amount: 4 small heads
   notes:
 - slug: coconut milk
-  amount: 1 C
+  amount: 1 can
   notes:
 - slug: lime juice
   amount: 2 tbsp
@@ -46,11 +46,11 @@ ingredients:
   amount:
   notes: to taste
 - slug: ramen
-  amount: 3 Costco packs
+  amount: 4 Costco packs
   notes:
 - slug: garlic chili paste
-  amount:
-  notes: to taste
+  amount: 1 spoon
+  notes:
 
 
 ---

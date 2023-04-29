@@ -15,8 +15,8 @@ ingredients:
 - slug: chicken breast
   amount: 1 1/2 lb
   notes: boneless, skinless, diced into small 1/2-inch pieces
-- slug: green chiles
-  amount: 1 4 oz can
+- slug: jalapeno
+  amount: 1
   notes: diced
 - slug: salt and pepper
   amount:
@@ -32,7 +32,7 @@ ingredients:
   notes: shredded
 - slug: red enchilada sauce
   amount: 1 batch
-  notes: (2 tbsp avocado oil, 2 tbsp all-purpose flour, 1/4 C chili powder, 1/2 tsp garlic powder and cumin, 1/4 tsp dried oregano, 2 C vegetable broth, salt to taste)
+  notes: (3 tbsp olive oil, 3 tbsp flour, 1 tbsp chili powder, 1 tsp cumin, 1/2 tsp garlic powder, 1/4 tsp oregano, 1/4 tsp salt, pinch of cinnamon, 2 tbsp tomato paste, 2 C vegetable broth, 1 tsp apple cider vinegar, pepper to taste)
 
 
 ---
