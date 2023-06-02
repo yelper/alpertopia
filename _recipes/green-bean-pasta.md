@@ -34,9 +34,12 @@ ingredients:
   amount: 8 oz
   notes: trimmed and halved lengthwise
 - slug: cannellini beans
-  amount: 1 15 oz can
+  amount: 2 15 oz can
   notes: drained and rinsed
-- slug: sea salt and black peper
+- slug: sea salt
+  amount: 1 tsp
+  notes:
+- slug: black pepper
   amount:
   notes: to taste
 - slug:  pistachio nuts
