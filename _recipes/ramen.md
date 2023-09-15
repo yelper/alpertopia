@@ -1,6 +1,6 @@
 ---
 title: Ramen
-categories: [soup]
+categories: [asian dinner]
 servings: 4
 prep_time: 10
 cook_time: 20
@@ -36,6 +36,20 @@ ingredients:
 - slug: salt and pepper
   amount:
   notes: to taste
+- slug: soy sauce
+  amount: 1/2 C
+- slug: broth
+  amount: 1/4 C
+- slug: brown sugar
+  amount: 1 tbsp
+- slug: garlic
+  amount: 1 clove
+  notes: minced
+- slug: ginger
+  amount: 1 tsp
+  notes: minced
+- slug: cornstarch
+  amount: 2 tbsp
 - slug: sesame seeds
   amount:
   notes: for garnish

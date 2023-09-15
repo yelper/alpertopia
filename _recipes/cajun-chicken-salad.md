@@ -42,7 +42,7 @@ ingredients:
 - slug: olive oil
   amount: 1 tbsp
   notes:
-- slug: reserved seasoning
+- slug: Cajun seasoning
   amount: 1 1/2 tsp
   notes:
 
@@ -51,8 +51,7 @@ ingredients:
 ---
 
 1. Preheat oven to 375˚F (190˚C).  Not necessary if you cut the chicken breasts in half.
-2. In a small bowl, combine paprika, cayenne, garlic powder, oregano, thyme, and salt. Reserve 1½ teaspoons of the seasoning. Set aside.
-3. Coat both sides of the chicken breasts with the seasoning mixture. In an oiled cast-iron skillet, cook chicken on medium-high heat 4 minutes per side, or until chicken is browned.
+3. Coat both sides of the chicken breasts with Cajun seasoning. In an oiled cast-iron skillet, cook chicken on medium-high heat 4 minutes per side, or until chicken is browned.
 4. Bake for 15-20 minutes, or until the internal temperature of the chicken reaches 165˚F (72˚C). Let the chicken rest for several minutes.
 5. In a small bowl, combine yogurt, minced garlic, lime juice, olive oil and reserved seasoning mixture. Set aside. Cut chicken into pieces.
 6. In a large bowl, add lettuce, chicken, red onion, avocado, cherry tomatoes, and black beans. Add dressing and toss.

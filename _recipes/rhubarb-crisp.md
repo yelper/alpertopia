@@ -2,54 +2,52 @@
 title: Strawberry Rhubarb Crisp
 categories: [baked goods]
 servings:  6
-prep_time: 10
-cook_time: 110
-reference: https://www.foodandwine.com/recipes/old-fashioned-strawberry-rhubarb-crisp
+prep_time: 15
+cook_time: 45
+reference: https://choosingchia.com/healthy-strawberry-rhubarb-crisp/
 ingredients:
 - slug: rhubarb
-  amount: 2 lbs
-  notes: sliced 1/2" thick
-- slug: sugar
-  amount: 1 1/4 C
-  notes:
+  amount: 2 C
+  notes: sliced 1" thick
 - slug: strawberries
-  amount: 1 lb
+  amount: 3 C
   notes: hulled and quartered
 - slug: cornstarch
   amount: 3 tbsp
   notes:
-- slug: lemon juice
-  amount: 2 tsp
+- slug: orange juice
+  amount: 1/3 C
   notes:
-- slug: vanilla extract
-  amount: 1 tsp
+- slug: maple syrup
+  amount: 1/4 C
   notes:
-- slug: butter
-  amount: 1 stick OR 4 OZ?
-  notes: softened
+- slug: coconut oil
+  amount: 1/4 C
+  notes:
 - slug: brown sugar
-  amount: 1 1/2 C
+  amount: 1/2 C
   notes:
-- slug: all-purpose flour
-  amount: 1 1/2 C
+- slug: almond flour
+  amount: 1 C
   notes:
-- slug: quick-cooking oats
-  amount: 1 1/4 C
-  notes:
-- slug: canola oil
-  amount: 3 tbsp
+- slug: rolled oats
+  amount: 1 C
   notes:
 - slug: cinnamon
-  amount: 1 1/2 tsp
+  amount: 1 tsp
   notes:
 - slug: salt
-  amount: 3/4 tsp
+  amount: 1/2 tsp
   notes:
+
 
 
 ---
 
-1. Preheat the oven to 375°. In a bowl, toss the rhubarb with 3/4 cup of the sugar and let stand for 15 minutes, stirring occasionally. In another bowl, toss the strawberries with the remaining 1/2 cup sugar and let stand for 10 minutes, stirring occasionally. Using a slotted spoon, transfer the rhubarb to the strawberries; discard any rhubarb juice. Add the cornstarch, lemon juice and vanilla to the fruit and stir well. Transfer the mixture to a 9-by-13-inch glass baking dish.
-2. Combine all of the ingredients in a medium bowl. Using a pastry blender or your fingers, mix the ingredients together until large crumbs form.
-3. Sprinkle the topping evenly over the filling and bake for 30 minutes. Reduce the oven temperature to 325° and continue baking for about 30 minutes longer, until the fruit filling is bubbling and the topping is nicely browned. Let the crisp rest for 10 to 20 minutes before serving.
-4. The topping can be refrigerated overnight. Bring to room temperature before using.
+1. Preheat the oven to 375 degrees F.
+2. Add the chopped strawberries and rhubarb to a large mixing bowl. Mix the orange juice, cornstarch and maple syrup together until combined and then add to the mixing bowl, tossing everything together.
+3. In a food processor, add all the crisp topping ingredients and pulse until crumbly. You can alternatively use a bowl and your hands, pressing until you get a crumbly mixture.
+4. Pour the fruit mixture into an 8×8 inch baking dish then add the crumble topping.
+5. Bake for 45-50 minutes, then remove from the oven and let cool for at least 15 minutes before serving.
+
+

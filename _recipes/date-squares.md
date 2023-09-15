@@ -28,7 +28,7 @@ ingredients:
   amount: 1 C
   notes:
 - slug: brown sugar
-  amount: 3/4 C
+  amount: 1/2 C*
   notes:
 - slug: baking powder
   amount: 1/4 tsp
