@@ -42,7 +42,7 @@ ingredients:
 - slug: shallot
   amount: 1
   notes: thinly sliced
-- slug: bell pepper
+- slug: bell peppers
   amount: 1
   notes: red, cut into strips
 - slug: red cabbage

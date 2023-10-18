@@ -33,9 +33,9 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes: minced
-- slug: whole peeled tomatoes
+- slug: tomatoes
   amount: 1 28 oz can
-  notes:
+  notes: whole peeled
 - slug: cinnamon
   amount: 1 stick
   notes:

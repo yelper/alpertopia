@@ -12,7 +12,7 @@ ingredients:
 - slug: fresh thin asparagus
   amount: 8 oz
   notes: cut into 1-inch lengths
-- slug: grape tomatoes
+- slug: cherry tomatoes
   amount: 2 C
   notes: halved
 - slug: baby kale

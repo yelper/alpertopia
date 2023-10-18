@@ -39,7 +39,7 @@ ingredients:
 - slug: cucumber
   amount:
   notes: for serving
-- slug: tomato
+- slug: tomatoes
   amount:
   notes: for serving
 - slug: cashew sour cream

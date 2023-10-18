@@ -63,15 +63,15 @@ ingredients:
 - slug:
   amount:
   notes:
-- slug: tomato
+- slug: tomatoes
   amount: 1
   notes:
 - slug: cucumber
   amount: 1
   notes:
-- slug: green pepper
+- slug: bell pepper
   amount: 1
-  notes:
+  notes: green
 - slug: fresh parsley
   amount: 6-8 sprigs
   notes:
@@ -96,7 +96,7 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: extra tomatoes
+- slug: tomatoes
   amount:
   notes: for serving
 - slug: feta cheese

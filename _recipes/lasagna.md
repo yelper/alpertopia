@@ -1,7 +1,7 @@
 ---
 title: Lasagna
 categories: [meat dinner]
-servings: 
+servings:
 prep_time:
 cook_time:
 reference: https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
@@ -18,12 +18,12 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes:
-- slug: crushed tomatoes
+- slug: tomatoes
   amount: 1 28 oz can
-  notes:
+  notes: crushed
 - slug: tomato sauce
   amount: 2 6.5 oz cans
-  notes: 
+  notes:
 - slug: tomato paste
   amount: 2 6 oz cans
   notes:
@@ -44,7 +44,7 @@ ingredients:
   notes: divided
 - slug:  Italian seasoning
   amount: 1 tsp
-  notes: 
+  notes:
 - slug: fennel seeds
   amount: 1/2 tsp
   notes:
@@ -59,7 +59,7 @@ ingredients:
   notes:
 - slug: egg
   amount: 1
-  notes: 
+  notes:
 - slug: mozzarella cheese
   amount: 3/4 lb
   notes:  sliced

@@ -11,11 +11,11 @@ ingredients:
   notes:
 - slug: egg
   amount: 1
-  notes: 
-- slug: green pepper
+  notes:
+- slug: bell peppers
   amount: 1/2
-  notes: minced
-- slug: milk 
+  notes: green, minced
+- slug: milk
   amount: 1 C
   notes:
 - slug: garlic
@@ -29,7 +29,7 @@ ingredients:
   notes: grated
 - slug: olive oil
   amount: 1/4 C
-  notes: 
+  notes:
 
 
 ---

@@ -12,9 +12,9 @@ ingredients:
 - slug: broccoli slaw (mix of carrots, cabbage, bok choy)
   amount: 10 oz
   notes:
-- slug: red bell pepper
+- slug: bell peppers
   amount: 1/2
-  notes:
+  notes: red
 - slug: PB2
   amount: 5 tbsp
   notes:

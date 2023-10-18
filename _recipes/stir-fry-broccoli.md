@@ -12,9 +12,9 @@ ingredients:
 - slug: garlic powder
   amount: 1/2 tsp
   notes:
-- slug: ground pepper
+- slug: black pepper
   amount: 1/4 tsp
-  notes:
+  notes: ground
 - slug: salt
   amount: 1/4 tsp
   notes:

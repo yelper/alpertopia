@@ -3,7 +3,7 @@ title: Pickled Jalapeno
 categories: [canned goods]
 servings: 1 jar
 prep_time: 5
-cook_time: 5 
+cook_time: 5
 reference: https://gimmedelicious.com/quick-10-minute-pickled-jalapenos/
 ingredients:
 - slug: white vinegar
@@ -21,7 +21,7 @@ ingredients:
 - slug: salt
   amount: 1 tbsp
   notes:
-- slug: jalapeno peppers
+- slug: jalapenos
   amount: 7-8
   notes: thinly sliced
 

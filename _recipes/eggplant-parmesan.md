@@ -27,9 +27,9 @@ ingredients:
 - slug: garlic
   amount: 3 cloves
   notes: minced
-- slug: crushed tomatoes
+- slug: tomatoes
   amount: 1 28 oz can
-  notes:
+  notes: crushed
 - slug: dried basil
   amount: 1 tsp
   notes:

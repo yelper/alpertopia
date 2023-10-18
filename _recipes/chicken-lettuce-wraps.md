@@ -24,7 +24,7 @@ ingredients:
 - slug: avocado
   amount: 1
   notes: diced
-- slug: tomato
+- slug: tomatoes
   amount: 1
   notes: diced
 - slug: onion

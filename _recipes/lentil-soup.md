@@ -30,9 +30,9 @@ ingredients:
 - slug: dried basil
   amount: 1 stp
   notes:
-- slug: crushed tomatoes
+- slug: tomatoes
   amount: 1 14.5 oz can
-  notes:
+  notes: crushed
 - slug: dry lentils
   amount: 2 C
   notes:

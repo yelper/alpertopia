@@ -21,7 +21,7 @@ ingredients:
 - slug: ground cumin
   amount: 1/2 tsp
   notes:
-- slug: jalapeno pepper
+- slug: jalapenos
   amount: 1
   notes: diced
 - slug: garlic

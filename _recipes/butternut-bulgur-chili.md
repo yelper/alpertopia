@@ -6,7 +6,7 @@ prep_time: 20
 cook_time: 70
 reference: https://www.forksoverknives.com/recipes/vegan-soups-stews/butternut-bulgur-chili/
 ingredients:
-- slug: roma tomatoes
+- slug: tomatoes
   amount: 4 lb
   notes: quartered
 - slug: onions

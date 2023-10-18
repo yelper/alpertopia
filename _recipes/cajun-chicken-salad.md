@@ -21,7 +21,7 @@ ingredients:
 - slug: avocado
   amount: 1
   notes: thinly sliced
-- slug: cherry tomato
+- slug: cherry tomatoes
   amount: 10 oz
   notes: halved
 - slug: black beans

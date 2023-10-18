@@ -15,7 +15,7 @@ ingredients:
 - slug: bell peppers
   amount: 1
   notes: green, diced
-- slug: jalapeno pepper
+- slug: jalapenos
   amount: 1
   notes: seeded and diced
 - slug: water
@@ -39,9 +39,9 @@ ingredients:
 - slug: black pepper
   amount: 1 tsp
   notes:
-- slug: crushed tomatoes
+- slug: tomatoes
   amount: 1 28 oz can
-  notes:
+  notes: crushed
 - slug: fresh cilantro
   amount: 2 tbsp
   notes: finely chopped

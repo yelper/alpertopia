@@ -15,10 +15,12 @@ ingredients:
 - slug: black beans
   amount: 1 15 oz can
   notes: rinsed and drained
-- slug: diced tomatoes and green chilies
+- slug: tomatoes
   amount: 1 10 oz can
-  notes: undrained
-- slug: jalapeño pepper
+  notes: diced, undrained
+- slug: green chilies
+  amount: 1 4 oz can
+- slug: jalapenos
   amount: 1
   notes: seeded and chopped
 - slug: cilantro

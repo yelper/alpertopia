@@ -21,9 +21,9 @@ ingredients:
 - slug: black beans
   amount: 1 15 oz can
   notes: drained and rinsed
-- slug: diced tomatoes
+- slug: tomatoes
   amount: 1 14.5 oz can
-  notes: undrained
+  notes: diced, undrained
 - slug: water
   amount: 3/4 C
   notes:

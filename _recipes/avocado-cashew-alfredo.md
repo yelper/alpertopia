@@ -27,7 +27,7 @@ ingredients:
 - slug: zucchini
   amount: 4
   notes:
-- slug: grape tomatoes
+- slug: cherry tomatoes
   amount: 1 pint
   notes: halved, lengthwise
 - slug: salt and pepper
@@ -44,7 +44,7 @@ ingredients:
 ---
 
 
-1. rind the drained cashews in a high-speed blender. Add the nutritional yeast, miso, 1t salt and broth and blend until smooth. Add the avocado and lemon and blend until smooth, adding more broth, 1 tablespoon at a time, if the sauce is too thick. Set aside.
+1. Grind the drained cashews in a high-speed blender. Add the nutritional yeast, miso, 1t salt and broth and blend until smooth. Add the avocado and lemon and blend until smooth, adding more broth, 1 tablespoon at a time, if the sauce is too thick. Set aside.
 
 2. Steam the zucchini noodles over boiling water until tender, 2 to 4 minutes. Set aside.
 

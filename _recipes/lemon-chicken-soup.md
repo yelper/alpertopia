@@ -39,9 +39,9 @@ ingredients:
 - slug: salt
   amount: 1 1/2 tsp
   notes:
-- slug: ground pepper
+- slug: black pepper
   amount:
-  notes: to taste
+  notes: ground, to taste
 - slug: fresh dill
   amount:
   notes: for serving

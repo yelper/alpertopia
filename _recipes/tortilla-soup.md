@@ -25,7 +25,7 @@ ingredients:
 - slug: black beans
   amount: 2 14.5 oz cans
   notes: drained
-- slug: tomato
+- slug: tomatoes
   amount: 1 14.5 oz can
   notes: diced
 - slug: vegetable broth

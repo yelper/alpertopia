@@ -18,9 +18,9 @@ ingredients:
 - slug: peas
   amount: 1 15 oz can
   notes: drained
-- slug: crushed tomatoes
+- slug: tomatoes
   amount: 1 28 oz can
-  notes:
+  notes: crushed
 - slug: green chiles
   amount: 1 4 oz can
   notes: diced

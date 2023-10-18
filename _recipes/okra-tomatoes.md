@@ -27,7 +27,7 @@ ingredients:
 - slug: crushed red pepper
   amount: 1 tsp or more
   notes:
-- slug: tomato
+- slug: tomatoes
   amount: 1 14.5 oz can
   notes: diced
 - slug: water
