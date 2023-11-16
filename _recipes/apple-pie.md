@@ -8,7 +8,7 @@ reference: https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/
 ingredients:
 - slug: frozen pie crust
   amount: 2
-  notes:
+  notes: https://www.inspiredtaste.net/22662/flaky-pie-crust-recipe/
 - slug: butter
   amount: 1/2 C
   notes: unsalted

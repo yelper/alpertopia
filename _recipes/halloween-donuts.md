@@ -1,44 +1,46 @@
 ---
 title: Halloween Donuts
 categories: [gram recipes]
-servings: 
+servings:
 prep_time: 15
 cook_time: 10
 reference: From Gram
 ingredients:
 - slug: eggs
-  amount: 6
+  amount: 3
   notes:
 - slug: sugar
-  amount: 3 C
-  notes:
-- slug: flour
-  amount: 10 1/2 C
-  notes:
-- slug: baking powder
-  amount: 2 tbsp
-  notes:
-- slug: baking soda
-  amount: 3 tsp
+  amount: 1 1/2 C
   notes:
 - slug: shortening
-  amount: 6 tbsp
+  amount: 3 tbsp
   notes:
 - slug: buttermilk
-  amount: 2 1/4 C
+  amount: 1 C + 2 tbsp
   notes:
-- slug: salt
+- slug: flour
+  amount: 5 1/4 C
+  notes:
+- slug: baking powder
+  amount: 1 tbsp
+  notes:
+- slug: baking soda
   amount: 1 1/2 tsp
   notes:
+- slug: salt
+  amount: 3/4 tsp
+  notes:
 - slug: nutmeg
-  amount: 3/4 tsp
-  notes:
+  amount: 1/4 tsp
+  notes: heaping
 - slug: cinnamon
-  amount: 3/4 tsp
-  notes:
+  amount: 1/4 tsp
+  notes: heaping
 - slug: sugar and cinnamon
   amount: extra
   notes: for topping
+- slug: peanut oil
+  notes: for frying
 
 ---
 
