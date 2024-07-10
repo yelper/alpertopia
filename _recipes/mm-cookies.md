@@ -1,40 +1,40 @@
 ---
 title: M&M cookies
 categories: [christmas cookies]
-servings: 15-20
+servings: 30-40
 prep_time: 20
 cook_time: 9
 reference: https://celebratingsweets.com/soft-and-chewy-mm-cookies/
 ingredients:
 - slug: all-purpose flour
-  amount: 1 1/2 C
+  amount: 3 C
   notes:
 - slug: baking powder
-  amount: 1 tsp
-  notes:
-- slug: baking soda
-  amount: 1/2 tsp
-  notes:
-- slug: salt
-  amount: 1/4 tsp
-  notes:
-- slug: butter
-  amount: 1/2 C
-  notes: softened and cooled
-- slug: sugar
-  amount: 1/2 C
-  notes:
-- slug: brown sugar
-  amount: 1/3 C
-  notes: lightly packed
-- slug: egg
-  amount: 1
-  notes:
-- slug: vanilla extract
   amount: 2 tsp
   notes:
+- slug: baking soda
+  amount: 1 tsp
+  notes:
+- slug: salt
+  amount: 1/2 tsp
+  notes:
+- slug: butter
+  amount: 1 C
+  notes: softened and cooled
+- slug: sugar
+  amount: 1 C
+  notes:
+- slug: brown sugar
+  amount: 2/3 C
+  notes: lightly packed
+- slug: egg
+  amount: 2
+  notes:
+- slug: vanilla extract
+  amount: 4 tsp
+  notes:
 - slug: M&Ms
-  amount: 1 1/2 C
+  amount: 3 C
   notes: save 1/2 C for topping
 
 ---

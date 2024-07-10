@@ -9,8 +9,8 @@ ingredients:
 - slug: water
   amount: 1 C
   notes:
-- slug: keto sugar
-  amount: 1 C
+- slug: sugar
+  amount: 1/2 C
   notes:
 - slug: fresh cranberries
   amount: 12 oz

@@ -4,7 +4,7 @@ categories: [thanksgiving]
 servings: 4
 prep_time: 10
 cook_time: 35
-reference: https://www.delish.com/cooking/recipe-ideas/recipes/a50228/holiday-roasted-vegetables-recipe/ 
+reference: https://www.delish.com/cooking/recipe-ideas/recipes/a50228/holiday-roasted-vegetables-recipe/
 ingredients:
 - slug: brussel sprouts
   amount: 3/4 lb (used a big costco pack)
@@ -33,8 +33,8 @@ ingredients:
 - slug: dried cranberries
   amount: 1/2 C
   notes:
-- slug: turnips
-  amount: a couple?
+- slug: parsnips
+  amount: 3
   notes: chopped
 
 ---

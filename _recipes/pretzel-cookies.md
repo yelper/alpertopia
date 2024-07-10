@@ -34,7 +34,7 @@ ingredients:
   amount: 3/4 C
   notes:
 - slug: pretzels
-  amount: 1 C
+  amount: 1 C -- DON'T OVER FILL
   notes: coarsley chopped
 - slug: sea salt
   amount:
@@ -47,6 +47,6 @@ ingredients:
 3. In a large bowl whisk together the flour, baking soda, and sea salt. Set aside.
 4. Add the brown sugar, eggs and vanilla into the cooled butter in the saucepan and stir to combine. Pour this mixture into the bowl with the flour mixture. Stir using a a rubber spatula or wooden spoon until the dough comes together.
 5. Stir in the butterscotch chips, chocolate chips and pretzels.
-6. Using a medium (2-tablespoon) cookie scoop, drop the dough 2 inches apart on the baking sheet. Bake for 10-12 minutes, or until the edges are lightly golden.
+6. Using a medium (2-tablespoon) cookie scoop, drop the dough 2 inches apart on the baking sheet. Bake for 10-12 minutes, or until the edges are lightly golden. THEN REMEMBER TO SPRINKLE WITH SEA SALT.
 7. Allow the cookies to cool for 2-3 minutes on the baking sheet and then transfer to a wire rack to cool completely.
-8. If desired sprinkle with a tiny pinch of flaked sea salt on top of the cookies while cooling.
+

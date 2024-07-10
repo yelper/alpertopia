@@ -1,44 +1,78 @@
 ---
-title: Cranberry Oatmeal Bars
+title: Julie's Cranberry Bliss Bars
 categories: [baked goods]
-servings: 24
-prep_time: 10
+servings: 12
+prep_time: 15
 cook_time: 22
-reference: https://cookthestory.com/cranberry-oatmeal-bars-easy-dessert-recipe/#tasty-recipes-33456-jump-target
+reference: email
 ingredients:
-- slug: old fashioned oats
-  amount: 2 C
-  notes:
-- slug: all purpose flour
+- slug: butter
   amount: 1 C
-  notes:
-- slug: whole wheat flour
-  amount: 1 C
-  notes:
+  notes: melted
 - slug: brown sugar
-  amount: 1 C
+  amount: 1 1/2 C
+  notes: packed
+- slug: eggs
+  amount: 2
+  notes:
+- slug: orange extract
+  amount: 1 tsp
+  notes:
+- slug: vanilla extractv
+  amount: 1 tsp
+  notes:
+- slug: ginger
+  amount: 1 tsp
+  notes: ground
+- slug: salt
+  amount: 1/2 tsp
   notes:
 - slug: baking powder
   amount: 1 tsp
   notes:
-- slug: baking soda
-  amount: 1/2 tsp
+- slug: flour
+  amount: 2 C
   notes:
-- slug: salt
-  amount: 1/2 tsp
-  notes:
-- slug: butter
+- slug: white chocolate chips
   amount: 1 C
-  notes: softened
-- slug: cranberry sauce
-  amount: 1 14 oz can or 1 1/2 C homemade
   notes:
-
+- slug: cranberries
+  amount: 1 C
+  notes: dried
+- slug: cream cheese
+  amount: 8 oz
+  notes: room temperature
+- slug: orange extract
+  amount: 1 tsp
+  notes:
+- slug: vanilla
+  amount: 1/2 tsp
+  notes:
+- slug: powdered sugar
+  amount: 1 1/2 C
+  notes:
+- slug: white chocolate chips
+  amount: 1/2 C
+  notes: melted
+- slug: cranberries
+  amount:
+  notes: chopped for toppiong
+- slug: white chocolate
+  amount:
+  notes: melted, for topping
 
 ---
 
-1. Preheat oven to 350ºF.
-2. In a large bowl mix together the oats, flour, brown sugar, baking powder, baking soda and salt. Use your fingers to rub in the butter into the dry ingredients. Then keep rubbing until you can’t really find any butter in the mixture anymore because your fingers have melted it quite a bit and it has mixed in so well into the flour and oats.
-3. Spoon three-quarters of the oat mixture into an ungreased 13″x 9″ cake pan. Press down on it firmly everywhere to form a firm layer that evenly covers the bottom of the pan.
-4. Add the cranberry sauce in dollops and spread it in a thin layer over the oat layer. Sprinkle with the remaining oat mixture. Press down lightly on the oats so that they adhere to the wet cranberry sauce a bit.
-5. Bake for 25-30 minutes. Note that the topping will not change color but it is still done. Allow to cool in the pan on a wire rack. Cut into 8 strips along the length of the pan and 3 strips along the width yielding 24 bars. Use a spatula to remove the bars from the pan.
+1. Preheat oven to 350°. Mix brown sugar and butter until well combined. Add 2 eggs and mix until well combined. Mix in vanilla and orange extract. Add ginger, salt and baking powder and mix.
+Mix in flour by hand until just combined. Add white chocolate chips and dried cranberries and stir until evenly distributed through batter.
+
+2. Spread dough on parchment lined 13x9 cookie sheet. (Don't worry if dough does not quite meet the edges, it will spread during baking). Cook on middle rack of 350° oven for 18-22 minutes, until edges are starting to brown. Don't over bake.  Remove from oven and cool in pan on racks.
+
+3. When the bars are absolutely cool frost with the cream cheese frosting.
+
+4. Using a hand mixer,  mix cream cheese and powdered sugar until well combined. Add orange extract and vanilla and combine. Add melted white chocolate and mix until well combined. Spread over cooled bars. Scatter chopped  cranberries over the top, drizzle with melted chocolate (I use a fork and just flick it on).
+
+5. Refrigerate for at least an hour.
+
+6. Remove and cut into triangles or squares (I use a pizza cutter). Keep refrigerated. They freeze very well.
+

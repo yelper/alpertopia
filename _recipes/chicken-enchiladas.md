@@ -24,6 +24,9 @@ ingredients:
 - slug: black beans
   amount: 1 15 oz can
   notes: rinsed and drained
+- slug: bell peppers
+  amount: 2
+  notes: chopped
 - slug: flour tortillas
   amount: 8 large
   notes:

@@ -34,6 +34,7 @@ ingredients:
 
 ---
 
+MAKE THESE SMALLER NEXT YEAR
 1. Place the butter and sugar in the bowl of a stand mixer with a paddle attachment. (Alternatively, use an electric hand mixer and large bowl.) Beat on medium speed until fluffy and frosting-like. Scrape down the sides of the bowl. Beat in the egg, vanilla, and peppermint or almond extract. Scrape down the sides of the bowl. With the mixer on low speed, beat in the flour and salt just until no more visible flour remains.
 2. Use a stiff spatula to mix the dough a few times by hand to work in any last bits of flour. Divide the dough in half and remove half of the dough. Add 1/2 teaspoon of red food coloring to the remaining dough in the bowl. Work the color into the dough with the spatula, kneading by hand, or in the mixer on low speed, whichever method seems easiest to you. Add additional food coloring as needed until the dough is a bright, vibrant red.
 3. Pat both pieces of dough into 1-inch thick circles and wrap each in plastic wrap. Refrigerate for at least 1 hour or up to 3 days. This will make the cookies easier to roll out and shape.

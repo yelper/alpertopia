@@ -31,7 +31,7 @@ ingredients:
   amount: 3 C
   notes:
 - slug: spice gumdrops
-  amount: 2 C
+  amount: 2 C -- DON'T USE WHOLE TWO PACKS
   notes: chopped, pick out the green ones
 
 ---

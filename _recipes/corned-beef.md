@@ -1,69 +1,57 @@
 ---
-title: Slow Cooker Corned Beef
+title: Instant Pot Corned Beef and Cabbage
 categories: [meat dinner]
-servings: 8
-prep_time: 10
-cook_time: 420
-reference: https://thefoodieeats.com/slow-cooker-corned-beef/
+servings: 6
+prep_time: 5
+cook_time: 115
+reference: https://www.pressurecookrecipes.com/instant-pot-corned-beef/#recipe
 ingredients:
-- slug: seasoning packet
-  amount: 1
+- slug: corned beef
+  amount: 2
   notes:
-- slug: black pepper
-  amount: 1 tsp
-  notes:
-- slug: garlic
-  amount: 3 cloves
-  notes: minced
-- slug:  chicken broth
-  amount: 1 C
+- slug: water
+  amount: 4 C
   notes:
 - slug: onion
   amount: 1
-  notes: yellow, roughly chopped
-- slug: thyme sprigs
-  amount: 6
-  notes:
-- slug: bay leaf
-  amount: 1
-  notes:
-- slug: corned beef brisket
-  amount: 2 4 lb
-  notes:
-- slug: cabbage
-  amount: 2 heads
   notes: quartered
-- slug: potatoes
-  amount: 10
-  notes: baby
+- slug: garlic
+  amount: 4 cloves
+  notes: crushed
+- slug: yellow mustard seeds
+  amount: 1 tsp
+  notes:
+- slug: peppercorns
+  amount: 1 tsp
+  notes:
+- slug: coriander seeds
+  amount: 1 tsp
+  notes:
+- slug: whole allspice
+  amount: 1/2 tsp
+  notes:
+- slug: cloves
+  amount: 3
+  notes:
+- slug: bay leaves
+  amount: 3
+  notes:
+- slug: ginger
+  amount: 1/2 tsp
+  notes:
 - slug: carrots
   amount: 6
   notes:
-- slug: olive oil
-  amount: 2 tbsp
-  notes:
-- slug: sea salt
-  amount: 2 tsp
-  notes:
-- slug: black pepper
-  amount: 1/2 tsp
-  notes:
-- slug: garlic powder
-  amount: 1 tbsp
-  notes:
-- slug: onion powder
-  amount: 1 tbsp
-  notes:
-- slug: parlsey
-  amount: 1 tbsp
-  notes: fresh, finely chopped
+- slug: red potatoes
+  amount: 10
+  notes: quartered
+- slug: cabbage
+  amount: 2
+  notes: cut into 8 wedges
 
 ---
-1. Add contents of seasoning packet, black pepper, and minced garlic to a small bowl and mix to combine.
-2. Add broth, onion, bay leaf, and thyme sprigs to the slow cooker. Then place the brisket on top with the fat side up. Spread the spice blend evenly over the fat of the brisket, making sure that very little falls off into the broth. Cook on LOW for 6 hours.
-3. After 6 hours have passed, remove onions, thyme sprigs, and bay leaf. Slide the brisket to one side of the cooker and add cabbage to the broth, pressing down as much as you can, but not disturbing the seasonings on top of the brisket. Continue cooking on LOW for 1 more hour.
-4. Meanwhile... preheat the oven to 425F degrees. In a large bowl, toss the potatoes and carrots with oil, salt, pepper, garlic powder, onion powder, and parsley. Spread out evenly in a single layer onto a baking sheet and cook for 45 minutes. Brush both sides of each cabbage wedge with olive oil. Sprinkle garlic powder, pepper flakes, salt, and pepper over each wedge. Arrange wedges on a baking sheet. Roast in the preheated oven for 15 minutes; flip cabbage and continue roasting until browned and charred in some areas, about 15 minutes more.
-5. Once the cabbage has cooked, carefully remove the brisket and transefer to a baking sheet.
-6. After carrots and potatoes are cooked, add them to the slow cooker, mix with the cabbage, and switch to the WARM setting.
-7. Switch the oven to HIGH BROIL setting. Place brisket on the bottom rack of the oven and cook for 5-10 minutes, depending on how hot your broiler gets and how crispy you prefer your corned beef. Once the moisture cooks off, it will begin to toast very quickly, so keep a very close eye on it.
-8. Remove from oven and allow brisket to rest for 10 minutes. Then carefully slice against the grain for maximum tenderness.
+1.  Rinse Corned Beef: Rinse corned beef under cold water - be sure to rinse well.
+2. Pressure Cook Corned Beef: Add rinsed corned beef, quartered onion, 4 crushed garlic cloves, pickling spices seasoning, and 4 cups (1L) cold water in Instant Pot pressure cooker. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 70 minutes + Natural Release (~15 minutes). If the floating valve doesn’t drop after 15 minutes, release the remaining pressure by turning the venting knob from sealing position to venting position. Open lid carefully.
+3. Pressure Cook Vegetables: While the Instant Pot is natural releasing, prepare the vegetables as described. Set aside cooked corned beef and 750ml of the hot liquid in a large serving bowl (there should be about 1.5 - 2 cups of liquid left in Instant Pot). Add quartered red potatoes, carrots, and cabbage wedges in Instant Pot.
+4. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 2 – 3 minutes + Quick Release. Open the lid carefully.
+5. Cut & Serve: On a chopping board, cut Corned Beef against the grain into ⅛ inch slices. Serve with cabbage wedges, red potatoes and carrots.

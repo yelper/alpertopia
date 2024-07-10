@@ -7,7 +7,7 @@ cook_time: 60
 reference: https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/
 ingredients:
 - slug: frozen pie crust
-  amount: 2
+  amount: 2LL
   notes: https://www.inspiredtaste.net/22662/flaky-pie-crust-recipe/
 - slug: butter
   amount: 1/2 C
@@ -25,7 +25,7 @@ ingredients:
   amount: 1/2 C
   notes:
 - slug: granny smith apples
-  amount: 4
+  amount: 8
   notes: peeled, cored and sliced
 
 
