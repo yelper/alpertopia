@@ -30,4 +30,4 @@ ingredients:
 
 1. In a medium bowl combine ground beef, jalapenos, garlic, tomato paste and cilantro. Form mixture into 6 patties.
 2. Generously sprinkle both sides of patties with desired amount of Cajun seasoning
-3. Grill 4 to 5 minutes each side.
+3. Grill 4 to 5 minutes each side or 375 oven for 20 minutes.

@@ -48,11 +48,10 @@ ingredients:
 
 ---
 
-    Cut off as much fat from the roast as possible. Cut meat into cubes. Season with salt and pepper.
-    Turn on Instant Pot to, "Sauté".
+1. Cut off as much fat from the roast as possible. Cut meat into cubes. Season with salt and pepper. Turn on Instant Pot to, "Sauté".
     When hot, brown meat in batches on all sides. Remove meat.
-    In a food processor, combine onions, jalapeño and garlic. Process until finely chopped.
-    Add onion mixture to Instant Pot and sauté for a few minutes.
-    Add remaining ingredients (except cilantro and lime)- browned beef, beef broth, seasonings, chipotle pepper and 1 T. adobo sauce chile, and green chiles.
-    Add lid to Instant Pot. Set to sealing. Pressure cook for 60 minutes. Release seal (using a hot pad) when timer is finished.
-    Shred beef with two forks. Pour juices into a fat separator. Return beef and 1/2 of meat juice (without the fat) to Instant Pot. Add chopped cilantro and lime juice.
+2. In a food processor, combine onions, jalapeño and garlic. Process until finely chopped.
+3. Add onion mixture to Instant Pot and sauté for a few minutes.
+4. Add remaining ingredients (except cilantro and lime)- browned beef, beef broth, seasonings, chipotle pepper and 1 T. adobo sauce chile, and green chiles.
+5. Add lid to Instant Pot. Set to sealing. Pressure cook for 60 minutes. Release seal (using a hot pad) when timer is finished.
+6. Shred beef with two forks. Pour juices into a fat separator. Return beef and 1/2 of meat juice (without the fat) to Instant Pot. Add chopped cilantro and lime juice.

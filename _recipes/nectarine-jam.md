@@ -1,6 +1,6 @@
 ---
 title: Nectarine Jam
-categories: [canned goodbsut]
+categories: [canned goods]
 servings: 25
 prep_time: 10
 cook_time: 30
