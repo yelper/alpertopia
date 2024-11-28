@@ -7,8 +7,8 @@ cook_time: 20
 reference: https://www.allrecipes.com/recipe/122895/traditional-mashed-potatoes/
 ingredients:
 - slug: russet potatoes
-  amount: 11
-  notes: (six for PJ pant, then five for next day) peeled and cubed
+  amount: 8
+  notes: peeled and cubed
 - slug: milk
   amount: 1/2 C
   notes: warm

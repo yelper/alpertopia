@@ -19,13 +19,13 @@ ingredients:
   amount: 1/4 C
   notes:
 - slug: sugar
-  amount: 1/2 C
+  amount: 1/4 C
   notes:
 - slug: brown sugar
-  amount: 1/2 C
+  amount: 1/4 C
   notes:
 - slug: granny smith apples
-  amount: 8
+  amount: 6
   notes: peeled, cored and sliced
 
 

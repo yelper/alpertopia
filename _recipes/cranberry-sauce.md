@@ -10,7 +10,7 @@ ingredients:
   amount: 1 C
   notes:
 - slug: sugar
-  amount: 1/2 C
+  amount: 1/4 C
   notes:
 - slug: fresh cranberries
   amount: 12 oz

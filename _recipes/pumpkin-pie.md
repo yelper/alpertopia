@@ -21,6 +21,9 @@ ingredients:
 - slug: butter
   amount: 4 tbsp
   notes: melted
+- slug: egg
+  amount: 1 large
+  notes: beaten
 - slug: pumpkin puree
   amount: 1 15 oz can
   notes:
@@ -28,7 +31,7 @@ ingredients:
   amount: 1 C
   notes:
 - slug: keto brown sugar
-  amount: 1/2 C
+  amount: 1/4 C
   notes:
 - slug: eggs
   amount: 3 large
