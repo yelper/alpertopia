@@ -1,6 +1,6 @@
 ---
 title: Russian Tea Cakes
-categories: [Christmas cookies]
+categories: [christmas cookies]
 servings: 36
 prep_time: 15
 cook_time: 15

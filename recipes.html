@@ -7,7 +7,7 @@ permalink: /recipes/index.html
 {% assign recipes = site.recipes %}
 {% assign categories = recipes | map: 'categories' | uniq %}
 
-{% assign sorted_categories = "asian dinner,pasta dinner,veggie dinner,meat dinner,salad,soup,appetizers,sides,breakfast,drinks,thanksgiving,christmas cookies,canned goods,frozen treats" | split: "," | concat: categories | uniq %}
+{% assign sorted_categories = "asian dinner,pasta dinner,veggie dinner,meat dinner,salad,soup,appetizers,sides,breakfast,drinks,thanksgiving,christmas cookies,gram recipes,canned goods,frozen treats" | split: "," | concat: categories | uniq %}
 
 <div class="row justify-content-between mt-5 mb-4">
     <div class="col-md-5">

@@ -1,6 +1,6 @@
 ---
 title: Spinach Manti
-categories: [pasta]
+categories: [pasta dinner]
 servings: 4
 prep_time: a million years
 cook_time: 10 minutes

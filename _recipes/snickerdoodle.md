@@ -1,6 +1,6 @@
 ---
 title: Snickerdoodle
-categories: [Christmas Cookies]
+categories: [christmas cookies]
 servings: 36
 prep_time: 10
 cook_time: 10

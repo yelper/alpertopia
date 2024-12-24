@@ -1,6 +1,6 @@
 ---
 title: Spritz Cookies
-categories: [Christmas cookies]
+categories: [christmas cookies]
 servings: 5 dozen
 prep_time: 10
 cook_time: 8
