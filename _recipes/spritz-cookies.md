@@ -37,7 +37,7 @@ ingredients:
 ---
 
 1. Chill cookie sheets.
-2. In a small bowel, cream butter and sugar until light and fluffy. Beat in the egg, milk and vanilla. Combine flour and salt; gradually add to creamed mixture just until combined. Stir in food coloring if desired.
+2. In a small bowl, cream butter and sugar until light and fluffy. Beat in the egg, milk and vanilla. Combine flour and salt; gradually add to creamed mixture just until combined. Stir in food coloring if desired.
 3. Fill cookie press and form into desired shapes on ungreased baking sheets. Decorate with sprinkles.
 4. Bake at 400 for 8 minutes or until edges just begin to brown. Take off own immediately. Cool on wire racks.
 

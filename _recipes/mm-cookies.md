@@ -33,16 +33,18 @@ ingredients:
 - slug: vanilla extract
   amount: 4 tsp
   notes:
-- slug: M&Ms
-  amount: 3 C
-  notes: save 1/2 C for topping
+- slug: M&Ms, maybe the peanut butter kind?
+  amount: 2 C
+  notes: save some for topping
+- slug: chocolate chips
+  amounts: 1 C
 
 ---
-
-1. Preheat oven to 350°F. Line two baking sheets with silicone mats or parchment paper.
-2. In a bowl, whisk together flour, baking powder, baking soda and salt. Set aside.
-3. In a separate bowl, beat butter and both sugars for 2 minutes, until light and fluffy. Add egg and vanilla extract, mixing until combined, scraping the sides of the bowl as needed. On low speed, add in flour mixture and mix until just combined.
-4. Gently stir in M&M's/chocolate chips  - I usually add about 3/4 cup into the batter, the rest get pressed on top of the cookies before baking.
-5. Scoop balls of dough, between 1.5 and 2.5 tablespoon portions (a little smaller or a little larger than a golf ball). Drop dough onto prepared baking sheets leaving an inch or two for spreading. Using the remaining M&M's, press several (5 or so) onto the top of each mound of dough. Keep in mind that the cookies will spread out while baking, so be generous with the M&M's. Do 12 on a tray.
-6. Bake for 11 minutes (see note), until the edges of the cookies are set but the center is still slightly underdone , this will create a soft cookie. For a crispier cookie, continue baking for another minute two.
-7. Place the baking sheets on wire racks and allow the cookies to cool completely. They will firm up as they cool. Optional: for a slightly thicker cookie, you can gently press the edges of each cookie inward (just a bit!) while they are still warm.
+1. Preheat oven to 350°F. Line two baking sheets with parchment paper.
+2. In a bowl, whisk together flour (see note), baking powder, baking soda, and salt. Set aside.
+3. Using a hand mixer or stand mixer fitted with the paddle attachment, beat butter and both sugars for 1-2 minutes, until light and fluffy. Add egg and vanilla extract, mixing until combined and scraping the sides of the bowl as needed. On low speed, add in flour mixture and mix until just combined.
+4. Gently stir in M&M's/chocolate chips. Note: I usually add 1 cup (total) into the batter, the rest get pressed on top of the cookie dough balls before baking.
+5. Scoop 2-tablespoon portions of dough. Place the dough balls on a plate and transfer to the refrigerator for 30 minutes to one hour (see note about baking without chill time). The longer they chill the thicker the cookies will be. I usually chill the dough balls for 30 minutes while I clean up the kitchen.
+6. Using the remaining M&M's/chocolate chips, nestle several (5 or so) onto the top of each mound of dough. Keep in mind that the cookies will spread out while baking. Mound the dough balls so that they're higher rather than wider. Place the dough balls on the prepared baking sheets leaving a couple inches for spreading.
+7. Bake for 9-12 minutes, until the edges of the cookies are set but the center is still slightly underdone, this will create a soft cookie. For a crispier cookie, continue baking for another minute or two. See note about shaping the cookies to make them perfectly round.
+8. Place the baking sheets on wire racks and allow the cookies to cool completely. They will firm up as they cool.

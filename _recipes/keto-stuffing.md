@@ -1,49 +1,49 @@
 ---
 title: Keto Stuffing
 categories: [thanksgiving]
-servings: 24
+servings: 12
 prep_time: 15
 cook_time: 105
 reference: https://www.delish.com/holiday-recipes/thanksgiving/a29024474/keto-stuffing-recipe/
 ingredients:
 - slug: keto loaves
-  amount: 4 loaves
+  amount: 2 loaves
   notes: cut into bite-sized pieces
 - slug: butter
-  amount: 2 sticks
+  amount: 1 sticks
   notes: divided, plus more for baking dish
 - slug: pork sausage
-  amount: 4 lb
+  amount: 2 lb
   notes:
 - slug: salt and pepper
   amount:
   notes: to taste
 - slug: celery
-  amount: 16 stalks
+  amount: 8 stalks
   notes: thinly sliced
 - slug: yellow onion
-  amount: 1 C
+  amount: 1/2 C
   notes: minced
 - slug: garlic
-  amount: 8 cloves
+  amount: 4 cloves
   notes: minced
 - slug: fresh parsley
-  amount: 2 C
+  amount: 1 C
   notes: chopped
 - slug: fresh sage
-  amount: 4 tbsp
+  amount: 2 tbsp
   notes: minced
 - slug: fresh thyme
-  amount: 4 tbsp
+  amount: 2 tbsp
   notes: minced
 - slug: fresh rosemary
-  amount: 2 tbsp
+  amount: 1 tbsp
   notes: chopped
 - slug: chicken broth
-  amount: 6 C
+  amount: 3 C
   notes:
 - slug: eggs
-  amount: 4
+  amount: 2
   notes: beaten
 
 
