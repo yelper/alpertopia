@@ -5,6 +5,9 @@ servings: 12
 prep_time: 20 + one day for marinade
 cook_time: 10
 reference: https://www.allrecipes.com/recipe/186691/lisas-favorite-carne-asada-marinade/
+
+image: carne-asada.jpg
+
 ingredients:
 - slug: orange juice
   amount: 3/4 C

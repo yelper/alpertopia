@@ -5,6 +5,9 @@ servings: 4
 prep_time: 20
 cook_time: 40
 reference: https://www.simplyrecipes.com/recipes/tomatillo_chicken_stew/
+
+image: tomatillo-soup.jpg
+
 ingredients:
 - slug: tomatillos
   amount: 1 1/2 lbs

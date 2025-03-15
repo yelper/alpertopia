@@ -5,6 +5,9 @@ servings: 4
 prep_time:  10 plus two hours marinade
 cook_time: 15
 reference: https://cafedelites.com/grilled-lemon-herb-mediterranean-chicken-salad-recipe/
+
+image: mediterranean-chicken-salad.jpg
+
 ingredients:
 - slug: olive oil
   amount: 2 tbsp

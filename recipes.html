@@ -20,11 +20,11 @@ permalink: /recipes/index.html
                     <a class="dropdown-item disabled" href="#">By any text</a>
                 </div>
             </div>
-            <input type="text" class="form-control autocomplete" placeholder="Type ingredients here..." autocomplete="off">
+            <input type="text" class="form-control autocomplete ml-2" placeholder="Type ingredients here..." autocomplete="off">
         </div>
     </div>
 
-    <div class="col-md-4 btn-group" role="group">
+    <div class="col-lg-3 col-md-4 mt-3 mt-md-0 btn-group" role="group">
         <button type="button" class="btn btn-secondary" id="buttonExpand">Expand all </button>
         <button type="button" class="btn btn-secondary" id="buttonCollapse">Collapse all </button>
     </div>
@@ -98,6 +98,11 @@ permalink: /recipes/index.html
         $('#queryType > button').text(queryType);
 
         queryByIngredient = queryType == "By ingredient";
+
+        if (queryByIngredient)
+            $('input.autocomplete').attr('placeholder', "Type ingredients here...")
+        else
+            $('input.autocomplete').attr('placeholder', "Type title here...")
     });
 
     if (window.location.hash) {

@@ -5,6 +5,9 @@ servings: 5
 prep_time: 10
 cook_time: 10
 reference: Nourish the Cancer Care Cookbook
+
+image: chicken-cashew.jpg
+
 ingredients:
 - slug: egg
   amount: 1

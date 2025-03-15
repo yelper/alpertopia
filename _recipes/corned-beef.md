@@ -5,6 +5,9 @@ servings: 6
 prep_time: 5
 cook_time: 115
 reference: https://www.pressurecookrecipes.com/instant-pot-corned-beef/#recipe
+
+image: corned-beef.jpg
+
 ingredients:
 - slug: corned beef
   amount: 2

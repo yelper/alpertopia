@@ -5,6 +5,9 @@ servings: 5
 prep_time: 20
 cook_time: 20
 reference: https://www.allrecipes.com/recipe/59661/spinach-enchiladas/?printview
+
+image: spinach-enchiladas.jpg
+
 ingredients:
 - slug: butter
   amount: 1 tbsp

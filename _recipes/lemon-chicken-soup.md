@@ -5,6 +5,9 @@ servings: 6
 prep_time: 15
 cook_time: 30
 reference: https://pinchofyum.com/lemon-chicken-soup-with-orzo#tasty-recipes-48263
+
+image: lemon-chicken-soup.jpg
+
 ingredients:
 - slug: olive oil
   amount: 1 tbsp

@@ -5,6 +5,9 @@ servings: 2
 prep_time: 15
 cook_time: 15
 reference: https://thedizzycook.com/soy-free-mushroom-ramen/
+
+image: mushroom-ramen.jpg
+
 ingredients:
 - slug: ramen noodles
   amount: 6-8 oz (4 Costco chunks)

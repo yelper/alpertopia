@@ -5,6 +5,9 @@ servings: 4
 prep_time: 15
 cook_time: 30
 reference: Instagram
+
+image: almond-butter-tofu.jpg
+
 ingredients:
 - slug: tofu
   amount: 1 pack

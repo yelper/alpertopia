@@ -5,6 +5,9 @@ servings:  4 to 6
 prep_time: 10
 cook_time: 40
 reference: https://cooking.nytimes.com/recipes/12547-pureed-zucchini-soup-with-curry
+
+image: zucchini-soup.jpg
+
 ingredients:
 - slug: olive oil
   amount: 1 tbsp

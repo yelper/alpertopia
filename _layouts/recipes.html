@@ -18,7 +18,6 @@ layout: default
         <dt class="col-sm-2">Prep time</dt>
         <dd class="col-sm-4">{{ page.prep_time }} min</dd>
 
-
         <dt class="col-sm-2">Serves</dt>
         <dd class="col-sm-4">{{ page.servings }}</dd>
 
@@ -27,7 +26,6 @@ layout: default
 
         <dt class="col-sm-2">Categories</dt>
         <dd class="col-sm-4">{{ page.categories | join: ", "}}</dd>
-
 
         <dt class="col-sm-2">Reference</dt>
         <dd class="col-sm-4">
@@ -41,16 +39,27 @@ layout: default
   </header>
 
   <div class="post-content receipe pb-5" itemprop="articleBody">
-    <h2 class="my-3">Ingredients</h2>
-    <ul>
-        {%- for ingredient in page.ingredients -%}
-        <li>
-            {%if ingredient.amount -%}{{ ingredient.amount }}{%- endif %}
-            <strong>{{ ingredient.slug }}</strong>
-            {%- if ingredient.notes -%}, {{ ingredient.notes }}{%- endif -%}
-        </li>
-        {%- endfor -%}
-    </ul>
+    <div class="row">
+      <div class="col-md-6 order-12 order-md-1"><h2 class="my-3">Ingredients</h2>
+        <ul>
+            {%- for ingredient in page.ingredients -%}
+            <li>
+                {%if ingredient.amount -%}{{ ingredient.amount }} {% endif -%}
+                <strong>{{ ingredient.slug }}</strong>
+                {%- if ingredient.notes -%}, {{ ingredient.notes }}{%- endif -%}
+            </li>
+            {%- endfor -%}
+        </ul>
+      </div>
+      {%- if page.image -%}
+      <div class="col-md-6 pt-0 pt-md-5 order-1 order-md-12">
+        {% assign imgsrc = "/assets/img/recipes/" | append: page.image %}
+        <a href="{{ imgsrc }}">
+          <img src="{{ imgsrc }}" class="img-fluid" alt="image of {{ page.title }}" />
+        </a>
+      </div>
+      {% endif -%}
+    </div>
 
     <h2 class="my-3">Instructions</h2>
     {{ content }}

@@ -5,6 +5,9 @@ servings: 4
 prep_time: 5
 cook_time: 30
 reference: Instagram
+
+image: turkey-stuffed-zucchini.jpg
+
 ingredients:
 - slug: olive oil
   amount: 2 tbsp

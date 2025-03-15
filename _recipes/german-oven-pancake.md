@@ -5,6 +5,9 @@ servings: 4
 prep_time: 5
 cook_time: 12
 reference: https://therecipecritic.com/german-oven-pancake/#wprm-recipe-container-45917
+
+image: german-oven-pancake.jpg
+
 ingredients:
 - slug: all-purpose flour
   amount: 1/2 cup

@@ -5,6 +5,9 @@ servings: 4
 prep_time: 10
 cook_time: 50
 reference: Instagram
+
+image: garlic-miso-pasta.jpg
+
 ingredients:
 - slug: cauliflower
   amount: 2 large heads

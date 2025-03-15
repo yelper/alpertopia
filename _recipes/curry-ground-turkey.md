@@ -5,6 +5,9 @@ servings: 5
 prep_time: 5
 cook_time: 15
 reference: https://www.familyfoodonthetable.com/curry-ground-turkey-with-rice-and-peas/
+
+image: curry-ground-turkey.jpg
+
 ingredients:
 - slug: olive oil
   amount: 1 tsp

@@ -5,6 +5,9 @@ servings: 4
 prep_time: 10
 cook_time: 30
 reference: https://www.wellplated.com/instant-pot-ribs/#wprm-recipe-container-37747
+
+image: ribs.jpg
+
 ingredients:
 - slug: baby back ribs or spare ribs
   amount: 2 lbs

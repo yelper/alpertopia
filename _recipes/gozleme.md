@@ -5,6 +5,9 @@ servings: 4
 prep_time: 15
 cook_time: 30 + 60 minutes resting
 reference: https://binnurturkishcookbook.blogspot.com/2010/02/
+
+image: pide.jpg
+
 ingredients:
 - slug: flour
   amount: 2 1/4 C

@@ -5,6 +5,9 @@ servings: 3
 prep_time: 10
 cook_time: 15
 reference: How Not to Die Cookbook
+
+image: zoodles-with-avocado-alfredo.jpg
+
 ingredients:
 - slug: cashews
   amount: 1 C

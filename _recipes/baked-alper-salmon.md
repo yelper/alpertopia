@@ -5,6 +5,9 @@ servings: 4
 prep_time: 5
 cook_time: 20
 reference: Alper :)
+
+image: salmon.jpg
+
 ingredients:
 - slug: salmon
   amount: 1

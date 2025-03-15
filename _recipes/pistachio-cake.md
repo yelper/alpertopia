@@ -65,3 +65,4 @@ ingredients:
 15. Alternatively, if you don't have acetate or don't want to assemble it that way, let your ganache cool at cool room temperature, stirring gently every 10 to 15 minutes, until it firms to a spreadable consistency, then spread or pipe onto completely cooled cake.
 16. Let the ganache cool gradually at room temperature for about an hour, then sprinkle with slivered pistachios if desired. Refrigerate for 2 to 3 hours or overnight until ganache is fully set, then peel off outer layer of acetate before slicing. The cake is best enjoyed at room temperature when the ganache softens and matches the consistency of the cake.
 17. To store, I like to use the same piece of acetate as a ring around the whole cake, then press a piece of plastic or parchment to the cut surfaces. The cake keeps quite well in the refrigerator for up to 5 days.
+d

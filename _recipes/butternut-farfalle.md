@@ -5,6 +5,9 @@ servings: 4
 prep_time: 20
 cook_time: 20
 reference: https://www.forksoverknives.com/recipes/vegan-pasta-noodles/butternut-cream-farfalle-black-beans-pumpkin-seeds/
+
+image: black-bean-butternut-pasta.jpg
+
 ingredients:
 - slug: butternut squash
   amount: 1
