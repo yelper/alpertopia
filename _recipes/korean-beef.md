@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 10
 reference: https://healthyrecipesblogs.com/korean-ground-beef/#recipe
+image: korean-beef.jpg
 ingredients:
 - slug: soy sauce
   amount: 1/4 C

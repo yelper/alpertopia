@@ -5,6 +5,7 @@ servings: 4
 prep_time: 5
 cook_time: 25
 reference: https://insanelygoodrecipes.com/mexican-rice/
+image: mexican-rice.jpg
 ingredients:
 - slug: vegetable oil
   amount: 3 tbsp

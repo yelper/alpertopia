@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 25
 reference: How Not to Die Cookbook
+image: tangine.jpg
 ingredients:
 - slug: red onion
   amount: 1

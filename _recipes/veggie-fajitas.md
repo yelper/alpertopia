@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 75
 reference: Forks Over Knives Cookbook
+image: veggie-fajitas.jpg
 ingredients:
 - slug: corn tortillas
   amount: 12

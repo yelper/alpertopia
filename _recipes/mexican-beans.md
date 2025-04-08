@@ -5,6 +5,7 @@ servings: 6
 prep_time: 5
 cook_time: 35
 reference: https://rainbowplantlife.com/mexican-black-beans/#recipe
+image: mexican-beans.jpg
 ingredients:
 - slug: black beans
   amount: 2 15 oz cans

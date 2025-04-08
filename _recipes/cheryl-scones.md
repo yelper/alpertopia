@@ -5,6 +5,9 @@ servings: 8
 prep_time: 10
 cook_time: 25
 reference: email
+
+image: cheryl-scone.jpg
+
 ingredients:
 - slug: flour
   amount: 1 3/4 C

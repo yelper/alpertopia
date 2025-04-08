@@ -5,6 +5,7 @@ servings: 4
 prep_time: 15
 cook_time: 15
 reference: https://gimmedelicious.com/chicken-taco-lettuce-wraps-low-carb-paleo-keto/#wprm-recipe-container-13465
+image: lettuce-taco.jpg
 ingredients:
 - slug: chicken breasts
   amount: 1 lb
