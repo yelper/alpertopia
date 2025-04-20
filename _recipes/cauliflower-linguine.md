@@ -5,6 +5,7 @@ servings: 4
 prep_time: 15
 cook_time: 40
 reference: Instagram
+image: alfredo.jpg
 ingredients:
 - slug: yellow onion
   amount: 1/2 C

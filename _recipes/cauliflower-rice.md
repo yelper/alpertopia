@@ -5,6 +5,7 @@ servings: 3
 prep_time: 10
 cook_time: 15
 reference: https://iowagirleats.com/cauliflower-fried-rice/
+image: cauliflower-rice.jpg
 ingredients:
 - slug: sesame oil
   amount: 1 tbsp + 1 tsp

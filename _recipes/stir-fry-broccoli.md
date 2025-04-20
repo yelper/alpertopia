@@ -5,6 +5,7 @@ servings: 4
 prep_time: 5
 cook_time: 25
 reference: https://www.crazyforcrust.com/ground-turkey-stir-fry-with-broccoli/
+image: turkey-broccoli.jpg
 ingredients:
 - slug: ground turkey
   amount: 1 lb

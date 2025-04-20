@@ -5,6 +5,7 @@ servings: 4
 prep_time: 30
 cook_time: 30
 reference: Instagram
+image: green-bean-pesto.jpg
 ingredients:
 - slug: cashews
   amount: 1/4 C

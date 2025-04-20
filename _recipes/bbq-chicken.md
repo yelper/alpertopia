@@ -5,6 +5,7 @@ servings: 6
 prep_time: 5
 cook_time: 35
 reference: https://meaningfuleats.com/instant-pot-bbq-chicken/#wprm-recipe-container-13901
+image: bbq-chicken.jpg
 ingredients:
 - slug: broth
   amount: 1 C
@@ -30,6 +31,7 @@ ingredients:
 - slug: BBQ sauce
   amount: 1 1/2 C
   notes:
+  url: /recipes/bbq-sauce
 - slug: onion
   amount: 1/2 C
   notes: grated

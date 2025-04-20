@@ -5,6 +5,7 @@ servings: 2
 prep_time: 15
 cook_time: 10
 reference: https://cookieandkate.com/simple-breakfast-quesadillas-recipe/#tasty-recipes-28931
+image: breakfast-quesadilla.jpg
 ingredients:
 - slug: eggs
   amount: 4

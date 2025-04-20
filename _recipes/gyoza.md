@@ -5,6 +5,7 @@ servings: 52
 prep_time: 60
 cook_time: 30
 reference: https://www.justonecookbook.com/gyoza/
+image: gyoza.jpg
 ingredients:
 - slug: cabbage
   amount: 3/4 lb
