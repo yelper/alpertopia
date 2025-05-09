@@ -5,6 +5,7 @@ servings: 4
 prep_time: 15
 cook_time: 50
 reference: Instagram
+image: cashew-basil.jpg
 ingredients:
 - slug: garlic
   amount: 3 cloves

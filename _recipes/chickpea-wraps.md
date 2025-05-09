@@ -5,6 +5,7 @@ servings: 6
 prep_time: 10
 cook_time: 10
 reference: How Not to Die Cookbook
+image: chickpea-wrap.jpg
 ingredients:
 - slug: chickpeas
   amount: 1 15 oz can
@@ -28,7 +29,7 @@ ingredients:
   amount: 1 tsp
   notes:
 - slug: salt
-  amount: 1/2 tsp
+  amount: 1 tsp
 - slug: celery
   amount: 2 stalks
   notes: chopped

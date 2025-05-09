@@ -5,6 +5,7 @@ servings: 6
 prep_time: 10
 cook_time: 15
 reference: https://addapinch.com/steak-fajitas-recipe/#wprm-recipe-container-29393
+image: steak-fajita.jpg
 ingredients:
 - slug: flank steak
   amount: 2 lb

@@ -4,7 +4,8 @@ categories: [canned goods]
 servings: 1 1/4 C
 prep_time: 10
 cook_time: 2
-reference: https://cookieandkate.com/spicy-quick-pickled-radishes/#tasty-recipes-23578-jump-target 
+reference: https://cookieandkate.com/spicy-quick-pickled-radishes/#tasty-recipes-23578-jump-target
+image: radish.jpg
 ingredients:
 - slug: radishes
   amount: 1 bunch
