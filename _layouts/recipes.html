@@ -45,7 +45,9 @@ layout: default
             {%- for ingredient in page.ingredients -%}
             <li>
                 {%if ingredient.amount -%}{{ ingredient.amount }} {% endif -%}
+                {%if ingredient.url -%}<a href="{{ ingredient.url}}" target="_blank">{% endif -%}
                 <strong>{{ ingredient.slug }}</strong>
+                {%if ingredient.url -%}</a>{% endif -%}
                 {%- if ingredient.notes -%}, {{ ingredient.notes }}{%- endif -%}
             </li>
             {%- endfor -%}

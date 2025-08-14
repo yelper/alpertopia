@@ -7,24 +7,24 @@ cook_time: 20
 reference: https://thesaltymarshmallow.com/homemade-belgian-waffle-recipe/#recipe
 ingredients:
 - slug: all-purpose flour
-  amount: 2 1/4 C
+  amount: 1 C + 2 tbsp
 - slug: baking powder
-  amount: 1 tbsp
+  amount: 1/2 tbsp
 - slug: sugar
-  amount: 3 tbsp
+  amount: 1 1/2 tbsp
 - slug: salt
-  amount: 1/2 tsp
+  amount: 1/4 tsp
 - slug: cinnamon
-  amount: 1 tsp
+  amount: 1/2 tsp
 - slug: large eggs
-  amount: 2
+  amount: 1
   notes: separated
 - slug: vegetable oil / applesauce
-  amount: 1/2 C
+  amount: 1/4 C
 - slug: milk
-  amount: 2 C
+  amount: 1 C
 - slug: vanilla extract
-  amount: 1 tsp
+  amount: 1/2 tsp
 
 ---
 

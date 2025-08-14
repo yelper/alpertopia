@@ -46,7 +46,7 @@ ingredients:
   amount: 8
   notes: white, sliced
 - slug: carrots
-  amount: 2
+  amount: 4
   notes: chopped
 - slug: potatoes
   amount: 4
@@ -66,6 +66,6 @@ ingredients:
 3. Sauté Onion & Garlic: Add in sliced onions and saute until softened. Add in a pinch of kosher salt and ground black pepper to season. Add in garlic and saute for 30 seconds until fragrant. Add in mushroom and saute for 2 mins. Then season with another pinch of kosher salt.
 4. Deglaze Instant Pot: Pour in a dash of red wine or balsamic vinegar, then deglaze by scrubbing all the flavorful brown bits off the bottom of the pot with a wooden spoon.
 Pressure Cook Pot Roast: Add 1 cup (250ml) of chicken stock, 1 tbsp (15ml) regular soy sauce, 1 tbsp (15 ml) fish sauce, 1 pinch of dried rosemary, 1 pinch of thyme, and 2 bay leaves in Instant Pot. Taste the seasoning and add more salt and pepper if desired.
-5. Place the chuck roast and all its meat juice in Instant Pot. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 45 minutes + Full Natural Release (25 minutes). Open the lid carefully.
-6. Pressure Cook Vegetables: Set aside the chuck roast, and cover it with aluminum foil. Let it rest as you pressure cook the vegetables. Submerge the quartered potatoes into the yummy gravy, then stack the chopped carrots on top of the potatoes. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 4 minutes + Quick Release. Open the lid carefully.
+5. Place the chuck roast and all its meat juice in Instant Pot. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 40 minutes + Full Natural Release (25 minutes). Open the lid carefully.
+6. Pressure Cook Vegetables: Set aside the chuck roast, and cover it with aluminum foil. Let it rest as you pressure cook the vegetables. Submerge the quartered potatoes into the yummy gravy, then stack the chopped carrots on top of the potatoes. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 3 minutes + Quick Release. Open the lid carefully.
 7. Make Gravy & Serve: Taste the gravy again, then adjust the seasoning if necessary. Mix 1 ½ tbsp (12g) cornstarch with 2 tbsp (30ml) water, then mix it into the gravy one third at a time until desired thickness Slice the roast against the grain. High five your family. Serve pot roast and potatoes with the gravy. Immediately enjoy this umami filled dish you've just created!
