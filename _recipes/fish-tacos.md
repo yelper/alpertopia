@@ -1,71 +1,76 @@
 ---
-title: Fish Tacos
+title: Air Fryer Fish Tacos with Cilantro Lime Slaw
 categories: [meat dinner]
 servings: 4
-prep_time: 15
+prep_time: 5
 cook_time: 10
-reference: https://www.recipetineats.com/marinated-fish-tacos/#wprm-recipe-container-25309
+reference: https://lemonsandzest.com/air-fryer-fish-tacos-with-cilantro-lime-slaw/#wprm-recipe-container-28730
 ingredients:
-- slug: white fish
-  amount: 600 g
+- slug: tilapia or cod
+  amount: 1 1/2 lb
   notes:
-- slug: lime zest
-  amount: 1
+- slug: chili powder
+  amount: 1 tsp
   notes:
-- slug: lime juice
-  amount: 3 tbsp
-  notes:
-- slug: chipotle powder
-  amount: 1 tbsp
-  notes:
-- slug: jalapeno
-  amount: 1 tbsp
-  notes:
-- slug: cilantro
-  amount: 1/4 C
-  notes:
-- slug: garlic
-  amount: 2 cloves
-  notes: minced
-- slug: olive oil
-  amount: 3 tbsp
-  notes:
-- slug: salt and pepper
-  amount:
-  notes:
-- slug: red cabbage
-  amount: 4 C
-  notes: finely shredded
-- slug: green onion
-  amount: 3
-  notes: finely sliced
-- slug: red wine vinegar
-  amount: 2 tbsp
-  notes:
-- slug: salt
+- slug: oregano
   amount: 1/2 tsp
   notes:
-- slug: yogurt
-  amount: 3/4 C
+- slug: garlic powder
+  amount: 1/2 tsp
   notes:
-- slug: sriracha
-  amount: 2-3 tbsp
+- slug: paprika
+  amount: 1/2 tsp
   notes:
-- slug: olive oil
+- slug: cayenne
+  amount: 1/4 tsp
+  notes:
+- slug: onion powder
+  amount: 1/4 tsp
+  notes:
+- slug: cumin
+  amount: 1/4 tsp
+  notes:
+- slug: sea salt
+  amount: 1/2 tsp
+  notes:
+- slug: pepper
+  amount: 1/2 tsp
+  notes:
+- slug: coleslaw mix
+  amount: 2 1/2 C
+  notes:
+- slug: plain yogurt
+  amount: 3 tbsp
+  notes:
+- slug: lime juice
   amount: 1 tbsp
   notes:
+- slug: garlic
+  amount: 1 clove
+  notes: minced
+- slug: cilantro
+  amount: 1/3 C
+  notes: chopped
+- slug: sugar
+  amount: 1/2 tsp
+  notes:
+- slug: sea salt
+  amount: 1/4 tsp
+  notes: to taste
+- slug: pepper
+  amount: 1/4 tsp
+  notes:
 - slug: tortillas
-  amount: 12
-  notes: corn or flour
-- slug: lime wedges and cilantro
   amount:
   notes: for serving
+- slug: lime slices
+  amount:
+  notes: for serving
+---
 
-  ---
-
-1. Marinade fish: Combine Fish Marinade ingredients in a ziplock bag. Set aside for 20 minutes to marinate - no longer than 1 hour.
-2. Pickled Cabbage: Place Pickled Cabbage ingredients in a bowl. Toss to combine and set aside for 30 minutes. Drain excess liquid, scrunch cabbage with your hands (to help soften). Set aside.
-3. Pink Sauce: Mix to combine.
-4. Cook fish: Heat oil in a skillet over high heat. Cook fish for 2 minutes on each side, or until golden and cooked.
-5. Remove fish onto plate then flake into large pieces.
-6. To assemble tacos, top with cabbage then fish, a dollop of sour cream and a squeeze of lime juice. Fold tortilla over and enjoy!
+1. Spray the air fryer basket with oil. In a small bowl, mix the spices, salt and pepper well to combine.
+2. Pat fish dry and then lay it in the air fryer basket. Brush with olive oil. Generously cover the fish with the spice rub and gently press it into the fish. Spritz over top of the fish with oil to help it all hold to the fish and stay moist.
+3. Preheat air fryer to 400°F. Heat the fish for about 8-10 minutes or until opaque and easily flakes. Internal temperature should reach 145°F.
+4. While the fish cooks, toss together the ingredients for the cilantro lime slaw. Adjust the salt to taste or add more lime juice as desired.
+5. When fish is cooked, remove from the air fryer basket. Cut into small pieces and add to tortillas and top with slaw. Add an extra squeeze of lime. Store in an air tight container in the refrigerator for 2-3 days.
+6. To reheat, air fry the fish for about 2-4 minutes until hot.
