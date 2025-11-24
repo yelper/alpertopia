@@ -1,5 +1,5 @@
 ---
-title: Fresh Tomato Sauce
+title: Tomato Sauce
 categories: [pasta dinner]
 servings: 2 1/2 C
 prep_time: 10
