@@ -4,6 +4,9 @@ html {
     min-height: 100%;
 }
 body {
+    /** defines amount to scroll for anchor links */
+    scroll-margin-top: 80px;
+
     /* Margin bottom by footer height */
     margin-bottom: 60px;
 }

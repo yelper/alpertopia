@@ -4,7 +4,7 @@ title: Red light study
 date: 2022-09-10 09:00:00 -0700
 categories: personal
 teaser: personal/red-light/teaser.JPG
-excerpt: "Every red light on a 30mi bike ride."
+excerpt: "Every red light on a 30 mile bike ride around Seattle."
 ---
 
 {% assign img = "/assets/img/personal/red-light/" %}

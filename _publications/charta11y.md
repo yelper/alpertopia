@@ -70,4 +70,4 @@ Accessible data visualization presentation tends to focus on single modality int
 
 In this work, we focus on the design journey for creating these accessible touch experiences with two blind partners over 13 sessions.  We identified difficulties in designing sensical interfaces for exploring 2-D visualizations where there is no strong spatial referent, and propose an co-designed implementation to enable users to explore such surfaces in a generalizable way.  We couple this with incremental improvements to the ordering of information in narration design and sonification of relevant data attributes as the user is navigating the visualization.
 
-_This work will be presented at [ASSETS 2024](https://assets24.sigaccess.org/) by [Jerry Zhang](https://zhuohaozhang.com/) in St. John's, Newfoundland and Labrador, Canada._
+_This work was presented at [ASSETS 2024](https://assets24.sigaccess.org/) by [Jerry Zhang](https://zhuohaozhang.com/) in St. John's, Newfoundland and Labrador, Canada._
