@@ -7,28 +7,28 @@ cook_time: 20
 reference: https://www.allrecipes.com/recipe/16383/basic-crepes/
 ingredients:
 - slug: eggs
-  amount: 2
+  amount: 1
   notes:
 - slug: milk
-  amount: 3/4 C
+  amount: 3/8 C
   notes:
 - slug: water
-  amount: 1/2 C
+  amount: 1/4 C
   notes:
 - slug: sugar
-  amount: 2 tbsp
+  amount: 1 tbsp
   notes:
 - slug: vanilla
-  amount: 1 tsp
-  notes:
-- slug: salt
   amount: 1/2 tsp
   notes:
+- slug: salt
+  amount: 1/4 tsp
+  notes:
 - slug: flour
-  amount: 1 C
+  amount: 1/2 C
   notes:
 - slug: butter
-  amount: 2 tbsp
+  amount: 1 tbsp
   notes: melted
 
 

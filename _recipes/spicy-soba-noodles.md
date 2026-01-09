@@ -1,7 +1,7 @@
 ---
 title: Spicy Soba Noodles with Sesame Peanut Sauce
 categories: [asian dinner]
-servings: 4
+servings: 6
 prep_time: 15
 cook_time: 10
 reference: WFPB Cookbook
@@ -30,14 +30,11 @@ ingredients:
 - slug: sriracha
   amount: 2 tbsp
   notes:
-- slug:
-  amount:
-  notes:
 - slug: shelled edamame
   amount: 1 C
   notes:
 - slug: carrots
-  amount: 1
+  amount: 2
   notes: shredded
 - slug: shallot
   amount: 1
@@ -46,7 +43,7 @@ ingredients:
   amount: 1
   notes: red, cut into strips
 - slug: red cabbage
-  amount: 1 small head
+  amount: 1/2 small head
   notes: chopped
 - slug: spring onions
   amount: 1 bunch
@@ -58,7 +55,7 @@ ingredients:
   amount: 1 tbsp
   notes: toasted
 - slug: soba noodles
-  amount: 3 bunches
+  amount: 5 bunches
   notes:
 - slug: fresh cilantro
   amount:

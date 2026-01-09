@@ -36,6 +36,8 @@ ingredients:
 - slug: coleslaw mix (cabbage and carrots)
   amount: 2 C
   notes:
+- slug: chicken or beef
+
 
 
 ---
