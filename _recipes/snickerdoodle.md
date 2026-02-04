@@ -5,6 +5,9 @@ servings: 36
 prep_time: 10
 cook_time: 10
 reference: https://lilluna.com/snickerdoodles/#wprm-recipe-video-container-95443
+
+image: snickerdoodle.jpg
+
 ingredients:
 - slug: flour
   amount: 2 3/4 C

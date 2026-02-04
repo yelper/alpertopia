@@ -5,6 +5,9 @@ servings: 5 dozen
 prep_time: 10
 cook_time: 8
 reference: https://i.pinimg.com/originals/0c/d3/02/0cd302217e39a75431fe13e26f725157.jpg
+
+image: spritz-cookies.jpg
+
 ingredients:
 - slug: butter
   amount: 1/2 C

@@ -5,6 +5,9 @@ servings: 3 dozen
 prep_time: 15
 cook_time: 20
 reference: https://www.allrecipes.com/recipe/9584/triple-the-ginger-cookies/
+
+image: ginger-cookies.jpg
+
 ingredients:
 - slug: butter
   amount: 3/4 C

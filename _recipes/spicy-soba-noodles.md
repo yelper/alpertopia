@@ -5,6 +5,9 @@ servings: 6
 prep_time: 15
 cook_time: 10
 reference: WFPB Cookbook
+
+image: spicy-soba-noodles.jpg
+
 ingredients:
 - slug: PB2
   amount: 4 tbsp

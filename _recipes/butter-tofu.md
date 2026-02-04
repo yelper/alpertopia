@@ -5,6 +5,9 @@ servings: 4
 prep_time: 10
 cook_time: 30
 reference: https://cooking.nytimes.com/recipes/1020094-tofu-makhani-indian-butter-tofu
+
+image: butter-tofu.jpg
+
 ingredients:
 - slug: lemon juice
   amount: 2 tbsp
@@ -25,7 +28,7 @@ ingredients:
   amount: 2
   notes: peeled and diced
 - slug: cayenne pepper
-  amount: 1 tsp
+  amount: 1/2 tsp
   notes:
 - slug: fresh ginger
   amount: 3 tbsp
@@ -46,8 +49,12 @@ ingredients:
   amount: 1 1/2 tsp
   notes:
 - slug: coconut milk
-  amount: 1 1/2 C
+  amount: 1 can
   notes:
+- slug: peas
+  amount: 1 can
+- slug: bell peppers
+  amount: 2
 - slug: scallions
   amount: 3
   notes: thinly sliced

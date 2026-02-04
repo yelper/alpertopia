@@ -5,6 +5,9 @@ servings: 4
 prep_time: 10
 cook_time: 15
 reference: https://inspiralized.com/vegetarian-zucchini-noodle-pad-thai/
+
+image: zucchini-pad-thai.jpg
+
 ingredients:
 - slug: eggs
   amount: 3
@@ -28,7 +31,7 @@ ingredients:
   amount: 1 tbsp, plus more for serving
   notes: chopped
 - slug: zucchini
-  amount: 2 medium
+  amount: 4 large
   notes:
 - slug: tofu
   amount: 1 block
@@ -48,6 +51,8 @@ ingredients:
 - slug: honey
   amount: 1 tsp
   notes:
+- slug: lime wedges
+  notes: for serving
 
 
 ---

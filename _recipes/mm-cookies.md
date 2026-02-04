@@ -5,6 +5,9 @@ servings: 30-40
 prep_time: 20
 cook_time: 9
 reference: https://celebratingsweets.com/soft-and-chewy-mm-cookies/
+
+image: mm-cookies.jpg
+
 ingredients:
 - slug: all-purpose flour
   amount: 3 C

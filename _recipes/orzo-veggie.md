@@ -1,7 +1,7 @@
 ---
 title: Orzo Veggie Medley
 categories: [pasta dinner]
-servings: 5
+servings: 4
 prep_time: 10
 cook_time: 30
 reference: www.fitmencook.com
@@ -13,7 +13,7 @@ ingredients:
   amount: 1 tbsp
   notes:
 - slug: zucchini
-  amount: 1
+  amount: 3
   notes: sliced
 - slug: yellow squash
   amount: 1
@@ -22,13 +22,15 @@ ingredients:
   amount: 1
   notes: chopped
 - slug: bell peppers
-  amount: 1
+  amount: 2
   notes: chopped
 - slug: dried thyme
   amount: 2 tsp
   notes:
 - slug: salt and pepper
   amount:
+  notes: to taste
+- slug: balsamic vinegar
   notes: to taste
 - slug: fresh basil
   amount:

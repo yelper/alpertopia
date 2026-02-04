@@ -1,10 +1,13 @@
 ---
 title: Kung Pao Chicken Zoodles
 categories: [asian dinner]
-servings: 4
+servings: 3
 prep_time: 10
 cook_time: 12
 reference: https://lifemadesweeter.com/one-pot-kung-pao-zoodles/
+
+image: kung-pao-chicken.jpg
+
 ingredients:
 - slug: chicken breast
   amount: 1 medium
@@ -40,7 +43,7 @@ ingredients:
   amount: 2 tbsp
   notes: more as needed
 - slug: red chili garlic sauce
-  amount: 1/2 tsp
+  amount: 1 tbsp
   notes:
 - slug: zucchini
   amount: 6 medium

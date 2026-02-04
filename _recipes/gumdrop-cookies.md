@@ -5,6 +5,9 @@ servings: 48
 prep_time: 15
 cook_time: 15
 reference: https://www.myrecipes.com/recipe/oatmeal-spice-drop-cookies
+
+image: gumdrop-cookies.jpg
+
 ingredients:
 - slug: all-purpose flour
   amount: 1 1/2 C

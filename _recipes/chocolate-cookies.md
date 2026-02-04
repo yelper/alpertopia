@@ -5,6 +5,9 @@ servings: 72
 prep_time: 20 + 4 hrs for chilling
 cook_time: 12
 reference: https://rasamalaysia.com/chocolate-crinkle-cookies/comment-page-4/
+
+image: chocolate-cookies.jpg
+
 ingredients:
 - slug: cocoa powder
   amount: 1 C

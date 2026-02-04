@@ -5,6 +5,9 @@ servings: 4
 prep_time: 20
 cook_time: 50
 reference: https://thefirstmess.com/2021/09/15/sweet-potato-broccoli-rabe-sheet-pan-dinner/#recipe
+
+image: sweet-potato-brocolli.jpg
+
 ingredients:
 - slug: peanut butter
   amount: 1/3 C

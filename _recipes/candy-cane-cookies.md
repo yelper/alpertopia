@@ -5,6 +5,9 @@ servings: 2 dozen
 prep_time: 10 + 1 hour of chilling
 cook_time: 15
 reference: https://www.thekitchn.com/recipe-candy-cane-cookies-dessert-recipes-from-the-kitchn-213928
+
+image: candy-cane-cookies.jpg
+
 ingredients:
 - slug: butter
   amount: 2 sticks
@@ -18,7 +21,7 @@ ingredients:
 - slug: vanilla extract
   amount: 1 tsp
   notes:
-- slug: peppermint or almond extract
+- slug: almond extract
   amount: 1 tsp
   notes:
 - slug: all-purpose flour

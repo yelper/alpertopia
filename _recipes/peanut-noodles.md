@@ -1,7 +1,7 @@
 ---
 title: Peanut Noodles with Snow Peas and Broccoli
 categories: [asian dinner]
-servings: 6
+servings: 4
 prep_time: 10
 cook_time: 15
 reference: Healthy Eating Cookbook
@@ -24,9 +24,11 @@ ingredients:
 - slug: fresh ginger
   amount: 1 1-inch piece
   notes:
-- slug: peanut butter
-  amount: 1/2 C
+- slug: PB2 powder
+  amount: 5 tbsp
   notes:
+- slug: water
+  amount: 2 tbsp
 - slug: soy sauce
   amount: 1/4 C plus 1 tbsp
   notes:
