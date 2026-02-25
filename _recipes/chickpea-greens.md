@@ -3,12 +3,14 @@ title: Spicy Chickpea Greens and Grains Bowl
 categories: [salad]
 servings: 4
 prep_time: 10
-cook_time: 0 
-reference: https://fitmencook.com/healthy-meal-prep/ 
+cook_time: 0
+reference: https://fitmencook.com/healthy-meal-prep/
 ingredients:
 - slug: quinoa
-  amount: 380 g
-  notes: cooked
+  amount: 1 C
+  notes:
+- slug: water
+  amount: 2 C
 - slug: olive oil
   amount: 1 tbsp
   notes:
@@ -16,7 +18,7 @@ ingredients:
   amount: 1 tbsp
   notes:
 - slug: chickpeas
-  amount: 850 g
+  amount: 2 cans
   notes:
 - slug: paprika
   amount: 2 tsp
@@ -28,8 +30,11 @@ ingredients:
   amount:
   notes: to taste
 - slug: kale
-  amount: 180 g
+  amount: 2 bunches
   notes:
+- slug: cherry tomatoes
+  amount: 1 pint
+  notes: cut in half
 - slug: olive oil spray
   amount:
   notes:

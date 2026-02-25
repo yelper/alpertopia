@@ -5,6 +5,9 @@ servings: 8
 prep_time: 15
 cook_time: 45
 reference:  https://www.gimmesomeoven.com/best-chicken-enchiladas-ever/#tasty-recipes-59596
+
+image: chicken-enchiladas.jpg
+
 ingredients:
 - slug: avocado oil
   amount: 2 tbsp

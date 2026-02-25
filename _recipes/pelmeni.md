@@ -5,6 +5,9 @@ servings: 14
 prep_time: 60
 cook_time: 20
 reference: https://momsdish.com/recipe/76/pelmeni#jump-to-recipe
+
+image: pelmeni.jpg
+
 ingredients:
 - slug: flour
   amount: 3 C (you may need to add more)
@@ -33,12 +36,12 @@ ingredients:
 - slug: pepper
   amount: 1 tsp
   notes: to taste
-- slug: sour cream (or yogurt with rice vinegar)
+- slug: sour cream (or 1 C yogurt with 1 tbsp rice vinegar)
   amount:
   notes: to tastes
-- slug: butter
+- slug: butter, cilantro, and curry powder
   amount:
-  notes:
+  notes: for serving
 
 ---
 
@@ -51,9 +54,6 @@ Combine together ground meat, grated onion, salt and pepper.
 
 
 2. To Assemble Pelmeni
-To save time use a mold to make Pelmeni. Roll out a flat piece of dough and place it on a floured mold that’s covered with flour. Fill each hole with meat.
-Make one more flat, round piece of dough and place it on top. Sprinkle with flour and roll over it with a roller until each piece is separated.
-Flip the mold over and shake out the Pelmeni. Dust them with flour, either freeze for later or boil them to cook.
 To make Pelmeni by hand, roll out the dough and cut out small circles using a cookie cutter. Place meat in the middle and fold over the sides into a half-moon shape, pinching the edges together. Connect the two corners together.
 
 3. To Boil Pelmeni

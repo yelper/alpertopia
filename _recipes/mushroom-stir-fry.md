@@ -5,6 +5,9 @@ servings: 4
 prep_time: 20
 cook_time: 15
 reference: Cancer Diet Cookbook
+
+image: mushroom-stir-fry.jpg
+
 ingredients:
 - slug: tofu
   amount: 1 block
@@ -24,6 +27,8 @@ ingredients:
 - slug: baby bok choy
   amount: 4
   notes: roughly chopped
+- slug: snap peas
+  amount: 1 C
 - slug: scallions
   amount: 5
   notes: white parts only, thinly sliced
@@ -54,6 +59,6 @@ ingredients:
 
 1. Wrap the tofu in a dish towel, let sit for 10-15 minutes. Remove the plate, unwrap the tofu, and cut into ½ inch cubes.
 2. In a large work, heat the avocado oil and 1 T of the soy sauce over medium-high heat. Add the tofu and fry, stirring occasionally, until all sides are lightly brown, 5-7 minutes. Transfer the tofu to a plate.
-3. Reduce the heat to medium, then add the mushrooms and saute for about 5 minutes, until tender. Add the remaining 1 T of soy sauce, bok choy, scallions, and garlic. Cook 1-2 minutes more. Reduce the heat to low and add the broth and ginger. Stir to combine and simmer until heated through and fragrant, another 2-3 minutes.
+3. Reduce the heat to medium, then add the mushrooms and saute for about 5 minutes, until tender. Add the remaining 1 T of soy sauce, bok choy, snap peas, scallions, and garlic. Cook 1-2 minutes more. Reduce the heat to low and add the broth and ginger. Stir to combine and simmer until heated through and fragrant, another 2-3 minutes.
 4. Return tofu to the plan, stir in sesame oil and sesame seeds, and toss together.
 5. Serve the stir fry over rice and add sriracha.

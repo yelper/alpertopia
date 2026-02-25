@@ -5,6 +5,9 @@ servings: 8
 prep_time: 10
 cook_time: 20
 reference: https://thesaltymarshmallow.com/perfect-chocolate-waffles/
+
+image: chocolate-waffles.jpg
+
 ingredients:
 - slug: all-purpose flour
   amount: 2 1/4 C

@@ -5,6 +5,9 @@ servings: 4
 prep_time:  10
 cook_time: 20
 reference: instagram
+
+image: kimchi-ramen-noodles.jpg
+
 ingredients:
 - slug: shallot
   amount: 1 small
@@ -32,9 +35,9 @@ ingredients:
   notes:
 - slug: tofu
   amount: 1 pack
-  notes: extra firim
+  notes: extra firm
 - slug: broccoli
-  amount: 4 small heads
+  amount: 3 small heads
   notes:
 - slug: coconut milk
   amount: 1 can

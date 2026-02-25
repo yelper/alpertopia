@@ -5,6 +5,9 @@ servings: 4
 prep_time: 10
 cook_time: 35
 reference: Healthy Eating Cookbook
+
+image: stuffed-peppers.jpg
+
 ingredients:
 - slug: bell peppers
   amount: 4 large

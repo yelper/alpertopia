@@ -64,7 +64,7 @@ ingredients:
 
 ---
 
-1. Cut tofu into 1-inch cubes, and place on an ovenproof tray. Toss in Braggs/soy sauce, avocado oil and apple cider vinegar.
+1. Cut tofu into 1-inch cubes, and place on an ovenproof tray. Toss in soy sauce, avocado oil and apple cider vinegar.
 2. Place under your oven's broiler (grill) for 5 minutes, or until cubes are just turning golden. Flip and cook for another 5 minutes until cubes are browned but not tough. Remove from oven and set aside.
 3. While tofu is cooking, cook noodles as per instructions (3 minutes). Then rinse, drain and set aside. Make sauce by mixing almond butter and vinegar together in a small bowl. Add maple syrup and Braggs/soy sauce and mix well until smooth.
 4. In a large skillet, heat 1 tsp oil on medium. Add mushroom slices and cook for 3 minutes, stirring frequently. Add bok choi and carrot and cook for another 3 minutes, continuing to stir.

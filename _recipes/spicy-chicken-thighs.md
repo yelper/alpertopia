@@ -5,6 +5,9 @@ servings: 4
 prep_time: 5
 cook_time: 35
 reference: https://diethood.com/spicy-sweet-sticky-chicken-thighs/
+
+image: spicy-chicken-thighs.jpg
+
 ingredients:
 - slug: chili powder
   amount: 2 tsp

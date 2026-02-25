@@ -5,6 +5,9 @@ servings: 4
 prep_time: 10
 cook_time: 20
 reference: instagram
+
+image: ramen.jpg
+
 ingredients:
 - slug: brown rice ramen
   amount: 4 chunks
@@ -41,7 +44,7 @@ ingredients:
 - slug: broth
   amount: 1/4 C
 - slug: brown sugar
-  amount: 1 tbsp
+  amount: 1 tsp
 - slug: garlic
   amount: 1 clove
   notes: minced

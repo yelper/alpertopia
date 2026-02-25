@@ -5,6 +5,9 @@ servings: 8
 prep_time: 20
 cook_time: 35
 reference: Food & Wine
+
+image: chicken-stew.jpg
+
 ingredients:
 - slug: olive oil
   amount: 2 tbsp
@@ -22,10 +25,10 @@ ingredients:
   amount: 4 cloves
   notes: minced
 - slug: bell pepper
-  amount: 2
+  amount: 3
   notes: chopped
 - slug: tomato
-  amount: 1 can
+  amount: 1 28oz can
   notes: crushed
 - slug: bacon
   amount: 1/2 C
