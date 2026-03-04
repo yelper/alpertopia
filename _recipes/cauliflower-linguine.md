@@ -28,9 +28,13 @@ ingredients:
 - slug: lemon juice
   amount: 1/2 tbsp
   notes:
+- slug: salt
+  amount: 1 tsp
 - slug: asparagus
-  amount: 1 lb
+  amount: 2 bunches
   notes: trimmed and cut into 1 1/2-inch pieces
+- slug: cherry tomatoes
+  amount: 1 pint
 - slug: whole-grain linguine
   amount:  8 oz
   notes:
@@ -49,9 +53,9 @@ ingredients:
 
 1. For the sauce: Heat 1/2 cup of water in a large sauce-pan over medium-high heat. Add the onion and cook for 4 minutes to soften. Add the garlic and cook for 30 seconds. Add the cauliflower and the Light Vegetable Broth and bring to a boil. Lower the heat to a simmer, cover, and cook for about 12 minutes, or until the cauliflower is soft.
 
-2. Transfer the cauliflower mixture to a high-powered blender and blend on high speed until smooth. Add the nutritional yeast, miso paste, and lemon juice and blend until smooth and creamy. Pour the sauce into a saucepan and keep warm over very low heat.
+2. Transfer the cauliflower mixture to a high-powered blender and blend on high speed until smooth. Add the nutritional yeast, miso paste, salt, and lemon juice and blend until smooth and creamy. Pour the sauce into a saucepan and keep warm over very low heat.
 
-3. Preheat the oven to 425F. Line a rimmed baking pan with a silicone mat or parchment paper. Arrange the asparagus in a single layer on the prepared pan. Roast in the oven for 15 minutes, or until the asparagus is tender and slightly browned.
+3. Preheat the oven to 425F. Line a rimmed baking pan with a silicone mat or parchment paper. Arrange the asparagus and cherry tomatoes in a single layer on the prepared pan. Roast in the oven for 15 minutes, or until the asparagus is tender and slightly browned.
 
 4. Cook the linguine according to package instructions in a pot of boiling water, stirring occasionally, until al dente. Drain the pasta and return it to the pot. Add the roasted asparagus and sauce and heat for a few minutes until hot, tossing gently to combine.
 

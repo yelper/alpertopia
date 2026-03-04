@@ -5,12 +5,15 @@ servings: 5
 prep_time: 10
 cook_time: 10
 reference: https://fitmencook.com/veggie-ramen-noodles/
+
+image: ramen-noodles.jpg
+
 ingredients:
 - slug: brown rice ramen noodles
-  amount: 140 g
+  amount: 5 costco chunks
   notes:
 - slug: vegetable broth
-  amount: 6 oz
+  amount: 1 C
   notes:
 - slug: cornstarch
   amount: 1 1/2 tbsp
@@ -25,7 +28,7 @@ ingredients:
   amount: 2 tbsp or more
   notes:
 - slug: eggplant
-  amount: 1/2 large
+  amount: 1 large
   notes: chopped into 1 inch pieces
 - slug: fresh ginger
   amount: 1 tbsp
@@ -46,7 +49,7 @@ ingredients:
   amount: 1
   notes: red, sliced
 - slug: carrots
-  amount: 1/3 C
+  amount: 3
   notes: shredded
 - slug: broccoli
   amount: 2 small heads

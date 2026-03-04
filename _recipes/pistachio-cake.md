@@ -1,6 +1,6 @@
 ---
 title: Flourless Pistachio Cake with Chocolate Ganache
-categories: [soup, veggie]
+categories: [baked goods]
 servings: 12
 prep_time: 60
 cook_time: 45

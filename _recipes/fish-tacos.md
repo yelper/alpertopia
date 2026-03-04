@@ -5,36 +5,39 @@ servings: 4
 prep_time: 5
 cook_time: 10
 reference: https://lemonsandzest.com/air-fryer-fish-tacos-with-cilantro-lime-slaw/#wprm-recipe-container-28730
+
+image: fish-tacos.jpg
+
 ingredients:
 - slug: tilapia or cod
-  amount: 1 1/2 lb
+  amount: 2 lb
   notes:
 - slug: chili powder
-  amount: 1 tsp
+  amount: 2 tsp
   notes:
 - slug: oregano
-  amount: 1/2 tsp
+  amount: 1 tsp
   notes:
 - slug: garlic powder
-  amount: 1/2 tsp
+  amount: 1 tsp
   notes:
 - slug: paprika
-  amount: 1/2 tsp
+  amount: 1 tsp
   notes:
 - slug: cayenne
-  amount: 1/4 tsp
+  amount: 1/2 tsp
   notes:
 - slug: onion powder
-  amount: 1/4 tsp
+  amount: 1/2 tsp
   notes:
 - slug: cumin
-  amount: 1/4 tsp
+  amount: 1/2 tsp
   notes:
 - slug: sea salt
-  amount: 1/2 tsp
+  amount: 1 tsp
   notes:
 - slug: pepper
-  amount: 1/2 tsp
+  amount: 1 tsp
   notes:
 - slug: coleslaw mix
   amount: 2 1/2 C
@@ -46,7 +49,7 @@ ingredients:
   amount: 1 tbsp
   notes:
 - slug: garlic
-  amount: 1 clove
+  amount: 2 clove
   notes: minced
 - slug: cilantro
   amount: 1/3 C

@@ -1,6 +1,6 @@
 ---
 title: Sourdough
-categories: [soup, veggie]
+categories: [baked goods]
 servings: 1 loaf
 prep_time: hella
 cook_time:

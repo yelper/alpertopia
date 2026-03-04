@@ -1,6 +1,6 @@
 ---
 title:
-categories: [soup, veggie]
+categories: [baked goods]
 servings:
 prep_time:
 cook_time:
