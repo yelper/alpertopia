@@ -6,16 +6,16 @@ prep_time: 10
 cook_time: 45
 reference: https://pinchofyum.com/easy-homemade-yellow-curry-paste
 ingredients:
-- slug: shallots
+- slug: shallot
   amount: 4
-  notes:
+  notes: 
 - slug: garlic
   amount: 4 heads (NOT CLOVES)
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 1 6-inch piece
-  notes:
-- slug: Thai chili peppers
+  notes: fresh
+- slug: thai chili peppers
   amount: 5-20
   notes: whole, dried
 - slug: salt
@@ -27,15 +27,15 @@ ingredients:
 - slug: curry powder
   amount: 3 tbsp
   notes:
-- slug: ground coriander
+- slug: coriander
   amount: 2 tsp
-  notes:
+  notes: ground
 - slug: lemongrass paste
   amount: 3 tbsp
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/4 C packed
-  notes: leaves and stems
+  notes: fresh, leaves and stems
 
 
 ---

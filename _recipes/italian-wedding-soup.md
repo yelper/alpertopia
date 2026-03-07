@@ -9,22 +9,22 @@ ingredients:
 - slug: ground chuck
   amount: 1/2 lb
   notes:
-- slug: Italian bread crumbs
+- slug: italian bread crumbs
   amount: 1/4 C
-  notes:
+  notes: 
 - slug: parmesan cheese
   amount: 2 tbsp
   notes:
-- slug: fresh parsley
+- slug: parsley
   amount: 1 tbsp
-  notes: chopped
+  notes: fresh, chopped
 - slug: garlic
   amount: 1 clove
   notes: minced
 - slug: milk
   amount: 2 tbsp
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
   notes: beaten
 - slug: kosher salt
@@ -33,9 +33,9 @@ ingredients:
 - slug: black pepper
   amount: 1/2 tsp
   notes:
-- slug: Italian seasoning
+- slug: italian seasoning
   amount: 1 1/2 tsp
-  notes:
+  notes: 
 - slug:
   amount:
   notes:
@@ -54,15 +54,15 @@ ingredients:
 - slug: garlic
   amount: 3 cloves
   notes: minced
-- slug: chicken stock
+- slug: chicken broth
   amount: 7 C
-  notes:
-- slug: fresh dill
+  notes: 
+- slug: dill
   amount: 1/4 C
-  notes: chopped
-- slug: dried oregano
+  notes: fresh, chopped
+- slug: oregano
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: kosher salt
   amount: 1 tsp
   notes:
@@ -72,9 +72,9 @@ ingredients:
 - slug: acini de pepe
   amount: 1/2 C
   notes:
-- slug: fresh spinach leaves
+- slug: spinach
   amount: 2 C
-  notes: rinsed, stems removed and julienned
+  notes: fresh, rinsed, stems removed and julienned
 - slug: parmesan cheese
   amount: 1/4 C
   notes:

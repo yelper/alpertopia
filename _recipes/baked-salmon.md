@@ -12,15 +12,15 @@ ingredients:
 - slug: olive oil
   amount: 3 tbsp
   notes:
-- slug: herbes de Provence
+- slug: herbes de provence
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/4 tsp
-  notes:
+  notes: 
 - slug: asparagus
   amount: 1 bunch
   notes: trimmed and cut in half
@@ -36,9 +36,9 @@ ingredients:
 - slug: balsamic vinegar
   amount: 2 tbsp
   notes:
-- slug: fresh basil
+- slug: basil
   amount: 1/2 C
-  notes: chopped
+  notes: fresh, chopped
 
 
 ---

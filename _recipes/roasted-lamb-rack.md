@@ -36,8 +36,9 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: Dijon mustard
+- slug: dijon mustard
   amount: 1 tbsp
+  notes: 
 
 ---
 

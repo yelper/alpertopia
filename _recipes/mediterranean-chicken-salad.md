@@ -24,24 +24,24 @@ ingredients:
 - slug:  parsley
   amount: 2 tbsp
   notes: fresh, chopped
-- slug: dried basil
+- slug: basil
   amount: 2 tsp
-  notes:
+  notes: dried
 - slug: garlic
   amount: 2 tsp
   notes: minced
-- slug: dried oregano
+- slug: oregano
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: pepper
-  amount:
+- slug: black pepper
+  amount: 
   notes: to taste
-- slug: chicken breast or thighs
+- slug: chicken
   amount: 1 lb
-  notes: skinless, boneless
+  notes: breast or thighs, skinless, boneless
 - slug: romaine lettuce
   amount: 4 C
   notes: washed and dried
@@ -57,7 +57,7 @@ ingredients:
 - slug: avocado
   amount: 1
   notes: sliced
-- slug: Kalamata olives
+- slug: kalamata olives
   amount: 1/3 C
   notes: pitted and sliced
 - slug: lemon wedges

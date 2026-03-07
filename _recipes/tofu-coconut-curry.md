@@ -6,9 +6,9 @@ prep_time: 10
 cook_time: 60
 reference: https://veganbowls.com/blogs/mains/tofu-coconut-curry
 ingredients:
-- slug: toasted sesame oil
+- slug: sesame oil
   amount: 1 tbsp
-  notes:
+  notes: toasted
 - slug: tofu
   amount: 1 block
   notes: firm, cut into 1 inch cubes
@@ -27,9 +27,9 @@ ingredients:
 - slug: curry powder
   amount: 1 tbsp
   notes:
-- slug: ground turmeric
+- slug: turmeric
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: paprika
   amount: 1/4 tsp
   notes:
@@ -48,8 +48,11 @@ ingredients:
 - slug: kale
   amount: 50 g
   notes: chopped
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: olive oil
   amount: 1 tbsp
@@ -57,12 +60,12 @@ ingredients:
 - slug: lemon
   amount: 1/2-1
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/4 C
-  notes: chopped
-- slug: chili flakes
+  notes: fresh, chopped
+- slug: red pepper flakes
   amount: pinch of
-  notes:
+  notes: 
 
 ---
 

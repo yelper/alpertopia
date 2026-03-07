@@ -15,15 +15,15 @@ ingredients:
 - slug: butter
   amount: 1/2 tsp
   notes:
-- slug: ground cinnamon
+- slug: cinnamon
   amount: 1 tsp
-  notes:
-- slug: ground cloves
+  notes: ground
+- slug: cloves
   amount: 1/4 tsp
-  notes:
-- slug: ground nutmeg
+  notes: ground
+- slug: nutmeg
   amount: 1/4 tsp
-  notes:
+  notes: ground
 
 
 ---

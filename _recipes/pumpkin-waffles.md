@@ -18,8 +18,9 @@ ingredients:
   amount: 1 tsp
 - slug: baking soda
   amount: 1 tsp
-- slug: shaken buttermilk or yogurt
+- slug: dairy
   amount: 1 C
+  notes: shaken buttermilk or yogurt
 - slug: pure pumpkin puree
   amount: 1/2 C
 - slug: neutral oil

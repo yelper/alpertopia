@@ -15,8 +15,11 @@ ingredients:
 - slug: paprika
   amount: 1 tbsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: baking powder
   amount: 2 tbsp
@@ -24,9 +27,9 @@ ingredients:
 - slug: honey
   amount: 1/3 C
   notes:
-- slug: sriarcha sauce
+- slug: sriracha
   amount: 1/3 C
-  notes:
+  notes: 
 - slug: sesame oil
   amount: 1/4 tsp
   notes:

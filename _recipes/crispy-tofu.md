@@ -12,8 +12,11 @@ ingredients:
 - slug: avocado oil
   amount: 3 tbsp
   notes:
-- slug: kosher salt and black pepper
-  amount:
+- slug: kosher salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: snap peas
   amount: 3/4 lb
@@ -36,16 +39,16 @@ ingredients:
 - slug: molasses
   amount: 2 tsp
   notes:
-- slug: toasted cashews
+- slug: cashews
   amount: 1/2 C
-  notes:
+  notes: toasted
 - slug: rice vinegar
   amount: 1 tbsp
   notes:
-- slug: scallions
+- slug: green onions
   amount: 4
   notes: trimmed and thinly sliced
-- slug: mint leaves
+- slug: mint
   amount: 1/4 C
   notes: chopped
 - slug: red pepper flakes

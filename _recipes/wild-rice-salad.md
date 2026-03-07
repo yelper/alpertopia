@@ -18,7 +18,7 @@ ingredients:
 - slug: mandarins
   amount: 2
   notes: peeled and chopped
-- slug: cucumbers
+- slug: cucumber
   amount: 1
   notes: quartered and chopped
 - slug: cherry tomatoes

@@ -36,8 +36,9 @@ ingredients:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: dried cranberries
+- slug: cranberries
   amount: 1 C
+  notes: dried
 
 ---
 

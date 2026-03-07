@@ -19,15 +19,16 @@ ingredients:
   amount: 1/2 tsp
 - slug: milk
   amount: 1 C
-- slug: large egg
+- slug: eggs
   amount: 1
+  notes: large
 - slug: applesauce
   amount: 2 tbsp
 - slug: vanilla extract
   amount: 1/2 tsp
-- slug: very ripe bananas
+- slug: bananas
   amount: 2
-  notes: mashed (about 1 C)
+  notes: very ripe, mashed (about 1 C)
 - slug: mini chocolate chips
   amount: 1/2 C
 

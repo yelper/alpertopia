@@ -12,9 +12,9 @@ ingredients:
 - slug: sugar 
   amount: 2 C
   notes: divided
-- slug: powdered cocoa
+- slug: cocoa powder
   amount: 1/2 C
-  notes:
+  notes: 
 - slug: salt
   amount: 1/4 tsp
   notes:

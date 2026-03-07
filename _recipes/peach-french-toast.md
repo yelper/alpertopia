@@ -9,8 +9,9 @@ ingredients:
 - slug: french bread
   amount: 8 oz loaf
   notes: sliced
-- slug: large eggs
+- slug: eggs
   amount: 8
+  notes: large
 - slug: whole milk
   amount: 2 C
 - slug: sugar
@@ -20,9 +21,9 @@ ingredients:
 - slug: sliced peaches
   amount: 2 15 oz cans
   notes: drained
-- slug: dark brown sugar
+- slug: brown sugar
   amount: 1/2 C
-  notes: packed
+  notes: dark, packed
 - slug: cinnamon
   amount: 1/2 tsp
 - slug: heavy cream

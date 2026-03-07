@@ -24,15 +24,15 @@ ingredients:
 - slug: butter
   amount: 1/2 C
   notes: melted
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
-- slug: vanilla
+  notes: 
+- slug: vanilla extract
   amount: 1 tsp
-  notes:
-- slug: jam or preserves
+  notes: 
+- slug: jam
   amount: 1/4 C
-  notes:
+  notes: or preserves
 
 ---
 

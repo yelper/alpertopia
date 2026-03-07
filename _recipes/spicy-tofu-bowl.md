@@ -12,9 +12,12 @@ ingredients:
 - slug: cornstarch
   amount: 2 tbsp
   notes:
-- slug: olive oil and salt
-  amount:
-  notes:
+- slug: olive oil
+  amount: 
+  notes: 
+- slug: salt
+  amount: 
+  notes: 
 - slug: broccoli
   amount: 2 small heads
   notes: cut into florets
@@ -42,9 +45,9 @@ ingredients:
 - slug: honey
   amount: 2 tbsp
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: a small knob
-  notes: peeled
+  notes: fresh, peeled
 
 
 ---

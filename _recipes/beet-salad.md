@@ -15,9 +15,9 @@ ingredients:
 - slug: cashews
   amount: 1/2 C
   notes: roasted
-- slug: dried cranberries
+- slug: cranberries
   amount: 1/4 C
-  notes:
+  notes: dried
 - slug: goat cheese
   amount: 2 oz
   notes:

@@ -6,9 +6,9 @@ prep_time:
 cook_time:
 reference: https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
 ingredients:
-- slug: sweet Italian sausage
+- slug: sweet italian sausage
   amount: 1 lb
-  notes:
+  notes: 
 - slug: ground beef
   amount: 3/4 lb
   notes:
@@ -33,18 +33,18 @@ ingredients:
 - slug: sugar
   amount: 2 tbsp
   notes:
-- slug: fresh parsley
+- slug: parsley
   amount: 4 tbsp
-  notes: chopped, divided
-- slug: dried basil leaves
+  notes: fresh, chopped, divided
+- slug: basil
   amount: 1 1/2 tsp
-  notes:
+  notes: dried
 - slug: salt
   amount: 1 1/2 tsp
   notes: divided
-- slug:  Italian seasoning
+- slug: italian seasoning
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: fennel seeds
   amount: 1/2 tsp
   notes:
@@ -57,9 +57,9 @@ ingredients:
 - slug: ricotta cheese
   amount: 16 oz
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: mozzarella cheese
   amount: 3/4 lb
   notes:  sliced

@@ -15,9 +15,9 @@ ingredients:
 - slug: vodka
   amount: 1/4 C
   notes:
-- slug: Irish cream liqueur
+- slug: irish cream liqueur
   amount: 1/2 C
-  notes:
+  notes: 
 - slug: frozen whipped topping
   amount: 1 8 oz container
   notes: thawed

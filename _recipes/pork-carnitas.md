@@ -12,15 +12,18 @@ ingredients:
 - slug: boneless pork roast
   amount: 4-5 lb
   notes: cut into 2-inch chunks
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: olive oil
   amount: 1 tbsp
   notes:
-- slug: beer (or broth)
+- slug: beer
   amount: 1 C
-  notes:
+  notes: or broth
 - slug: garlic
   amount: 6 cloves
   notes: minced
@@ -39,11 +42,17 @@ ingredients:
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
-- slug: cilantro, onion and salsa
-  amount:
+  notes: 
+- slug: cilantro
+  amount: 
+  notes: for serving
+- slug: onion
+  amount: 
+  notes: for serving
+- slug: salsa
+  amount: 
   notes: for serving
 - slug: pineapple
   amount: 2 C
@@ -60,11 +69,14 @@ ingredients:
 - slug: cumin
   amount: 1/2 tsp
   notes:
-- slug:  jalapeno
+- slug: jalapenos
   amount: 1
   notes: seeded and finely diced
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 ---

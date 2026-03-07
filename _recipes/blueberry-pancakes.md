@@ -20,8 +20,9 @@ ingredients:
   amount: 1/2 tsp
 - slug: salt
   amount: 1/2 tsp
-- slug: egg
+- slug: eggs
   amount: 1
+  notes: 
 - slug: butter
   amount: 2 tbsp
   notes: melted

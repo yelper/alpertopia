@@ -30,9 +30,9 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes: grated
-- slug: fresh ginger
+- slug: ginger
   amount: 2 tbsp
-  notes:
+  notes: fresh
 - slug: sriracha
   amount: 1/3 C
   notes:
@@ -72,8 +72,8 @@ ingredients:
 - slug: sesame seeds
   amount: 2 tsp
   notes:
-- slug: Hawaiian buns
-  amount:
+- slug: hawaiian buns
+  amount: 
   notes: for serving
 - slug: kimchi
   amount:

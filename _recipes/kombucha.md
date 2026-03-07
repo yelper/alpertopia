@@ -27,9 +27,9 @@ ingredients:
 - slug: sugar
   amount: 1 C
   notes:
-- slug: black or green tea
+- slug: tea
   amount: 2 tbsp
-  notes:
+  notes: black or green
 - slug: kombucha
   amount: from previous batch or store-bought
   notes:

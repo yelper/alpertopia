@@ -6,15 +6,15 @@ prep_time: 3
 cook_time: 10
 reference: https://namelymarly.com/nice-cream/
 ingredients:
-- slug: frozen bananas
+- slug: bananas
   amount: 2
-  notes:
+  notes: frozen
 - slug: maple syrup
   amount: 1 tsp
   notes:
-- slug: frozen berries
-  amount: 1 C 
-  notes: optional
+- slug: berries
+  amount: 1 C
+  notes: frozen, optional
 - slug: dates
   amount: 4-5
   notes: optional

@@ -42,15 +42,15 @@ ingredients:
 - slug: tomatoes
   amount: 1 28 oz can
   notes: crushed
-- slug: fresh cilantro
+- slug: cilantro
   amount: 2 tbsp
-  notes: finely chopped
+  notes: fresh, finely chopped
 - slug: chickpeas
   amount: 1 15 oz can
   notes: drained and rinsed
-- slug: green olives or kalamata olives
+- slug: olives
   amount: 1/2 C
-  notes: coarsely chopped
+  notes: green or kalamata, coarsely chopped
 
 
 

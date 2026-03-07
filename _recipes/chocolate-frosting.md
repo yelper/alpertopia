@@ -12,12 +12,12 @@ ingredients:
 - slug: corn syrup
   amount: 2 tbsp
   notes:
-- slug: cocoa
+- slug: cocoa powder
   amount: 1/2 C
-  notes:
-- slug: egg
+  notes: 
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: powdered sugar
   amount: 2 C
   notes:

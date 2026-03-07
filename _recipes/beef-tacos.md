@@ -24,8 +24,11 @@ ingredients:
 - slug: green chiles
   amount: 1 4oz can
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: colby jack cheese
   amount: 8 oz
@@ -51,8 +54,11 @@ ingredients:
 - slug: salt
   amount:
   notes: to taste
-- slug: cilantro and pickled red onions
-  amount:
+- slug: cilantro
+  amount: 
+  notes: for serving
+- slug: pickled red onions
+  amount: 
   notes: for serving
 ---
 

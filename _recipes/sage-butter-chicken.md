@@ -15,20 +15,23 @@ ingredients:
 - slug: avocado oil
   amount: spray of
   notes:
-- slug: dried oregano
+- slug: oregano
   amount: 1 tbsp
-  notes:
-- slug: Italian chicekn sausage
+  notes: dried
+- slug: italian chicken sausage
   amount: 6 oz
   notes: cut into 1-inch pieces
 - slug: butter
   amount: 1 1/2 tbsp
   notes:
-- slug: fresh sage
+- slug: sage
   amount: 3 tbsp
-  notes: chopped
-- slug: salt and pepper
-  amount:
+  notes: fresh, chopped
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

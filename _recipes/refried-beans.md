@@ -6,9 +6,9 @@ prep_time: 10
 cook_time: 90
 reference: https://www.inspiredtaste.net/42874/refried-beans-recipe/#itr-recipe-42874
 ingredients:
-- slug: dried pinto or black beans
+- slug: beans
   amount: 1/2 lb (about 1 C)
-  notes:
+  notes: dried, pinto or black
 - slug: water
   amount:
   notes:
@@ -39,21 +39,33 @@ ingredients:
 - slug: garlic
   amount: 1 clove
   notes: minced
-- slug:  ground cumin
+- slug: cumin
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: cayenne pepper
   amount: 1/8 tsp
   notes:
-- slug: cooked pinto or black beans
+- slug: beans
   amount: 3 C
-  notes:
+  notes: cooked, pinto or black
 - slug: lime wedges
   amount: 2-3
   notes:
-- slug: jalapeno, shredded cheese, diced white onion, diced tomato, fresh cilantro
-  amount:
+- slug: jalapenos
+  amount: 
   notes: for serving
+- slug: cheese
+  amount: 
+  notes: shredded, for serving
+- slug: white onion
+  amount: 
+  notes: diced, for serving
+- slug: tomatoes
+  amount: 
+  notes: diced, for serving
+- slug: cilantro
+  amount: 
+  notes: fresh, for serving
 
 
 ---

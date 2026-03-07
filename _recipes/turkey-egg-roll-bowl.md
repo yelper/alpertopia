@@ -15,9 +15,9 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 2 1-inch pieces
-  notes:
+  notes: fresh
 - slug: green onions
   amount: 1 bunch
   notes:
@@ -33,9 +33,9 @@ ingredients:
 - slug: chili garlic sauce
   amount: 2 tsp
   notes:
-- slug: crushed red pepper
+- slug: red pepper flakes
   amount: 1/8 tsp
-  notes:
+  notes: 
 - slug: mayonnaise
   amount: 1/4 C
   notes:
@@ -48,9 +48,9 @@ ingredients:
 - slug: soy sauce
   amount: 1/4 C
   notes:
-- slug: toasted sesame oil
+- slug: sesame oil
   amount: 1/4 C
-  notes:
+  notes: toasted
 
 
 ---

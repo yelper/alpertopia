@@ -45,9 +45,9 @@ ingredients:
 - slug: black pepper
   amount:
   notes: ground, to taste
-- slug: fresh dill
-  amount:
-  notes: for serving
+- slug: dill
+  amount: 
+  notes: fresh, for serving
 
 
 ---

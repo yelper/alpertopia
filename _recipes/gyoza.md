@@ -13,9 +13,9 @@ ingredients:
 - slug: kosher salt
   amount: 1 tsp
   notes:
-- slug: green onion
+- slug: green onions
   amount: 2
-  notes:
+  notes: 
 - slug: shiitake mushrooms
   amount: 2
   notes:

@@ -21,12 +21,12 @@ ingredients:
 - slug: vegetable broth
   amount: 6 C
   notes:
-- slug: dried thyme
+- slug: thyme
   amount: 1 tsp
-  notes:
-- slug: dried oregano
+  notes: dried
+- slug: oregano
   amount: 1/2 tsp
-  notes:
+  notes: dried
 - slug: kosher salt
   amount: 1 tsp
   notes:
@@ -39,9 +39,9 @@ ingredients:
 - slug: baby spinach
   amount: 2 C
   notes:
-- slug: fresh parsley
-  amount:
-  notes: for serving
+- slug: parsley
+  amount: 
+  notes: fresh, for serving
 - slug: parmesan cheese
   amount:
   notes: for serving

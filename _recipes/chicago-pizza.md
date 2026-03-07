@@ -43,7 +43,7 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: Italian seasoning
+- slug: italian seasoning
   amount: 2 tbsp
   notes: dried
 - slug: sugar
@@ -66,14 +66,15 @@ ingredients:
   notes: mild or hot
 - slug: pizza sauce
   amount: 3/4-1 C
-- slug: Parmesan
+- slug: parmesan cheese
   amount: 2 oz
   notes: powdered
 - slug: mozzarella
   amount: 8-12 oz
   notes: shredded
-- slug: Italian sausage
+- slug: italian sausage
   amount: 8 oz
+  notes: 
 ---
 
 1. Make the dough: Combine the flour, sugar, salt and yeast in the bowl of a stand mixer (see Tips). Whisk together to combine, then add the water and oil. Mix at low speed with the dough hook attachment, stopping occasionally to scrape down the sides of the bowl with a rubber spatula, until the dough comes together in a shaggy ball. Cover the bowl and let the dough rest for 10 minutes. Mix on medium-low speed until the dough is silky and pulls away from the sides of the bowl, about 5 minutes. Transfer the dough to a lightly floured work surface.

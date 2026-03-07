@@ -18,9 +18,9 @@ ingredients:
 - slug: sugar
   amount: 1 tbsp
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: salt
   amount: 1/4 tsp
   notes:

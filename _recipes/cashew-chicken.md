@@ -9,9 +9,9 @@ reference: Nourish the Cancer Care Cookbook
 image: chicken-cashew.jpg
 
 ingredients:
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: cornstarch
   amount: 1 tbsp
   notes:
@@ -45,11 +45,14 @@ ingredients:
 - slug: soy sauce
   amount: 3 tbsp
   notes:
-- slug: cilantro leaves
+- slug: cilantro
   amount: 2 tbsp
   notes: chopped
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: cashews
   notes: for serving

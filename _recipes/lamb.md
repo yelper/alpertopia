@@ -9,8 +9,11 @@ ingredients:
 - slug: leg of lamb
   amount: 4-5 lb
   notes: bone-in
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: olive oil
   amount:

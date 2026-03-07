@@ -36,7 +36,7 @@ ingredients:
 - slug: whole wheat flour
   amount: 1 3/4 C
   notes:
-- slug: old-fashioned oast
+- slug: rolled oats
   amount: 1/3 C
   notes: plus more for sprinkling
 

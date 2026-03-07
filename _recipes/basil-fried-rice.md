@@ -40,18 +40,21 @@ ingredients:
 - slug: chili garlic sauce
   amount: 2 spoons
   notes:
-- slug: toasted sesame oil
+- slug: sesame oil
   amount: 1 tsp
-  notes:
-- slug: salt and pepper
-  amount:
+  notes: toasted
+- slug: salt
+  amount: 
   notes: to taste
-- slug: spring onions
+- slug: black pepper
+  amount: 
+  notes: to taste
+- slug: green onions
   amount: 2
   notes: sliced
-- slug: Thai basil
+- slug: thai basil
   amount: handful
-  notes:
+  notes: 
 - slug: cashews
   amount: 75 g
   notes: toasted, roughly chopped

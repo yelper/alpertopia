@@ -15,14 +15,17 @@ ingredients:
 - slug: beef broth
   amount: 5 C
   notes: 
-- slug: Worcestershire sauce
+- slug: worcestershire sauce
   amount: 6 tsp
-  notes:
+  notes: 
 - slug: garlic powder
   amount: 3 tsp
   notes:
-- slug: salt and pepper 
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: xanthan gum
   amount: 1 1/2 tsp

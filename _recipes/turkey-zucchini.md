@@ -12,7 +12,7 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: shallots
+- slug: shallot
   amount: 2
   notes: chopped
 - slug: ground turkey
@@ -21,9 +21,9 @@ ingredients:
 - slug: mushrooms
   amount: 8 oz
   notes: cremini, chopped
-- slug: herbes de Provence
+- slug: herbes de provence
   amount: 1 tbsp
-  notes:
+  notes: 
 - slug: sea salt
   amount: 1/2 tsp
   notes:
@@ -39,8 +39,8 @@ ingredients:
 - slug: parmesan cheese
   amount:
   notes: for serving
-- slug: rice or other side
-  notes: for serving
+- slug: side
+  notes: rice or other, for serving
 
 
 ---

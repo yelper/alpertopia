@@ -24,9 +24,9 @@ ingredients:
 - slug: chili powder
   amount: 1 tbsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: salt
   amount: 1 tsp
 - slug: tomato sauce
@@ -44,8 +44,11 @@ ingredients:
 - slug: guacamole
   amount:
   notes: for serving
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

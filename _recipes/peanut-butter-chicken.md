@@ -6,12 +6,12 @@ prep_time: 10
 cook_time: 15
 reference: http://fitmencook.com/4-leftover-chicken-recipes/
 ingredients:
-- slug: chicken breasts
+- slug: chicken breast
   amount: 6 oz
-  notes:
-- slug: PB2
+  notes: 
+- slug: pb2 powder
   amount: 3 tbsp
-  notes:
+  notes: 
 - slug: cornstarch
   amount: 3 tsp
   notes:
@@ -21,17 +21,17 @@ ingredients:
 - slug: soy sauce
   amount: 1 tbsp
   notes:
-- slug: ground ginger
+- slug: ginger
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: rice vinegar
   amount: 1 1/2 tbsp
   notes:
-- slug: sriracha sauce
-  amount:
+- slug: sriracha
+  amount: 
   notes: for serving
-- slug: green onion
-  amount:
+- slug: green onions
+  amount: 
   notes: for serving
 - slug: sesame seeds
   amount:

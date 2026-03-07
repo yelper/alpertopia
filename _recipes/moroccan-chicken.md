@@ -9,9 +9,9 @@ ingredients:
 - slug: cumin
   amount: 2 tsp
   notes:
-- slug: ground ginger
+- slug: ginger
   amount: 1 1/2 tsp
-  notes:
+  notes: ground
 - slug: salt
   amount: 1 1/2 tsp
   notes:
@@ -24,9 +24,9 @@ ingredients:
 - slug: cinnamon
   amount: 1/2 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: olive oil
   amount: 3 tbsp
   notes:
@@ -51,9 +51,9 @@ ingredients:
 - slug: green olives
   amount: 14
   notes: pitted
-- slug: fresh parsley
+- slug: parsley
   amount: 1 C
-  notes:
+  notes: fresh
 - slug: broth
   amount: 1 C
   notes:

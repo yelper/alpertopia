@@ -30,12 +30,12 @@ ingredients:
 - slug: parmesan cheese
   amount: 2/3 C
   notes: divided
-- slug: fresh basil
+- slug: basil
   amount: 1/4 C
-  notes: divided
-- slug: fresh parsley
+  notes: fresh, divided
+- slug: parsley
   amount: 1/4 C
-  notes: divided
+  notes: fresh, divided
 - slug: rice
   notes: for serving
 

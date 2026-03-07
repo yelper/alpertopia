@@ -21,9 +21,9 @@ ingredients:
 - slug: garlic
   amount: 1 clove
   notes: halved
-- slug: fresh basil
+- slug: basil
   amount: 1 sprig
-  notes:
+  notes: fresh
 - slug: bay leaf
   amount: 1
   notes:

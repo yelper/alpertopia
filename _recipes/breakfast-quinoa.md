@@ -15,11 +15,13 @@ ingredients:
   amount: 1/4 tsp
 - slug: salt
   amount: pinch
-- slug: vanilla
+- slug: vanilla extract
   amount: 3/4 tsp
-- slug: pure maple syrup
+  notes: 
+- slug: maple syrup
   amount: 1/2 tbsp
-- slug: Fresh fruit and nuts
+  notes: 
+- slug: fruit and nuts
   notes: to top
 ---
 

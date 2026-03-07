@@ -21,12 +21,12 @@ ingredients:
 - slug: cucumber
   amount: 1 medium
   notes: peeled, seeded, diced
-- slug: fresh parsley
+- slug: parsley
   amount: 3/4 C
-  notes: chopped
-- slug: fresh dill or mint
+  notes: fresh, chopped
+- slug: herbs
   amount: 2 tbsp
-  notes: chopped
+  notes: fresh dill or mint, chopped
 - slug: olive oil
   amount: 1/4 C
   notes:

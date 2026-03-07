@@ -24,7 +24,10 @@ ingredients:
 - slug: mozzarella cheese
   amount: 1/4 C
   notes: shredded
-- slug: salt and pepper
+- slug: salt
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: green onions
   amount: 4

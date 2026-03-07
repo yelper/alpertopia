@@ -12,9 +12,9 @@ ingredients:
 - slug: butter
   amount: 1 tbsp
   notes: softened
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 2 C
-  notes:
+  notes: 
 - slug: baking soda
   amount: 1 tsp
   notes:
@@ -45,9 +45,9 @@ ingredients:
 - slug: brown sugar
   amount: 1/4 C
   notes: packed
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 1/4 C
-  notes:
+  notes: 
 - slug: cinnamon
   amount: 1/2 tsp
   notes:

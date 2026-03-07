@@ -24,17 +24,20 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: crushed
-- slug: fresh dill
+- slug: dill
   amount: 2 tbsp
-  notes:
-- slug: fresh parsley
+  notes: fresh
+- slug: parsley
   amount: 2 tbsp
-  notes:
+  notes: fresh
 - slug: salmon
   amount: 4 filets
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 ---

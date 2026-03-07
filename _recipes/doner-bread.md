@@ -6,9 +6,9 @@ prep_time: 60
 cook_time: 15
 reference: https://www.youtube.com/watch?v=ZEF354SpSxg
 ingredients:
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 200 g
-  notes:
+  notes: 
 - slug: water
   amount: 1/2 C
   notes:

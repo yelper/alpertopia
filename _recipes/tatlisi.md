@@ -9,9 +9,9 @@ ingredients:
 - slug: 100g butter
   amount:
   notes: room temperature
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: yogurt
   amount: 2 tbsp
   notes: plain
@@ -39,7 +39,10 @@ ingredients:
 - slug: lemon
   amount: 1 slice
   notes:
-- slug: pistachios and rose petals
+- slug: pistachios
+  notes: for serving
+- slug: rose petals
+  amount: 
   notes: for serving
 ---
 

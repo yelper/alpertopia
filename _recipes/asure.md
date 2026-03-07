@@ -45,7 +45,7 @@ ingredients:
 - slug: raisins
   amount: 1 C
   notes:
-- slug: apple
+- slug: apples
   amount: 1
   notes: diced
 - slug: orange

@@ -25,8 +25,11 @@ ingredients:
 - slug: garlic
   amount: 3 cloves
   notes: minced
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: soy sauce
   amount: 3 tbsp

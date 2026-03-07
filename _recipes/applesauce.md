@@ -15,9 +15,9 @@ ingredients:
 - slug: lemon juice
   amount: 1 tbsp
   notes:
-- slug: ground cinnamon
+- slug: cinnamon
   amount: 1/2 tsp
-  notes:
+  notes: ground
 
 
 ---

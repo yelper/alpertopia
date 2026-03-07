@@ -30,9 +30,9 @@ ingredients:
 - slug: eggplant
   amount: 1 large
   notes: chopped into 1 inch pieces
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tbsp
-  notes: grated
+  notes: fresh, grated
 - slug: avocado oil
   amount: 1 tbsp
   notes:

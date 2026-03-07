@@ -9,9 +9,9 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes:
-- slug: jalapeno
+- slug: jalapenos
   amount: 1
-  notes:
+  notes: 
 - slug: oil
   amount: 1 tbsp
   notes:

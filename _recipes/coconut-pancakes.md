@@ -18,8 +18,9 @@ ingredients:
   amount: 1 C
 - slug: mini chocolate chips
   amount: 3/4 C
-- slug: egg
+- slug: eggs
   amount: 1
+  notes: 
 - slug: milk
   amount: 1 1/2 C
 - slug: butter

@@ -18,12 +18,12 @@ ingredients:
 - slug: garlic
   amount: 6 cloves
   notes: minced
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tbsp
-  notes: grated
+  notes: fresh, grated
 - slug: vegetable broth
   amount: 4 C
-- slug: sweet potato
+- slug: sweet potatoes
   amount: 1 (2 C)
   notes: cut into 1-inch pieces
 - slug: carrots
@@ -43,12 +43,12 @@ ingredients:
   notes: halved
 - slug: brown rice vinegar
   amount: 1 tbsp
-- slug: scallions
+- slug: green onions
   amount: 1/4 C
   notes: thinly sliced
-- slug: toasted nori
+- slug: nori
   amount: 1/4 sheet
-  notes: thinly sliced
+  notes: toasted, thinly sliced
 - slug: togarashi seasoning
   notes: to taste
 

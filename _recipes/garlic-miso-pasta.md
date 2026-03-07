@@ -15,9 +15,9 @@ ingredients:
 - slug: sesame oil
   amount: 3 tbsp
   notes:
-- slug: Everything-but-the-Bagel Spice
+- slug: everything bagel seasoning
   amount: 2 tbsp
-  notes:
+  notes: 
 - slug: pasta noodles
   amount: 15 oz
   notes: long or medium-sized
@@ -39,9 +39,9 @@ ingredients:
 - slug: rice wine vinegar
   amount: 1 tbsp
   notes:
-- slug:  ground black pepper
-  amount:
-  notes: to taste
+- slug: black pepper
+  amount: 
+  notes: ground, to taste
 - slug:  green onions
   amount:
   notes: sliced, for serving

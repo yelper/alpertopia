@@ -24,15 +24,15 @@ ingredients:
 - slug: celery
   amount: 5 stalks
   notes: sliced
-- slug: fresh pineapple
+- slug: pineapple
   amount: 1 1/2 C
-  notes: cut into 1-inch pieces
+  notes: fresh, cut into 1-inch pieces
 - slug: garlic
   amount: 2 cloves
   notes: minced
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tsp
-  notes: minced
+  notes: fresh, minced
 - slug: red pepper flakes
   amount: 1/2 tsp
   notes:

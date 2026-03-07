@@ -57,14 +57,17 @@ ingredients:
 - slug: red onion
   amount: 4 tbsp
   notes: finely diced
-- slug: fresh mint
+- slug: mint
   amount: 1/2 C
-  notes: chopped
-- slug: fresh basil
+  notes: fresh, chopped
+- slug: basil
   amount: 16 leaves
-  notes: torn into small pieces
-- slug: salt and pepper
-  amount:
+  notes: fresh, torn into small pieces
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: creme fraiche
   amount: 1/2 C
@@ -75,9 +78,9 @@ ingredients:
 - slug: serrano chile
   amount: 1
   notes: seeded and finely minced
-- slug: fresh drill
+- slug: dill
   amount: 4 tbsp
-  notes: finely minced
+  notes: fresh, finely minced
 - slug: pomegranate molasses
   amount: 1 tsp
 

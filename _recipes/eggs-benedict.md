@@ -28,13 +28,14 @@ ingredients:
 - slug: english muffins
   amount: 1
   notes: split
-- slug: canadian bacon or thick-cut ham
+- slug: ham
   amount: 2 slices
-  notes: (can use 8 slices bacon instead)
+  notes: canadian bacon or thick-cut, (can use 8 slices bacon instead)
 - slug: chives
   notes: chopped
-- slug: chopped dill, tarragon, or parsely
+- slug: herbs
   amount: 2 tbsp
+  notes: chopped, dill, tarragon, or parsley
 - slug: flaky sea salt
   notes: to taste
 - slug: black pepper

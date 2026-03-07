@@ -15,13 +15,13 @@ ingredients:
 - slug: water
   amount: 2 tbsp
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tsp
-  notes:
+  notes: fresh
 - slug: garlic
   amount: 1 clove
   notes: minced
-- slug: scallions
+- slug: green onions
   amount: 2
   notes: white and light green parts only
 - slug: salmon

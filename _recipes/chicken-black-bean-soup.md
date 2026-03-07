@@ -29,17 +29,17 @@ ingredients:
 - slug: chili powder
   amount: 3 tsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: cornstarch
   amount: 1 tbsp
   notes:
 - slug: tortilla chips
   amount: 18
   notes:
-- slug: shredded Mexican cheese blend
-  amount:
+- slug: shredded mexican cheese blend
+  amount: 
   notes: optional
 
 

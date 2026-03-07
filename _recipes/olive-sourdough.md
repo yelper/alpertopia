@@ -30,10 +30,10 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: chopped
-- slug: fresh oregano
+- slug: oregano
   amount: 1/2 tbsp
-  notes:
-- slug: Kalamata olives
+  notes: fresh
+- slug: kalamata olives
   amount: 1/2 C
   notes: chopped
 

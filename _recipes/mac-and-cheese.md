@@ -30,9 +30,9 @@ ingredients:
 - slug: nutritional yeast
   amount: 1/4 C
   notes:
-- slug: ground turmeric
+- slug: turmeric
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: paprika
   amount: 1 tsp
   notes:
@@ -42,8 +42,11 @@ ingredients:
 - slug: white miso paste
   amount: 1 tsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

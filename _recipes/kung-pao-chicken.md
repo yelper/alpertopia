@@ -15,8 +15,11 @@ ingredients:
 - slug: sesame oil
   amount: 1 tsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: soy sauce
   amount: 1/4 C
@@ -33,9 +36,9 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: minced
-- slug: fresh ginger
+- slug: ginger
   amount: 1/2 tsp
-  notes: grated
+  notes: fresh, grated
 - slug:  cornstarch
   amount: 2 tbsp
   notes:

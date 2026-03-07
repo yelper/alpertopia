@@ -12,15 +12,15 @@ ingredients:
 - slug: caster sugar
   amount: 200 g
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
-- slug: vanilla
+  notes: 
+- slug: vanilla extract
   amount: 1 tsp
-  notes:
-- slug: ground ginger
+  notes: 
+- slug: ginger
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: pumpkin spice
   amount: 1/2 tsp
   notes:

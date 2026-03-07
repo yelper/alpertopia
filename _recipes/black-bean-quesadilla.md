@@ -48,9 +48,9 @@ ingredients:
 - slug: whole wheat tortillas
   amount: 4
   notes:
-- slug: Mexican cheese blend
+- slug: mexican cheese blend
   amount: 1 1/2 C
-  notes:
+  notes: 
 - slug: guacamole
   amount:
   notes: for serving

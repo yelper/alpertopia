@@ -21,12 +21,24 @@ ingredients:
 - slug:  warm water
   amount:  1 1/3 C
   notes:
-- slug: extra bread flour
-  amount:  3/4 C
-  notes: for kneading in
-- slug: caraway seeds, minced garlic, poppy seeds, dried onion and sesame seeds
-  amount:
-  notes: optional toppings
+- slug: bread flour
+  amount: 3/4 C
+  notes: extra, for kneading in
+- slug: caraway seeds
+  amount: 
+  notes: optional topping
+- slug: garlic
+  amount: 
+  notes: minced, optional topping
+- slug: poppy seeds
+  amount: 
+  notes: optional topping
+- slug: dried onion
+  amount: 
+  notes: optional topping
+- slug: sesame seeds
+  amount: 
+  notes: optional topping
 - slug:
   amount:
   notes:

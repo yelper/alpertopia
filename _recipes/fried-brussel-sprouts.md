@@ -18,8 +18,11 @@ ingredients:
 - slug: avocado oil
   amount: 1 tbsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: olive oil
   amount: 1 tbsp
@@ -27,12 +30,12 @@ ingredients:
 - slug: garlic
   amount: 1 tbsp
   notes: minced
-- slug: green onion
+- slug: green onions
   amount: 1/2 C
   notes: chopped
-- slug: fresh ginger
+- slug: ginger
   amount: 2 tsp
-  notes:
+  notes: fresh
 - slug: cooked brown rice
   amount: 2 1/2 C
   notes:
@@ -42,12 +45,12 @@ ingredients:
 - slug: soy sauce
   amount: 3 tbsp
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/3 C
-  notes: chopped
-- slug: toasted sesame oil
+  notes: fresh, chopped
+- slug: sesame oil
   amount: 1 1/2 tsp
-  notes: for serving
+  notes: toasted, for serving
 - slug: lime juice
   amount:
   notes: for serving

@@ -9,7 +9,7 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes: divided
-- slug: sweet potato
+- slug: sweet potatoes
   amount: 1 small
   notes: peeled and diced
 - slug: cauliflower
@@ -30,9 +30,9 @@ ingredients:
 - slug: salt 
   amount:
   notes: to taste
-- slug: Israeli couscous
+- slug: israeli couscous
   amount: 300 g
-  notes:
+  notes: 
 - slug: hemp hearts
   amount: 2 tbsp
   notes:
@@ -54,11 +54,14 @@ ingredients:
 - slug: avocado oil
   amount: 1/2 C
   notes:
-- slug: fresh dill
+- slug: dill
   amount: 1 tbsp
-  notes: chopped
-- slug: salt and pepper
-  amount:
+  notes: fresh, chopped
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 ---

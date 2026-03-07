@@ -33,9 +33,9 @@ ingredients:
 - slug: molasses
   amount: 2 tsp
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1 1/2 tsp
-  notes:
+  notes: 
 - slug: baking powder
   amount: 1 tsp
   notes:

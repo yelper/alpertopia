@@ -42,10 +42,10 @@ ingredients:
 - slug: raisins
   amount: 1/3 C
   notes:
-- slug: apple
+- slug: apples
   amount: 1
   notes: cored and chopped
-- slug: green onion
+- slug: green onions
   amount: 1 tbsp
   notes: chopped
 - slug: whole wheat tortillas

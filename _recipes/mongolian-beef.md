@@ -18,18 +18,18 @@ ingredients:
 - slug: garlic
   amount: 8 cloves
   notes: pressed
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tbsp
-  notes: minced
+  notes: fresh, minced
 - slug: soy sauce
   amount: 3/4 C
   notes:
 - slug: rice wine vinegar
   amount: 2 tbsp
   notes:
-- slug: toasted sesame oil
+- slug: sesame oil
   amount: 3 tsp
-  notes:
+  notes: toasted
 - slug: red pepper flakes
   amount: 1/2 tsp
   notes:

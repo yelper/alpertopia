@@ -27,9 +27,9 @@ ingredients:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/8 tsp
-  notes:
+  notes: 
 - slug: dijon mustard
   amount: 2 tsp
   notes:

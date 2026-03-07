@@ -12,18 +12,18 @@ ingredients:
 - slug: tofu
   amount: 1 block
   notes: crumble into small pieces
-- slug: Thai basil
+- slug: thai basil
   amount: 1 handful
-  notes:
+  notes: 
 - slug: yellow onion
   amount: 1
   notes: sliced
 - slug: garlic
   amount: 3 cloves
   notes: minced
-- slug: Thai chili pepper
+- slug: thai chili peppers
   amount: 2
-  notes:
+  notes: 
 - slug: cornstarch
   amount: 2 tbsp
   notes:

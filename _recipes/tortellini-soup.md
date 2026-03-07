@@ -6,9 +6,9 @@ prep_time: 20
 cook_time: 20
 reference: https://pinchofyum.com/tortellini-soup
 ingredients:
-- slug: Italian sausage
+- slug: italian sausage
   amount: 1 lb
-  notes:
+  notes: 
 - slug: yellow onion
   amount: 1 small
   notes: diced
@@ -24,13 +24,13 @@ ingredients:
 - slug: kosher sea salt
   amount: 1 tsp
   notes:
-- slug: ground black pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
-- slug: Italian seasoning
+  notes: ground
+- slug: italian seasoning
   amount: 1/2 tsp
-  notes:
-- slug: fennel seed
+  notes: 
+- slug: fennel seeds
   amount: 1 tsp
   notes: crushed or chopped
 - slug: tomato paste
@@ -51,9 +51,9 @@ ingredients:
 - slug: half and half
   amount: 2 C
   notes:
-- slug: fresh spinach
+- slug: spinach
   amount: 1 handful
-  notes: chopped
+  notes: fresh, chopped
 
 ---
 

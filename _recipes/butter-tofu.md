@@ -12,12 +12,12 @@ ingredients:
 - slug: lemon juice
   amount: 2 tbsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1 tbsp
-  notes:
-- slug: ground turmeric
+  notes: ground
+- slug: turmeric
   amount: 1 tbsp plus 1 tsp
-  notes:
+  notes: ground
 - slug: tofu
   amount: 2 blocks
   notes: firm
@@ -30,9 +30,9 @@ ingredients:
 - slug: cayenne pepper
   amount: 1/2 tsp
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 3 tbsp
-  notes: peeled and minced
+  notes: fresh, peeled and minced
 - slug: garlic
   amount: 4 cloves
   notes: minced
@@ -55,15 +55,24 @@ ingredients:
   amount: 1 can
 - slug: bell peppers
   amount: 2
-- slug: scallions
+- slug: green onions
   amount: 3
   notes: thinly sliced
 - slug: cilantro
   amount: 1/4 C
   notes: leaves and stems
-- slug: Naan, rice, yogurt and quartered cucumbers
-  amount:
+- slug: naan
+  amount: 
   notes: for serving
+- slug: rice
+  amount: 
+  notes: for serving
+- slug: yogurt
+  amount: 
+  notes: for serving
+- slug: cucumber
+  amount: 
+  notes: quartered, for serving
 
 
 ---

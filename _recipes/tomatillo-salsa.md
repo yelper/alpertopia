@@ -21,9 +21,9 @@ ingredients:
 - slug: lime juice
   amount: 1 tbsp
   notes:
-- slug: jalapeno or serrano peppers
+- slug: peppers
   amount: 2
-  notes: stemmed, seeded and chopped
+  notes: jalapeno or serrano, stemmed, seeded and chopped
 - slug: salt
   amount:
   notes: to taste

@@ -12,7 +12,7 @@ ingredients:
 - slug: onion
   amount: 2 C
   notes: chopped
-- slug: carrot
+- slug: carrots
   amount: 1 C
   notes: diced
 - slug: celery
@@ -36,12 +36,12 @@ ingredients:
 - slug: bay leaf
   amount: 1 large
   notes:
-- slug: fresh thyme
+- slug: thyme
   amount: 2 tsp
-  notes: chopped and divided
-- slug: chicken stock
+  notes: fresh, chopped and divided
+- slug: chicken broth
   amount: 6 C
-  notes:
+  notes: 
 - slug: water
   amount: 2 C
   notes:

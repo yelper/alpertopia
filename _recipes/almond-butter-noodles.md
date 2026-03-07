@@ -48,13 +48,13 @@ ingredients:
 - slug: carrots
   amount: 2-3 medium
   notes: thinly sliced
-- slug: green onion
+- slug: green onions
   amount: 1
   notes: thinly sliced
 - slug: cilantro
   amount: small handful
   notes:
-- slug: almond
+- slug: almonds
   amount: small handful
   notes: toasted and chopped
 - slug: lime wedges

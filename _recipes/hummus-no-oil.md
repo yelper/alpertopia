@@ -15,9 +15,9 @@ ingredients:
 - slug: lemon juice
   amount: 2 tbsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 2 tsp
-  notes:
+  notes: ground
 - slug: coconut aminos
   amount: 2 tsp
   notes:

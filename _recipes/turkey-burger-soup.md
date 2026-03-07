@@ -21,9 +21,9 @@ ingredients:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: carrots
   amount: 1 1/2 C
   notes: sliced
@@ -39,21 +39,21 @@ ingredients:
 - slug: tomato paste
   amount: 4 tbsp
   notes:
-- slug: fresh basil
+- slug: basil
   amount: 1 tbsp
-  notes:
-- slug: fresh oregano
+  notes: fresh
+- slug: oregano
   amount: 1 tbsp
-  notes:
-- slug: fresh thyme
+  notes: fresh
+- slug: thyme
   amount: 1 tbsp
-  notes:
-- slug: chili pepper flakes
+  notes: fresh
+- slug: red pepper flakes
   amount: 1/2 tsp
-  notes:
-- slug: fresh parsley
+  notes: 
+- slug: parsley
   amount: 1/4 C
-  notes:
+  notes: fresh
 - slug: white beans
   amount: 1 can
   notes:

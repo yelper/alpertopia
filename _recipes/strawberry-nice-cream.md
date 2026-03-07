@@ -6,9 +6,9 @@ prep_time: 10
 cook_time: 0 
 reference: https://nutritionfacts.org/recipe/strawberry-banana-nice-cream/ 
 ingredients:
-- slug: frozen bananas
+- slug: bananas
   amount: 4
-  notes:
+  notes: frozen
 - slug: almond butter
   amount: 2 tbsp
   notes:

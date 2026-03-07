@@ -24,9 +24,9 @@ ingredients:
 - slug: garlic
   amount: 3 cloves
   notes: minced
-- slug: crushed pepper flakes
+- slug: red pepper flakes
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: coconut aminos
   amount: 1/3 C
   notes:
@@ -36,9 +36,9 @@ ingredients:
 - slug: fish sauce
   amount: 1 tsp
   notes:
-- slug: toasted sesame seeds
-  amount:
-  notes: for serving
+- slug: sesame seeds
+  amount: 
+  notes: toasted, for serving
 
 
 ---

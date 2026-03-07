@@ -17,9 +17,9 @@ ingredients:
 - slug: all-purpose flour
   amount: 3 C (+ 2-4 tbsp)
   notes: divided
-- slug: large egg
+- slug: eggs
   amount: 1
-  notes: room-temp
+  notes: large, room-temp
 - slug: unsalted butter
   amount: 2 tbsp
   notes: melted, divided

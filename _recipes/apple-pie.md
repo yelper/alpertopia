@@ -12,9 +12,9 @@ ingredients:
 - slug: butter
   amount: 1/2 C
   notes: unsalted
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 3 tbsp
-  notes:
+  notes: 
 - slug: water
   amount: 1/4 C
   notes:

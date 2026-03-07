@@ -9,7 +9,7 @@ ingredients:
 - slug: vegetable oil
   amount: 2 tbsp
   notes:
-- slug: onions
+- slug: onion
   amount: 2
   notes: chopped
 - slug: garlic

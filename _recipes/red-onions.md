@@ -6,9 +6,9 @@ prep_time: 5
 cook_time: 10
 reference: https://www.loveandlemons.com/pickled-red-onions/#wprm-recipe-container-42595
 ingredients:
-- slug: red onions
+- slug: red onion
   amount: 2
-  notes:
+  notes: 
 - slug: white vinegar
   amount: 2 C
   notes:

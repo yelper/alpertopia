@@ -18,9 +18,9 @@ ingredients:
 - slug: sugar
   amount: 1 tbsp
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 2 tsp
-  notes: grated
+  notes: fresh, grated
 - slug: white pepper
   amount: 1/4 tsp
   notes:
@@ -33,10 +33,11 @@ ingredients:
 - slug: celery
   amount: 3 stalks
   notes: sliced diagonally
-- slug: coleslaw mix (cabbage and carrots)
+- slug: coleslaw mix
   amount: 2 C
-  notes:
-- slug: chicken or beef
+  notes: 
+- slug: protein
+  notes: chicken or beef
 
 
 

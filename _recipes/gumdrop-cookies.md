@@ -30,9 +30,9 @@ ingredients:
 - slug: vanilla extract
   amount: 1 tsp
   notes:
-- slug: rolled oats (not instant)
+- slug: rolled oats
   amount: 3 C
-  notes:
+  notes: not instant
 - slug: spice gumdrops
   amount: 2 C -- DON'T USE WHOLE TWO PACKS
   notes: chopped, pick out the green ones

@@ -19,9 +19,9 @@ ingredients:
 - slug: garlic
   amount: 2 clove
   notes: minced
-- slug: fresh ginger
+- slug: ginger
   amount: 1 1/2 tsp
-  notes: minced
+  notes: fresh, minced
 - slug: tomato paste
   amount: 1 6 oz can
   notes:
@@ -34,9 +34,9 @@ ingredients:
 - slug: paprika
   amount: 1/2 tsp
   notes:
-- slug: ground turmeric
+- slug: turmeric
   amount: 1/4 tsp
-  notes:
+  notes: ground
 - slug: cayenne
   amount: 1/4 tsp
   notes:
@@ -55,9 +55,9 @@ ingredients:
 - slug: chickpeas
   amount: 1 14.5 oz can
   notes: drained and rinsed
-- slug: fresh parsley
+- slug: parsley
   amount: 2 tbsp
-  notes: minced
+  notes: fresh, minced
 - slug: blended peeled lemon
   amount: 2 tsp
   notes:

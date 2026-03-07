@@ -18,11 +18,14 @@ ingredients:
 - slug: chicken breast
   amount: 1 1/2 lb
   notes: boneless, skinless, diced into small 1/2-inch pieces
-- slug: jalapeno
+- slug: jalapenos
   amount: 1
   notes: diced
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: black beans
   amount: 1 15 oz can
@@ -33,7 +36,7 @@ ingredients:
 - slug: flour tortillas
   amount: 8 large
   notes:
-- slug: Mexican-blend cheese
+- slug: mexican cheese blend
   amount: 3 C
   notes: shredded
 - slug: red enchilada sauce

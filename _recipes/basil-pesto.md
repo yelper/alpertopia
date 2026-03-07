@@ -6,12 +6,12 @@ prep_time: 10
 cook_time: 5
 reference: https://www.simplyrecipes.com/recipes/fresh_basil_pesto/
 ingredients:
-- slug: fresh basil
+- slug: basil
   amount: 2 C
-  notes: packed
-- slug: parmesan cheeese
+  notes: fresh, packed
+- slug: parmesan cheese
   amount: 1/4 C
-  notes:
+  notes: 
 - slug: olive oil
   amount: 1/2 C
   notes:

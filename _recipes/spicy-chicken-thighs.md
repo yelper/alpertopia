@@ -15,18 +15,18 @@ ingredients:
 - slug: paprika
   amount: 1 tsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: garlic powder
   amount: 2 tsp
   notes:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/8 tsp
-  notes:
+  notes: 
 - slug: cayenne pepper
   amount: 1/4 tsp
   notes:

@@ -23,11 +23,12 @@ ingredients:
   amount: 1/2 tsp
 - slug: salt
   amount: 1/2 tsp
-- slug: large eggs
+- slug: eggs
   amount: 2
-  notes: separated
-- slug: vegatable oil or applesauce
+  notes: large, separated
+- slug: oil
   amount: 1/2 C
+  notes: vegetable oil or applesauce
 - slug: milk
   amount: 1 1/2 C
 - slug: coffee

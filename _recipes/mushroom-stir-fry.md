@@ -29,7 +29,7 @@ ingredients:
   notes: roughly chopped
 - slug: snap peas
   amount: 1 C
-- slug: scallions
+- slug: green onions
   amount: 5
   notes: white parts only, thinly sliced
 - slug: garlic
@@ -38,9 +38,9 @@ ingredients:
 - slug: vegetable broth
   amount: 1/2 C
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tbsp
-  notes: minced
+  notes: fresh, minced
 - slug: sesame oil
   amount: 1 tbsp
   notes:

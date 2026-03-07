@@ -21,9 +21,9 @@ ingredients:
 - slug: olive oil
   amount:
   notes:
-- slug: dried oregano
-  amount:
-  notes:
+- slug: oregano
+  amount: 
+  notes: dried
 - slug: cayenne pepper
   amount:
   notes:

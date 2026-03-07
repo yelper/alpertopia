@@ -18,9 +18,9 @@ ingredients:
 - slug: cinnamon
   amount: 1/4 tsp
   notes:
-- slug: old fashioned oats
+- slug: rolled oats
   amount: 1/2 C
-  notes:
+  notes: 
 - slug: all-purpose flour
   amount: 1/2 C
   notes:

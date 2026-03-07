@@ -6,9 +6,9 @@ prep_time: 10
 cook_time: 0
 reference: https://thebetteredblondie.com/spicy-garlic-aioli-easy-5-ingredients/#recipe
 ingredients:
-- slug: mayo
+- slug: mayonnaise
   amount: 1 1/2 C
-  notes:
+  notes: 
 - slug: garlic
   amount: 2 cloves
   notes: minced

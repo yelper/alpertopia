@@ -6,9 +6,9 @@ prep_time: 5
 cook_time: 10
 reference: Betty Crocker
 ingredients:
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: flour
   amount: 1 C
   notes:

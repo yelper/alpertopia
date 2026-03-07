@@ -36,10 +36,10 @@ ingredients:
 - slug: cashews
   amount: 1 C
   notes:
-- slug: dried cranberries
+- slug: cranberries
   amount: 1/4 C
-  notes:
-- slug: apple
+  notes: dried
+- slug: apples
   amount: 2
   notes: peeled, cored, diced
 - slug: pears

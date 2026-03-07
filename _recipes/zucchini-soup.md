@@ -29,8 +29,7 @@ ingredients:
   amount: 1/4 C
 - slug: salt
   notes: to taste
-- slug: pepper
-  notes: to taste
+- slug: black pepper
   notes: freshly ground
 - slug: cayenne
   amount: pinch

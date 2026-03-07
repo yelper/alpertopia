@@ -38,12 +38,12 @@ ingredients:
 - slug: whole-grain linguine
   amount:  8 oz
   notes:
-- slug: Nutty Parm
-  amount:
-  notes: for serving
-- slug: fresh basil
+- slug: parmesan cheese
+  amount: 
+  notes: nutty, for serving
+- slug: basil
   amount: 2 tbsp
-  notes: chopped, for serving
+  notes: fresh, chopped, for serving
 - slug: black pepper
   amount:
   notes: to taste

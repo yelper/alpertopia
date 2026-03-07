@@ -6,38 +6,39 @@ prep_time: 10
 cook_time: 30
 reference: https://avirtualvegan.com/chocolate-chip-oatmeal-cookies/#recipe
 ingredients:
-- slug: fresh oat pulp
+- slug: oat pulp
   amount: 1/3 C
-  notes:
+  notes: fresh
 - slug: non-dairy milk
   amount: 1/2 C
   notes:
-- slug: avocado oil or seed butter
+- slug: oil
   amount: 1/4 C
-  notes:
+  notes: avocado oil or seed butter
 - slug: vanilla extract
   amount: 1 tsp
   notes:
 - slug: flour
   amount: 1 1/2 C
   notes:
-- slug: old fashioned oats
+- slug: rolled oats
   amount: 1/2 C
-  notes:
+  notes: 
 - slug: sugar
   amount: 1/3 C
   notes:
-- slug: ground flaxseed
+- slug: flaxseed
   amount: 1 tbsp
-  notes:
+  notes: ground
 - slug: baking powder
   amount: 1 tsp
   notes:
 - slug: salt
   amount: 1/4 tsp
   notes:
-- slug: semi-sweet chocolate chips
+- slug: semisweet chocolate chips
   amount: 1/2 C
+  notes: 
 
 ---
 

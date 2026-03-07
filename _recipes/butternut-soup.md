@@ -24,9 +24,9 @@ ingredients:
 - slug: maple syrup
   amount: 1 tsp
   notes:
-- slug: ground nutmeg
+- slug: nutmeg
   amount: 1/8 tsp
-  notes:
+  notes: ground
 - slug: black pepper
   amount:
   notes: freshly ground, to taste

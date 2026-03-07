@@ -8,14 +8,16 @@ reference: https://www.splendidtable.org/story/2016/04/15/pigs-in-a-blanket
 ingredients:
 - slug: all-purpose flour
   amount: 1 C
-- slug: light brown sugar
+- slug: brown sugar
   amount: 2 tsp
+  notes: light
 - slug: salt
   amount: 1/2 tsp
 - slug: whole milk
   amount: 1 C
-- slug: egg
+- slug: eggs
   amount: 1
+  notes: 
 - slug: vanilla extract
   amount: 1 tsp
 - slug: butter

@@ -6,21 +6,21 @@ prep_time: 20
 cook_time: 15
 reference: https://www.yummyhealthyeasy.com/best-ever-easy-baked-meatballs/
 ingredients:
-- slug: ground beef or turkey
+- slug: ground meat
   amount: 1 lb
-  notes:
+  notes: beef or turkey
 - slug: onion
   amount: 1/2 C
   notes: finely chopped
-- slug: dried bread crumbs
+- slug: bread crumbs
   amount: 1/4 C
-  notes:
+  notes: dried
 - slug: garlic
   amount: 2 cloves
   notes: minced
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: parmesan cheese
   amount: 1/4 C
   notes:
@@ -30,12 +30,12 @@ ingredients:
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/4 tsp
-  notes:
-- slug: fresh parsley
+  notes: 
+- slug: parsley
   amount: 1 tbsp
-  notes: minced
+  notes: fresh, minced
 
 ---
 

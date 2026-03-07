@@ -15,12 +15,12 @@ ingredients:
 - slug: eggs
   amount: 2
   notes:
-- slug: banana
+- slug: bananas
   amount: 1
   notes: mashed
-- slug: vanilla
+- slug: vanilla extract
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: baking powder
   amount: 1 1/2 tsp
   notes:

@@ -24,12 +24,12 @@ ingredients:
 - slug: shallot
   amount: 1
   notes: minced
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 1 tbsp
-  notes:
-- slug: fresh cilantro
+  notes: 
+- slug: cilantro
   amount: 1 tbsp, plus more for serving
-  notes: chopped
+  notes: fresh, chopped
 - slug: zucchini
   amount: 4 large
   notes:

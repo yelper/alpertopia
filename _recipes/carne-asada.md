@@ -30,21 +30,21 @@ ingredients:
 - slug: chili powder
   amount: 1 tbsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1 tbsp
-  notes:
+  notes: ground
 - slug: paprika
   amount: 1 tbsp
   notes:
-- slug: dried oregano
+- slug: oregano
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: black pepper
   amount: 1 tbsp
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1 bunch
-  notes: chopped
+  notes: fresh, chopped
 - slug: olive oil
   amount: 1/2 C
   notes:

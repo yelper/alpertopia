@@ -24,10 +24,10 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes: minced
-- slug: bell pepper
+- slug: bell peppers
   amount: 3
   notes: chopped
-- slug: tomato
+- slug: tomatoes
   amount: 1 28oz can
   notes: crushed
 - slug: bacon

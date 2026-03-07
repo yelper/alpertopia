@@ -30,16 +30,17 @@ ingredients:
 - slug: white vinegar
   amount: 1/2 C
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/3 tsp
-  notes:
+  notes: 
 - slug: olive oil
   amount: 1/3 tsp
   notes:
 - slug: xanthan gum
   amount: 1/8 tsp
-- slug: Stevia
+- slug: stevia
   amount: 1/2 tsp
+  notes: 
 ---
 
 1. Wash the chili peppers and remove the stems, then give them a rough chop (if they are large or your blender is not powerful)  to help your blender or food processor make this easy work IMPORTANT!  Be sure to wear gloves and wash your hands immediately  after with soap and water. I used the seeds of the pepper, but if you’d like to tame the heat down a bit you can remove and discard them.

@@ -27,9 +27,9 @@ ingredients:
 - slug: water
   amount: 3/4 C
   notes:
-- slug: dried oregano
+- slug: oregano
   amount: 1/4 tsp
-  notes:
+  notes: dried
 - slug: rice
   amount: 2 C
   notes: cooked

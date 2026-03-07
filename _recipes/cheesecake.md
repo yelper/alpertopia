@@ -30,9 +30,9 @@ ingredients:
 - slug: lemon rind
   amount: 2 tbsp
   notes: grated
-- slug: vanilla
+- slug: vanilla extract
   amount: 1/4 tsp
-  notes:
+  notes: 
 - slug: egg whites
   amount: 3
   notes:
@@ -40,8 +40,9 @@ ingredients:
   amount: 1 C
 - slug: sugar
   amount: 2 tbsp
-- slug: vanilla
+- slug: vanilla extract
   amount: 1 tsp
+  notes: 
 - slug: sour cream
   amount: 1 C
   notes: optional

@@ -12,18 +12,18 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes:
-- slug: pork sausages
+- slug: pork sausage
   amount: 6
-  notes:
+  notes: 
 - slug: walnuts
   amount: 1/4 C
   notes:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: Dijon mustard
+- slug: dijon mustard
   amount: 2 tsp
-  notes:
+  notes: 
 - slug: olive oil
   amount: 4 tsp
   notes:

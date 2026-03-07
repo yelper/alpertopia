@@ -12,18 +12,21 @@ ingredients:
 - slug: olive oil
   amount: 3 tbsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
   notes: to taste
-- slug: fresh thyme
-  amount:  1 tsp
-  notes: chopped
+- slug: black pepper
+  amount: 
+  notes: to taste
+- slug: thyme
+  amount: 1 tsp
+  notes: fresh, chopped
 - slug: oregano
   amount: 1/2 tsp
   notes: dried
-- slug: fresh parsley
+- slug: parsley
   amount: 3 tbsp
-  notes: chopped
+  notes: fresh, chopped
 
 
 ---

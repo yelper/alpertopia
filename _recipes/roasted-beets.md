@@ -18,8 +18,11 @@ ingredients:
 - slug: honey
   amount: 1 tbsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

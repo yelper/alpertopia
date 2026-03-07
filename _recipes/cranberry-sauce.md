@@ -12,16 +12,16 @@ ingredients:
 - slug: sugar
   amount: 1/4 C
   notes:
-- slug: fresh cranberries
+- slug: cranberries
   amount: 12 oz
-  notes:
+  notes: fresh
 - slug: orange
   amount: 1
   notes: peeled and pureed
-- slug: apple
+- slug: apples
   amount: 1
   notes: peeled, cored and diced
-- slug: pear
+- slug: pears
   amount: 1
   notes: peeled, cored and diced
 - slug: dried apricots
@@ -33,12 +33,12 @@ ingredients:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: ground cinnamon
+- slug: cinnamon
   amount: 1 tsp
-  notes:
-- slug: ground nutmeg
+  notes: ground
+- slug: nutmeg
   amount: 1/2 tsp
-  notes:
+  notes: ground
 
 ---
 

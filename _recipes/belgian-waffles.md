@@ -16,11 +16,12 @@ ingredients:
   amount: 1/4 tsp
 - slug: cinnamon
   amount: 1/2 tsp
-- slug: large eggs
+- slug: eggs
   amount: 1
-  notes: separated
-- slug: vegetable oil / applesauce
+  notes: large, separated
+- slug: oil
   amount: 1/4 C
+  notes: vegetable oil or applesauce
 - slug: milk
   amount: 1 C
 - slug: vanilla extract

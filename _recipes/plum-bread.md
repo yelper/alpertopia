@@ -6,7 +6,7 @@ prep_time: 15
 cook_time: 60
 reference: https://www.allrecipes.com/recipe/54982/spiced-plum-bread/
 ingredients:
-- slug: egg
+- slug: eggs
   amount: 1
   notes: 
 - slug: honey
@@ -24,12 +24,12 @@ ingredients:
 - slug: baking soda
   amount: 1 tsp
   notes:
-- slug: ground cloves
+- slug: cloves
   amount: 1/2 tsp
-  notes:
-- slug: ground cinnamon
+  notes: ground
+- slug: cinnamon
   amount: 1/4 tsp
-  notes:
+  notes: ground
 - slug: canned plums
   amount: 1 C
   notes: chopped

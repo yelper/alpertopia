@@ -12,8 +12,11 @@ ingredients:
 - slug: olive oil
   amount:
   notes: for searing
-- slug: black pepper and salt
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

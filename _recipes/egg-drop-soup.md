@@ -18,7 +18,7 @@ ingredients:
 - slug: cornstarch
   amount: 1 tsp
   notes: optional
-- slug: egg
+- slug: eggs
   amount: 1
   notes: beaten
 - slug: white pepper
@@ -27,9 +27,9 @@ ingredients:
 - slug: salt
   amount: 1/8 tsp
   notes:
-- slug: fresh chives
+- slug: chives
   amount: 1 tsp
-  notes:
+  notes: fresh
 
 
 ---

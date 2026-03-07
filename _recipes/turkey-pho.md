@@ -6,15 +6,15 @@ prep_time: 10
 cook_time: 50
 reference: https://cooking.nytimes.com/recipes/1018424-turkey-pho
 ingredients:
-- slug: yellow onions
+- slug: yellow onion
   amount: 2 medium
   notes: halved and peeled
-- slug: fresh ginger
+- slug: ginger
   amount: 1 (4-inch) piece
-  notes: do not peel
-- slug: turkey or chicken stock
+  notes: fresh, do not peel
+- slug: broth
   amount: 12 C
-  notes: preferably homemade
+  notes: turkey or chicken, preferably homemade
 - slug: fish sauce
   amount: 1/4 C
   notes: plus more to taste
@@ -30,13 +30,13 @@ ingredients:
 - slug: mung bean sprouts
   amount: 12 oz (about 3 C)
   notes:
-- slug: Thai basil sprigs
+- slug: thai basil
   amount: 1 small bunch
-  notes:
+  notes: 
 - slug: jalapenos
   amount: 3
   notes: stemmed and thinly sliced
-- slug: limes
+- slug: lime
   amount: 2 to 3
   notes: quartered, to taste
 - slug: cooked turkey
@@ -48,7 +48,7 @@ ingredients:
 - slug: cilantro leaves and stems
   amount: 1 1/2 C (about 1 large bunch)
   notes: coarsely chopped
-- slug: scallions
+- slug: green onions
   amount: 1 C (about 1 bunch)
   notes: thinly sliced
 ---

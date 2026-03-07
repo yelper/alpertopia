@@ -21,45 +21,48 @@ ingredients:
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: lime (or lemon) juice
+- slug: citrus juice
   amount: 1 tbsp
-  notes:
+  notes: lime or lemon
 - slug: sugar
   amount: pinch
   notes:
 - slug:
   amount:
   notes:
-- slug: boneless, skinless chicken thighs
+- slug: chicken thighs
   amount: 2 lbs
   notes: trimmed of excess fat, cut into 1-inch cubes
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: olive oil
   amount:
   notes: extra virgin
-- slug: yellow onions
+- slug: yellow onion
   amount: 2
   notes: chopped
 - slug: garlic
   amount: 2 cloves
   notes: minced
-- slug: ground cumin
+- slug: cumin
   amount: 1 tsp
-  notes:
-- slug: ground coriander
+  notes: ground
+- slug: coriander
   amount: 1 tsp
-  notes:
-- slug: chicken stock
+  notes: ground
+- slug: chicken broth
   amount: 1 1/2 C
-  notes:
+  notes: 
 - slug: tomatillo sauce
   amount: 2 C
   notes:
-- slug: dried oregano
+- slug: oregano
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: cilantro
   amount: 1/2 C (about 1 bunch)
   notes: stems and leaves, rinsed and chopped

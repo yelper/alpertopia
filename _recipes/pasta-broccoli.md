@@ -6,9 +6,9 @@ prep_time: 10
 cook_time: 20
 reference: Healthy Eating Cookbook
 ingredients:
-- slug: dried pasta
+- slug: pasta
   amount: 3 C
-  notes:
+  notes: dried
 - slug: broccoli
   amount: 3 heads
   notes:
@@ -21,23 +21,26 @@ ingredients:
 - slug: vegetable broth
   amount: 1/2 C
   notes:
-- slug: fresh basil
+- slug: basil
   amount: 3/4 C
-  notes: chopped
-- slug: fresh parsley
+  notes: fresh, chopped
+- slug: parsley
   amount: 1/2 C
-  notes: chopped
+  notes: fresh, chopped
 - slug: olive oil
   amount: 2 tbsp
   notes:
 - slug: parmesan cheese
   amount: 1/4 C
   notes:
-- slug: toasted pine nuts
+- slug: pine nuts
   amount: 2 tbsp
-  notes:
-- slug:  salt and pepper
-  amount:
+  notes: toasted
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

@@ -37,9 +37,9 @@ ingredients:
 - slug: brown sugar
   amount: 2 tbsp
   notes:
-- slug: ground ginger
+- slug: ginger
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: cornstarch
   amount: 2 tbsp
   notes:

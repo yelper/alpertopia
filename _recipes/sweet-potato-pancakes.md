@@ -6,7 +6,7 @@ prep_time: 10
 cook_time: 15
 reference: https://feelgoodfoodie.net/recipe/sweet-potato-pancakes/#wprm-recipe-container-69999
 ingredients:
-- slug: sweet potato
+- slug: sweet potatoes
   amount: 1 C
   notes: mashed, leftover
 - slug: eggs

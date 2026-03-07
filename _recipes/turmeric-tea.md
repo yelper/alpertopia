@@ -6,9 +6,9 @@ prep_time: 5
 cook_time: 15
 reference: https://downshiftology.com/recipes/turmeric-tea/ 
 ingredients:
-- slug: ground turmeric
+- slug: turmeric
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: black pepper
   amount: 1/4 tsp
   notes:

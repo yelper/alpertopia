@@ -12,9 +12,12 @@ ingredients:
 - slug: cornstarch
   amount: 1 tsp
   notes:
-- slug: oil and soy sauce
+- slug: oil
   amount: drizzle
-  notes:
+  notes: 
+- slug: soy sauce
+  amount: 
+  notes: 
 - slug: hoisin sauce
   amount: 1 tbsp
   notes: after beaking
@@ -30,9 +33,9 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes: minced
-- slug: fresh ginger
+- slug: ginger
   amount: 1 1-inch piece
-  notes: minced
+  notes: fresh, minced
 - slug: curry powder
   amount: 1 tsp
   notes:
@@ -57,8 +60,8 @@ ingredients:
 - slug: hoisin sauce
   amount:
   notes: for serving
-- slug: Sriracha
-  amount:
+- slug: sriracha
+  amount: 
   notes: for serving
 - slug: green onions
   amount:

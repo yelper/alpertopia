@@ -15,9 +15,9 @@ ingredients:
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: paprika
   amount: 1 tsp
   notes:

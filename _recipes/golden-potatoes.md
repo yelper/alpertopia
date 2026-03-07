@@ -6,7 +6,7 @@ prep_time: 15
 cook_time: 45
 reference: https://www.bettycrocker.com/recipes/golden-mashed-potatoes/de7d76e4-21b7-4fef-a7c1-581776780d5e
 ingredients:
-- slug: Yukon gold potatoes
+- slug: yukon gold potatoes
   amount: 3 lb (about 8 medium)
   notes: cut into 1-inch pieces
 - slug: butter
@@ -21,9 +21,9 @@ ingredients:
 - slug: black pepper
   amount: 1/4 tsp
   notes:
-- slug: fresh chives
+- slug: chives
   amount: 2 tbsp
-  notes: chopped
+  notes: fresh, chopped
 
 
 ---

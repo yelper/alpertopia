@@ -21,9 +21,9 @@ ingredients:
 - slug: sriracha
   amount: 1/2 tbsp
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 1/2 tsp
-  notes: minced
+  notes: fresh, minced
 - slug: brown sugar
   amount: 1 tsp
   notes:

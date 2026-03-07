@@ -9,7 +9,7 @@ ingredients:
 - slug: olive oil
   amount: 6 tbsp
   notes:
-- slug: onions
+- slug: onion
   amount: 2 medium
   notes: chopped
 - slug: garlic

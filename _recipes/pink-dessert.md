@@ -12,9 +12,12 @@ ingredients:
 - slug: fruit cocktail
   amount: 1/2 C
   notes:
-- slug: extra pineapple and cherries
-  amount:
-  notes:
+- slug: pineapple
+  amount: 
+  notes: extra
+- slug: cherries
+  amount: 
+  notes: extra
 - slug: light cream
   amount: 1/2 C
   notes:

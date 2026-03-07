@@ -18,9 +18,9 @@ ingredients:
 - slug: orange extract
   amount: 1 tsp
   notes:
-- slug: vanilla extractv
+- slug: vanilla extract
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: ginger
   amount: 1 tsp
   notes: ground
@@ -45,9 +45,9 @@ ingredients:
 - slug: orange extract
   amount: 1 tsp
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: powdered sugar
   amount: 1 1/2 C
   notes:

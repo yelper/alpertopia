@@ -6,9 +6,9 @@ prep_time: 5
 cook_time: 0
 reference:  https://chocolatecoveredkatie.com/vegan-chocolate-mousse-recipe/ 
 ingredients:
-- slug: coconut milk or cream
+- slug: coconut milk
   amount: 1 can
-  notes:
+  notes: or coconut cream
 - slug: cocoa powder
   amount: 1/4 C
   notes:
