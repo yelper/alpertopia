@@ -24,9 +24,9 @@ ingredients:
 - slug: tahini
   amount: 1/2 C
   notes:
-- slug: ice water
+- slug: water
   amount: 2-4 tbsp
-  notes: more as needed
+  notes: ice cold, more as needed
 - slug: cumin
   amount: 1/2 tsp
   notes: ground

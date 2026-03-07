@@ -13,9 +13,9 @@ ingredients:
 - slug: curry powder
   amount: 2 tsp
   notes:
-- slug: blended peeled lemon
+- slug: lemon
   amount: 1 tsp
-  notes:
+  notes: blended, peeled
 - slug: date sugar
   amount: 1 tsp
   notes:

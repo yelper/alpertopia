@@ -6,8 +6,9 @@ prep_time: 35
 cook_time: 0
 reference: https://cooking.nytimes.com/recipes/1018626-eggs-benedict
 ingredients:
-- slug: unsalted butter
+- slug: butter
   amount: 6 tbsp
+  notes: unsalted
 - slug: egg yolks
   amount: 1.5 large
   notes:
@@ -15,8 +16,9 @@ ingredients:
   amount: 3/4 tsp
 - slug: cayenne
   amount: 1/8 tsp
-- slug: hot paprika
+- slug: paprika
   amount: 1/8 tsp
+  notes: hot
 - slug: white vinegar
   amount: 1 tbsp
   notes: for poaching

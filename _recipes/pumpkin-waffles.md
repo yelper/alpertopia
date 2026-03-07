@@ -21,13 +21,14 @@ ingredients:
 - slug: dairy
   amount: 1 C
   notes: shaken buttermilk or yogurt
-- slug: pure pumpkin puree
+- slug: pumpkin puree
   amount: 1/2 C
+  notes: 
 - slug: neutral oil
   amount: 6 tbsp
-- slug: unsalted butter
+- slug: butter
   amount: 7 tbsp
-  notes: melted and cooled
+  notes: unsalted, melted and cooled
 - slug: vanilla extract
   amount: 2 tsp
 - slug: egg whites

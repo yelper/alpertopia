@@ -9,9 +9,9 @@ ingredients:
 - slug: bread flour
   amount: 430 g
   notes:
-- slug: active dry yeast
+- slug: yeast
   amount: 2 tsp
-  notes:
+  notes: active dry
 - slug: coarse salt
   amount: 2 tsp
   notes:

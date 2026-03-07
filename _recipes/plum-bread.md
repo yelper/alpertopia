@@ -30,9 +30,9 @@ ingredients:
 - slug: cinnamon
   amount: 1/4 tsp
   notes: ground
-- slug: canned plums
+- slug: plums
   amount: 1 C
-  notes: chopped
+  notes: canned, chopped
 - slug: walnuts
   amount: 1 C
   notes: chopped

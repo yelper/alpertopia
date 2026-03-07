@@ -45,9 +45,9 @@ ingredients:
 - slug: pumpkin seeds
   amount: 1/4 C
   notes: unsalted roasted
-- slug: smoked paprika
-  amount:
-  notes: for serving
+- slug: paprika
+  amount: 
+  notes: smoked, for serving
 
 
 ---

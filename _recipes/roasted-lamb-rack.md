@@ -24,9 +24,9 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: 7 bone roack of lamb
+- slug: rack of lamb
   amount: 1
-  notes:
+  notes: 7 bone
 - slug: salt
   amount: 1 tsp
   notes:

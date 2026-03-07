@@ -39,9 +39,9 @@ ingredients:
 - slug: buttermilk
   amount: 1 C
   notes:
-- slug: hot coffee
+- slug: coffee
   amount: 1 C
-  notes:
+  notes: hot
 - slug: butter
   amount: 282 g
   notes: unsalted, softened to room temperature

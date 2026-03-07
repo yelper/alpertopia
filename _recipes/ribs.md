@@ -21,9 +21,9 @@ ingredients:
 - slug: liquid smoke
   amount: 1/2 tsp
   notes:
-- slug: homemade bbq sauce
+- slug: bbq sauce
   amount: 1/4 C
-  notes: (15oz tomato sauce, 6oz tomato paste, 1/3 C apple cider vinegar, 1/4 C maple syrup, 1/4 C molasses, 2 tbsp Worcestershire sauce, 2 tsp paprika, 1 tsp mustard powder, 1 tsp garlic powder, 1/2 tsp salt and pepper, 1/4 tsp cayenne--simmer for 10 minutes)
+  notes: homemade, (15oz tomato sauce, 6oz tomato paste, 1/3 C apple cider vinegar, 1/4 C maple syrup, 1/4 C molasses, 2 tbsp Worcestershire sauce, 2 tsp paprika, 1 tsp mustard powder, 1 tsp garlic powder, 1/2 tsp salt and pepper, 1/4 tsp cayenne--simmer for 10 minutes)
 - slug:
   amount:
   notes:

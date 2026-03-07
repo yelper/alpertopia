@@ -42,9 +42,9 @@ ingredients:
 - slug: yogurt
   amount: 2 tbsp
   notes:
-- slug: hot pepper paste
+- slug: red pepper paste
   amount: 1 tbsp
-  notes:
+  notes: hot
 - slug: salt
   amount: pinch of
   notes:

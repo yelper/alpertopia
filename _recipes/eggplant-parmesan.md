@@ -21,9 +21,9 @@ ingredients:
 - slug: water
   amount: 2 tbsp
   notes:
-- slug: plain bread crumbs
+- slug: bread crumbs
   amount: 1 1/2 C
-  notes:
+  notes: plain
 - slug: olive oil
   amount: 1 tbsp
   notes:

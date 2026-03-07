@@ -39,9 +39,9 @@ ingredients:
 - slug: mexican cheese blend
   amount: 3 C
   notes: shredded
-- slug: red enchilada sauce
+- slug: enchilada sauce
   amount: 1 batch
-  notes: (3 tbsp olive oil, 3 tbsp flour, 1 tbsp chili powder, 1 tsp cumin, 1/2 tsp garlic powder, 1/4 tsp oregano, 1/4 tsp salt, pinch of cinnamon, 2 tbsp tomato paste, 2 C vegetable broth, 1 tsp apple cider vinegar, pepper to taste)
+  notes: red, (3 tbsp olive oil, 3 tbsp flour, 1 tbsp chili powder, 1 tsp cumin, 1/2 tsp garlic powder, 1/4 tsp oregano, 1/4 tsp salt, pinch of cinnamon, 2 tbsp tomato paste, 2 C vegetable broth, 1 tsp apple cider vinegar, pepper to taste)
 
 
 ---

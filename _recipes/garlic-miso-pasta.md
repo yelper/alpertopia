@@ -36,9 +36,9 @@ ingredients:
 - slug: nutritional yeast
   amount: 1/2 C
   notes:
-- slug: rice wine vinegar
+- slug: rice vinegar
   amount: 1 tbsp
-  notes:
+  notes: 
 - slug: black pepper
   amount: 
   notes: ground, to taste

@@ -6,9 +6,9 @@ prep_time: 30
 cook_time: 30
 reference: https://www.artandthekitchen.com/italian-turkey-burger-soup/
 ingredients:
-- slug: ground turkey breast
+- slug: ground turkey
   amount: 1 1/2 lbs
-  notes:
+  notes: breast
 - slug: onion
   amount: 1 large
   notes: chopped

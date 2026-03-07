@@ -24,9 +24,9 @@ ingredients:
 - slug: avocado
   amount: 1/2 or all
   notes:
-- slug: blended peeled lemon
+- slug: lemon
   amount: 1 tbsp
-  notes:
+  notes: blended, peeled
 - slug: zucchini
   amount: 4
   notes:

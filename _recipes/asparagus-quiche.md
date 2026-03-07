@@ -32,7 +32,8 @@ ingredients:
 - slug: green onions
   amount: 4
   notes: chopped
-- slug: 9-inch pie crust
+- slug: pie crust
+  notes: 9-inch
 
 ---
 

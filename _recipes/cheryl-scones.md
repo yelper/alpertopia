@@ -30,7 +30,7 @@ ingredients:
 - slug: heavy cream
   amount: 1/4 C
   notes:
-- slug: sour/tart cherries
+- slug: sour cherries
   amount: 3/4 C
   notes: patted dry and diced
 - slug: egg whites

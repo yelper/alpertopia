@@ -18,9 +18,9 @@ ingredients:
 - slug: yeast
   amount: 1 g
   notes:
-- slug: cold water
+- slug: water
   amount: 150 g
-  notes:
+  notes: cold
 - slug: vegetable oil
   amount: 30 g
   notes:
@@ -31,9 +31,9 @@ ingredients:
   amount:
   notes:
 
-- slug: whole peeled tomatoes
+- slug: tomatoes
   amount: 1 28 oz can
-  notes: undrained
+  notes: whole, peeled, undrained
 - slug: tomato paste
   amount: 1 6 oz
   notes:

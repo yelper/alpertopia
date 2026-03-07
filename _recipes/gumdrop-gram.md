@@ -42,9 +42,8 @@ ingredients:
 - slug: spiced gumdrops
   amount: 3/4 C
   notes: cut into bits
-- slug: shredded coconut
-  amoung: 1 1/2 C
-  notes: optional
+- slug: coconut
+  notes: shredded, optional
 ---
 
 1. Preheat oven to 350 degrees. Sift together flour, baking powder, baking soda and salt. Add shortening, both sugars, egg, water and vanilla. Beat until smooth. Fold in rolled oats and gumdrops. Shape into walnut- sized balls. If desired, roll in coconut. Place on ungreased cookie sheet. Bake 12-15 minutes.

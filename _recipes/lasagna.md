@@ -6,9 +6,9 @@ prep_time:
 cook_time:
 reference: https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
 ingredients:
-- slug: sweet italian sausage
+- slug: italian sausage
   amount: 1 lb
-  notes: 
+  notes: sweet
 - slug: ground beef
   amount: 3/4 lb
   notes:

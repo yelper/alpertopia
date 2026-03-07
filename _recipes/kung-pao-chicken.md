@@ -45,9 +45,9 @@ ingredients:
 - slug: water
   amount: 2 tbsp
   notes: more as needed
-- slug: red chili garlic sauce
+- slug: chili garlic sauce
   amount: 1 tbsp
-  notes:
+  notes: red
 - slug: zucchini
   amount: 6 medium
   notes: spiralized

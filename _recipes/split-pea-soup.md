@@ -54,9 +54,9 @@ ingredients:
 - slug: green onions
   amount: 
   notes: chives or scallions, for serving
-- slug: extra lemon
-  amount:
-  notes: for serving
+- slug: lemon
+  amount: 
+  notes: extra, for serving
 - slug: yogurt
   amount:
   notes: for serving

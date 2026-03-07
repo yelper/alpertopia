@@ -39,9 +39,9 @@ ingredients:
 - slug: lime
   amount: 2 to 3
   notes: quartered, to taste
-- slug: cooked turkey
+- slug: turkey
   amount: 4 C (about 1 lb)
-  notes: shredded
+  notes: cooked, shredded
 - slug: kosher salt
   amount:
   notes: to taste

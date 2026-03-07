@@ -18,7 +18,7 @@ ingredients:
 - slug: tomatoes
   amount: 2
   notes: chopped
-- slug: cannellini beans
+- slug: white beans
   amount: 1 15 oz can
   notes: drained and rinsed
 - slug: nutritional yeast

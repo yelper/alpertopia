@@ -50,9 +50,9 @@ ingredients:
 - slug: sriracha
   amount:
   notes: to taste
-- slug: cooked rice
-  amount:
-  notes:
+- slug: rice
+  amount: 
+  notes: cooked
 
 
 ---

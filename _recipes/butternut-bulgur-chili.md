@@ -28,8 +28,9 @@ ingredients:
 - slug: pinto beans
   amount: 2 15 oz cans
   notes: rinsed and drained
-- slug: uncooked bulgur
+- slug: bulgur
   amount: 3/4 C
+  notes: uncooked
 - slug: cocoa powder
   amount: 2 tsp
   notes: unsweetened

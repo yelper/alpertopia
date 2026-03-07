@@ -9,8 +9,8 @@ ingredients:
 - slug:  olive oil
   amount: 1/4 C plus 1 tbsp
   notes:
-- slug: zest
-  amount:
+- slug: lemon zest
+  amount: 
   notes: of 1 lemon
 - slug: lemon juice
   amount: 2 tbsp

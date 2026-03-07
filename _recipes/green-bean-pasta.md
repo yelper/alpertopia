@@ -34,7 +34,7 @@ ingredients:
 - slug: green beans
   amount: 8 oz
   notes: trimmed and halved lengthwise
-- slug: cannellini beans
+- slug: white beans
   amount: 2 15 oz can
   notes: drained and rinsed
 - slug: sea salt

@@ -6,7 +6,7 @@ prep_time: 30
 cook_time: 60
 reference: https://gourmetdoneskinny.com/recipes/instant-pot/mexican-shredded-beef/
 ingredients:
-- slug: beef chuck roast
+- slug: chuck roast
   amount: 2 1/2 lb
   notes: sliced in 1 inch cubes
 - slug: salt

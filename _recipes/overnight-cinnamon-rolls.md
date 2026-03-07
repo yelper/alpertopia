@@ -9,8 +9,9 @@ ingredients:
 - slug: milk
   amount: 1 C
   notes: warm, not hot
-- slug: active dry yeast
+- slug: yeast
   amount: 1/2 tbsp
+  notes: active dry
 - slug: granulated sugar
   amount: 4 tbsp
   notes: divided
@@ -20,17 +21,17 @@ ingredients:
 - slug: eggs
   amount: 1
   notes: large, room-temp
-- slug: unsalted butter
+- slug: butter
   amount: 2 tbsp
-  notes: melted, divided
+  notes: unsalted, melted, divided
 - slug: salt
   amount: 1/2 tsp
 - slug:
   amount:
   notes:
-- slug: unsalted butter
+- slug: butter
   amount: 7 tbsp
-  notes: softened, divided, for filling
+  notes: unsalted, softened, divided, for filling
 - slug: granulated sugar
   amount: 1/4 C
   notes: for filling
@@ -40,9 +41,9 @@ ingredients:
 - slug:
   amount:
   notes:
-- slug: unsalted butter
+- slug: butter
   amount: 2 tbsp
-  notes: softened, for icing
+  notes: unsalted, softened, for icing
 - slug: milk
   amount: 4 tbsp
   notes: for icing

@@ -36,8 +36,9 @@ ingredients:
 - slug: egg whites
   amount: 3
   notes:
-- slug: whipping cream
+- slug: heavy cream
   amount: 1 C
+  notes: 
 - slug: sugar
   amount: 2 tbsp
 - slug: vanilla extract

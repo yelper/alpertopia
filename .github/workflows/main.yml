@@ -8,12 +8,17 @@ jobs:
     name: 🎉 Deploy the darned thing
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Jekyll build
-      uses: gha-utilities/jekyll-build@v0.0.4
+    - uses: actions/checkout@master    
+    - name: 💎 Get ruby
+      uses: ruby/setup-ruby@v1
       with:
-        destination: ./site
-    - name: chown user
+        ruby-version: '3.3'
+        bundler-cache: true
+    - name: ⚒ Jekyll build
+      run: |
+        make install
+        make build
+    - name: 🍾 chown user
       run: |
         sudo chown -R $USER:$USER $GITHUB_WORKSPACE
     - name: 📂 Sync files
@@ -23,4 +28,4 @@ jobs:
         server: ${{ secrets.FTP_HOST }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./site/
+        local-dir: ./_site/

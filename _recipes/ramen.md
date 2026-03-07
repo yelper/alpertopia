@@ -9,9 +9,9 @@ reference: instagram
 image: ramen.jpg
 
 ingredients:
-- slug: brown rice ramen
+- slug: ramen noodles
   amount: 4 chunks
-  notes:
+  notes: brown rice
 - slug: tofu
   amount: 1 pack
   notes:

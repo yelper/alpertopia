@@ -33,9 +33,9 @@ ingredients:
 - slug: sriracha
   amount: 2 tbsp
   notes:
-- slug: shelled edamame
+- slug: edamame
   amount: 1 C
-  notes:
+  notes: shelled
 - slug: carrots
   amount: 2
   notes: shredded

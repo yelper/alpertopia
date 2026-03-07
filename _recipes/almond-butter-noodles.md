@@ -33,9 +33,9 @@ ingredients:
 - slug: soy sauce
   amount: 2 tbsp
   notes:
-- slug: flat rice noodles
+- slug: rice noodles
   amount: 4 servings
-  notes:
+  notes: flat
 - slug: avocado oil
   amount: 1  tsp
   notes:

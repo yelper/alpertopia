@@ -6,9 +6,9 @@ prep_time: 15
 cook_time: 15
 reference: https://www.tasteofhome.com/recipes/chicken-and-black-bean-soup/
 ingredients:
-- slug: boneless skinless chicken breast
+- slug: chicken breast
   amount: 1/2 lb
-  notes: cut into 1-inch cubes
+  notes: boneless, skinless, cut into 1-inch cubes
 - slug: chicken broth
   amount: 2 14.5 oz cans
   notes: divided
@@ -38,9 +38,9 @@ ingredients:
 - slug: tortilla chips
   amount: 18
   notes:
-- slug: shredded mexican cheese blend
+- slug: mexican cheese blend
   amount: 
-  notes: optional
+  notes: shredded, optional
 
 
 ---

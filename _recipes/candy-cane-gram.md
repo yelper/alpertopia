@@ -30,9 +30,9 @@ ingredients:
 - slug: peppermint extract
   amount: 2 tsp
   notes:
-- slug: red food coloring
-  amount:
-  notes:
+- slug: food coloring
+  amount: 
+  notes: red
 
 
 ---

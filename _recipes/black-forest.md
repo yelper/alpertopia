@@ -45,9 +45,9 @@ ingredients:
 - slug: water
   amount: 1/2 C
   notes: hot
-- slug: dark sweet cherries
+- slug: cherries
   amount: 2 15oz cans
-  notes:
+  notes: dark, sweet
 - slug: cherry liquor
   amount: 2 tbsp
   notes:

@@ -39,9 +39,9 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: boneless chuck roast
+- slug: chuck roast
   amount: 3 lbs
-  notes:
+  notes: boneless
 - slug: salsa
   amount: 1 C
   notes:

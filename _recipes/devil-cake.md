@@ -21,9 +21,9 @@ ingredients:
 - slug: egg whites
   amount: 3
   notes:
-- slug: cold water
+- slug: water
   amount: 1 1/3 C
-  notes:
+  notes: cold
 - slug: soda
   amount: 1 1/4 tsp
   notes: dissolved in 1 tbsp hot water

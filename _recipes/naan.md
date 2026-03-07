@@ -21,9 +21,9 @@ ingredients:
 - slug: butter
   amount: 28 g
   notes:
-- slug: instant yeast
+- slug: yeast
   amount: 1 1/2 tsp
-  notes:
+  notes: instant
 - slug: sugar
   amount: 1 tsp
   notes:

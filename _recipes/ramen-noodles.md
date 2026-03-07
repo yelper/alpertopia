@@ -9,9 +9,9 @@ reference: https://fitmencook.com/veggie-ramen-noodles/
 image: ramen-noodles.jpg
 
 ingredients:
-- slug: brown rice ramen noodles
+- slug: ramen noodles
   amount: 5 costco chunks
-  notes:
+  notes: brown rice
 - slug: vegetable broth
   amount: 1 C
   notes:

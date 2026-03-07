@@ -1,8 +1,15 @@
+.bundle/
+vendor/
+
 account.key
 _site/
+
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
 assets/content
 assets/publications
 examples/
+
+secret*

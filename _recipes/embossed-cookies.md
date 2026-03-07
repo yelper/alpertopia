@@ -21,9 +21,9 @@ ingredients:
 - slug: ginger
   amount: 1/2 tsp
   notes: ground
-- slug: pumpkin spice
+- slug: pumpkin pie spice
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: cinnamon
   amount: 1/2 tsp
   notes:

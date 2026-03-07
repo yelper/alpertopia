@@ -27,9 +27,9 @@ ingredients:
 - slug: eggs
   amount: 2
   notes:
-- slug: plain yogurt
+- slug: yogurt
   amount: 1/4 C
-  notes:
+  notes: plain
 - slug: molasses
   amount: 2 tsp
   notes:

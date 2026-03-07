@@ -42,9 +42,9 @@ ingredients:
 - slug: ketchup
   amount: 2 tbsp
   notes:
-- slug: rice wine vinegar
+- slug: rice vinegar
   amount: 3 tbsp
-  notes:
+  notes: 
 - slug: fish sauce
   amount: 1 tsp
   notes:

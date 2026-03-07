@@ -15,9 +15,9 @@ ingredients:
 - slug: olive oil
   amount: 25 g
   notes:
-- slug: instant yeast
+- slug: yeast
   amount: 1 tsp
-  notes:
+  notes: instant
 - slug: sugar
   amount: 1 1/2 tsp
   notes:

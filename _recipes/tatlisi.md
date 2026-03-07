@@ -6,8 +6,8 @@ prep_time: 30
 cook_time: 10
 reference: https://turkishstylecooking.com/gul-tatlisi-recipe.html
 ingredients:
-- slug: 100g butter
-  amount:
+- slug: butter
+  amount: 100g
   notes: room temperature
 - slug: eggs
   amount: 1

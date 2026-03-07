@@ -18,9 +18,9 @@ ingredients:
 - slug: sugar
   amount: pinch of
   notes:
-- slug: instant yeast
+- slug: yeast
   amount: 1 tsp
-  notes:
+  notes: instant
 - slug: salt
   amount: 1 tsp
   notes:

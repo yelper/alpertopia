@@ -24,9 +24,9 @@ ingredients:
 - slug: soy sauce
   amount: 3/4 C
   notes:
-- slug: rice wine vinegar
+- slug: rice vinegar
   amount: 2 tbsp
-  notes:
+  notes: 
 - slug: sesame oil
   amount: 3 tsp
   notes: toasted

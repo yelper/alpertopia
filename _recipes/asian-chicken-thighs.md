@@ -27,9 +27,9 @@ ingredients:
 - slug: brown sugar
   amount: 1 tsp
   notes:
-- slug: rice wine vinegar
+- slug: rice vinegar
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: garlic
   amount: 1 clove
   notes: minced

@@ -39,9 +39,9 @@ ingredients:
 - slug: serrano peppers
   amount:
   notes: for serving
-- slug: chopped peanuts
-  amount:
-  notes: for serving
+- slug: peanuts
+  amount: 
+  notes: chopped, for serving
 - slug: avocado
   amount:
   notes: for serving

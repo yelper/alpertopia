@@ -42,9 +42,9 @@ ingredients:
 - slug: coleslaw mix
   amount: 2 1/2 C
   notes:
-- slug: plain yogurt
+- slug: yogurt
   amount: 3 tbsp
-  notes:
+  notes: plain
 - slug: lime juice
   amount: 1 tbsp
   notes:

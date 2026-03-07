@@ -58,9 +58,9 @@ ingredients:
 - slug: parsley
   amount: 2 tbsp
   notes: fresh, minced
-- slug: blended peeled lemon
+- slug: lemon
   amount: 2 tsp
-  notes:
+  notes: blended, peeled
 - slug: raisins
   amount: 1/4 C
   notes:

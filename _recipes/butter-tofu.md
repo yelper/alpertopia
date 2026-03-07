@@ -21,9 +21,9 @@ ingredients:
 - slug: tofu
   amount: 2 blocks
   notes: firm
-- slug: unsalted butter
+- slug: butter
   amount: 1 stick
-  notes:
+  notes: unsalted
 - slug: yellow onion
   amount: 2
   notes: peeled and diced

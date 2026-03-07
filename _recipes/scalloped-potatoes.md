@@ -21,9 +21,9 @@ ingredients:
 - slug: thyme
   amount: 1 tbsp
   notes: fresh
-- slug: white cheddar cheese
+- slug: cheddar cheese
   amount: 1 C
-  notes: shredded
+  notes: white, shredded
 - slug: parmesan cheese
   amount: 1/2 C
   notes: grated

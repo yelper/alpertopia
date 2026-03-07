@@ -6,9 +6,9 @@ prep_time: 10
 cook_time: 60
 reference: From Gram
 ingredients:
-- slug: cooked rice
+- slug: rice
   amount: 1 C
-  notes:
+  notes: cooked
 - slug: eggs
   amount: 1
   notes: 

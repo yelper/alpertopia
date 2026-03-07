@@ -33,9 +33,9 @@ ingredients:
 - slug: tomatoes
   amount: 1 14.5 oz can
   notes: crushed
-- slug: dry lentils
+- slug: lentils
   amount: 2 C
-  notes:
+  notes: dry
 - slug: water
   amount: 8 C
   notes:

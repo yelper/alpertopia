@@ -29,16 +29,18 @@ ingredients:
 - slug: carrots
   amount: 1 C
   notes: thinly sliced
-- slug: dry ramen noodles
+- slug: ramen noodles
   amount: 6 oz.
-- slug: unsweetened plant-based milk
+  notes: dry
+- slug: non-dairy milk
   amount: 1 C
+  notes: unsweetened
 - slug: yellow miso paste
   amount: 3 tbsp
-- slug: firm tofu
+- slug: tofu
   amount: 12 oz.
-  notes: cut into 3/4 inch cubes
-- slug: sugar snap peas
+  notes: firm, cut into 3/4 inch cubes
+- slug: snap peas
   amount: 1 C
   notes: halved
 - slug: brown rice vinegar

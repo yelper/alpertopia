@@ -9,18 +9,18 @@ ingredients:
 - slug: bread flour
   amount: 500 g
   notes:
-- slug:  instant dry yeast
+- slug: yeast
   amount: 2 tsp
-  notes:
+  notes: instant
 - slug: sugar
   amount:  1 1/2 tbsp
   notes:
 - slug:  salt
   amount:  1 1/2 tsp
   notes:
-- slug:  warm water
-  amount:  1 1/3 C
-  notes:
+- slug: water
+  amount: 1 1/3 C
+  notes: warm
 - slug: bread flour
   amount: 3/4 C
   notes: extra, for kneading in

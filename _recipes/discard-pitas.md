@@ -12,15 +12,15 @@ ingredients:
 - slug: kosher salt
   amount: 1 tsp
   notes:
-- slug: instant yeast
+- slug: yeast
   amount: 1 tsp
-  notes:
+  notes: instant
 - slug: sourdough discard
   amount: 240 g
   notes:
-- slug: warm water
+- slug: water
   amount: 112 g
-  notes:
+  notes: warm
 - slug: olive oil
   amount: 1 tbsp
   notes:

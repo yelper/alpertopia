@@ -9,9 +9,9 @@ ingredients:
 - slug: active starter
   amount: 100 g
   notes:
-- slug: warm water
+- slug: water
   amount: 375 g
-  notes:
+  notes: warm
 - slug: bread flour
   amount: 500 g
   notes:

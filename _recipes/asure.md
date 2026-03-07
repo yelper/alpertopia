@@ -9,9 +9,9 @@ ingredients:
 - slug: barley
   amount: 1 C
   notes:
-- slug: white kidney beans
+- slug: kidney beans
   amount: 1/4 C
-  notes:
+  notes: white
 - slug: chickpeas
   amount: 1/4 C
   notes:

@@ -36,9 +36,9 @@ ingredients:
 - slug: ginger
   amount: 2 tsp
   notes: fresh
-- slug: cooked brown rice
+- slug: brown rice
   amount: 2 1/2 C
-  notes:
+  notes: cooked
 - slug: bell peppers
   amount: 1
   notes: chopped

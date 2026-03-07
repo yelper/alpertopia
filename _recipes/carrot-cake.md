@@ -27,9 +27,9 @@ ingredients:
 - slug: vanilla extract
   amount: 2 tsp
   notes:
-- slug: shredded coconut
+- slug: coconut
   amount: 2 C
-  notes:
+  notes: shredded
 - slug: salt
   amount: 1 tsp
   notes:
