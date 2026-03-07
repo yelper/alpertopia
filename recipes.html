@@ -9,14 +9,15 @@ permalink: /recipes/index.html
 
 {% assign sorted_categories = "asian dinner,pasta dinner,veggie dinner,meat dinner,salad,soup,appetizers,sides,breakfast,drinks,thanksgiving,christmas cookies,gram recipes,canned goods,frozen treats" | split: "," | concat: categories | uniq %}
 
-<div class="row">
-    <div class="col-12 col-md-8 mt-3">
+<div class="row mt-3">
+    <div class="col-12 col-md-8">
         <p>These recipes aren't necessarily our creations, but they are our derivatives and contain our notes.  This is collaborative effort between my partner and me!</p>
     </div>
 </div>
 
-<div class="row my-2">
+<div class="row">
     <div class="col-12">
+        <p>Three random recipes from our favorites (that have pictures!):</p>
         <div id="random-recipes" class="card-deck">
             <div class="card"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div>
             <div class="card"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div>
@@ -160,7 +161,7 @@ permalink: /recipes/index.html
         cardDeck.empty();
         picks.forEach(recipe => {
             cardDeck.append(`
-                <div class="card">
+                <div class="card mb-1">
                     <a href="${recipe.value}">
                         <img src="${recipe.image}" class="card-img-top" alt="image of ${recipe.text}">
                     </a>
