@@ -1,5 +1,5 @@
 ---
-title: Instant Pot Cripsy Carnitas
+title: Instant Pot Crispy Carnitas
 categories: [meat dinner]
 servings: 6-8
 prep_time: 5

@@ -1,5 +1,5 @@
 ---
-title: Baked Falafel + Cashew Sour Cream
+title: Baked Falafel with Cashew Sour Cream
 categories: [veggie dinner]
 servings: 6
 prep_time: 15 plus overnight

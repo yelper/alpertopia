@@ -1,10 +1,13 @@
 ---
 title: Udon Noodle Soup
 categories: [soup]
-servings: 6
+servings: 4
 prep_time: 10
 cook_time: 20
 reference: https://www.connoisseurusveg.com/udon-noodle-soup/#recipe
+
+image: udon-noodles.jpg
+
 ingredients:
 - slug: peanut oil
   amount: 2 tbsp
