@@ -6,7 +6,7 @@ prep_time: 10
 cook_time: 20
 reference: https://tasty.co/recipe/cajun-style-chicken-salad
 ingredients:
-- slug: chicken breasts
+- slug: chicken breast
   amount: 2
   notes: boneless, skinless, cut in half
 - slug: olive oil
@@ -27,9 +27,9 @@ ingredients:
 - slug: black beans
   amount: 8 oz
   notes:
-- slug: Cajun seasoning
+- slug: cajun seasoning
   amount: 2 heaping tbsp
-  notes:
+  notes: 
 - slug: yogurt
   amount: 1/4 C
   notes:
@@ -42,9 +42,9 @@ ingredients:
 - slug: olive oil
   amount: 1 tbsp
   notes:
-- slug: Cajun seasoning
+- slug: cajun seasoning
   amount: 1 1/2 tsp
-  notes:
+  notes: 
 
 
 

@@ -31,7 +31,10 @@ ingredients:
 - slug: eggs
   amount: 2
   notes: over-easy or poached
-- slug: salt and pepper
+- slug: salt
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: chives
   notes: for garnish

@@ -21,21 +21,21 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: minced
-- slug: dried oregano
+- slug: oregano
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: bay leaf
   amount: 1
   notes:
-- slug: dried basil
+- slug: basil
   amount: 1 stp
-  notes:
+  notes: dried
 - slug: tomatoes
   amount: 1 14.5 oz can
   notes: crushed
-- slug: dry lentils
+- slug: lentils
   amount: 2 C
-  notes:
+  notes: dry
 - slug: water
   amount: 8 C
   notes:
@@ -45,8 +45,11 @@ ingredients:
 - slug: vinegar
   amount: 2 tbsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 ---

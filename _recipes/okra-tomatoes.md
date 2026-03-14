@@ -6,9 +6,9 @@ prep_time: 10
 cook_time: 135
 reference: https://cooking.nytimes.com/recipes/1013832-mediterranean-okra-and-tomato-stew
 ingredients:
-- slug: fresh okra
+- slug: okra
   amount: 2 lb
-  notes: tops trimmed
+  notes: fresh, tops trimmed
 - slug: salt
   amount:
   notes:
@@ -18,7 +18,7 @@ ingredients:
 - slug:  olive oil
   amount: 1/4 C
   notes:
-- slug: onions
+- slug: onion
   amount: 2
   notes: cut in half lengthwise, then sliced thin
 - slug: garlic
@@ -27,9 +27,9 @@ ingredients:
 - slug:  tomatoes
   amount: 1 lb
   notes: or 1 14-oz can with juice
-- slug: ground pepper
-  amount:
-  notes:
+- slug: black pepper
+  amount: 
+  notes: ground
 - slug: tomato paste
   amount: 1 tbsp
   notes: diluted with 1/2 C water

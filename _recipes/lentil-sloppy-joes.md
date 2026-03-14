@@ -9,9 +9,9 @@ ingredients:
 - slug: water
   amount: 4 C, plus 1 tbsp
   notes:
-- slug: dried lentils
+- slug: lentils
   amount: 1 C
-  notes:
+  notes: dried
 - slug: paprika
   amount: 1 tbsp
   notes:
@@ -21,9 +21,9 @@ ingredients:
 - slug: garlic powder
   amount: 1 tsp
   notes:
-- slug: dried parsley
+- slug: parsley
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: mushrooms
   amount: 8 oz
   notes: button, chopped
@@ -48,9 +48,9 @@ ingredients:
 - slug: apple cider vinegar
   amount: 1 tsp
   notes:
-- slug: whole wheat buns or multigrain pita
-  amount:
-  notes:
+- slug: bread
+  amount: 
+  notes: whole wheat buns or multigrain pita
 
 
 ---

@@ -21,12 +21,12 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 1 1-inch piece
-  notes:
-- slug: PB2 powder
+  notes: fresh
+- slug: pb2 powder
   amount: 5 tbsp
-  notes:
+  notes: 
 - slug: water
   amount: 2 tbsp
 - slug: soy sauce

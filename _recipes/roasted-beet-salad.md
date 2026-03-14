@@ -21,7 +21,7 @@ ingredients:
 - slug: red wine vinegar
   amount: 1 tbsp
   notes:
-- slug: red onions
+- slug: red onion
   amount: 3 tbsp
   notes: minced
 - slug: raspberry jam
@@ -33,12 +33,15 @@ ingredients:
 - slug: sugar
   amount: 1/2 tsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
   notes: to taste
-- slug: mixed baby lettuce and spring greens
+- slug: black pepper
+  amount: 
+  notes: to taste
+- slug: mixed greens
   amount: 8 oz
-  notes:
+  notes: 
 - slug: walnuts
   amount: 1 C
   notes: toasted

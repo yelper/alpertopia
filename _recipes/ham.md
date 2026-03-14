@@ -6,9 +6,9 @@ prep_time: 15
 cook_time: 75
 reference: https://cafedelites.com/brown-sugar-mustard-glazed-ham/#recipe
 ingredients:
-- slug: bone-in ham
+- slug: ham
   amount: 8-10 lb
-  notes: fully cooked
+  notes: bone-in, fully cooked
 - slug: water
   amount: 1/2 C
   notes:

@@ -27,9 +27,9 @@ ingredients:
 - slug: paprika
   amount: 1 tsp
   notes:
-- slug: cumin powder
+- slug: cumin
   amount: 1 1/2 tsp
-  notes:
+  notes: ground
 - slug: salt
   amount: 1/2 tsp
   notes:
@@ -51,12 +51,12 @@ ingredients:
 - slug: vegetable broth
   amount: 7 C
   notes:
-- slug: chives or scallions
-  amount:
-  notes: for serving
-- slug: extra lemon
-  amount:
-  notes: for serving
+- slug: green onions
+  amount: 
+  notes: chives or scallions, for serving
+- slug: lemon
+  amount: 
+  notes: extra, for serving
 - slug: yogurt
   amount:
   notes: for serving

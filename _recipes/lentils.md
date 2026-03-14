@@ -15,7 +15,7 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: chopped
-- slug: carrot
+- slug: carrots
   amount: 1
   notes: peeled and finely chopped
 - slug: lentils

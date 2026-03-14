@@ -12,7 +12,7 @@ ingredients:
 - slug: red onion
   amount: 1 medium
   notes: chopped
-- slug: bell pepper
+- slug: bell peppers
   amount: 1 large
   notes: chopped
 - slug: carrots

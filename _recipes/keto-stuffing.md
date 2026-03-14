@@ -15,8 +15,11 @@ ingredients:
 - slug: pork sausage
   amount: 2 lb
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: celery
   amount: 8 stalks
@@ -27,18 +30,18 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes: minced
-- slug: fresh parsley
+- slug: parsley
   amount: 1 C
-  notes: chopped
-- slug: fresh sage
+  notes: fresh, chopped
+- slug: sage
   amount: 2 tbsp
-  notes: minced
-- slug: fresh thyme
+  notes: fresh, minced
+- slug: thyme
   amount: 2 tbsp
-  notes: minced
-- slug: fresh rosemary
+  notes: fresh, minced
+- slug: rosemary
   amount: 1 tbsp
-  notes: chopped
+  notes: fresh, chopped
 - slug: chicken broth
   amount: 3 C
   notes:

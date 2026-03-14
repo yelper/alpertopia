@@ -12,9 +12,9 @@ ingredients:
 - slug: brown sugar
   amount: 1 1/2 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1 large
-  notes:
+  notes: 
 - slug: vanilla extract
   amount: 1 1/2 tsp
   notes:

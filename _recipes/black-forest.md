@@ -45,9 +45,9 @@ ingredients:
 - slug: water
   amount: 1/2 C
   notes: hot
-- slug: dark sweet cherries
+- slug: cherries
   amount: 2 15oz cans
-  notes:
+  notes: dark, sweet
 - slug: cherry liquor
   amount: 2 tbsp
   notes:
@@ -63,9 +63,9 @@ ingredients:
 - slug: powdered sugar
   amount: 1/4 C
   notes:
-- slug: vanila extract
+- slug: vanilla extract
   amount: 1 tsp
-  notes:
+  notes: 
 ---
 
 1. Preheat the oven to 350°F (177°C). Grease three 9-inch cake pans, line with parchment paper rounds, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans. (If it’s helpful, see this parchment paper rounds for cakes video & post.)

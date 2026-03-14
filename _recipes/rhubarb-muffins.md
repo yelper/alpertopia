@@ -15,9 +15,9 @@ ingredients:
 - slug: baking powder
   amount: 1 1/2 tsp
   notes:
-- slug: ground cinnamon
+- slug: cinnamon
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: salt
   amount: 1/4 tsp
   notes:
@@ -27,7 +27,7 @@ ingredients:
 - slug: almond milk
   amount: 3/4 C
   notes: unsweetened, unflavored
-- slug: banana
+- slug: bananas
   amount: 1 medium
   notes: ripe
 - slug: dates

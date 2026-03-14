@@ -6,9 +6,9 @@ prep_time: 15
 cook_time: 30
 reference: https://www.eatingbirdfood.com/tahini-fig-bars/#wprm-recipe-container-36757
 ingredients:
-- slug: old fashioned oats
+- slug: rolled oats
   amount: 1 C
-  notes:
+  notes: 
 - slug: dried figs
   amount: 1/2 C
   notes: chopped
@@ -21,9 +21,9 @@ ingredients:
 - slug: honey
   amount: 1/3 C
   notes:
-- slug: ground flaxseed
+- slug: flaxseed
   amount: 2 tbsp
-  notes:
+  notes: ground
 - slug: chia seeds
   amount: 2 tbsp
   notes:

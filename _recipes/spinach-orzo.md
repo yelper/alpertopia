@@ -18,9 +18,9 @@ ingredients:
 - slug: red onion
   amount: 1/2
   notes: finely chopped
-- slug: pine nuts (or almonds)
+- slug: nuts
   amount: 3/4 C
-  notes:
+  notes: pine nuts or almonds
 - slug: basil
   amount: 1/2 tsp
   notes: dried

@@ -18,16 +18,16 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes: minced
-- slug: frozen spinach
+- slug: spinach
   amount: 2 10 oz packaged
-  notes: thawed and squeezed well
+  notes: frozen, thawed and squeezed well
 - slug: ricotta cheese
   amount: 1 C
   notes:
 - slug: sour cream
   amount: 1/2 C
   notes:
-- slug: Monterey Jack cheese
+- slug: monterey jack cheese
   amount: 2 C
   notes: shredded
 - slug: corn tortillas

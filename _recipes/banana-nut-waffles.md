@@ -6,10 +6,12 @@ prep_time: 10
 cook_time: 10
 reference: https://cookieandkate.com/2013/banana-nut-waffles/
 ingredients:
-- slug: whole-wheat flour
+- slug: whole wheat flour
   amount: 1 1/2 C
-- slug: brown sugar (or normal)
+  notes: 
+- slug: brown sugar
   amount: 2 tbsp
+  notes: or normal sugar
 - slug: baking powder
   amount: 2 tsp
   notes:
@@ -27,11 +29,12 @@ ingredients:
 - slug: milk
   amount: 3/4 C
   notes: lukewarm
-- slug: very ripe bananas
+- slug: bananas
   amount: 3/4 C
-  notes: mashed
-- slug: large egg
+  notes: very ripe, mashed
+- slug: eggs
   amount: 1
+  notes: large
 - slug: vanilla extract
   amount: 1/2 tsp
 

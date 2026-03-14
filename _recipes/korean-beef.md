@@ -28,12 +28,12 @@ ingredients:
 - slug: garlic
   amount: 3 cloves
   notes:
-- slug: bell pepper
+- slug: bell peppers
   amount: 1-2
   notes: sliced
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tbsp
-  notes:
+  notes: fresh
 - slug: sesame oil
   amount: 1 tbsp
   notes:

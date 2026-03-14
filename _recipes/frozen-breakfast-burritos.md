@@ -8,7 +8,7 @@ reference: https://tasty.co/recipe/healthier-frozen-breakfast-burritos
 ingredients:
 - slug: turkey bacon
   amount: 4 slices
-- slug: sweet potato
+- slug: sweet potatoes
   amount: 1
   notes: peeled and diced
 - slug: spinach
@@ -20,7 +20,7 @@ ingredients:
 - slug: olive oil
 - slug: salt
   notes: to taste
-- slug: pepper
+- slug: black pepper
   notes: to taste
 - slug: shredded cheese
 - slug: whole wheat tortillas

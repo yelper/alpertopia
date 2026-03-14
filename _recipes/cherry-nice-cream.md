@@ -6,18 +6,18 @@ prep_time: 10
 cook_time: 0 
 reference: https://www.forksoverknives.com/recipes/vegan-desserts/almond-cherry-nice-cream/ 
 ingredients:
-- slug: frozen bananas
+- slug: bananas
   amount: 4
-  notes: 
+  notes: frozen
 - slug: almond milk
   amount: 1/4 C
   notes: unsweetened, unflavored
 - slug: almond extract
   amount: 3/4 tsp
   notes:
-- slug: frozen cherries
+- slug: cherries
   amount: 5 1/2 C
-  notes: thawed and chopped
+  notes: frozen, thawed and chopped
 
 
 ---

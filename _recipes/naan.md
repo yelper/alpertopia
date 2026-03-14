@@ -6,9 +6,9 @@ prep_time: 30
 cook_time: 15
 reference: https://www.kingarthurbaking.com/recipes/naan-recipe
 ingredients:
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 180 g
-  notes:
+  notes: 
 - slug: bread flour
   amount: 90 g
   notes:
@@ -21,9 +21,9 @@ ingredients:
 - slug: butter
   amount: 28 g
   notes:
-- slug: instant yeast
+- slug: yeast
   amount: 1 1/2 tsp
-  notes:
+  notes: instant
 - slug: sugar
   amount: 1 tsp
   notes:

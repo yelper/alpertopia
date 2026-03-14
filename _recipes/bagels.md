@@ -9,24 +9,36 @@ ingredients:
 - slug: bread flour
   amount: 500 g
   notes:
-- slug:  instant dry yeast
+- slug: yeast
   amount: 2 tsp
-  notes:
+  notes: instant
 - slug: sugar
   amount:  1 1/2 tbsp
   notes:
 - slug:  salt
   amount:  1 1/2 tsp
   notes:
-- slug:  warm water
-  amount:  1 1/3 C
-  notes:
-- slug: extra bread flour
-  amount:  3/4 C
-  notes: for kneading in
-- slug: caraway seeds, minced garlic, poppy seeds, dried onion and sesame seeds
-  amount:
-  notes: optional toppings
+- slug: water
+  amount: 1 1/3 C
+  notes: warm
+- slug: bread flour
+  amount: 3/4 C
+  notes: extra, for kneading in
+- slug: caraway seeds
+  amount: 
+  notes: optional topping
+- slug: garlic
+  amount: 
+  notes: minced, optional topping
+- slug: poppy seeds
+  amount: 
+  notes: optional topping
+- slug: dried onion
+  amount: 
+  notes: optional topping
+- slug: sesame seeds
+  amount: 
+  notes: optional topping
 - slug:
   amount:
   notes:

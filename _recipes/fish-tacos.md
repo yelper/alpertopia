@@ -9,9 +9,9 @@ reference: https://lemonsandzest.com/air-fryer-fish-tacos-with-cilantro-lime-sla
 image: fish-tacos.jpg
 
 ingredients:
-- slug: tilapia or cod
+- slug: white fish
   amount: 2 lb
-  notes:
+  notes: tilapia or cod
 - slug: chili powder
   amount: 2 tsp
   notes:
@@ -36,15 +36,15 @@ ingredients:
 - slug: sea salt
   amount: 1 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: coleslaw mix
   amount: 2 1/2 C
   notes:
-- slug: plain yogurt
+- slug: yogurt
   amount: 3 tbsp
-  notes:
+  notes: plain
 - slug: lime juice
   amount: 1 tbsp
   notes:
@@ -60,9 +60,9 @@ ingredients:
 - slug: sea salt
   amount: 1/4 tsp
   notes: to taste
-- slug: pepper
+- slug: black pepper
   amount: 1/4 tsp
-  notes:
+  notes: 
 - slug: tortillas
   amount:
   notes: for serving

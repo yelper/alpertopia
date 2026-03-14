@@ -24,17 +24,18 @@ ingredients:
 - slug: butter
   amount: 1 stick
   notes: chilled in freezer
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: heavy cream
   amount: 1/4 C
   notes:
-- slug: sour/tart cherries
+- slug: sour cherries
   amount: 3/4 C
   notes: patted dry and diced
-- slug: egg white
+- slug: egg whites
   amount: 1
+  notes: 
 - slug: water
   amount: 1 tbsp
   notes:

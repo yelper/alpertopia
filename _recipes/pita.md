@@ -6,9 +6,9 @@ prep_time: 110
 cook_time: 10
 reference: https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread
 ingredients:
-- slug: active dry yeast
+- slug: yeast
   amount: 2 tsp
-  notes:
+  notes: active dry
 - slug: sugar
   amount: 1/2 tsp
   notes:

@@ -24,7 +24,7 @@ ingredients:
 - slug: cheddar cheese
   amount: 4 C
   notes: shredded, divided
-- slug: Gruyere cheese
+- slug: gruyere cheese
   amount: 2 C
   notes: shredded, divided
 - slug: salt

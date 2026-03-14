@@ -9,9 +9,9 @@ ingredients:
 - slug: red onion
   amount: 1
   notes: 
-- slug: sweet potato
+- slug: sweet potatoes
   amount: 1
-  notes:
+  notes: 
 - slug: carrots
   amount: 2
   notes: cut into large chunks
@@ -30,10 +30,10 @@ ingredients:
 - slug: garlic
   amount: 1 clove
   notes: crushed
-- slug: lemon zest and juice
+- slug: lemon
   amount: 
-  notes: of half a lemon
-- slug: eggplants
+  notes: zest and juice, of half a lemon
+- slug: eggplant
   amount: 2
   notes: cut into chunks
 - slug: chickpeas

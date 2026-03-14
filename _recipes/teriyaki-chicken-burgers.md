@@ -12,18 +12,18 @@ ingredients:
 - slug: bread crumbs
   amount: 1/2 C
   notes:
-- slug: scallions
+- slug: green onions
   amount: 3
   notes: chopped
-- slug: egg
+- slug: eggs
   amount: 1 large
   notes: beaten
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/4 C
-  notes:
-- slug: fresh ginger
+  notes: fresh
+- slug: ginger
   amount: 1 1/2 tbsp
-  notes: grated
+  notes: fresh, grated
 - slug: garlic
   amount: 3 cloves
   notes: minced
@@ -33,9 +33,9 @@ ingredients:
 - slug: brown sugar
   amount: 1 tbsp
   notes:
-- slug: toasted sesame oil
+- slug: sesame oil
   amount: 1 tbsp
-  notes:
+  notes: toasted
 - slug: sriracha
   amount: 2 tsp
   notes:

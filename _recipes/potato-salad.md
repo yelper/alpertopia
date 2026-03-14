@@ -30,9 +30,9 @@ ingredients:
 - slug: olive oil
   amount:
   notes: to taste
-- slug: fresh parsley
+- slug: parsley
   amount: 1/4 C
-  notes: chopped
+  notes: fresh, chopped
 - slug: red pepper flakes
   amount:
   notes: to taste

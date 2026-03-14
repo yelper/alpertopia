@@ -36,8 +36,11 @@ ingredients:
 - slug: cinnamon
   amount: 1/4 tsp
   notes: heaping
-- slug: sugar and cinnamon
+- slug: sugar
   amount: extra
+  notes: for topping
+- slug: cinnamon
+  amount: 
   notes: for topping
 - slug: peanut oil
   notes: for frying

@@ -6,9 +6,9 @@ prep_time: 40
 cook_time: 20
 reference: https://www.unicornsinthekitchen.com/turkish-borek-recipe/#recipe
 ingredients:
-- slug: yufka or phyllo dough
+- slug: pastry dough
   amount: 1 package
-  notes:
+  notes: yufka or phyllo
 - slug: olive oil
   amount: 1 tbsp
   notes:
@@ -18,9 +18,9 @@ ingredients:
 - slug: spinach
   amount: 4 C
   notes:
-- slug: white cheese (or feta)
+- slug: cheese
   amount: 1/2 C
-  notes:
+  notes: white or feta
 - slug: salt
   amount: 1/4 tsp
   notes:
@@ -30,12 +30,12 @@ ingredients:
 - slug:
   amount:
   notes:
-- slug: Russet potato
+- slug: russet potatoes
   amount: 1
-  notes:
-- slug: Aleppo pepper
+  notes: 
+- slug: aleppo pepper
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: salt
   amount: 1 tsp
   notes:
@@ -45,12 +45,12 @@ ingredients:
 - slug:
   amount:
   notes:
-- slug: white cheese (or feta)
+- slug: cheese
   amount: 1/2 C
-  notes:
-- slug: fresh parsley
+  notes: white or feta
+- slug: parsley
   amount: 2 tbsp
-  notes: chopped
+  notes: fresh, chopped
 - slug: salt
   amount: 1/4 tsp
   notes:

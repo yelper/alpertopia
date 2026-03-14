@@ -51,9 +51,9 @@ ingredients:
 - slug: crisp rice cereal
   amount: 2 C
   notes:
-- slug: creamy peanut butter
+- slug: peanut butter
   amount: 2/3 C
-  notes:
+  notes: creamy
 - slug: semisweet chocolate chips
   amount: 1 1/3 C
 ---

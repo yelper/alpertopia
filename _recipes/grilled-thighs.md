@@ -12,15 +12,15 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes: crushed
-- slug: fresh parsley
+- slug: parsley
   amount: 4 tbsp
-  notes:
+  notes: fresh
 - slug: salt
   amount: 1 1/2 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: olive oil
   amount: 1/3 C
   notes:

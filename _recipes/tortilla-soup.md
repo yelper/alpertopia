@@ -8,7 +8,7 @@ reference: https://thedizzycook.com/vegan-tortilla-soup/#recipe
 ingredients:
 - slug: olive oil
   amount: 2 tbsp
-- slug: shallots
+- slug: shallot
   amount: 2
   notes: medium, peeled and chopped
 - slug: sweet potatoes
@@ -16,7 +16,7 @@ ingredients:
   notes: diced in 1/4 inch pieces
 - slug: corn
   amount: 1 can
-- slug: jalapeno
+- slug: jalapenos
   amount: 2
   notes: small, seeds and ribs removed and finely chopped
 - slug: garlic
@@ -30,9 +30,9 @@ ingredients:
   notes: diced
 - slug: vegetable broth
   amount: 4 C
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/4 C
-  notes: chopped
+  notes: fresh, chopped
 - slug: cumin
   amount: 2 tsp
   notes: ground
@@ -43,8 +43,8 @@ ingredients:
   amount: 2 tbsp
 - slug: kosher salt
   notes: to taste
-- slug: corn chips or tortillas
-  notes: for topping
+- slug: corn chips
+  notes: or tortillas, for topping
 
 ---
 1. In a large heavy bottomed pot or dutch oven, heat 2 tbsp of olive oil over medium heat. Add the shallots, sweet potatoes, corn, and jalapeno and ½ teaspoon of kosher salt. Stir until the shallots and potatoes become softened, about 10 minutes.

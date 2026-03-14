@@ -15,15 +15,15 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: Lemony - lemon pepper, parsley, white pepper
-  amount:
-  notes:
-- slug:  Hearty - oregano, dill, garlic powder, parsley, cumin (small amount)
-  amount:
-  notes:
-- slug: Herby - basil, oregano, rosemary, marjoram, lemon juice
-  amount:
-  notes:
+- slug: lemon spice blend
+  amount: 
+  notes: 
+- slug: spice blend
+  amount: 
+  notes: 
+- slug: herb blend
+  amount: 
+  notes: 
 
 
 ---

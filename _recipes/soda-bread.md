@@ -9,9 +9,9 @@ ingredients:
 - slug: buttermilk
   amount: 1 3/4 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: flour
   amount: 4 1/4 C
   notes: plus more for your hands

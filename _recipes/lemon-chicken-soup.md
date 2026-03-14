@@ -27,9 +27,9 @@ ingredients:
 - slug: orzo
   amount: 1 C
   notes:
-- slug: cooked chicken
+- slug: chicken
   amount: 3 C
-  notes:
+  notes: cooked
 - slug: eggs
   amount: 3
   notes:
@@ -45,9 +45,9 @@ ingredients:
 - slug: black pepper
   amount:
   notes: ground, to taste
-- slug: fresh dill
-  amount:
-  notes: for serving
+- slug: dill
+  amount: 
+  notes: fresh, for serving
 
 
 ---

@@ -30,13 +30,13 @@ ingredients:
 - slug: brown sugar
   amount: 2/3 C
   notes: lightly packed
-- slug: egg
+- slug: eggs
   amount: 2
-  notes:
+  notes: 
 - slug: vanilla extract
   amount: 4 tsp
   notes:
-- slug: M&Ms, maybe the peanut butter kind?
+- slug: m&ms
   amount: 2 C
   notes: save some for topping
 - slug: chocolate chips

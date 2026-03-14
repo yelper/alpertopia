@@ -9,10 +9,10 @@ ingredients:
 - slug: seashell pasta
   amount: 1 lb
   notes:
-- slug: Asiago cheese
+- slug: asiago cheese
   amount: 1/2 lb
   notes: diced
-- slug: Genoa salami
+- slug: genoa salami
   amount: 1/4 lb
   notes: chopped
 - slug: pepperoni sausage
@@ -30,7 +30,7 @@ ingredients:
 - slug: black olives
   amount: 1 6 oz can
   notes: drained and chopped
-- slug: Italian salad dressing mix
+- slug: italian salad dressing mix
   amount: 1 .7 oz package
   notes: dry
 - slug: olive oil
@@ -39,13 +39,13 @@ ingredients:
 - slug: balsamic vinegar
   amount: 1/4 C
   notes:
-- slug: dried oregano
+- slug: oregano
   amount: 2 tbsp
-  notes:
-- slug: dried parsley
+  notes: dried
+- slug: parsley
   amount: 1 tbsp
-  notes:
-- slug: Parmesan cheese
+  notes: dried
+- slug: parmesan cheese
   amount: 1 tbsp
   notes: grated
 

@@ -24,21 +24,21 @@ ingredients:
 - slug: garam masala
   amount: 1 tbsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1 tsp
-  notes:
-- slug: ground coriander
+  notes: ground
+- slug: coriander
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: kosher salt
   amount: 3/4 tsp
   notes:
 - slug: turmeric
   amount: 1/2 tsp
   notes:
-- slug: ground ginger
+- slug: ginger
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: red pepper flakes
   amount: 1/4 tsp
   notes:
@@ -57,9 +57,9 @@ ingredients:
 - slug: cilantro
   amount: 1/4 C
   notes: chopped
-- slug: brown rice, naan or potatoes
-  amount:
-  notes: for serving
+- slug: brown rice
+  amount: 
+  notes: for serving, or naan or potatoes
 
 
 ---

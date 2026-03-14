@@ -12,9 +12,9 @@ ingredients:
 - slug: sugar
   amount: 1/2 C
   notes:
-- slug: zest and juice
-  amount:
-  notes: from two lemons
+- slug: lemon
+  amount: 
+  notes: zest and juice, from two lemons
 - slug: almond extract
   amount: 1 tsp
   notes:
@@ -33,9 +33,9 @@ ingredients:
 - slug: baking powder
   amount: 1/2 tsp
   notes:
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 3 C
-  notes:
+  notes: 
 - slug: summer squash
   amount: 2 C
   notes: grated

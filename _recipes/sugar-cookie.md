@@ -6,15 +6,15 @@ prep_time: 120
 cook_time: 15
 reference: Cara's workbook
 ingredients:
-- slug: unsalted butter
+- slug: butter
   amount: 1/2 C
-  notes: room temperature
+  notes: unsalted, room temperature
 - slug: sugar
   amount: 1 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: vanilla extract
   amount: 1 tsp
   notes:

@@ -30,18 +30,18 @@ ingredients:
 - slug: whole wheat flour
   amount: 1 C
   notes:
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 3/4 C
-  notes:
+  notes: 
 - slug: baking powder
   amount: 1 1/2 tsp
   notes:
 - slug: baking soda
   amount: 1/2 tsp
   notes:
-- slug: ground cinnamon
+- slug: cinnamon
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: salt
   amount: 1/4 tsp
   notes:

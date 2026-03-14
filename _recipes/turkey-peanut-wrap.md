@@ -9,15 +9,15 @@ ingredients:
 - slug: ground turkey
   amount: 1/2 costco pack
   notes:
-- slug: broccoli slaw (mix of carrots, cabbage, bok choy)
+- slug: broccoli slaw
   amount: 10 oz
-  notes:
+  notes: 
 - slug: bell peppers
   amount: 1/2
   notes: red
-- slug: PB2
+- slug: pb2 powder
   amount: 5 tbsp
-  notes:
+  notes: 
 - slug: yogurt
   amount: 1/2 C
   notes:
@@ -42,13 +42,14 @@ ingredients:
 - slug: red pepper flakes
   amount:
   notes: for serving
-- slug: fresh cilantro
-  amount:
-  notes: for serving
-- slug: green onion
-  amount:
+- slug: cilantro
+  amount: 
+  notes: fresh, for serving
+- slug: green onions
+  amount: 
   notes: chopped, for serving
-- slug: whole wheat pita or lettuce
+- slug: wrap
+  notes: whole wheat pita or lettuce
 
 
 ---

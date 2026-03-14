@@ -20,7 +20,7 @@
 {%- endfor -%}
 },"recipes":[
 {%- for recipe in site.recipes -%}
-    {"value":"{{recipe.url}}","text":"{{recipe.title}}"}
+    {"value":"{{recipe.url}}","text":"{{recipe.title}}","image":"{% if recipe.image %}/assets/img/recipes/{{recipe.image}}{% endif %}"}
     {%- unless forloop.last -%},{%- endunless -%}
 {%- endfor -%}
 ]}

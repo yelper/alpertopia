@@ -12,9 +12,9 @@ ingredients:
 - slug: sugar
   amount: 85 g
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: salt
   amount: pinch
   notes:

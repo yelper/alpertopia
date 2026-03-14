@@ -28,8 +28,17 @@ ingredients:
 - slug: mustard seeds
   amount: 1/2 tsp
   notes: whole
-- slug: garlic cloves, black peppercorns, fennel seeds, coriander seeds
-  amount:
+- slug: garlic
+  amount: 
+  notes: cloves
+- slug: black peppercorns
+  amount: 
+  notes: optional
+- slug: fennel seeds
+  amount: 
+  notes: optional
+- slug: coriander seeds
+  amount: 
   notes: optional
 
 

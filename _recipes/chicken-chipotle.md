@@ -15,9 +15,9 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: minced
-- slug: dried oregano
+- slug: oregano
   amount: 1/2 tsp
-  notes:
+  notes: dried
 - slug: tomatoes
   amount: 1 14.5 oz can
   notes: diced
@@ -27,8 +27,11 @@ ingredients:
 - slug: broth
   amount: 1/2 C
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: chicken thighs
   amount: 1 costco pack

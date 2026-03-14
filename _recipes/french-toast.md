@@ -24,9 +24,9 @@ ingredients:
 - slug: cinnamon
   amount: 1 tsp
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: bread
   amount: 8 slices
   notes:

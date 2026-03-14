@@ -24,12 +24,16 @@ ingredients:
 - slug: mozzarella cheese
   amount: 1/4 C
   notes: shredded
-- slug: salt and pepper
+- slug: salt
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: green onions
   amount: 4
   notes: chopped
-- slug: 9-inch pie crust
+- slug: pie crust
+  notes: 9-inch
 
 ---
 

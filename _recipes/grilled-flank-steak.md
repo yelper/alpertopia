@@ -21,24 +21,24 @@ ingredients:
 - slug: white vinegar
   amount: 1 tbsp
   notes:
-- slug: cumin powder
+- slug: cumin
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: kosher salt
   amount: 2 tsp
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/2 C
-  notes:
-- slug: fresh parsley
+  notes: fresh
+- slug: parsley
   amount: 1 C
-  notes: Italian flat leaf
+  notes: fresh, Italian flat leaf
 - slug: shallot
   amount: 1 small
   notes: peeled
-- slug: dried oregano
+- slug: oregano
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: white vinegar
   amount: 1 tbsp
   notes:

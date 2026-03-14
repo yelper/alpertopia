@@ -21,7 +21,7 @@ ingredients:
 - slug: apples
   amount: 2
   notes: peeled and cut into 1 inch pieces
-- slug: carrot
+- slug: carrots
   amount: 4
   notes: peeled and cut into 1 inch pieces
 - slug: raisins

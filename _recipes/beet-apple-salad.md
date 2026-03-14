@@ -12,7 +12,7 @@ ingredients:
 - slug: carrots
   amount: 1 C
   notes: shredded
-- slug: apple
+- slug: apples
   amount: 1 large
   notes: cored and cut into matchsticks
 - slug: lemon juice

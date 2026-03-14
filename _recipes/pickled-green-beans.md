@@ -15,9 +15,9 @@ ingredients:
 - slug: red pepper flakes
   amount: 1/2 tsp
   notes:
-- slug: fresh dill
+- slug: dill
   amount: 3 big sprigs
-  notes:
+  notes: fresh
 - slug: water
   amount: 3 C
   notes:

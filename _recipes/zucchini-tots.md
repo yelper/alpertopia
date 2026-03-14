@@ -12,9 +12,9 @@ ingredients:
 - slug: zucchini
   amount: 1 C
   notes: packed, grated
-- slug: egg
+- slug: eggs
   amount: 1 large
-  notes:
+  notes: 
 - slug: onion
   amount: 1/4
   notes: minced

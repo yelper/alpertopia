@@ -18,8 +18,9 @@ ingredients:
   amount: 1 tsp
 - slug: cinnamon-sugar
   amount: 2 tsp
-- slug: dried cranberries
+- slug: cranberries
   amount: 1 C
+  notes: dried
 - slug: walnuts
   amount: 1/4 C
   notes: chopped and toasted

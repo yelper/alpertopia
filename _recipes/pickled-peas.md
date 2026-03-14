@@ -6,27 +6,27 @@ prep_time: 15 minutes
 cook_time: 1 day
 reference: https://www.seriouseats.com/recipes/2012/03/quick-pickled-sugarsnap-peas-recipe.html
 ingredients:
-- slug: sugarsnap peas
+- slug: snap peas
   amount: 12 oz
-  notes:
-- slug: rice wine vinegar
+  notes: 
+- slug: rice vinegar
   amount: 1 1/4 C
-  notes:
+  notes: 
 - slug: honey
   amount: 1 tbsp
   notes:
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 3 thin slices
-  notes:
-- slug: green onion
+  notes: fresh
+- slug: green onions
   amount: 1
-  notes:
-- slug: fresh mint
+  notes: 
+- slug: mint
   amount: 1 sprig
-  notes:
+  notes: fresh
 
 
 ---

@@ -11,12 +11,12 @@ ingredients:
   notes: whole
 - slug: heavy cream
   amount: 1 pint
-- slug: Yukon Gold potatoes
+- slug: yukon gold potatoes
   amount: 2 medium
   notes: diced
 - slug: kosher salt
   notes: to taste
-- slug: pepper
+- slug: black pepper
   notes: to taste
 - slug: butter
   amount: 4 tbsp
@@ -31,7 +31,7 @@ ingredients:
   notes: fresh, chopped
 - slug: bay leaves
   amount: 2
-- slug: white onions
+- slug: white onion
   amount: 2 medium
   notes: diced
 - slug: leek
@@ -47,9 +47,9 @@ ingredients:
 - slug: razor clam meat
   amount: 1 pound
   notes: cleaned from shell, visceral sac removed, diced
-- slug: Tabasco
+- slug: tabasco
   notes: to taste
-- slug: Worcestershire sauce
+- slug: worcestershire sauce
   notes: to taste
 ---
 

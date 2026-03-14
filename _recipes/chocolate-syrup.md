@@ -15,9 +15,9 @@ ingredients:
 - slug: water
   amount: 1 C
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1-2 tsp
-  notes:
+  notes: 
 - slug: kosher salt
   amount: 1/8-1/4 tsp
   notes:

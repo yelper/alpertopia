@@ -9,9 +9,9 @@ ingredients:
 - slug: barley
   amount: 1 C
   notes:
-- slug: white kidney beans
+- slug: kidney beans
   amount: 1/4 C
-  notes:
+  notes: white
 - slug: chickpeas
   amount: 1/4 C
   notes:
@@ -45,7 +45,7 @@ ingredients:
 - slug: raisins
   amount: 1 C
   notes:
-- slug: apple
+- slug: apples
   amount: 1
   notes: diced
 - slug: orange

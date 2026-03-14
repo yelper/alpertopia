@@ -27,24 +27,30 @@ ingredients:
 - slug: rice noodles
   amount:
   notes:
-- slug: fresh basil, mint and cilantro
-  amount:
+- slug: basil
+  amount: 
+  notes: fresh, for serving
+- slug: mint
+  amount: 
+  notes: for serving
+- slug: cilantro
+  amount: 
   notes: for serving
 - slug: serrano peppers
   amount:
   notes: for serving
-- slug: chopped peanuts
-  amount:
-  notes: for serving
+- slug: peanuts
+  amount: 
+  notes: chopped, for serving
 - slug: avocado
   amount:
   notes: for serving
-- slug: veggies (carrots, bell peppers and cucumbers)
-  amount:
-  notes:
-- slug: protein (shrimp, tofu or chicken)
-  amount:
-  notes:
+- slug: veggies
+  amount: 
+  notes: 
+- slug: protein
+  amount: 
+  notes: shrimp, tofu or chicken
 
 
 ---

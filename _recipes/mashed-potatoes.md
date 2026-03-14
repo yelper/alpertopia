@@ -18,8 +18,8 @@ ingredients:
 - slug: salt
   amount: 3/4 tsp
   notes:
-- slug: pepper
-  amount:
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

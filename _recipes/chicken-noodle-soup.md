@@ -21,22 +21,22 @@ ingredients:
 - slug: salt
   amount: 1 tsp
   notes: to taste
-- slug: pepper
+- slug: black pepper
   amount: 1 tsp
   notes: to taste
-- slug: fresh thyme
+- slug: thyme
   amount: 1 tbsp
-  notes:
-- slug: fresh parsley
+  notes: fresh
+- slug: parsley
   amount: 1 tbsp
-  notes:
-- slug: fresh oregano
+  notes: fresh
+- slug: oregano
   amount: 1 tbsp
-  notes:
+  notes: fresh
 - slug: chicken broth
   amount: 4 C
   notes:
-- slug: chicken with skin and bones
+- slug: whole chicken
   amount: 2 lbs
   notes: use at least 1 chicken breast
 - slug: water

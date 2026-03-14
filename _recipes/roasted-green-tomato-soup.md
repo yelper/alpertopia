@@ -9,7 +9,7 @@ ingredients:
 - slug: green tomatoes
   amount: 2 lb
   notes: quartered
-- slug: onions
+- slug: onion
   amount: 2
   notes: medium, quartered
 - slug: garlic

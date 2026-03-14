@@ -18,20 +18,23 @@ ingredients:
 - slug: garlic
   amount: 1 clove
   notes: minced
-- slug: fresh thyme
+- slug: thyme
   amount: 1 tbsp
-  notes:
-- slug: white cheddar cheese
+  notes: fresh
+- slug: cheddar cheese
   amount: 1 C
-  notes: shredded
+  notes: white, shredded
 - slug: parmesan cheese
   amount: 1/2 C
   notes: grated
 - slug: nutmeg
   amount: pinch of
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

@@ -9,9 +9,9 @@ ingredients:
 - slug: green beans
   amount: 4 14.5 oz cans
   notes:
-- slug: Italian dressing
+- slug: italian dressing
   amount: 16 oz bottle
-  notes:
+  notes: 
 - slug: black olives
   amount: 6 oz can
   notes: cut in half

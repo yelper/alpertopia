@@ -19,7 +19,7 @@ ingredients:
 - slug: garlic
   amount: 4 cloves
   notes: chopped
-- slug: jalapeno
+- slug: jalapenos
   amount: 1
   notes: diced
 - slug: cumin

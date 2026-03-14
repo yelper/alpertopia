@@ -27,15 +27,15 @@ ingredients:
 - slug: eggs
   amount: 2
   notes:
-- slug: plain yogurt
+- slug: yogurt
   amount: 1/4 C
-  notes:
+  notes: plain
 - slug: molasses
   amount: 2 tsp
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1 1/2 tsp
-  notes:
+  notes: 
 - slug: baking powder
   amount: 1 tsp
   notes:

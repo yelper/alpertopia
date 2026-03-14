@@ -9,16 +9,17 @@ image: breakfast-quesadilla.jpg
 ingredients:
 - slug: eggs
   amount: 4
-- slug: hot sauce (Cholula)
+- slug: hot sauce (cholula)
+  notes: 
 - slug: salt
   amount: pinch
-- slug: pinto or black beans
+- slug: beans
   amount: 1 can
-  notes: rinsed and drained
+  notes: pinto or black, rinsed and drained
 - slug: butter
   amount: 2 tsp
   notes:
-- slug: green onion
+- slug: green onions
   amount: 2 tbsp
   notes: chopped
 - slug: cilantro

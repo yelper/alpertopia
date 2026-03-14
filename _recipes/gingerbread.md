@@ -33,12 +33,12 @@ ingredients:
 - slug: butter
   amount: 168 g
   notes: unsalted, room temperature
-- slug: dark brown sugar
+- slug: brown sugar
   amount: 168 g
-  notes:
-- slug: egg
+  notes: dark
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: vanilla extract
   amount: 1 1/2 tsp
   notes:

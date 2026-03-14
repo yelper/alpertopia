@@ -36,15 +36,15 @@ ingredients:
 - slug: green chiles
   amount: 1 4 oz can
   notes: diced
-- slug: chili poweder
+- slug: chili powder
   amount: 2 tsp
-  notes:
+  notes: 
 - slug: cumin
   amount: 1 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
+  notes: 
 
 ---
 

@@ -27,9 +27,9 @@ ingredients:
 - slug: eggs
   amount: 2 (100 g)
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 2 tsp
-  notes:
+  notes: 
 - slug: brown sugar
   amount: 140 g
   notes:

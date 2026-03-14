@@ -6,13 +6,13 @@ prep_time: 25
 cook_time: 10
 reference: https://www.allrecipes.com/recipe/26945/sausage-flowers/?printview
 ingredients:
-- slug: Italian sausage
+- slug: italian sausage
   amount: 1 lb
   notes: ground
-- slug: Monterey Jack cheese
+- slug: monterey jack cheese
   amount: 1/2 C
   notes: shredded
-- slug: Colby cheese
+- slug: colby cheese
   amount: 1/2 C
   notes: shredded
 - slug: salsa

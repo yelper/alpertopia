@@ -24,9 +24,9 @@ ingredients:
 - slug: baking soda
   amount: 1 tsp
   notes:
-- slug: ground cloves
+- slug: cloves
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: salt
   amount: 1 tsp
   notes:

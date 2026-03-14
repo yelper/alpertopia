@@ -27,9 +27,9 @@ ingredients:
 - slug: salt
   amount:
   notes: pinch
-- slug: cacao powder (sweetened) or cinnamon
-  amount:
-  notes: for decoration
+- slug: topping
+  amount: 
+  notes: cacao powder (sweetened) or cinnamon, for decoration
 
 
 ---

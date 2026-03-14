@@ -27,21 +27,21 @@ ingredients:
 - slug: green chiles
   amount: 1 4 oz can
   notes: diced
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tbsp
-  notes: minced, peeled
+  notes: fresh, minced, peeled
 - slug: garlic
   amount: 3 cloves
   notes: minced
-- slug: ground coriander
+- slug: coriander
   amount: 1 tbsp
-  notes:
-- slug: ground cumin
+  notes: ground
+- slug: cumin
   amount: 1 tsp
-  notes:
-- slug: ground turmeric
+  notes: ground
+- slug: turmeric
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: onion powder
   amount: 1/4 tsp
   notes:
@@ -59,12 +59,12 @@ ingredients:
 - slug: garam masala
   amount: 1/4 tsp
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/4 C
-  notes: minced
-- slug: chickpeas or baked tofu
-  amount:
-  notes:
+  notes: fresh, minced
+- slug: protein
+  amount: 
+  notes: chickpeas or baked tofu
 
 ---
 

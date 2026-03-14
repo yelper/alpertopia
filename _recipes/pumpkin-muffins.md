@@ -21,9 +21,9 @@ ingredients:
 - slug: milk
   amount: 1/4 C
   notes:
-- slug: pumpkin spice
+- slug: pumpkin pie spice
   amount: 2 tsp
-  notes:
+  notes: 
 - slug: baking soda
   amount: 1 tsp
   notes:
@@ -36,7 +36,7 @@ ingredients:
 - slug: whole wheat flour
   amount: 1 3/4 C
   notes:
-- slug: old-fashioned oast
+- slug: rolled oats
   amount: 1/3 C
   notes: plus more for sprinkling
 

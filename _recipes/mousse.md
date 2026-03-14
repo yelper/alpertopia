@@ -9,9 +9,9 @@ ingredients:
 - slug: dark chocolate
   amount: 100 g
   notes: 65-80%
-- slug: silken tofu
+- slug: tofu
   amount: 340 g
-  notes: room temperature
+  notes: silken, room temperature
 - slug:  maple syrup
   amount: 50 g
   notes:

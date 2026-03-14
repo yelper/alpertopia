@@ -15,22 +15,26 @@ ingredients:
 - slug: lasagna noodles
   amount: 12
   notes: uncooked
-- slug: frozen spinach
+- slug: spinach
   amount: 2 10 oz packages
-  notes: thawed and squeezed well
+  notes: frozen, thawed and squeezed well
 - slug: ricotta cheese
   amount: 15 oz
   notes:
 - slug: parmesan cheese
   amount: 1/2 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1 large
   notes:
-- slug: kosher salt and pepper
-  amount:
 - slug: red pepper flakes
   amount: 1/2 tsp
+  notes:
+- slug: kosher salt
+  amount:
+  notes: to taste
+- slug: black pepper
+  amount:
   notes: to taste
 - slug: mozzarella cheese
   amount: 6 oz

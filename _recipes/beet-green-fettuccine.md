@@ -15,9 +15,9 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: crushed
-- slug: fresh parsley
+- slug: parsley
   amount: 1/4 C packed
-  notes:
+  notes: fresh
 - slug: lemon zest
   amount:
   notes: from one lemon

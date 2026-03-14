@@ -12,22 +12,25 @@ ingredients:
 - slug: peanut butter
   amount: 1/3 C
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 1-inch
-  notes: peeled and grated
+  notes: fresh, peeled and grated
 - slug: lime juice
   amount: 1 tbsp
   notes:
 - slug: soy sauce
   amount: 1/2 tsp
   notes:
-- slug: sea salt and pepper
-  amount:
+- slug: sea salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: water
   amount: 1/3 C
   notes:
-- slug: sweet potato
+- slug: sweet potatoes
   amount: 2 medium
   notes: peeled and cut into 1-inch pieces
 - slug: olive oil
@@ -42,8 +45,11 @@ ingredients:
 - slug: cumin
   amount: 1 1/2 tsp
   notes: divided
-- slug: sea salt and pepper
-  amount:
+- slug: sea salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: chickpeas
   amount: 1 1/2 C
@@ -60,11 +66,11 @@ ingredients:
 - slug: pumpkin seeds
   amount: 2 tbsp
   notes:
-- slug: cilantro, parsley, mint, basil or combination
+- slug: herbs
   amount: 1/2 C
-  notes:
-- slug: quinoa or wild rice
-  notes: for serving
+  notes: cilantro, parsley, mint, basil or combination
+- slug: grain
+  notes: quinoa or wild rice, for serving
 
 ---
 

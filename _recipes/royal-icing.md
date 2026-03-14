@@ -15,9 +15,9 @@ ingredients:
 - slug: vanilla extract
   amount: 1 1/2 tsp
   notes:
-- slug: warm water
+- slug: water
   amount: 1/4 - 1/2 C
-  notes:
+  notes: warm
 - slug: light corn syrup
   amount: 2 tbsp
   notes:

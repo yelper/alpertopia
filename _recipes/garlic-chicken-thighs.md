@@ -15,18 +15,18 @@ ingredients:
 - slug: garlic powder
   amount: 1 tsp
   notes:
-- slug: dried thyme
+- slug: thyme
   amount: 1/2 tsp
-  notes:
-- slug: dried rosemary
+  notes: dried
+- slug: rosemary
   amount: 1/2 tsp
-  notes:
+  notes: dried
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/4 tsp
-  notes:
+  notes: 
 - slug: cayenne pepper
   amount: pinch of
   notes:
@@ -45,9 +45,9 @@ ingredients:
 - slug: vegetable broth
   amount: 1/2 C
   notes:
-- slug: fresh parsley
-  amount:
-  notes: for serving
+- slug: parsley
+  amount: 
+  notes: fresh, for serving
 ---
 
 Pat chicken thighs dry with paper towel and trim off excess fat. Combine the onion powder, garlic powder, dried herbs, salt and pepper/s. Coat the chicken evenly with the combined seasoning.

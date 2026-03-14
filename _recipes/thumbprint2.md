@@ -15,9 +15,9 @@ ingredients:
 - slug: brown sugar
   amount: 70 g
   notes:
-- slug: egg yolk
+- slug: egg yolks
   amount: 1
-  notes:
+  notes: 
 - slug: vanilla extract
   amount: 3/4 tsp
   notes:

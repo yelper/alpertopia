@@ -28,9 +28,9 @@ ingredients:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: BBQ sauce
+- slug: bbq sauce
   amount: 1 1/2 C
-  notes:
+  notes: 
   url: /recipes/bbq-sauce
 - slug: onion
   amount: 1/2 C
@@ -38,9 +38,9 @@ ingredients:
 - slug: brown sugar
   amount: 2-3 tbsp
   notes:
-- slug: Worcestershire sauce
+- slug: worcestershire sauce
   amount: 2 tsp
-  notes:
+  notes: 
 ---
 
 1. Place the ingredients in the instant pot in this order chicken stock (or water), chicken, onion powder, garlic, powder, paprika, salt, BBQ sauce, grated onion, brown sugar and Worcestershire sauce. Do NOT stir. You want the water to stay on the bottom of the pot so the instant pot comes to pressure.

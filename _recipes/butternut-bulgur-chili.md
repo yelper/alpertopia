@@ -9,7 +9,7 @@ ingredients:
 - slug: tomatoes
   amount: 4 lb
   notes: quartered
-- slug: onions
+- slug: onion
   amount: 2 C
   notes: roughly chopped
 - slug: poblano peppers
@@ -28,25 +28,31 @@ ingredients:
 - slug: pinto beans
   amount: 2 15 oz cans
   notes: rinsed and drained
-- slug: uncooked bulgur
+- slug: bulgur
   amount: 3/4 C
-- slug: unsweetened cocoa powder
+  notes: uncooked
+- slug: cocoa powder
   amount: 2 tsp
+  notes: unsweetened
 - slug: chili powder
   amount: 2 tsp
-- slug: dried oregano
+- slug: oregano
   amount: 2 tsp
-  notes: crushed
-- slug: ground cumin
+  notes: dried, crushed
+- slug: cumin
   amount: 1 tsp
-- slug: salt and pepper
+  notes: ground
+- slug: salt
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: roasted pepitas
   amount: 1/4 C
-- slug: scallions
+- slug: green onions
   notes: sliced
-- slug: fresh cilanto
-  notes: chopped
+- slug: cilantro
+  notes: fresh, chopped
 
 ---
 

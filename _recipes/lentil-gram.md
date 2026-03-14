@@ -12,9 +12,9 @@ ingredients:
 - slug: water
   amount: 1 1/2 C
   notes:
-- slug: bacon (or ham or sausage)
+- slug: breakfast meat
   amount: 5 slices
-  notes: cut into chunks
+  notes: bacon, ham, or sausage, cut into chunks
 - slug: onion 
   amount: 1/2
   notes: chopped

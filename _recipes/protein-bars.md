@@ -12,7 +12,7 @@ ingredients:
 - slug: nut butter
   amount: 3/4 C
   notes:
-- slug: banana
+- slug: bananas
   amount: 1
   notes: mashed
 - slug: honey
@@ -21,9 +21,9 @@ ingredients:
 - slug: salt
   amount: pinch
   notes:
-- slug: ground flax seed
+- slug: flaxseed
   amount: 1/2 C
-  notes:
+  notes: ground
 - slug: protein powder
   amount: 1 C
   notes:

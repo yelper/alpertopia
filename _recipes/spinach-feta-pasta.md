@@ -27,8 +27,11 @@ ingredients:
 - slug: spinach
   amount: 2 C
   notes: packed
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: red pepper flakes
   amount: pinch of

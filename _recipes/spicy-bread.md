@@ -12,9 +12,9 @@ ingredients:
 - slug: sugar
   amount: 1/4 C
   notes:
-- slug: instant or rapid-rise yeast
+- slug: yeast
   amount: 1 tbsp
-  notes:
+  notes: instant or rapid-rise
 - slug: red pepper flakes
   amount: 1 1/2 tsp
   notes:
@@ -24,22 +24,22 @@ ingredients:
 - slug: water
   amount: 1/2 C
   notes: warm
-- slug: whole eggs
+- slug: eggs
   amount: 2 large
-  notes:
-- slug: egg yolk
+  notes: whole
+- slug: egg yolks
   amount: 1 large
-  notes:
+  notes: 
 - slug: butter
   amount: 4 tbsp
   notes: melted
-- slug: Monterey Jack cheese
-  amount:  6 oz
+- slug: monterey jack cheese
+  amount: 6 oz
   notes: cut into 1/2 inch cubes, room temperature
 - slug: provolone cheese
   amount: 6 oz
   notes: cut into 1/2 inch cubes, room temperature
-- slug: egg
+- slug: eggs
   amount: 1 large
   notes: lightly beaten
 - slug: red pepper flakes

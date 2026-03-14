@@ -15,21 +15,21 @@ ingredients:
 - slug: mozzarella
   amount: 1 lb
   notes: shredded
-- slug: Parmesan cheese
+- slug: parmesan cheese
   amount: 8 oz
-  notes:
-- slug: egg
+  notes: 
+- slug: eggs
   amount: 2
   notes: beaten
-- slug: dried parsley
+- slug: parsley
   amount: 1 tbsp
-  notes:
+  notes: dried
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: pasta sauce
   amount: 28 oz
   notes:

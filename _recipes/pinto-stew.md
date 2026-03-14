@@ -15,16 +15,16 @@ ingredients:
 - slug: bell peppers
   amount: 1
   notes: chopped
-- slug: carrot
+- slug: carrots
   amount: 1
   notes: thinly sliced
 - slug: garlic
   amount: 4 cloves
   notes: minced
-- slug: tomato
+- slug: tomatoes
   amount: 1
   notes: chopped
-- slug: potato
+- slug: potatoes
   amount: 1
   notes: medium, chopped
 - slug: paprika
@@ -42,8 +42,11 @@ ingredients:
 - slug: spinach
   amount: 2 C
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 ---

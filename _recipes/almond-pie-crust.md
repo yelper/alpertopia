@@ -18,9 +18,9 @@ ingredients:
 - slug: butter
   amount: 1/4 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1 large
-  notes:
+  notes: 
 - slug: vanilla extract
   amount: 1/2 tsp
   notes:

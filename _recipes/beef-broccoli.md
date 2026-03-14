@@ -6,9 +6,9 @@ prep_time: 15
 cook_time: 10
 reference: https://www.isavea2z.com/easy-pressure-cooker-beef-broccoli-recipe/
 ingredients:
-- slug: chuck roast, rump roast or flank steak
+- slug: beef
   amount: 2 lbs
-  notes: cut into thin strips
+  notes: chuck roast, rump roast or flank steak, cut into thin strips
 - slug: olive oil
   amount: 3 tbsp
   notes:
@@ -30,9 +30,9 @@ ingredients:
 - slug: broccoli
   amount: 1 lb
   notes:
-- slug: ground ginger
+- slug: ginger
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: cornstarch
   amount: 2 tbsp
   notes:

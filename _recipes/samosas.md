@@ -15,21 +15,21 @@ ingredients:
 - slug: white onion
   amount: 1/2 small
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tsp
-  notes: finely chopped
-- slug: frozen peas
+  notes: fresh, finely chopped
+- slug: peas
   amount: 1/4 C
-  notes:
-- slug: ground coriander
+  notes: frozen
+- slug: coriander
   amount: 1 tbsp
-  notes:
+  notes: ground
 - slug: garam masala
   amount: 1 tsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: salt
   amount: 1 tsp
   notes:
@@ -42,9 +42,9 @@ ingredients:
 - slug: potatoes
   amount: 1 1/2 lb
   notes: Russet or Yukon Gold, peeled and boiled until soft, drained and mashed
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/4 C
-  notes: chopped
+  notes: fresh, chopped
 - slug: frozen phyllo pastry dough
   amount: 1 package
   notes: thawed

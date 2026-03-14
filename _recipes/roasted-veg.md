@@ -21,10 +21,10 @@ ingredients:
 - slug: balsamic vinegar
   amount: 2 tbsp
   notes:
-- slug: rosemary leaves
+- slug: rosemary
   amount: 2 tsp
   notes: chopped
-- slug: thyme leaves
+- slug: thyme
   amount: 2 tsp
   notes: chopped
 - slug: kosher salt

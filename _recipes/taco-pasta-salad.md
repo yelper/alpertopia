@@ -24,9 +24,9 @@ ingredients:
 - slug: cumin
   amount: 1/2 tsp
   notes:
-- slug: smoked paprika
+- slug: paprika
   amount: 1/2 tsp
-  notes:
+  notes: smoked
 - slug: salt
   amount: 1/2 tsp
   notes:

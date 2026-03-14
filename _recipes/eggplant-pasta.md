@@ -6,7 +6,7 @@ prep_time: 10
 cook_time: 50
 reference: Healthy Eating Cookbook
 ingredients:
-- slug: eggplants
+- slug: eggplant
   amount: 2
   notes: cut into 1-inch pieces (skin OK)
 - slug: olive oil
@@ -30,8 +30,11 @@ ingredients:
 - slug: chicken thighs
   amount: 1 costco pack
   notes: boneless, skinless
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: parmesan cheese
   amount:

@@ -14,19 +14,22 @@ ingredients:
   amount: 1 tbsp
 - slug: sugar
   amount: 1 tbsp
-- slug: shredded coconut
+- slug: coconut
   amount: 1 C
+  notes: shredded
 - slug: mini chocolate chips
   amount: 3/4 C
-- slug: egg
+- slug: eggs
   amount: 1
+  notes: 
 - slug: milk
   amount: 1 1/2 C
 - slug: butter
   amount: 3 tbsp
   notes: melted
-- slug: heavy whipping cream
+- slug: heavy cream
   amount: 1 C
+  notes: 
 - slug: sugar
   amount: 1 tsp
   notes: for cream

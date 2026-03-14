@@ -21,15 +21,15 @@ ingredients:
 - slug: olive oil
   amount:
   notes:
-- slug: dried oregano
-  amount:
-  notes:
+- slug: oregano
+  amount: 
+  notes: dried
 - slug: cayenne pepper
   amount:
   notes:
-- slug: hot red pepper paste
+- slug: red pepper paste
   amount: 2 spoonfuls
-  notes:
+  notes: hot
 - slug: tomato sauce
   amount: 1 1/2 C
   notes:

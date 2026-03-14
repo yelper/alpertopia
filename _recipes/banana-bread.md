@@ -18,18 +18,18 @@ ingredients:
 - slug: olive oil
   amount: 1/3 C
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: apple cider vinegar
   amount: 1 tsp
   notes:
 - slug: whole wheat flour
   amount: 3/4 C
   notes:
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 3/4 C
-  notes:
+  notes: 
 - slug: almond flour
   amount: 1/2 C
   notes:

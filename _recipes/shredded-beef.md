@@ -15,9 +15,9 @@ ingredients:
 - slug: black pepper
   amount: 1 tsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1 tbsp
-  notes:
+  notes: ground
 - slug: chili powder
   amount: 2 tsp
   notes:
@@ -30,18 +30,18 @@ ingredients:
 - slug: paprika
   amount: 1 tsp
   notes:
-- slug: dried oregano
+- slug: oregano
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: red pepper flakes
   amount: 1 tsp
   notes:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: boneless chuck roast
+- slug: chuck roast
   amount: 3 lbs
-  notes:
+  notes: boneless
 - slug: salsa
   amount: 1 C
   notes:

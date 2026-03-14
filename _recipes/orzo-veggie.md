@@ -24,17 +24,20 @@ ingredients:
 - slug: bell peppers
   amount: 2
   notes: chopped
-- slug: dried thyme
+- slug: thyme
   amount: 2 tsp
-  notes:
-- slug: salt and pepper
-  amount:
+  notes: dried
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: balsamic vinegar
   notes: to taste
-- slug: fresh basil
-  amount:
-  notes: for serving
+- slug: basil
+  amount: 
+  notes: fresh, for serving
 
 
 ---

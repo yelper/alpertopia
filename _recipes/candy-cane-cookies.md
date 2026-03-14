@@ -15,9 +15,9 @@ ingredients:
 - slug: powdered sugar
   amount: 1 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1 large
-  notes:
+  notes: 
 - slug: vanilla extract
   amount: 1 tsp
   notes:

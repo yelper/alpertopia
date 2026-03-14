@@ -30,9 +30,9 @@ ingredients:
 - slug: butterscotch chips
   amount: 3/4 C
   notes:
-- slug: semi-sweet chocolate chips
+- slug: semisweet chocolate chips
   amount: 3/4 C
-  notes:
+  notes: 
 - slug: pretzels
   amount: 1 C -- DON'T OVER FILL
   notes: coarsley chopped

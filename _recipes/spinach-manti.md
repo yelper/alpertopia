@@ -6,12 +6,12 @@ prep_time: a million years
 cook_time: 10 minutes
 reference: https://turkishstylecooking.com/spinach-manti-recipe.html
 ingredients:
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 4 C
-  notes:
-- slug: egg
+  notes: 
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: water
   amount: 1 C
   notes: lukewarm
@@ -27,8 +27,11 @@ ingredients:
 - slug: onion
   amount: 1/2
   notes:
-- slug: salt and ppeper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: yogurt
   amount: 250 g

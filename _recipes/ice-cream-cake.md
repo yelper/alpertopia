@@ -39,9 +39,9 @@ ingredients:
 - slug: water
   amount: 1 tbsp
   notes:
-- slug: package of vanilla oreos (or almond crust)
+- slug: cookie crust
   amount: 14 oz
-  notes:
+  notes: vanilla oreos or almond crust
 - slug: vanilla ice cream
   amount: 1/2 galloon
   notes:
@@ -54,8 +54,11 @@ ingredients:
 - slug: coconut oil
   amount: 6 oz
   notes:
-- slug: berries and mint
-  amount:
+- slug: berries
+  amount: 
+  notes: for serving
+- slug: mint
+  amount: 
   notes: for serving
 
 ---

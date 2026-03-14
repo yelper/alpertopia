@@ -24,9 +24,9 @@ ingredients:
 - slug: curry powder
   amount: 1 tsp
   notes:
-- slug: dried oregano
+- slug: oregano
   amount: 1/2 tsp
-  notes:
+  notes: dried
 - slug: whole wheat pasta
   amount: 8 oz
   notes: farfalle or bow tie
@@ -45,9 +45,9 @@ ingredients:
 - slug: pumpkin seeds
   amount: 1/4 C
   notes: unsalted roasted
-- slug: smoked paprika
-  amount:
-  notes: for serving
+- slug: paprika
+  amount: 
+  notes: smoked, for serving
 
 
 ---

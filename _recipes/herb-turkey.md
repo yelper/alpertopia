@@ -12,15 +12,15 @@ ingredients:
 - slug: butter
   amount: 2 sticks
   notes: unsalted, at room temperature
-- slug: fresh sage
+- slug: sage
   amount: 2 tbsp
-  notes: plus more for stuffing the bird
-- slug: fresh thyme
+  notes: fresh, plus more for stuffing the bird
+- slug: thyme
   amount: 2 tbsp
-  notes: plus more for stuffing the bird
-- slug: fresh parsley
+  notes: fresh, plus more for stuffing the bird
+- slug: parsley
   amount: 3 tbsp
-  notes: plus more for stuffing the bird
+  notes: fresh, plus more for stuffing the bird
 - slug: lemon zest
   amount:
   notes: from one lemon
@@ -33,7 +33,7 @@ ingredients:
 - slug: cheesecloth
   amount: 1 large piece
   notes: double lined
-- slug: lemons
+- slug: lemon
   amount: 2
   notes: halved
 - slug: garlic

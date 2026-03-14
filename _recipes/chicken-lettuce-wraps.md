@@ -7,7 +7,7 @@ cook_time: 15
 reference: https://gimmedelicious.com/chicken-taco-lettuce-wraps-low-carb-paleo-keto/#wprm-recipe-container-13465
 image: lettuce-taco.jpg
 ingredients:
-- slug: chicken breasts
+- slug: chicken breast
   amount: 1 lb
   notes: boneless, skinless
 - slug: taco seasoning
@@ -31,18 +31,18 @@ ingredients:
 - slug: onion
   amount: 1/4 C
   notes: diced
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/2 C
-  notes:
+  notes: fresh
 - slug: yogurt
   amount: 1/2 C
   notes:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: jalapeno
+- slug: jalapenos
   amount: 1
-  notes:
+  notes: 
 - slug: garlic
   amount: 1 clove
   notes: minced

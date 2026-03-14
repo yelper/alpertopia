@@ -6,12 +6,12 @@ prep_time: 30
 cook_time: 30
 reference: https://www.forksoverknives.com/recipes/vegan-pasta-noodles/creamy-avocado-kale-pasta/
 ingredients:
-- slug: dried chickpea rotini pasta
+- slug: chickpea rotini pasta
   amount: 12 oz
-  notes:
-- slug: fresh thin asparagus
+  notes: dried
+- slug: asparagus
   amount: 8 oz
-  notes: cut into 1-inch lengths
+  notes: fresh, thin, cut into 1-inch lengths
 - slug: cherry tomatoes
   amount: 2 C
   notes: halved
@@ -24,9 +24,9 @@ ingredients:
 - slug: lemon zest
   amount: 1 tsp
   notes:
-- slug: fresh lemon juice
+- slug: lemon juice
   amount: 2 tbsp
-  notes:
+  notes: fresh
 - slug: garlic
   amount: 3 cloves
   notes: chopped
@@ -36,9 +36,9 @@ ingredients:
 - slug: sea salt
   amount:
   notes: to taste
-- slug: fresh dill
-  amount:
-  notes: chopped
+- slug: dill
+  amount: 
+  notes: fresh, chopped
 - slug: lemon wedges
   amount:
   notes: for serving

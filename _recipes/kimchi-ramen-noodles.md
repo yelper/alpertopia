@@ -45,8 +45,11 @@ ingredients:
 - slug: lime juice
   amount: 2 tbsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: ramen
   amount: 4 Costco packs

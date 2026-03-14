@@ -15,9 +15,9 @@ ingredients:
 - slug: onion
   amount: 2 small
   notes: sliced
-- slug: beef stock
+- slug: beef broth
   amount: 1 C
-  notes:
+  notes: 
 - slug: soy sauce
   amount: 1 tbsp
   notes:
@@ -27,20 +27,23 @@ ingredients:
 - slug: olive oil
   amount: 1 tbsp
   notes:
-- slug: dried rosemary
+- slug: rosemary
   amount: pinch of
-  notes:
-- slug: dried thyme
+  notes: dried
+- slug: thyme
   amount: pinch of
-  notes:
+  notes: dried
 - slug: bay leaves
   amount: 2
   notes:
 - slug: red wine vinegar
   amount: 2 tbsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug:  mushrooms
   amount: 8

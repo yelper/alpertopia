@@ -6,7 +6,7 @@ prep_time: 10
 cook_time: 15
 reference: Nutrition Facts
 ingredients:
-- slug: avocados
+- slug: avocado
   amount: 2 ripe
   notes: peeled and pitted
 - slug: lemon juice
@@ -18,24 +18,24 @@ ingredients:
 - slug: garlic
   amount: 2-3 cloves
   notes: minced
-- slug: white misp paste
+- slug: white miso paste
   amount: 1 tsp
-  notes:
-- slug: dried oregano
+  notes: 
+- slug: oregano
   amount: 1/2 tsp
-  notes:
+  notes: dried
 - slug: red pepper flakes
   amount: 1/4 tsp
   notes:
-- slug: ground black pepper
+- slug: black pepper
   amount: 1/4 tsp
-  notes:
-- slug: fresh cilantro
+  notes: ground
+- slug: cilantro
   amount: 1/4 C
-  notes: chopped
-- slug: fresh parsley
+  notes: fresh, chopped
+- slug: parsley
   amount: 1/4 C
-  notes: chopped
+  notes: fresh, chopped
 - slug: pasta
   amount: 8 oz
   notes:

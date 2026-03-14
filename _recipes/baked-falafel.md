@@ -6,30 +6,30 @@ prep_time: 15 plus overnight
 cook_time: 30
 reference: WFPB Cookbook
 ingredients:
-- slug: dried chickpeas
+- slug: chickpeas
   amount: 1 C
-  notes:
-- slug: fresh parsley
+  notes: dried
+- slug: parsley
   amount: 1/2 C packed
-  notes: chopped
-- slug: fresh cilantro
+  notes: fresh, chopped
+- slug: cilantro
   amount: 1/2 C packed
-  notes: chopped
+  notes: fresh, chopped
 - slug: onion
   amount: 1/2 C
   notes: chopped
 - slug: garlic
   amount: 3 cloves
   notes: peeled
-- slug: wheat flour
+- slug: whole wheat flour
   amount: 1 1/2 tbsp
-  notes:
+  notes: 
 - slug: cumin
   amount: 2 tsp
   notes:
-- slug: ground coriander
+- slug: coriander
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: baking powder
   amount: 1/2 tsp
   notes:

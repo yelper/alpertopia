@@ -39,7 +39,7 @@ ingredients:
 - slug: baby bok choy
   amount: 4
   notes: sliced
-- slug: spring onion
+- slug: green onions
   amount: 1 bunch
   notes: sliced
 - slug: soy sauce

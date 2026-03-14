@@ -9,9 +9,9 @@ ingredients:
 - slug: avocado oil
   amount: 1/4 C
   notes:
-- slug: all purpose flour
+- slug: all-purpose flour
   amount: 1/4 C
-  notes:
+  notes: 
 - slug: kosher salt
   amount: 1 tsp
   notes:
@@ -21,12 +21,12 @@ ingredients:
 - slug: garlic powder
   amount: 1 1/2 tsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 2 tsp
-  notes:
-- slug: dried oregano
+  notes: ground
+- slug: oregano
   amount: 1/2 tsp
-  notes:
+  notes: dried
 - slug: chili powder
   amount: 2 tbsp
   notes:

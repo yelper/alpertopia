@@ -9,7 +9,7 @@ reference: WFPB Cookbook
 image: spicy-soba-noodles.jpg
 
 ingredients:
-- slug: PB2
+- slug: pb2 powder
   amount: 4 tbsp
   notes: plus 2 tbsp water
 - slug: tamari
@@ -27,15 +27,15 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: minced
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tbsp
-  notes:
+  notes: fresh
 - slug: sriracha
   amount: 2 tbsp
   notes:
-- slug: shelled edamame
+- slug: edamame
   amount: 1 C
-  notes:
+  notes: shelled
 - slug: carrots
   amount: 2
   notes: shredded
@@ -48,7 +48,7 @@ ingredients:
 - slug: red cabbage
   amount: 1/2 small head
   notes: chopped
-- slug: spring onions
+- slug: green onions
   amount: 1 bunch
   notes: chopped
 - slug: peanuts
@@ -60,9 +60,9 @@ ingredients:
 - slug: soba noodles
   amount: 5 bunches
   notes:
-- slug: fresh cilantro
-  amount:
-  notes: chopped, for serving
+- slug: cilantro
+  amount: 
+  notes: fresh, chopped, for serving
 
 
 ---

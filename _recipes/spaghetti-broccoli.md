@@ -30,8 +30,11 @@ ingredients:
 - slug: lemon
   amount: 1 zest of
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

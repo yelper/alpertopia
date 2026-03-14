@@ -24,23 +24,29 @@ ingredients:
 - slug:
   amount:
   notes:
-- slug: ground meat (chicken, turkey, and mixing in ground beef)
+- slug: ground meat
   amount: 1 lb
-  notes:
+  notes: chicken, turkey, or beef
 - slug: onion
   amount: 1/2 large
   notes: grated
 - slug: salt
   amount: 1/2 tbsp
   notes: to taste
-- slug: pepper
+- slug: black pepper
   amount: 1 tsp
   notes: to taste
-- slug: sour cream (or 1 C yogurt with 1 tbsp rice vinegar)
-  amount:
-  notes: to tastes
-- slug: butter, cilantro, and curry powder
-  amount:
+- slug: sour cream
+  amount: 
+  notes: or 1 C yogurt with 1 tbsp rice vinegar, to tastes
+- slug: butter
+  amount: 
+  notes: for serving
+- slug: cilantro
+  amount: 
+  notes: for serving
+- slug: curry powder
+  amount: 
   notes: for serving
 
 ---

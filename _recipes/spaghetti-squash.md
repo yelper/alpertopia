@@ -15,18 +15,21 @@ ingredients:
 - slug: mozzarella cheese
   amount: 1/2-1 C
   notes: shredded
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
   notes: to taste
-- slug: Italian seasoning
-  amount:
+- slug: black pepper
+  amount: 
+  notes: to taste
+- slug: italian seasoning
+  amount: 
   notes: to taste
 - slug: garlic
   amount:
   notes: for serving
-- slug: fresh basil
-  amount:
-  notes: for serving
+- slug: basil
+  amount: 
+  notes: fresh, for serving
 
 ---
 

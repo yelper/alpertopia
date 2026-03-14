@@ -19,9 +19,9 @@ ingredients:
 - slug: grilled portobello mushrooms
   amount: 1 batch
   notes: (3 tbsp soy sauce, 3 tbsp honey, 3 cloves garlic, 1 tbsp grated ginger, 4 portobello mushrooms and pepper)
-- slug: ground cumin
+- slug: cumin
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: jalapenos
   amount: 1
   notes: diced
@@ -37,8 +37,11 @@ ingredients:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: guac and salsa
-  amount:
+- slug: guacamole
+  amount: 
+  notes: for serving
+- slug: salsa
+  amount: 
   notes: for serving
 
 

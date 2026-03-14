@@ -6,24 +6,27 @@ prep_time: 30
 cook_time: 60
 reference: https://gourmetdoneskinny.com/recipes/instant-pot/mexican-shredded-beef/
 ingredients:
-- slug: beef chuck roast
+- slug: chuck roast
   amount: 2 1/2 lb
   notes: sliced in 1 inch cubes
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: onion
   amount: 1
   notes:
-- slug: jalapeno
+- slug: jalapenos
   amount: 1
-  notes:
+  notes: 
 - slug: garlic
   amount: 4 cloves
   notes:
-- slug: beef stock
+- slug: beef broth
   amount: 1 C
-  notes:
+  notes: 
 - slug: chipotle seasoning
   amount: 1-2 tbsp
   notes:

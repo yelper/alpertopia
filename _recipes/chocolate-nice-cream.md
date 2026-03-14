@@ -6,21 +6,21 @@ prep_time: 10
 cook_time: 0 
 reference: Instagram
 ingredients:
-- slug: frozen bananas
+- slug: bananas
   amount: 3 C
-  notes: 
+  notes: frozen
 - slug: cocoa powder
   amount: 2 1/2 tbsp
   notes:
-- slug: ground chia seeds
+- slug: chia seeds
   amount: 2 tbsp
-  notes:
+  notes: ground
 - slug: vanilla extract
   amount: 1 tsp
   notes:
-- slug: fresh cherries
+- slug: cherries
   amount: 1 C
-  notes: pitted and chopped
+  notes: fresh, pitted and chopped
 
 
 ---

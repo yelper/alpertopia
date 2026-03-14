@@ -39,9 +39,9 @@ ingredients:
 - slug: soy sauce
   amount: 3 tbsp
   notes:
-- slug: sriracha sauce
+- slug: sriracha
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: sesame oil
   amount: 1 tsp
   notes:

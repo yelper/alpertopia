@@ -6,21 +6,21 @@ prep_time: 10
 cook_time: 30
 reference: https://cookieandkate.com/gingerbread-granola/
 ingredients:
-- slug: old fashioned oats
+- slug: rolled oats
   amount: 4 C
-  notes:
-- slug: pecans or walnuts
+  notes: 
+- slug: nuts
   amount: 1 1/2 C
-  notes:
+  notes: pecans or walnuts
 - slug: salt
   amount: 3/4 tsp
   notes:
 - slug: cinnamon
   amount: 1 tsp
   notes:
-- slug: ground ginger
+- slug: ginger
   amount: 1 tsp
-  notes:
+  notes: ground
 - slug: coconut oil
   amount: 1/2 C
   notes: melted
@@ -36,9 +36,9 @@ ingredients:
 - slug: coconut flakes
   amount: 1/2 C
   notes: unsweetened
-- slug: dried cranberries
+- slug: cranberries
   amount: 1/3 C
-  notes: chopped
+  notes: dried, chopped
 - slug: candied ginger
   amount: 1/3 C
   notes: chopped

@@ -6,9 +6,9 @@ prep_time: 5
 cook_time: 30
 reference: https://girlwiththeironcast.com/instant-pot-mexican-shredded-chicken/#wprm-recipe-container-6703
 ingredients:
-- slug: chicken breasts
+- slug: chicken breast
   amount: 2 lbs
-  notes:
+  notes: 
 - slug: broth
   amount: 1 C
   notes:

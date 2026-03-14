@@ -15,9 +15,9 @@ ingredients:
 - slug: olive oil
   amount: 25 g
   notes:
-- slug: instant yeast
+- slug: yeast
   amount: 1 tsp
-  notes:
+  notes: instant
 - slug: sugar
   amount: 1 1/2 tsp
   notes:
@@ -30,10 +30,10 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: chopped
-- slug: fresh oregano
+- slug: oregano
   amount: 1/2 tbsp
-  notes:
-- slug: Kalamata olives
+  notes: fresh
+- slug: kalamata olives
   amount: 1/2 C
   notes: chopped
 

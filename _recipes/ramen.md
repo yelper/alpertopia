@@ -9,9 +9,9 @@ reference: instagram
 image: ramen.jpg
 
 ingredients:
-- slug: brown rice ramen
+- slug: ramen noodles
   amount: 4 chunks
-  notes:
+  notes: brown rice
 - slug: tofu
   amount: 1 pack
   notes:
@@ -30,14 +30,20 @@ ingredients:
 - slug: baby bok choy
   amount: 6
   notes:
-- slug: green and yellow beans
+- slug: green beans
   amount: handful
-  notes:
+  notes: 
+- slug: yellow beans
+  amount: 
+  notes: 
 - slug: bell peppers
   amount: 1
   notes: red
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: soy sauce
   amount: 1/2 C

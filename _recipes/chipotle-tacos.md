@@ -21,28 +21,28 @@ ingredients:
 - slug: paprika
   amount: 2 tsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1 1/2 tsp
-  notes:
+  notes: ground
 - slug: garlic powder
   amount: 1 tsp
   notes:
-- slug: crushed red pepper
+- slug: red pepper flakes
   amount: 1/2 tsp
-  notes:
-- slug: dried oregano
+  notes: 
+- slug: oregano
   amount: 1/2 tsp
-  notes:
+  notes: dried
 - slug: kosher salt
   amount: 1 tsp
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 1/4 C
-  notes: chopped
+  notes: fresh, chopped
 - slug: corn tortillas
   amount: 12
   notes:
-- slug: Mexican cheese
+- slug: mexican cheese
   amount: 2 C
   notes: shredded
 - slug:
@@ -51,9 +51,9 @@ ingredients:
 - slug: yogurt
   amount: 1 C
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 3/4 C
-  notes:
+  notes: fresh
 - slug: garlic powder
   amount: 1 tsp
   notes:

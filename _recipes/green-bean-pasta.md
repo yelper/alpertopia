@@ -10,12 +10,12 @@ ingredients:
 - slug: cashews
   amount: 1/4 C
   notes:
-- slug: fresh spinach
+- slug: spinach
   amount: 4 C
-  notes:
-- slug: fresh basil
+  notes: fresh
+- slug: basil
   amount: 1 C
-  notes:
+  notes: fresh
 - slug: nutritional yeast
   amount: 3 tbsp
   notes:
@@ -28,13 +28,13 @@ ingredients:
 - slug: lemon juice
   amount: 2 tbsp
   notes:
-- slug: dried whole wheat spaghetti
+- slug: whole wheat spaghetti
   amount: 8 oz
-  notes:
+  notes: dried
 - slug: green beans
   amount: 8 oz
   notes: trimmed and halved lengthwise
-- slug: cannellini beans
+- slug: white beans
   amount: 2 15 oz can
   notes: drained and rinsed
 - slug: sea salt
@@ -46,8 +46,8 @@ ingredients:
 - slug:  pistachio nuts
   amount: 1/4 C
   notes: chopped
-- slug: crushed red pepper
-  amount:
+- slug: red pepper flakes
+  amount: 
   notes: for serving
 
 ---

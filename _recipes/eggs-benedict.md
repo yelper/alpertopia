@@ -6,8 +6,9 @@ prep_time: 35
 cook_time: 0
 reference: https://cooking.nytimes.com/recipes/1018626-eggs-benedict
 ingredients:
-- slug: unsalted butter
+- slug: butter
   amount: 6 tbsp
+  notes: unsalted
 - slug: egg yolks
   amount: 1.5 large
   notes:
@@ -15,8 +16,9 @@ ingredients:
   amount: 3/4 tsp
 - slug: cayenne
   amount: 1/8 tsp
-- slug: hot paprika
+- slug: paprika
   amount: 1/8 tsp
+  notes: hot
 - slug: white vinegar
   amount: 1 tbsp
   notes: for poaching
@@ -28,13 +30,14 @@ ingredients:
 - slug: english muffins
   amount: 1
   notes: split
-- slug: canadian bacon or thick-cut ham
+- slug: ham
   amount: 2 slices
-  notes: (can use 8 slices bacon instead)
+  notes: canadian bacon or thick-cut, (can use 8 slices bacon instead)
 - slug: chives
   notes: chopped
-- slug: chopped dill, tarragon, or parsely
+- slug: herbs
   amount: 2 tbsp
+  notes: chopped, dill, tarragon, or parsley
 - slug: flaky sea salt
   notes: to taste
 - slug: black pepper

@@ -24,24 +24,27 @@ ingredients:
 - slug: avocado
   amount: 1/2 or all
   notes:
-- slug: blended peeled lemon
+- slug: lemon
   amount: 1 tbsp
-  notes:
+  notes: blended, peeled
 - slug: zucchini
   amount: 4
   notes:
 - slug: cherry tomatoes
   amount: 1 pint
   notes: halved, lengthwise
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
   notes: to taste
-- slug: fresh basil
+- slug: black pepper
+  amount: 
+  notes: to taste
+- slug: basil
   amount: 2 tbsp
-  notes: for serving
-- slug: Nutty Parm
-  amount:
-  notes: for serving
+  notes: fresh, for serving
+- slug: parmesan cheese
+  amount: 
+  notes: nutty, for serving
 
 
 ---

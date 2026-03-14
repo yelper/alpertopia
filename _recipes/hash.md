@@ -24,9 +24,9 @@ ingredients:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: ground pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: smoked salmon
   amount: 4 oz
   notes: broken into pieces

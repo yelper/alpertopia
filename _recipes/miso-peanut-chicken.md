@@ -6,12 +6,12 @@ prep_time: 10
 cook_time: 10
 reference: https://pinchofyum.com/creamy-peanut-chicken-lettuce-wraps#tasty-recipes-41484-jump-target
 ingredients:
-- slug: PB2
+- slug: pb2 powder
   amount: 4 tbsp
-  notes:
-- slug: miso
+  notes: 
+- slug: miso paste
   amount: 3 tbsp
-  notes:
+  notes: 
 - slug: broth
   amount: 1/2 C
   notes:
@@ -24,7 +24,7 @@ ingredients:
 - slug: green onions
   amount: 3
   notes: minced
-- slug: jalapeno
+- slug: jalapenos
   amount: 1
   notes: ribs and seeds removed, minced
 - slug: chicken breast
@@ -33,8 +33,11 @@ ingredients:
 - slug: chili powder
   amount:  1 tbsp
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: grapes
   amount: 3 C

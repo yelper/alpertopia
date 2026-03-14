@@ -6,9 +6,9 @@ prep_time: 5
 cook_time: 10
 reference: https://thedizzycook.com/easy-dinner-healthy-egg-roll-bowl/#recipe
 ingredients:
-- slug: tortilla
+- slug: tortillas
   amount: 1
-  notes:
+  notes: 
 - slug: olive oil
   amount:
   notes:
@@ -18,21 +18,21 @@ ingredients:
 - slug: garlic
   amount: 3 cloves
   notes: minced
-- slug: fresh ginger
+- slug: ginger
   amount: 2 tsp
-  notes: peeled and minced
+  notes: fresh, peeled and minced
 - slug: vegetable broth
   amount: 1/2 C
   notes:
 - slug: soy sauce
   amount: 1/3 C
   notes:
-- slug: toasted sesame oil
+- slug: sesame oil
   amount: 1 1/2 tsp
-  notes:
-- slug: pre-shredded cabbage and carrot slaw
+  notes: toasted
+- slug: coleslaw mix
   amount: 9 oz
-  notes:
+  notes: 
 - slug: green onions
   amount: 4
   notes: chopped

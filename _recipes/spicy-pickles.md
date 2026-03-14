@@ -27,12 +27,12 @@ ingredients:
 - slug: dill seed
   amount: 1 tbsp
   notes:
-- slug: dill weed
+- slug: dill
   amount: 1 tbsp
-  notes:
-- slug: mustard seed
+  notes: 
+- slug: mustard seeds
   amount: 1 tbsp
-  notes:
+  notes: 
 - slug: salt
   amount: 2 tsp
   notes:

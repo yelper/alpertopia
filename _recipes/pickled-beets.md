@@ -21,9 +21,9 @@ ingredients:
 - slug: kosher salt
   amount: 1 tsp
   notes:
-- slug: ground mustard
+- slug: mustard powder
   amount: 1/4 tsp
-  notes:
+  notes: 
 - slug: black peppercorns
   amount: 5
   notes: whole

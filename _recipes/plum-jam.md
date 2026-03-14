@@ -6,18 +6,18 @@ prep_time: 10
 cook_time: 30
 reference: https://simplebites.net/for-the-love-of-small-batch-canning-recipe-spiced-plum-jam/
 ingredients:
-- slug: Italian plums
+- slug: italian plums
   amount: 4 lb
-  notes:
+  notes: 
 - slug: sugar
   amount: 2/3 C
   notes: taste to add more
 - slug: cinnamon
   amount: 1 tsp
   notes:
-- slug: ground nutmeg
+- slug: nutmeg
   amount: 1/4 tsp
-  notes:
+  notes: ground
 
 
 ---

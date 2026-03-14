@@ -6,9 +6,9 @@ prep_time: 20
 cook_time: 20 + 60 minutes for marinade
 reference: https://www.theseasonedmom.com/beef-shish-kabobs/#recipe
 ingredients:
-- slug: beef tenderloin or top sirloin
+- slug: beef
   amount: 1 lb
-  notes: cut into 1 1/2 inch cubes
+  notes: tenderloin or top sirloin, cut into 1 1/2 inch cubes
 - slug: olive oil
   amount: 1/2 C
   notes:
@@ -24,18 +24,18 @@ ingredients:
 - slug: mustard powder
   amount: 1 tsp
   notes:
-- slug: fresh thyme
+- slug: thyme
   amount: 1 tsp
-  notes: minced
-- slug: fresh oregano
+  notes: fresh, minced
+- slug: oregano
   amount: 1 tsp
-  notes: minced
+  notes: fresh, minced
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/4 tsp
-  notes:
+  notes: 
 - slug: sweet onion
   amount: 1
   notes:

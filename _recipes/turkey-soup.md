@@ -15,15 +15,15 @@ ingredients:
 - slug: garlic
   amount: 2 cloves
   notes: mincced
-- slug: Italian seasoning
+- slug: italian seasoning
   amount: 1 dash
-  notes:
+  notes: 
 - slug: ground turkey
   amount: 1 lb
   notes:
-- slug: white beans (cannellini)
+- slug: white beans
   amount: 1 14 oz can
-  notes: drained
+  notes: cannellini, drained
 - slug: carrots
   amount: 2 medium
   notes: sliced
@@ -39,11 +39,14 @@ ingredients:
 - slug: lemon juice
   amount: 1 tbsp or more
   notes: to taste
-- slug: fresh baby spinach
+- slug: baby spinach
   amount: 2 C packed
-  notes:
-- slug:  salt and pepper
-  amount:
+  notes: fresh
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 
 

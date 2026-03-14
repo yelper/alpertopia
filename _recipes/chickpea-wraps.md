@@ -13,9 +13,9 @@ ingredients:
 - slug: curry powder
   amount: 2 tsp
   notes:
-- slug: blended peeled lemon
+- slug: lemon
   amount: 1 tsp
-  notes:
+  notes: blended, peeled
 - slug: date sugar
   amount: 1 tsp
   notes:
@@ -42,10 +42,10 @@ ingredients:
 - slug: raisins
   amount: 1/3 C
   notes:
-- slug: apple
+- slug: apples
   amount: 1
   notes: cored and chopped
-- slug: green onion
+- slug: green onions
   amount: 1 tbsp
   notes: chopped
 - slug: whole wheat tortillas

@@ -12,9 +12,9 @@ ingredients:
 - slug: garlic
   amount: 6 cloves
   notes: minced
-- slug: fresh herbs (thyme, rosemary, sage and parsley)
+- slug: herbs
   amount: 2 tbsp
-  notes: minced
+  notes: fresh, thyme, rosemary, sage and parsley, minced
 - slug: lemon zest
   amount: 1 tsp
   notes:
@@ -27,9 +27,9 @@ ingredients:
 - slug: salt
   amount: 1 tsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: parsley
   amount:
   notes: for garnish

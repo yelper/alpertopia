@@ -33,9 +33,9 @@ ingredients:
 - slug: soy sauce
   amount: 2 tbsp
   notes:
-- slug: flat rice noodles
+- slug: rice noodles
   amount: 4 servings
-  notes:
+  notes: flat
 - slug: avocado oil
   amount: 1  tsp
   notes:
@@ -48,13 +48,13 @@ ingredients:
 - slug: carrots
   amount: 2-3 medium
   notes: thinly sliced
-- slug: green onion
+- slug: green onions
   amount: 1
   notes: thinly sliced
 - slug: cilantro
   amount: small handful
   notes:
-- slug: almond
+- slug: almonds
   amount: small handful
   notes: toasted and chopped
 - slug: lime wedges

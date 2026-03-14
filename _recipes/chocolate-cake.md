@@ -33,15 +33,15 @@ ingredients:
 - slug: eggs
   amount: 2
   notes: at room temperature
-- slug: vanilla
+- slug: vanilla extract
   amount: 2 tsp
-  notes:
+  notes: 
 - slug: buttermilk
   amount: 1 C
   notes:
-- slug: hot coffee
+- slug: coffee
   amount: 1 C
-  notes:
+  notes: hot
 - slug: butter
   amount: 282 g
   notes: unsalted, softened to room temperature
@@ -57,9 +57,9 @@ ingredients:
 - slug: salt
   amount: 1/4 tsp
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: raspberries
   amount:
   notes: for filling and decoration

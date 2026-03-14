@@ -15,27 +15,27 @@ ingredients:
 - slug: brown sugar
   amount: 1 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: molasses
   amount: 1/4 C
   notes:
 - slug: all-purpose flour
   amount: 2 1/4 C
   notes:
-- slug: ground ginger
+- slug: ginger
   amount: 2 tsp
-  notes:
+  notes: ground
 - slug: baking soda
   amount: 2 tsp
   notes:
 - slug: salt
   amount: 1/2 tsp
   notes:
-- slug: fresh ginger
+- slug: ginger
   amount: 1 1/2 tbsp
-  notes: minced
+  notes: fresh, minced
 - slug: crystallized ginger
   amount: 1/2 C
   notes: chopped

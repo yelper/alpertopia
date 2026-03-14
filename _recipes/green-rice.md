@@ -6,12 +6,12 @@ prep_time: 10
 cook_time: 60
 reference: From Gram
 ingredients:
-- slug: cooked rice
+- slug: rice
   amount: 1 C
-  notes:
-- slug: egg
+  notes: cooked
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: bell peppers
   amount: 1/2
   notes: green, minced
@@ -21,9 +21,9 @@ ingredients:
 - slug: garlic
   amount: 1/2 clove
   notes:
-- slug: fresh pasrley
+- slug: parsley
   amount: 1/2 C
-  notes: minced
+  notes: fresh, minced
 - slug: cheese
   amount: 1 C
   notes: grated

@@ -15,18 +15,18 @@ ingredients:
 - slug: goat cheese
   amount: 1/8  C
   notes: crumbled
-- slug: Romaine lettuce
+- slug: romaine lettuce
   amount: 3 leaves
   notes: chopped
-- slug: Boston (or butter) lettuce
+- slug: butter lettuce
   amount: 2/3 C
   notes: chopped
-- slug: fresh parsley
+- slug: parsley
   amount: 1/3 C
-  notes: chopped
-- slug: fresh basil
+  notes: fresh, chopped
+- slug: basil
   amount: 1/4 C
-  notes: chopped
+  notes: fresh, chopped
 - slug: red onion
   amount: 1/3 C
   notes: chopped
@@ -48,9 +48,9 @@ ingredients:
 - slug: olive oil
   amount: 2 tbsp
   notes:
-- slug: dried oregano
+- slug: oregano
   amount: 1/2 tsp
-  notes:
+  notes: dried
 - slug: garlic
   amount: 1 tsp
   notes: minced
@@ -60,9 +60,9 @@ ingredients:
 - slug: sea salt
   amount: pinch of
   notes:
-- slug: pepper
+- slug: black pepper
   amount: pinch of
-  notes:
+  notes: 
 
 
 ---

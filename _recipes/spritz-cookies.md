@@ -15,15 +15,15 @@ ingredients:
 - slug: sugar
   amount: 1 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
-  notes:
+  notes: 
 - slug: milk
   amount: 2 tbsp
   notes:
-- slug: vanilla
+- slug: vanilla extract
   amount: 1/2 tsp
-  notes:
+  notes: 
 - slug: cake flour
   amount: 2 1/4 C
   notes: (substitute one level cup of all-purpose flour, remove two tbsp and add two tbsp of cornstarch)

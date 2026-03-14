@@ -18,37 +18,39 @@ ingredients:
 - slug: garlic
   amount: 6 cloves
   notes: minced
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tbsp
-  notes: grated
+  notes: fresh, grated
 - slug: vegetable broth
   amount: 4 C
-- slug: sweet potato
+- slug: sweet potatoes
   amount: 1 (2 C)
   notes: cut into 1-inch pieces
 - slug: carrots
   amount: 1 C
   notes: thinly sliced
-- slug: dry ramen noodles
+- slug: ramen noodles
   amount: 6 oz.
-- slug: unsweetened plant-based milk
+  notes: dry
+- slug: non-dairy milk
   amount: 1 C
+  notes: unsweetened
 - slug: yellow miso paste
   amount: 3 tbsp
-- slug: firm tofu
+- slug: tofu
   amount: 12 oz.
-  notes: cut into 3/4 inch cubes
-- slug: sugar snap peas
+  notes: firm, cut into 3/4 inch cubes
+- slug: snap peas
   amount: 1 C
   notes: halved
 - slug: brown rice vinegar
   amount: 1 tbsp
-- slug: scallions
+- slug: green onions
   amount: 1/4 C
   notes: thinly sliced
-- slug: toasted nori
+- slug: nori
   amount: 1/4 sheet
-  notes: thinly sliced
+  notes: toasted, thinly sliced
 - slug: togarashi seasoning
   notes: to taste
 

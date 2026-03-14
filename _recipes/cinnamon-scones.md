@@ -27,12 +27,12 @@ ingredients:
 - slug: heavy cream
   amount: 2 tbsp
   notes:
-- slug: egg
+- slug: eggs
   amount: 1 large
-  notes:
-- slug: ground cinnamon
+  notes: 
+- slug: cinnamon
   amount: 2 tsp
-  notes: divided
+  notes: ground, divided
 
 
 ---

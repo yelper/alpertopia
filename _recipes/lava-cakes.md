@@ -18,9 +18,9 @@ ingredients:
 - slug: powdered sugar
   amount: 1 1/4 C
   notes:
-- slug: whole eggs
+- slug: eggs
   amount: 2
-  notes:
+  notes: whole
 - slug: egg yolks
   amount: 3
   notes:

@@ -12,9 +12,9 @@ ingredients:
 - slug: rhubarb
   amount: 1 lb (4 C)
   notes: in 1" slices
-- slug: fresh ginger
+- slug: ginger
   amount: 1 tsp
-  notes: finely grated
+  notes: fresh, finely grated
 - slug: vanilla extract
   amount: 1 tsp
   notes:
@@ -27,9 +27,9 @@ ingredients:
 - slug: maple syrup
   amount: 1/2 C
   notes:
-- slug: old fashioned oats
+- slug: rolled oats
   amount: 1 1/4 C
-  notes:
+  notes: 
 - slug: whole wheat flour
   amount: 1 C
   notes:
@@ -45,9 +45,9 @@ ingredients:
 - slug: butter
   amount: 8 tbsp
   notes: melted
-- slug: almonds, pecans or walnuts
+- slug: nuts
   amount: 1/2 C
-  notes: chopped
+  notes: almonds, pecans or walnuts, chopped
 - slug: vanilla ice cream
   amount:
   notes: for serving

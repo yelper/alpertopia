@@ -24,7 +24,7 @@ ingredients:
 - slug: sugar
   amount: 50 g
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
   notes: room temperature
 - slug: peanut butter

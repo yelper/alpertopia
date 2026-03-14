@@ -21,9 +21,9 @@ ingredients:
 - slug: onion
   amount: 1
   notes:
-- slug: fresh thyme
+- slug: thyme
   amount: 10-12 sprigs
-  notes:
+  notes: fresh
 - slug: red pepper flakes
   amount: 1/2 tbsp
   notes:
@@ -42,15 +42,15 @@ ingredients:
 - slug: yogurt
   amount: 2 tbsp
   notes:
-- slug: hot pepper paste
+- slug: red pepper paste
   amount: 1 tbsp
-  notes:
+  notes: hot
 - slug: salt
   amount: pinch of
   notes:
-- slug: pepper
+- slug: black pepper
   amount: pinch of
-  notes:
+  notes: 
 - slug: red pepper flakes
   amount: pinch of
   notes:
@@ -69,12 +69,12 @@ ingredients:
 - slug: cucumber
   amount: 1
   notes:
-- slug: bell pepper
+- slug: bell peppers
   amount: 1
   notes: green
-- slug: fresh parsley
+- slug: parsley
   amount: 6-8 sprigs
-  notes:
+  notes: fresh
 - slug: lemon juice
   amount: 1 tbsp
   notes:
@@ -87,9 +87,9 @@ ingredients:
 - slug: onion
   amount: 1
   notes:
-- slug: fresh parsley
+- slug: parsley
   amount: 6-8 sprigs
-  notes:
+  notes: fresh
 - slug: sumac
   amount: 1 tsp
   notes:

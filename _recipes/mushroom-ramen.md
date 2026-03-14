@@ -43,7 +43,10 @@ ingredients:
   amount: 2 handfuls
 - slug: tofu
   amount: 1 pack
-- slug: sriracha and sesame seeds
+- slug: sriracha
+  notes: for serving
+- slug: sesame seeds
+  amount: 
   notes: for serving
 
 ---

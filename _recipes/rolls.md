@@ -18,7 +18,7 @@ ingredients:
 - slug: sugar
   amount: 1/4 C
   notes:
-- slug: egg
+- slug: eggs
   amount: 1
   notes: beaten
 - slug: kosher salt

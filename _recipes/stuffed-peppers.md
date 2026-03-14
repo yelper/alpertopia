@@ -18,21 +18,21 @@ ingredients:
 - slug: ground turkey
   amount: 3/4 lb (1/2 costco pack)
   notes:
-- slug: scallions
+- slug: green onions
   amount: 4
-  notes:
+  notes: 
 - slug: garlic
   amount: 2 cloves
   notes: minced
-- slug: ground cinnamon
+- slug: cinnamon
   amount: 1/4 tsp
-  notes:
-- slug: ground cloves
+  notes: ground
+- slug: cloves
   amount: 1/4 tsp
-  notes:
-- slug: rep pepper flakes
+  notes: ground
+- slug: red pepper flakes
   amount: 1 tsp
-  notes:
+  notes: 
 - slug: tomato sauce
   amount: 8 oz
   notes:
@@ -48,10 +48,16 @@ ingredients:
 - slug: almonds
   amount: 1/3 C
   notes: toasted and chopped
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
   notes: to taste
-- slug: yogurt and potatoes
+- slug: black pepper
+  amount: 
+  notes: to taste
+- slug: yogurt
+  notes: for serving
+- slug: potatoes
+  amount: 
   notes: for serving
 
 

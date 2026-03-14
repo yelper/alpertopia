@@ -21,15 +21,15 @@ ingredients:
 - slug: brown sugar
   amount: 3 tbsp
   notes:
-- slug: pepper
+- slug: black pepper
   amount: 1/4 tsp
-  notes:
+  notes: 
 - slug: olive oil
   amount: 1 tbsp
   notes:
-- slug: fresh cilantro
+- slug: cilantro
   amount: 2 tbsp
-  notes: chopped
+  notes: fresh, chopped
 - slug: fish sauce
   amount: 1 tbsp
   notes:

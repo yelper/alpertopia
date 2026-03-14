@@ -12,7 +12,7 @@ ingredients:
 - slug: garlic
   amount: 3 cloves
   notes: coarsely chopped
-- slug: sweet potato
+- slug: sweet potatoes
   amount: 1
   notes: skin on, cubed
 - slug: walnuts
@@ -36,12 +36,12 @@ ingredients:
 - slug: water
   amount: 1/4 C
   notes:
-- slug: Dijon mustard
+- slug: dijon mustard
   amount: 1 tbsp
-  notes:
-- slug: ground flaxseed
+  notes: 
+- slug: flaxseed
   amount: 1/4 C
-  notes:
+  notes: ground
 - slug: coarse cornmeal
   amount: 3/4-1 C
   notes:

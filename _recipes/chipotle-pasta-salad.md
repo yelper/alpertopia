@@ -15,8 +15,11 @@ ingredients:
 - slug: corn
   amount: 1 14.5 oz can
   notes:
-- slug: kosher salt and pepper
-  amount:
+- slug: kosher salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: cherry tomatoes
   amount: 1 C
@@ -36,7 +39,7 @@ ingredients:
 - slug: red onion
   amount: 2 tbsp
   notes: thinly sliced
-- slug:  scallions
+- slug: green onions
   amount: 2 tbsp
   notes: sliced, for serving
 - slug:
@@ -66,12 +69,12 @@ ingredients:
 - slug: garlic powder
   amount: 1 1/4 tsp
   notes:
-- slug: ground cumin
+- slug: cumin
   amount: 1/2 tsp
-  notes:
-- slug: dried parsley
+  notes: ground
+- slug: parsley
   amount: 1 tsp
-  notes:
+  notes: dried
 
 ---
 1. To prepare the pasta, fill a large pot with 2 inches (5 cm) of water, enough to fully submerge the pasta, cover, and bring to a boil. Add the rotini, stir and cover to bring back to a boil. Remove the lid and cook to al dente, according to the package directions. Drain and rinse the pasta in cool water.

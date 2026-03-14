@@ -21,21 +21,24 @@ ingredients:
 - slug: hot sauce
   amount:
   notes: to taste
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: kalamata olives
   amount: 20
   notes: chopped
-- slug: scallions
+- slug: green onions
   amount: 4
-  notes:
+  notes: 
 - slug: garlic
   amount: 2 cloves
   notes:
-- slug: fresh mint
+- slug: mint
   amount: 3 tbsp
-  notes: chopped
+  notes: fresh, chopped
 - slug: yogurt
   amount: 4 tbsp
   notes:

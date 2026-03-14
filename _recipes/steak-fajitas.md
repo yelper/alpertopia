@@ -34,17 +34,23 @@ ingredients:
 - slug: kosher salt
   amount: 1/2 tsp
   notes:
-- slug: ground black pepper
+- slug: black pepper
   amount: 1/2 tsp
-  notes:
+  notes: ground
 - slug: garlic
   amount: 2 cloves
   notes: minced
 - slug: tortillas
   amount: 6-8
   notes:
-- slug: sour cream, guacamole, salsa
-  amount:
+- slug: sour cream
+  amount: 
+  notes: for serving
+- slug: guacamole
+  amount: 
+  notes: for serving
+- slug: salsa
+  amount: 
   notes: for serving
 
 ---

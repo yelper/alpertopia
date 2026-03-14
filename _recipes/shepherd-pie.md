@@ -45,8 +45,11 @@ ingredients:
 - slug: vegetable broth
   amount: 4 C
   notes:
-- slug: salt and pepper
-  amount:
+- slug: salt
+  amount: 
+  notes: to taste
+- slug: black pepper
+  amount: 
   notes: to taste
 - slug: gold potatoes
   amount: 2 1/2 lb

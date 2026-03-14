@@ -9,7 +9,7 @@ reference: Healthy Eating Cookbook
 image: eggplant-parmesan.jpg
 
 ingredients:
-- slug: eggplants
+- slug: eggplant
   amount: 2
   notes: cut into 1/4 inch rounds
 - slug: salt
@@ -21,9 +21,9 @@ ingredients:
 - slug: water
   amount: 2 tbsp
   notes:
-- slug: plain bread crumbs
+- slug: bread crumbs
   amount: 1 1/2 C
-  notes:
+  notes: plain
 - slug: olive oil
   amount: 1 tbsp
   notes:
@@ -33,12 +33,12 @@ ingredients:
 - slug: tomatoes
   amount: 1 28 oz can
   notes: crushed
-- slug: dried basil
+- slug: basil
   amount: 1 tsp
-  notes:
-- slug: dried oregano
+  notes: dried
+- slug: oregano
   amount: 1 tsp
-  notes:
+  notes: dried
 - slug: red pepper flakes
   amoutn: 1/2 tsp
 - slug: mozzarella cheese
