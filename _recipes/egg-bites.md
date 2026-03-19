@@ -29,7 +29,7 @@ ingredients:
   notes: minced
 - slug: red onion
   amount: 1/4 C
-  notes:
+  notes: minced
 - slug: hot sauce
   amount: a few dashes
   notes:
