@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 15
 reference: Healthy Eating Cookbook
+image: peanut-noodles.jpg
 ingredients:
 - slug: soba noodles
   amount: 3 bunches
@@ -26,7 +27,7 @@ ingredients:
   notes: fresh
 - slug: pb2 powder
   amount: 5 tbsp
-  notes: 
+  notes:
 - slug: water
   amount: 2 tbsp
 - slug: soy sauce

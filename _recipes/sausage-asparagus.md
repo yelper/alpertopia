@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 15
 reference: https://www.mealime.com/recipes/sausage-asparagus-walnut-sautee/9363
+image: sausage-asparagus.jpg
 ingredients:
 - slug: asparagus
   amount: 2 bunches
@@ -14,7 +15,7 @@ ingredients:
   notes:
 - slug: pork sausage
   amount: 6
-  notes: 
+  notes:
 - slug: walnuts
   amount: 1/4 C
   notes:
@@ -23,7 +24,7 @@ ingredients:
   notes:
 - slug: dijon mustard
   amount: 2 tsp
-  notes: 
+  notes:
 - slug: olive oil
   amount: 4 tsp
   notes:

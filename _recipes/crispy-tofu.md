@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 20
 reference: https://cooking.nytimes.com/recipes/1021200-crispy-tofu-with-cashews-and-blistered-snap-peas
+image: crispy-tofu.jpg
 ingredients:
 - slug: tofu
   amount: 1 block
@@ -13,16 +14,16 @@ ingredients:
   amount: 3 tbsp
   notes:
 - slug: kosher salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: snap peas
   amount: 3/4 lb
   notes: trimmed
 - slug: bell peppers
-  amount: 1
+  amount: 2
   notes: diced
 - slug:  ginger
   amount: 2 tbsp
@@ -62,6 +63,6 @@ ingredients:
 
 1. Slice the tofu in half horizontally, and leave on paper towels to dry any excess liquid.
 2. In a medium skillet or cast-iron pan, heat 1 tablespoon oil over medium-high until it shimmers. Season both sides of the tofu with salt and black pepper, place in the pan and sear without moving until tofu is browned and golden on both sides, turning once halfway through, about 8 minutes total. Move the tofu to a plate.
-3. Add 1 tablespoon oil to the pan, and add the snap peas. Cook, stirring occasionally, until blistered and just tender, about 3 minutes. Season with salt and move to a bowl.
+3. Add 1 tablespoon oil to the pan, and add the snap peas and chopped bell peppers. Cook, stirring occasionally, until blistered and just tender, about 3 minutes. Season with salt and move to a bowl.
 4. Heat the remaining 1 tablespoon oil, add the ginger and garlic, and cook until fragrant, about 30 seconds. Pour in the coconut milk, soy sauce and molasses. Simmer, stirring frequently until the sauce reduces and its color deepens to a dark brown, about 6 to 8 minutes. It should coat a spoon without running right off. Stir in the cashews, break the tofu into 1-inch pieces and toss in the pan to coat with sauce. Remove from heat, and taste and adjust seasoning, if necessary.
 5. Toss the snap peas with the rice vinegar, scallions, mint and red-pepper flakes, if using. Divide among plates, along with the tofu and cashews. Serve with rice or any steamed grain.

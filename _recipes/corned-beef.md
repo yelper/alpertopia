@@ -41,11 +41,11 @@ ingredients:
   notes: halved
 - slug: cabbage
   amount: 2
-  notes: cut into 8 wedges
+  notes: https://alper.datav.is/recipes/cabbage/
 
 ---
-1.  Rinse Corned Beef: Rinse corned beef under cold water - be sure to rinse well.
-2. Pressure Cook Corned Beef: Add rinsed corned beef, quartered onion, 4 crushed garlic cloves, pickling spices seasoning, and 8 cups cold water in Instant Pot pressure cooker. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 70 minutes + Natural Release (~15 minutes). If the floating valve doesn’t drop after 15 minutes, release the remaining pressure by turning the venting knob from sealing position to venting position. Open lid carefully. OR slow cooker for 5 hours on high, or 7-8 hours on low.
-3. Pressure Cook Vegetables: While the Instant Pot is natural releasing, prepare the vegetables as described. Set aside cooked corned beef and 750ml of the hot liquid in a large serving bowl (there should be about 1.5 - 2 cups of liquid left in Instant Pot). Add quartered red potatoes, carrots, and cabbage wedges in Instant Pot. Or add potatoes and carrots for 40 minutes.
+1. Rinse corned beef under cold water - be sure to rinse well.
+2. Add rinsed corned beef, quartered onion, 4 crushed garlic cloves, pickling spices seasoning, and 8 cups cold water in Instant Pot pressure cooker. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 70 minutes + Natural Release (~15 minutes). If the floating valve doesn’t drop after 15 minutes, release the remaining pressure by turning the venting knob from sealing position to venting position. Open lid carefully.
+3. Pressure Cook Vegetables: While the Instant Pot is natural releasing, prepare the carrots and potatoes as described. Set aside cooked corned beef and 750ml of the hot liquid in a large serving bowl (there should be about 1.5 - 2 cups of liquid left in Instant Pot). Add vegetables to Instant Pot.
 4. With Venting Knob in Venting Position, close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 1-2 minutes + Quick Release. Open the lid carefully.
 5. Cut & Serve: On a chopping board, cut Corned Beef against the grain into ⅛ inch slices. Serve with cabbage wedges, red potatoes and carrots.

@@ -1,10 +1,11 @@
 ---
-title: Chipotle Turkey Bean Tacos
+title: Chipotle Turkey Bean Burritos
 categories: [meat dinner]
 servings: 8
 prep_time: 10
 cook_time: 30
 reference: Healthy Eating Cookbook
+image: turkey-bean-burrito.jpg
 ingredients:
 - slug: canola oil
   amount: 1 tbsp
@@ -45,10 +46,10 @@ ingredients:
   amount:
   notes: for serving
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 
 

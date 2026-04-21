@@ -1,10 +1,11 @@
 ---
 title: Banana Bran Muffins
 categories: [baked goods]
-servings: 12
+servings: 16
 prep_time: 20
 cook_time: 25
 reference: https://www.eatingwell.com/recipe/248768/banana-bran-muffins/
+image: banana-muffins.jpg
 ingredients:
 - slug: eggs
   amount: 2 large
@@ -32,7 +33,7 @@ ingredients:
   notes:
 - slug: all-purpose flour
   amount: 3/4 C
-  notes: 
+  notes:
 - slug: baking powder
   amount: 1 1/2 tsp
   notes:

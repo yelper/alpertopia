@@ -7,13 +7,13 @@ cook_time: 30
 reference: https://highlandsranchfoodie.com/southwest-egg-bites-with-cottage-cheese/#recipe
 ingredients:
 - slug: eggs
-  amount: 7
+  amount: 6
   notes:
 - slug: cottage cheese
   amount: 1 C
   notes:
 - slug: taco seasoning
-  amount: 1 tsp
+  amount: 2 tsp
   notes:
 - slug: kosher salt
   amount: 1/2 tsp
