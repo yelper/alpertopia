@@ -5,6 +5,7 @@ servings: 4
 prep_time: 20
 cook_time: 20 + 60 minutes for marinade
 reference: https://www.theseasonedmom.com/beef-shish-kabobs/#recipe
+image: kabobs.jpg
 ingredients:
 - slug: beef
   amount: 1 lb
@@ -35,9 +36,9 @@ ingredients:
   notes:
 - slug: black pepper
   amount: 1/4 tsp
-  notes: 
+  notes:
 - slug: sweet onion
-  amount: 1
+  amount: 1 large
   notes:
 - slug: cherry tomatoes
   amount: 8
