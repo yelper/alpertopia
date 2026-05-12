@@ -5,6 +5,9 @@ servings: 6
 prep_time: 20
 cook_time: 160
 reference: Cancer Diet Cookbook
+
+image: moroccan-chicken.jpg
+
 ingredients:
 - slug: cumin
   amount: 2 tsp
@@ -26,7 +29,7 @@ ingredients:
   notes:
 - slug: black pepper
   amount: 1/2 tsp
-  notes: 
+  notes:
 - slug: olive oil
   amount: 3 tbsp
   notes:

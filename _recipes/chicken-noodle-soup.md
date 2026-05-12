@@ -5,6 +5,9 @@ servings: 8
 prep_time: 5
 cook_time: 25
 reference: https://www.jocooks.com/recipes/instant-pot-chicken-noodle-soup/#wprm-recipe-container-15994
+
+image: chicken-noodle-soup.jpg
+
 ingredients:
 - slug: butter
   amount: 1 tbsp

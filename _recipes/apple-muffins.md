@@ -45,7 +45,7 @@ ingredients:
 
 ---
 
-1/ Preheat the oven to 170˚C / 350˚F and line a muffin tin with muffin papers. In small bowl pour boiling water over the pitted dates and allow to sit for 5 minutes.
+1. Preheat the oven to 170˚C / 350˚F and line a muffin tin with muffin papers. In small bowl pour boiling water over the pitted dates and allow to sit for 5 minutes.
 
 2. Put the oats and hemp seeds into the blender and blend until smooth. Remove and set aside. Pour the dates and water into the blender and blend until smooth.Add the apples and milk to the blender. Blitz until smooth. Add all remaining ingredients (including the ground oats and hemp seeds) except the blueberries to the blender and mix together.
 

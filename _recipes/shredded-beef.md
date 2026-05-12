@@ -5,6 +5,9 @@ servings: 6
 prep_time: 5
 cook_time: 105
 reference: https://theblondcook.com/instant-pot-mexican-shredded-beef/#tasty-recipes-18879-jump-target
+
+image: shredded-beef.jpg
+
 ingredients:
 - slug: beef broth
   amount: 1 C

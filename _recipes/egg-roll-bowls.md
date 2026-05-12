@@ -5,10 +5,13 @@ servings: 4
 prep_time: 5
 cook_time: 10
 reference: https://thedizzycook.com/easy-dinner-healthy-egg-roll-bowl/#recipe
+
+image: egg-roll-bowls.jpg
+
 ingredients:
 - slug: tortillas
   amount: 1
-  notes: 
+  notes:
 - slug: olive oil
   amount:
   notes:
@@ -31,8 +34,8 @@ ingredients:
   amount: 1 1/2 tsp
   notes: toasted
 - slug: coleslaw mix
-  amount: 9 oz
-  notes: 
+  amount: 2 9 oz bags
+  notes:
 - slug: green onions
   amount: 4
   notes: chopped
