@@ -1,14 +1,17 @@
 ---
 title: Pancakes
 categories: [breakfast]
-servings: 8 4" pancakes
+servings: 6 4" pancakes
 prep_time: 5
 cook_time: 10
 reference: Betty Crocker
+
+image: pancakes.jpg
+
 ingredients:
 - slug: eggs
   amount: 1
-  notes: 
+  notes:
 - slug: flour
   amount: 1 C
   notes:

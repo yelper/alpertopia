@@ -5,6 +5,9 @@ servings: 4
 prep_time: 30
 cook_time: 30
 reference: https://www.forksoverknives.com/recipes/vegan-pasta-noodles/creamy-avocado-kale-pasta/
+
+image: avocado-kale-pasta.jpg
+
 ingredients:
 - slug: chickpea rotini pasta
   amount: 12 oz
@@ -19,8 +22,8 @@ ingredients:
   amount: 1 C
   notes:
 - slug: avocado
-  amount: 1 medium
-  notes: halved, seeded and peeled
+  amount: 2 medium
+  notes: halved, seeded and peeled, dice one
 - slug: lemon zest
   amount: 1 tsp
   notes:
@@ -37,10 +40,12 @@ ingredients:
   amount:
   notes: to taste
 - slug: dill
-  amount: 
+  amount:
   notes: fresh, chopped
 - slug: lemon wedges
   amount:
+  notes: for serving
+- slug: mint
   notes: for serving
 
 

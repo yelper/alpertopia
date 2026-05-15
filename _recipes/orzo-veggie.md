@@ -1,10 +1,13 @@
 ---
 title: Orzo Veggie Medley
-categories: [pasta dinner]
+categories: [salad]
 servings: 4
 prep_time: 10
 cook_time: 30
 reference: www.fitmencook.com
+
+image: orzo-veggie.jpg
+
 ingredients:
 - slug: orzo
   amount: 1/3 C
@@ -28,15 +31,15 @@ ingredients:
   amount: 2 tsp
   notes: dried
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: balsamic vinegar
   notes: to taste
 - slug: basil
-  amount: 
+  amount:
   notes: fresh, for serving
 
 
