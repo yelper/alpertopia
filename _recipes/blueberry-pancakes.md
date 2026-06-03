@@ -5,6 +5,9 @@ servings: 2
 prep_time: 10
 cook_time: 10
 reference: https://pinchofyum.com/fluffiest-blueberry-pancakes
+
+image: blueberry-pancakes.jpg
+
 ingredients:
 - slug: milk
   amount: 3/4 C
@@ -22,7 +25,7 @@ ingredients:
   amount: 1/2 tsp
 - slug: eggs
   amount: 1
-  notes: 
+  notes:
 - slug: butter
   amount: 2 tbsp
   notes: melted
@@ -34,6 +37,6 @@ ingredients:
 
 1. Mix the milk and vinegar and let it sit for a minute or two (you’re making “buttermilk” here).
 2. Whisk the dry ingredients together. Whisk the egg, milk, and melted butter into the dry ingredients until just combined.
-3. Heat a nonstick pan over medium heat. Melt a little smear of butter in the pan (essential for giving a yummy golden brown crust).
+3. Heat a nonstick pan over medium heat. Melt a little smear of butter in the pan (essential for giving a yummy golden brown crust). Turn down one and a half notches after preheated.
 4. Pour about 1/3 cup of batter into the hot skillet and spread it flat-like (it will be pretty thick). Arrange a few blueberries on top. Cook until you see little bubbles on top and the edges starting to firm up. Flip and cook for another 1-2 minutes until the pancakes are sky-high fluffy and cooked through.
 5. Serve with butter and maple syrup. But honestly, sometimes I just like to eat these plain. YUM, YUM, YUM.

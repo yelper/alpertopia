@@ -5,6 +5,9 @@ servings: 4
 prep_time: 15
 cook_time: 45
 reference: https://www.epicurious.com/recipes/food/views/fettuccine-with-asparagus-beet-green-pesto-and-poached-egg-56389490
+
+image: beet-green-fettuccine.jpg
+
 ingredients:
 - slug: walnuts
   amount: 1/2 C
@@ -42,6 +45,8 @@ ingredients:
 - slug: asparagus
   amount: 1 bunch
   notes: trimmed, shaved into ribbons
+- slug: red pepper flakes
+  amount: to taste
 
 ---
 

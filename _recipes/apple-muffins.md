@@ -5,6 +5,9 @@ servings: 12
 prep_time: 10
 cook_time: 30
 reference: https://www.baby2body.com/pregnancy/nutrition-recipes/pregnancy-snacks-on-the-go-healthy-apple-cinnamon-muffins
+
+image: apple-muffins.jpg
+
 ingredients:
 - slug: oats
   amount: 2 1/2 C

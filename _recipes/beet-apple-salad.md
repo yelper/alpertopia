@@ -5,6 +5,9 @@ servings: 4
 prep_time: 10
 cook_time: 0
 reference: https://www.skinnytaste.com/raw-beet-salad/#recipe
+
+image: beet-apple-salad.jpg
+
 ingredients:
 - slug: beets
   amount: 2

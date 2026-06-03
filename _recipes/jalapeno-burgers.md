@@ -5,6 +5,9 @@ servings: 6
 prep_time: 15
 cook_time: 10
 reference: https://www.allrecipes.com/recipe/19936/jalapeno-hamburgers/
+
+image: jalapeno-burgers.jpg
+
 ingredients:
 - slug: ground meat
   amount: 1 lb
@@ -23,7 +26,7 @@ ingredients:
   notes:
 - slug: cajun seasoning
   amount: 4 tbsp
-  notes: 
+  notes:
 
 
 ---

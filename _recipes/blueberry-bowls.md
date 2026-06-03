@@ -5,6 +5,9 @@ servings: 4
 prep_time: 5
 cook_time: 40
 reference: https://www.wholesomelicious.com/baked-blueberry-cottage-cheese-breakfast-bowls/#wprm-recipe-container-22265
+
+image: blueberry-bowls.jpg
+
 ingredients:
 - slug: cottage cheese
   amount: 1 1/2 C
@@ -19,7 +22,7 @@ ingredients:
   amount: 1
   notes:
 - slug: maple syrup
-  amount: 1/4 C
+  amount: 2 tbsp
   notes:
 - slug: baking soda
   amount: 1 tsp

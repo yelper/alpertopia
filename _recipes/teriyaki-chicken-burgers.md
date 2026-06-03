@@ -5,6 +5,9 @@ servings: 4
 prep_time: 45
 cook_time:  10
 reference: https://thedizzycook.com/teriyaki-chicken-burger/#recipe
+
+image: teriyaki-chicken-burgers.jpg
+
 ingredients:
 - slug: ground chicken
   amount: 1 lb

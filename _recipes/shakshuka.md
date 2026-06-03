@@ -1,10 +1,13 @@
 ---
 title: One Pot Shakshuka
 categories: [veggie dinner]
-servings: 6
+servings: 5
 prep_time: 10
 cook_time: 20
 reference: WFPB Cookbook
+
+image: shakshuka.jpg
+
 ingredients:
 - slug: yellow onion
   amount: 1
@@ -43,7 +46,7 @@ ingredients:
   amount: 1 28 oz can
   notes: crushed
 - slug: cilantro
-  amount: 2 tbsp
+  amount: 1/4 C
   notes: fresh, finely chopped
 - slug: chickpeas
   amount: 1 15 oz can
@@ -51,6 +54,9 @@ ingredients:
 - slug: olives
   amount: 1/2 C
   notes: green or kalamata, coarsely chopped
+- slug: rice
+  amount: 2 C
+  notes: for serving
 
 
 

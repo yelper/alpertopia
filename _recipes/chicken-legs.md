@@ -5,6 +5,9 @@ servings: 4
 prep_time: 6
 cook_time: 60
 reference: https://www.blessthismessplease.com/baked-chicken-legs/
+
+image: chicken-legs.jpg
+
 ingredients:
 - slug: chicken legs
   amount: 10

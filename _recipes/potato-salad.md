@@ -5,6 +5,9 @@ servings: 10
 prep_time: 10
 cook_time: 50
 reference: From Demet
+
+image: potato-salad.jpg
+
 ingredients:
 - slug: potatoes
   amount: 8-10

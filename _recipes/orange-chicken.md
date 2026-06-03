@@ -5,6 +5,9 @@ servings: 4
 prep_time: 20
 cook_time: 20
 reference: https://eatwithclarity.com/air-fryer-orange-chicken/#wprm-recipe-container-32238
+
+image: orange-chicken.jpg
+
 ingredients:
 - slug: chicken breast
   amount: 1 lb

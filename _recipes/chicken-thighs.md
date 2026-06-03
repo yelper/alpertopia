@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 50
 reference: https://healthyrecipesblogs.com/baked-chicken-thighs/#recipe
+
 ingredients:
 - slug: chicken thighs
   amount: 8
