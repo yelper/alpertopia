@@ -26,7 +26,6 @@ social_image_path: /assets/img/face2.jpg
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 #  - jekyll-contentblocks
