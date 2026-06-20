@@ -18,15 +18,15 @@ permalink: /recipes/index.html
 <div class="row justify-content-between mt-2 mb-4">
     <div class="col-md-5">
         <div class="input-group">
-            <div id="queryType" class="input-group-prepend">
-                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">By ingredient</button>
+            <div id="queryType" class="input-group-text p-0 border-0">
+                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">By ingredient</button>
                 <div class="dropdown-menu">
                     <a class="dropdown-item active" href="#">By ingredient</a>
                     <a class="dropdown-item" href="#">By title</a>
                     <a class="dropdown-item disabled" href="#">By any text</a>
                 </div>
             </div>
-            <input type="text" class="form-control autocomplete ml-2" placeholder="Type ingredients here..." autocomplete="off">
+            <input type="text" class="form-control autocomplete ms-2" placeholder="Type ingredients here..." autocomplete="off">
         </div>
     </div>
 
@@ -39,10 +39,10 @@ permalink: /recipes/index.html
 <div class="row">
     <div class="col-12">
         <p>Three random recipes from our favorites (that have pictures!):</p>
-        <div id="random-recipes" class="card-deck">
-            <div class="card"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div>
-            <div class="card"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div>
-            <div class="card"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div>
+        <div id="random-recipes" class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
+            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
+            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
         </div>
     </div>
 </div>
@@ -51,9 +51,8 @@ permalink: /recipes/index.html
     <div class="col-md-5 my-3">
         <div id="recipe-results" class="card">
             <div class="card-header d-flex">
-                Ingredient search for&nbsp;<span id="searchQuery" class="font-weight-bold"></span>
-                <button type="button" id="closeResults" class="close ml-auto" data-toggle="collapse" data-target="#recipe-results" aria-label="close">
-                    <span aria-hidden="true">×</span>
+                Ingredient search for&nbsp;<span id="searchQuery" class="fw-bold"></span>
+                <button type="button" id="closeResults" class="btn-close ms-auto" data-bs-toggle="collapse" data-bs-target="#recipe-results" aria-label="close">
                 </button>
             </div>
             <div class="card-body"><ul></ul></div>
@@ -65,8 +64,8 @@ permalink: /recipes/index.html
     {% for category in sorted_categories %}
     {% assign cat_slug = category | slugify %}
     <div class="card">
-        <div class="card-header font-weight-bold">
-            <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapse-{{ cat_slug }}" aria-expanded="false">
+        <div class="card-header fw-bold">
+            <button class="btn btn-link ps-0" data-bs-toggle="collapse" data-bs-target="#collapse-{{ cat_slug }}" aria-expanded="false">
                 {{ category | capitalize }}
             </button>
         </div>
@@ -75,7 +74,7 @@ permalink: /recipes/index.html
                                         | sort: "title" %}
         {% for recipes in cat_recipes %}
             <li class="list-group-item"><a href="{{ recipes.url }}">{{ recipes.title }}</a>
-            {%- if recipes.image -%}<span class="fa fa-camera ml-2 text-secondary" aria-hidden="true"></span>{%- endif -%}</li>
+            {%- if recipes.image -%}<span class="fa fa-camera ms-2 text-secondary" aria-hidden="true"></span>{%- endif -%}</li>
         {% endfor %}
         </ul>
     </div>
@@ -161,13 +160,15 @@ permalink: /recipes/index.html
         cardDeck.empty();
         picks.forEach(recipe => {
             cardDeck.append(`
-                <div class="card mb-1">
+                <div class="col">
+                <div class="card h-100 mb-1">
                     <a href="${recipe.value}">
                         <img src="${recipe.image}" class="card-img-top" alt="image of ${recipe.text}">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title"><a href="${recipe.value}">${recipe.text}</a></h5>
                     </div>
+                </div>
                 </div>
             `);
         });

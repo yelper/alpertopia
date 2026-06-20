@@ -1,3 +1,17 @@
+/* Bootstrap 5 overrides */
+:root {
+    --bs-body-font-size: 0.9rem;
+}
+
+/** Bootstrap 5 changed defaults for link underlining.  Switch back to only underline on hover... */
+a:not([class]) {
+    text-decoration: none;
+}
+
+a:not([class]):hover {
+    text-decoration: underline;
+}
+
 /* necessary edits for sticky footer */
 html {
     position: relative;
@@ -6,6 +20,7 @@ html {
 body {
     /** defines amount to scroll for anchor links */
     scroll-margin-top: 80px;
+    font-size: var(--bs-body-font-size);
 
     /* Margin bottom by footer height */
     margin-bottom: 60px;
@@ -18,10 +33,19 @@ h1, h2 {
     scroll-margin-top: 4rem;
 }
 
+/* jumbotron replacement (removed in BS5) */
 .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
     border-radius: 0;
     .container {
         min-height: 250px;
+    }
+}
+@media (min-width: 576px) {
+    .jumbotron {
+        padding: 4rem 2rem;
     }
 }
 
@@ -113,14 +137,27 @@ article {
     }
 }
 
+/* card-columns replacement (removed in BS5) */
 #recipe-list.card-columns {
+    column-count: 3;
     column-gap: 2rem;
+    orphans: 1;
+    widows: 1;
 
-    @include media-breakpoint-only(md) {
+    > .card {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 0.75rem;
+    }
+
+    @media (min-width: 768px) and (max-width: 991.98px) {
         column-count: 2;
     }
-    @include media-breakpoint-only(sm) {
+    @media (min-width: 576px) and (max-width: 767.98px) {
         column-count: 2;
+    }
+    @media (max-width: 575.98px) {
+        column-count: 1;
     }
 
     /* enable accordion for collapsible list-groups;
