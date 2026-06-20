@@ -16,7 +16,7 @@ permalink: /recipes/index.html
 </div>
 
 <div class="row justify-content-between mt-2 mb-4">
-    <div class="col-md-5">
+    <div class="col-md-7">
         <div class="input-group">
             <div id="queryType" class="input-group-text p-0 border-0">
                 <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">By ingredient</button>
@@ -26,24 +26,13 @@ permalink: /recipes/index.html
                     <a class="dropdown-item disabled" href="#">By any text</a>
                 </div>
             </div>
-            <input type="text" class="form-control autocomplete ms-2" placeholder="Type ingredients here..." autocomplete="off">
+            <input type="text" id="recipeSearch" class="form-control autocomplete ms-2" placeholder="Type ingredients here..." autocomplete="off">
         </div>
     </div>
 
     <div class="col-lg-3 col-md-4 mt-3 mt-md-0 btn-group" role="group">
         <button type="button" class="btn btn-secondary" id="buttonExpand">Expand all </button>
         <button type="button" class="btn btn-secondary" id="buttonCollapse">Collapse all </button>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-12">
-        <p>Three random recipes from our favorites (that have pictures!):</p>
-        <div id="random-recipes" class="row row-cols-1 row-cols-md-3 g-4">
-            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
-            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
-            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
-        </div>
     </div>
 </div>
 
@@ -56,6 +45,17 @@ permalink: /recipes/index.html
                 </button>
             </div>
             <div class="card-body"><ul></ul></div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4 mb-5">
+    <div class="col-12">
+        <p>Three random recipes from our favorites (that have pictures!):</p>
+        <div id="random-recipes" class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
+            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
+            <div class="col"><div class="card h-100"><div class="card-body"><p class="card-text text-muted">Loading...</p></div></div></div>
         </div>
     </div>
 </div>
@@ -81,8 +81,9 @@ permalink: /recipes/index.html
     {% endfor %}
 </div>
 
-<!-- do autocomplete here, change results based on dropdown value -->
-<script src="https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"></script>
+<!-- autocomplete for recipe search -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/css/autoComplete.02.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js"></script>
 
 <script type="text/javascript">
 
@@ -98,7 +99,7 @@ permalink: /recipes/index.html
     });
 
     $('#closeResults').on('click', () => {
-        $('input.autocomplete').val('');
+        $('#recipeSearch').val('');
     });
 
     let queryByIngredient = true;
@@ -107,7 +108,7 @@ permalink: /recipes/index.html
             return;
 
         $('#recipe-results').removeClass('show');
-        $('input.autocomplete').val('');
+        $('#recipeSearch').val('');
 
         $('#queryType a.dropdown-item').removeClass('active');
 
@@ -117,9 +118,9 @@ permalink: /recipes/index.html
         queryByIngredient = queryType == "By ingredient";
 
         if (queryByIngredient)
-            $('input.autocomplete').attr('placeholder', "Type ingredients here...")
+            $('#recipeSearch').attr('placeholder', "Type ingredients here...")
         else
-            $('input.autocomplete').attr('placeholder', "Type title here...")
+            $('#recipeSearch').attr('placeholder', "Type title here...")
     });
 
     if (window.location.hash) {
@@ -176,31 +177,40 @@ permalink: /recipes/index.html
         const ingredients_list = Object.keys(ingredients);
         const recipe_list = recipes.map(recipe => recipe.text);
 
-        $('.autocomplete')
-            .autoComplete({
-                resolver: 'custom',
-                events: {
-                    search: function(query, callback) {
-                        query = query.toLocaleLowerCase('en-US');
-                        let results = [];
-                        if (queryByIngredient)
-                            results = ingredients_list.filter(ingredient => ingredient.toLocaleLowerCase('en-US').indexOf(query) !== -1);
-                        else
-                            results = recipe_list.filter(recipe => recipe.toLocaleLowerCase('en-US').indexOf(query) !== -1);
-
-                        callback(results);
-                    },
+        const autoCompleteJS = new autoComplete({
+            selector: "#recipeSearch",
+            data: {
+                src: (query) => {
+                    query = query.toLocaleLowerCase('en-US');
+                    if (queryByIngredient)
+                        return ingredients_list.filter(item => item.toLocaleLowerCase('en-US').includes(query));
+                    else
+                        return recipe_list.filter(item => item.toLocaleLowerCase('en-US').includes(query));
                 },
-            })
-            .on('autocomplete.select', function(_evt, item) {
-                if (queryByIngredient)
-                    populateIngredientResults(item);
-                else {
-                    const recipe_url = recipes.find(recipe => recipe.text == item)?.value;
-                    if (recipe_url)
-                        window.location = recipe_url;
+                cache: false,
+            },
+            resultItem: {
+                highlight: true,
+            },
+            threshold: 1,
+            debounce: 100,
+            events: {
+                input: {
+                    selection: (event) => {
+                        const selection = event.detail.selection.value;
+                        autoCompleteJS.input.value = selection;
+
+                        if (queryByIngredient)
+                            populateIngredientResults(selection);
+                        else {
+                            const recipe_url = recipes.find(recipe => recipe.text == selection)?.value;
+                            if (recipe_url)
+                                window.location = recipe_url;
+                        }
+                    }
                 }
-            });
+            }
+        });
     });
 
 </script>
