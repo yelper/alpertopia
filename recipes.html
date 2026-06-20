@@ -7,15 +7,13 @@ permalink: /recipes/index.html
 {% assign recipes = site.recipes %}
 {% assign categories = recipes | map: 'categories' | uniq %}
 
-{% assign sorted_categories = "asian dinner,pasta dinner,veggie dinner,meat dinner,salad,soup,appetizers,sides,breakfast,drinks,thanksgiving,christmas cookies,gram recipes,canned goods,frozen treats" | split: "," | concat: categories | uniq %}
-
 <div class="row mt-3">
     <div class="col-12 col-md-8">
         <p>These recipes aren't necessarily our creations, but they are our derivatives and contain our notes.  This is collaborative effort between my partner and me!</p>
     </div>
 </div>
 
-<div class="row justify-content-between mt-2 mb-4">
+<div class="row justify-content-between mt-2">
     <div class="col-md-7">
         <div class="input-group">
             <div id="queryType" class="input-group-text p-0 border-0">
@@ -28,11 +26,6 @@ permalink: /recipes/index.html
             </div>
             <input type="text" id="recipeSearch" class="form-control autocomplete ms-2" placeholder="Type ingredients here..." autocomplete="off">
         </div>
-    </div>
-
-    <div class="col-lg-3 col-md-4 mt-3 mt-md-0 btn-group" role="group">
-        <button type="button" class="btn btn-secondary" id="buttonExpand">Expand all </button>
-        <button type="button" class="btn btn-secondary" id="buttonCollapse">Collapse all </button>
     </div>
 </div>
 
@@ -60,25 +53,35 @@ permalink: /recipes/index.html
     </div>
 </div>
 
-<div id="recipe-list" class="card-columns mb-5">
-    {% for category in sorted_categories %}
-    {% assign cat_slug = category | slugify %}
-    <div class="card">
-        <div class="card-header fw-bold">
-            <button class="btn btn-link ps-0" data-bs-toggle="collapse" data-bs-target="#collapse-{{ cat_slug }}" aria-expanded="false">
-                {{ category | capitalize }}
-            </button>
-        </div>
-        <ul id="collapse-{{ cat_slug }}" class="list-group list-group-flush collapse">
-        {% assign cat_recipes = recipes | where: 'categories', category
-                                        | sort: "title" %}
-        {% for recipes in cat_recipes %}
-            <li class="list-group-item"><a href="{{ recipes.url }}">{{ recipes.title }}</a>
-            {%- if recipes.image -%}<span class="fa fa-camera ms-2 text-secondary" aria-hidden="true"></span>{%- endif -%}</li>
-        {% endfor %}
-        </ul>
+<hr>
+
+<div class="row mt-4">
+    <div class="col">
+        <a name="recipes"></a><strong>Jump to:</strong></a> &nbsp;&nbsp;
+        <a href="#meals">Meals</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="#breakfast-sides-col">Breakfast + sides</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="#baking-other">Baking + other</a>
     </div>
-    {% endfor %}
+</div>
+
+{% assign meals_cats = "asian dinner,pasta dinner,veggie dinner,meat dinner,veggie,vegan,gluten-free" | split: "," %}
+{% assign sides_cats = "breakfast,salad,soup,appetizers,sides,drinks" | split: "," %}
+{% assign baking_cats = "baked goods,frozen treats,thanksgiving,christmas cookies,gram recipes,canned goods" | split: "," %}
+
+{% comment %} Gather any remaining categories not assigned to any column {% endcomment %}
+{% assign known_cats = meals_cats | concat: sides_cats | concat: baking_cats %}
+{% assign all_categories = recipes | map: 'categories' | join: ',' | downcase | split: ',' | uniq | sort %}
+{% assign extra_cats = "" | split: "" %}
+{% for cat in all_categories %}
+    {% assign cat_stripped = cat | strip %}
+    {% unless known_cats contains cat_stripped or cat_stripped == "" %}
+        {% assign extra_cats = extra_cats | push: cat_stripped %}
+    {% endunless %}
+{% endfor %}
+{% assign baking_cats = baking_cats | concat: extra_cats %}
+
+<div id="recipe-list" class="row mb-5">
+    {% include recipe-column.html heading="Meals" anchor="meals" categories=meals_cats %}
+    {% include recipe-column.html heading="Breakfast + sides" anchor="breakfast-sides-col" categories=sides_cats %}
+    {% include recipe-column.html heading="Baking + other" anchor="baking-other" categories=baking_cats %}
 </div>
 
 <!-- autocomplete for recipe search -->
@@ -86,17 +89,6 @@ permalink: /recipes/index.html
 <script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js"></script>
 
 <script type="text/javascript">
-
-    const recipeGroups = $(".collapse");
-
-    $("#buttonExpand").on('click', () => {
-        recipeGroups.collapse('show');
-        window.location.hash = "";
-    });
-    $("#buttonCollapse").on('click', () => {
-        recipeGroups.collapse('hide')
-        window.location.hash = "";
-    });
 
     $('#closeResults').on('click', () => {
         $('#recipeSearch').val('');
@@ -122,11 +114,6 @@ permalink: /recipes/index.html
         else
             $('#recipeSearch').attr('placeholder', "Type title here...")
     });
-
-    if (window.location.hash) {
-        const recipeGroup = window.location.hash.slice(1);
-        $("#collapse-" + recipeGroup).collapse('show');
-    }
 
     let ingredients = {}, recipes = [];
     function populateIngredientResults(text) {

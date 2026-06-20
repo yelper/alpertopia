@@ -1,6 +1,6 @@
 ---
 title: Homemade Ranch Dressing
-categories: [appetizer]
+categories: [sides]
 servings: 24
 prep_time: 5
 cook_time: 0

@@ -6,7 +6,7 @@ layout: default
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="/recipes">Recipes</a></li>
-      <li class="breadcrumb-item"><a href="/recipes/#{{ page.categories | first | slugify }}">{{ page.categories | first | capitalize }}</a></li>
+      <li class="breadcrumb-item"><a href="/recipes/#cat-{{ page.categories | first | slugify }}">{{ page.categories | first | capitalize }}</a></li>
       <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
     </ol>
   </nav>

@@ -1,6 +1,6 @@
 ---
 title: New Apple Pie
-categories: [Thanksgiving]
+categories: [thanksgiving]
 servings: 8
 prep_time: 60
 cook_time: 75

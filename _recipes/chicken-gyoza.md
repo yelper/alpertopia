@@ -1,6 +1,6 @@
 ---
 title: Chicken Gyoza
-categories: [appetizer]
+categories: [appetizers]
 servings: 30
 prep_time: 30
 cook_time: 15

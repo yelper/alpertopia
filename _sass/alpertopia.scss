@@ -29,7 +29,7 @@ body.with-nav {
     padding-top: 5rem;
 }
 
-h1, h2 {
+h1, h2, h3, h4, h5, h6, [id] {
     scroll-margin-top: 4rem;
 }
 
@@ -137,39 +137,10 @@ article {
     }
 }
 
-/* card-columns replacement (removed in BS5) */
-#recipe-list.card-columns {
-    column-count: 3;
-    column-gap: 2rem;
-    orphans: 1;
-    widows: 1;
-
-    > .card {
-        display: inline-block;
-        width: 100%;
-        margin-bottom: 0.75rem;
-    }
-
-    @media (min-width: 768px) and (max-width: 991.98px) {
-        column-count: 2;
-    }
-    @media (min-width: 576px) and (max-width: 767.98px) {
-        column-count: 2;
-    }
-    @media (max-width: 575.98px) {
-        column-count: 1;
-    }
-
-    /* enable accordion for collapsible list-groups;
-     * specify at higher specificity to override bootstrap styling of list-group */
-    .list-group {
-        &.collapse {
-            display: none;
-        }
-
-        &.collapse.show {
-            display: flex;
-        }
+/* recipe list styling */
+#recipe-list ul {
+    li {
+        margin-bottom: 0.35rem;
     }
 }
 
@@ -181,6 +152,19 @@ div.receipe {
     ol > li {
         margin-bottom: 0.7rem;
     }
+}
+
+#recipe-list h5 {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.back-to-top {
+    font-size: 0.7em;
+    color: #aaa;
+    text-decoration: none;
+    &:hover { color: #333; }
 }
 
 /* autoComplete.js dropdown styling to match Bootstrap */
