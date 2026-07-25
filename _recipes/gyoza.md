@@ -1,6 +1,6 @@
 ---
 title: Gyoza
-categories: [appetizer]
+categories: [appetizers]
 servings: 52
 prep_time: 60
 cook_time: 30

@@ -1,6 +1,6 @@
 ---
 title: Brandy Snaps
-categories: [Christmas cookies]
+categories: [christmas cookies]
 servings: 16
 prep_time: 15
 cook_time: 30

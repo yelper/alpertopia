@@ -1,0 +1,24 @@
+<div class="col-md-4">
+    <h4><a name="{{ include.anchor }}" id="{{ include.anchor }}">{{ include.heading }}</a></h4>
+    <ul class="list-unstyled mb-3">
+        {% for category in include.categories %}
+        {% assign cat_count = recipes | where: 'categories', category | size %}
+        {% if cat_count > 0 %}
+        <li><a href="#cat-{{ category | slugify }}">{{ category | capitalize }}</a> ({{ cat_count }})</li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+    {% for category in include.categories %}
+    {% assign cat_slug = category | slugify %}
+    {% assign cat_recipes = recipes | where: 'categories', category | sort: "title" %}
+    {% if cat_recipes.size > 0 %}
+    <h5 class="mt-4"><a name="cat-{{ cat_slug }}" id="cat-{{ cat_slug }}">{{ category | capitalize }}</a> <a href="#recipes" class="back-to-top ps-1" title="Back to top"><span class="fa fa-arrow-up" aria-hidden="true"></span></a></h5>
+    <ul class="list-unstyled title-list">
+        {% for recipe in cat_recipes %}
+        <li><a href="{{ recipe.url }}">{{ recipe.title }}</a>
+        {%- if recipe.image -%}<span class="fa fa-camera ms-2 text-secondary" aria-hidden="true"></span>{%- endif -%}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+</div>
