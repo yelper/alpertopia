@@ -1,10 +1,11 @@
 ---
 title: Pasta with Eggplant and Tomato Sauce
 categories: [pasta dinner]
-servings: 6
+servings: 4
 prep_time: 10
 cook_time: 50
 reference: Healthy Eating Cookbook
+image: eggplant-pasta.jpg
 ingredients:
 - slug: eggplant
   amount: 2
@@ -31,10 +32,10 @@ ingredients:
   amount: 1 costco pack
   notes: boneless, skinless
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: parmesan cheese
   amount:

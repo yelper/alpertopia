@@ -5,6 +5,7 @@ servings: 12
 prep_time: 10
 cook_time: 60
 reference: From Gram
+image: applesauce-cake.jpg
 ingredients:
 - slug: shortening
   amount: 1 C
@@ -13,7 +14,7 @@ ingredients:
   amount: 3 C
   notes:
 - slug: eggs
-  amount: 4 
+  amount: 4
   notes:
 - slug: baking powder
   amount: 2 tsp

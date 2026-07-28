@@ -5,6 +5,7 @@ servings: 4
 prep_time: 25
 cook_time: 15
 reference: https://www.allrecipes.com/recipe/19591/sukis-spinach-and-feta-pasta/
+image: spinach-feta-pasta.jpg
 ingredients:
 - slug: penne pasta
   amount: 8 oz
@@ -28,10 +29,10 @@ ingredients:
   amount: 2 C
   notes: packed
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: red pepper flakes
   amount: pinch of

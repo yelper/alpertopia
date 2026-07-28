@@ -5,13 +5,14 @@ servings: 4
 prep_time: 10
 cook_time: 10
 reference: https://pinchofyum.com/creamy-peanut-chicken-lettuce-wraps#tasty-recipes-41484-jump-target
+image: miso-peanut-chicken.jpg
 ingredients:
 - slug: pb2 powder
-  amount: 4 tbsp
-  notes: 
+  amount: 8 tbsp
+  notes:
 - slug: miso paste
   amount: 3 tbsp
-  notes: 
+  notes:
 - slug: broth
   amount: 1/2 C
   notes:
@@ -34,10 +35,10 @@ ingredients:
   amount:  1 tbsp
   notes:
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: grapes
   amount: 3 C

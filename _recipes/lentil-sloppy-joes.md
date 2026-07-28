@@ -1,10 +1,11 @@
 ---
 title: Lentil Sloppy Joes
 categories: [veggie dinner]
-servings: 8
+servings: 6
 prep_time: 10
 cook_time: 15
 reference: Instagram
+image: lentil-sloppy-joes.jpg
 ingredients:
 - slug: water
   amount: 4 C, plus 1 tbsp
@@ -42,6 +43,8 @@ ingredients:
 - slug: tamari
   amount: 1 tbsp
   notes:
+- slug: salt
+  amount: 1 tsp
 - slug: maple syrup
   amount: 1 tbsp
   notes:
@@ -49,15 +52,15 @@ ingredients:
   amount: 1 tsp
   notes:
 - slug: bread
-  amount: 
+  amount:
   notes: whole wheat buns or multigrain pita
 
 
 ---
 
 1. In an 8-quart pot over high heat, bring 3 cups of water to a boil. Reduce the heat to maintain a simmer and add the lentils. Cover the pot and cook for 20 minutes or until tender. Transfer the cooked lentils to a bowl.
-2. In small bowl, stir together the paprika, onion powder, garlic powder and parsley. Set aside.
-3. Heat a pot over medium-high heat. Add the mushrooms and cook for 3 minutes to remove their moisture. Add the onion, bell pepper, and carrot. Cook for 3 minutes more, or until the onion becomes translucent. Ad water, 1 T at a time, to prevent burning.
+2. In small bowl, stir together the paprika, onion powder, garlic powder, salt and parsley. Set aside.
+3. Heat a pot over medium-high heat. Add the mushrooms and cook for 3 minutes to remove their moisture. Add the onion, bell pepper, and carrot. Cook for 3 minutes more, or until the onion becomes translucent. Add water, 1 T at a time, to prevent burning.
 4. Stir in tomato pasta and cook for 30 seconds.
 5. Stir in the tamari, maple syrup, and vinegar to combine. Stir in the spice mixture. Add the remaining 1 C of water and stir to combine.
 6. Stir in the cooked lentils, adding more water to thin as desired. The mixture should be fairly thick. Serve on your choice of bread.

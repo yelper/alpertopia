@@ -1,10 +1,11 @@
 ---
 title: Fried Rice with Brussel Sprouts
 categories: [asian dinner]
-servings: 5
+servings: 4
 prep_time: 10
 cook_time: 30
 reference: https://fitmencook.com/brussels-sprouts-fried-rice/
+image: fried-brussel-sprouts.jpg
 ingredients:
 - slug: chicken thighs
   amount: 1 costco pack
@@ -19,10 +20,10 @@ ingredients:
   amount: 1 tbsp
   notes:
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: olive oil
   amount: 1 tbsp
@@ -37,7 +38,7 @@ ingredients:
   amount: 2 tsp
   notes: fresh
 - slug: brown rice
-  amount: 2 1/2 C
+  amount: 2 C
   notes: cooked
 - slug: bell peppers
   amount: 1
@@ -45,6 +46,10 @@ ingredients:
 - slug: soy sauce
   amount: 3 tbsp
   notes:
+- slug: garlic chili sauce
+  amount: 1 tbsp
+- slug: eggs
+  amount: 5
 - slug: cilantro
   amount: 1/3 C
   notes: fresh, chopped
@@ -56,10 +61,11 @@ ingredients:
   notes: for serving
 
 
+
 ---
 
 1. If you do not have cooked rice, cook rice according to the instructions given.  Then allow it to cool to room temperature or place in the fridge. Set oven to 420F.
 2. In a large bowl, mix together cut Brussels sprouts, olive oil and sea salt & pepper.  Toss the sprouts so they are completely covered then dump them on a baking tray lined with parchment paper.  Bake for 15-20 minutes or until the edges are brown and crispy, and the sprouts are crisp-tender when pierced with a fork.
-3. Set a nonstick skillet on medium heat and once hot, cook chicken, add the olive oil, garlic and green onion.  Sauté for 2 to 3 minutes and be careful not to burn the garlic.
+3. Set a nonstick skillet on medium heat and once hot, cook chicken, add the olive oil, garlic and green onion.  Sauté for 2 to 3 minutes and be careful not to burn the garlic. Scramble eggs.
 4. Add in the room temperature, OR cold, cooked brown rice and cook in the skillet for 2 minutes. Then, add bell peppers and the roasted Brussels sprouts.  Fold everything together, then season with low-sodium soy sauce and chopped cilantro.
 5. Mix everything together and reduce the heat to low.  Drizzle sesame oil over the rice, gently fold and then serve.

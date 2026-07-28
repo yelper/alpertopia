@@ -10,13 +10,13 @@ image: egg-bites.jpg
 
 ingredients:
 - slug: eggs
-  amount: 6
+  amount: 5
   notes:
 - slug: cottage cheese
   amount: 1 C
   notes:
 - slug: taco seasoning
-  amount: 2 tsp
+  amount: 1 1/2 tsp
   notes:
 - slug: kosher salt
   amount: 1/2 tsp

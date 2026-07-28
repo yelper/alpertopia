@@ -5,6 +5,7 @@ servings: 2 C
 prep_time: 20
 cook_time: 20
 reference: https://cookieandkate.com/best-hummus-recipe/#tasty-recipes-28742-jump-target
+image: hummus.jpg
 ingredients:
 - slug: chickpeas
   amount:  1 15 oz can
@@ -34,7 +35,7 @@ ingredients:
   amount: 1 tbsp
   notes:
 - slug: spice
-  amount: 
+  amount:
   notes: ground sumac or paprika, for serving
 
 ---

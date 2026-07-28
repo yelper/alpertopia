@@ -1,10 +1,11 @@
 ---
 title: Tofu Coconut Curry
-categories: [asian dinner, vegan]
-servings: 2?
+categories: [soup]
+servings: 2
 prep_time: 10
 cook_time: 60
 reference: https://veganbowls.com/blogs/mains/tofu-coconut-curry
+iamge: tofu-coconut-curry.jpg
 ingredients:
 - slug: sesame oil
   amount: 1 tbsp
@@ -46,13 +47,13 @@ ingredients:
   amount: 1 14.5 oz can
   notes:
 - slug: kale
-  amount: 50 g
+  amount: 1 bunch
   notes: chopped
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: olive oil
   amount: 1 tbsp
@@ -65,7 +66,7 @@ ingredients:
   notes: fresh, chopped
 - slug: red pepper flakes
   amount: pinch of
-  notes: 
+  notes:
 
 ---
 

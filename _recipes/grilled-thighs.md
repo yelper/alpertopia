@@ -5,6 +5,7 @@ servings: 4
 prep_time: 5 + 30 minutes marinade
 cook_time: 10
 reference: https://www.happyfoodstube.com/grilled-boneless-chicken-thighs/
+image: grilled-thighs.jpg
 ingredients:
 - slug: paprika
   amount: 2 tbsp
@@ -16,16 +17,16 @@ ingredients:
   amount: 4 tbsp
   notes: fresh
 - slug: salt
-  amount: 1 1/2 tsp
+  amount: 1 tsp
   notes:
 - slug: black pepper
   amount: 1/2 tsp
-  notes: 
+  notes:
 - slug: olive oil
   amount: 1/3 C
   notes:
-- slug: chicken thighs
-  amount: 1 costco pack
+- slug: chicken boneless thighs
+  amount: 2 costco packs
   notes: boneless
 
 
