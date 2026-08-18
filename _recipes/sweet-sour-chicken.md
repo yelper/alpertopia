@@ -5,6 +5,7 @@ servings: 5
 prep_time: 10
 cook_time: 20
 reference: Healthy Eating Cookbook
+image: sweet-sour-chicken.jpg
 ingredients:
 - slug: chicken breast
   amount: 1 costco pack
@@ -40,7 +41,7 @@ ingredients:
   amount: 2 tbsp
   notes:
 - slug:  vinegar
-  amount: 1/4 C
+  amount: 2 tbsp
   notes:
 - slug: ketchup
   amount: 1/4 C
