@@ -5,7 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 20
 reference: Healthy Eating Cookbook
-iamge: pasta-broccoli.jpg
+image: pasta-broccoli.jpg
 ingredients:
 - slug: pasta
   amount: 3 C
