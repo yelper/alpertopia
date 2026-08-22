@@ -1,3 +1,5 @@
+{% assign url = page.url | remove: 'index.html' %}
+
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
   <div class="container">
     <a class="navbar-brand" href="/">
@@ -9,16 +11,29 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-      <ul class="navbar-nav me-auto">
+      <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link p-2" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener" aria-label="GitHub">
-            {% include icon-github.svg class="navbar-nav-svg" %}
+          <a class="nav-link p-2{% include nav-active.html page='/about/' %}" href="/about" >
+            About
           </a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link p-2" href="https://twitter.com/{{ site.twitter_username }}" target="_blank" rel="noopener" aria-label="Twitter">
-            {% include icon-twitter.svg class="navbar-nav-svg" %}
+        <li>
+          <a class="nav-link p-2{% include nav-active.html page='/blog/' %}" href="/blog" >
+            Posts
           </a>
+        </li>
+        <li>
+          <a class="nav-link p-2{% include nav-active.html page='/recipes/' %}" href="/recipes" >
+            Recipes
+          </a>
+        </li>
+        <li>
+          <a class="nav-link p-2{% include nav-active.html page='/#pubs' %}" href="/#pubs" >
+            Publications
+          </a>
+        </li>
+        <li>
+        </li>
       </ul>
     </div>
   </div>

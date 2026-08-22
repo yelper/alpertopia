@@ -146,6 +146,11 @@ article {
     }
 }
 
+.autoComplete_wrapper mark {
+    padding: 0 !important;
+    color: inherit !important;
+}
+
 /* recipe list styling */
 #recipe-list ul {
     li {

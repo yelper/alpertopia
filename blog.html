@@ -6,24 +6,23 @@ title: Alper's blogpost index
 <div class="row mt-3 mb-3">
   <div class="col-md-8">
     <h1>Blogpost index</h1>
+    <p>A collection of posts about visualization or my work.  <a href="#personal">Personal posts are below</a>.</p>
   </div>
 </div>
 {% assign w_posts = site.posts | where_exp: 'post', 'post.categories contains "vis"' %}
 {% assign p_posts = site.posts | where_exp: 'post', 'post.categories contains "personal"' %}
 
-{% if w_post.size > p_posts.size %}
-  {% assign post_max = w_posts.size %}
-{% else %}
-  {% assign post_max = p_posts.size %}
-{% endif %}
+{% for post in w_posts %}
+{% include post-list.html post=post %}
+{% endfor %}
 
-{% for i in (1..post_max) %}
-<div class="row my-4">
-{% assign ww = w_posts[forloop.index0] %}
-{% assign pp = p_posts[forloop.index0] %}
-
-{% include post_cardnew.html post=ww %}
-<div class="col-lg-1"></div>
-{% include post_cardnew.html post=pp %}
+<div class="row mt-5">
+  <a name="personal"></a><h2 class="d-flex align-items-center">
+    Personal posts
+    <a href="#" class="back-to-top ps-3" title="Back to top"><span class="fa fa-arrow-up" aria-hidden="true"></span></a>
+  </h2> 
+  <p>A smattering of musings!</p>
 </div>
+{% for post in p_posts %}
+{% include post-list.html post=post %}
 {% endfor %}
