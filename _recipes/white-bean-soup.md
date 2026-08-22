@@ -5,6 +5,7 @@ servings: 6
 prep_time: 10
 cook_time: 25
 reference: https://feelgoodfoodie.net/recipe/white-bean-soup/#wprm-recipe-container-8825
+image: white-bean-soup.jpg
 ingredients:
 - slug: olive oil
   amount: 1 tbsp
@@ -12,6 +13,8 @@ ingredients:
 - slug: onion
   amount: 1 large
   notes: chopped
+- slug: garlic
+  amount: 3 cloves
 - slug: carrots
   amount: 1 large
   notes: chopped
@@ -40,7 +43,7 @@ ingredients:
   amount: 2 C
   notes:
 - slug: parsley
-  amount: 
+  amount:
   notes: fresh, for serving
 - slug: parmesan cheese
   amount:
@@ -50,5 +53,5 @@ ingredients:
 ---
 
 1. In a large pot or saucepan, heat olive over medium high heat. Add onions and cook until onions are translucent, about 3-5 minutes. Add the garlic, carrots, celery, thyme, oregano, salt and pepper, and cook for an additional 2-3 minutes.
-2. Add vegetable broth and beans, bring to a boil, reduce heat and simmer for 15 minutes to combine all of the flavors together.
+2. Add vegetable broth and beans, bring to a boil, reduce heat and simmer for 15 minutes to combine all of the flavors together. Taste and add more salt and/or pepper if necessary.
 3. Stir in the spinach and continue to simmer until the spinach wilts, about 2 minutes. Remove from heat, sprinkle fresh parsley and grated parmesan cheese, if desired, and serve immediately.

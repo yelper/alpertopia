@@ -5,6 +5,7 @@ servings: 4
 prep_time: 15
 cook_time: 25
 reference: https://veganbowls.com/blogs/mains/thai-basil-tofu-eggplant-stir-fry
+image: tofu-eggplant-stir-fry.jpg
 ingredients:
 - slug: eggplant
   amount: 1
@@ -14,7 +15,7 @@ ingredients:
   notes: crumble into small pieces
 - slug: thai basil
   amount: 1 handful
-  notes: 
+  notes:
 - slug: yellow onion
   amount: 1
   notes: sliced
@@ -23,9 +24,9 @@ ingredients:
   notes: minced
 - slug: thai chili peppers
   amount: 2
-  notes: 
+  notes:
 - slug: cornstarch
-  amount: 2 tbsp
+  amount: 4 tbsp
   notes:
 - slug: water
   amount: 3-4 tbsp
@@ -48,6 +49,8 @@ ingredients:
 - slug: vinegar
   amount: 1 tbsp
   notes:
+- slug: sriracha
+  notes: for serving
 
 
 ---

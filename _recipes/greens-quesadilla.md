@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 20
 reference: How Not to Die Cookbooks
+image: greens-quesadilla.jpg
 ingredients:
 - slug: red onion
   amount: 1 small
@@ -30,6 +31,8 @@ ingredients:
 - slug: savory spice blend
   amount: 1 tsp
   notes:
+- slug: salt
+  amount: 1 tsp
 - slug: hot sauce
   amount:
   notes: to taste

@@ -5,6 +5,7 @@ servings: 4
 prep_time: 10
 cook_time: 20
 reference: Healthy Eating Cookbook
+image: pasta-broccoli.jpg
 ingredients:
 - slug: pasta
   amount: 3 C
@@ -37,10 +38,10 @@ ingredients:
   amount: 2 tbsp
   notes: toasted
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 
 
