@@ -50,3 +50,8 @@ We've already started to integrate Flint in our own applications and work, and a
 Check out [the project website](https://microsoft.github.io/flint-chart/) for examples and documentation, and don't miss the [gallery](https://microsoft.github.io/flint-chart/#/gallery/vegalite).  Flint is available both as a npm library and a MCP server.
 
 *This work will be presented at [IEEE VIS 2026](http://ieeevis.org/year/2026/welcome) in Boston, Massachusetts, USA.*
+
+Selected buzz:
+
+* [Microsort Research Blog - Flint: A visualization language for the AI era](https://www.microsoft.com/research/blog/flint-a-visualization-language-for-the-ai-era/)
+* [HackerNews - Microsoft releases Flint, a visualization language for AI agents](https://news.ycombinator.com/item?id=48834924)
