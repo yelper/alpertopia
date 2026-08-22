@@ -110,6 +110,15 @@ h1, h2, h3, h4, h5, h6, [id] {
     font-size: 0.9em;
 }
 
+/** blog index-specific styling */
+.blog-title, .blog-excerpt {
+    margin-bottom: 0.3rem;
+}
+
+.blog-date {
+    margin-bottom: 0.5rem;
+}
+
 /** post-specific styling */
 article {
     ul li {

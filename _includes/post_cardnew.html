@@ -1,0 +1,16 @@
+{% if include.post %}
+<div class="col-lg-5 col-md-7 flex-column">
+  <div class="w-100">
+    <a href="{{ include.post.url }}">
+      <img class="img-fluid" src="/assets/img/{{ include.post.teaser }}" alt="Teaser image for this blog include.post.">
+    </a>
+  </div>
+  <div class="w-100 my-3">
+    <h4 class="blog-title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h4>
+    <p class="blog-date text-muted">{{ include.post.date | date_to_long_string }}</p>
+    <p class="blog-excerpt">{{ include.post.excerpt }}</p>
+  </div>
+</div>
+{% else %}
+<div class="col-lg-5 col-md-7"></div>
+{% endif %}
