@@ -54,7 +54,7 @@ layout: bare
   </div>
   <div class="row my-3">
     <div class="col-md-12 flex-column">
-      <h4><a href="/blog#personal">Personal posts →</a></h4>
+      <h4>Personal posts</h4>
       {% assign sorted_posts = p_posts | sort: 'date' | reverse | slice: 0, 4 %}
       <ul class="list-unstyled">
         {% for post in sorted_posts %}
