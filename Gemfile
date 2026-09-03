@@ -17,6 +17,7 @@ gem "jekyll", "4.4.1"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-seo-tag", "~> 2.9"
 #   gem 'jekyll-contentblocks', "~> 1.2"
 end
 
