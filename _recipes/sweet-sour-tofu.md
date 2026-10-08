@@ -5,6 +5,9 @@ servings: 4
 prep_time: 15
 cook_time: 20
 reference: Instagram
+
+image: sweet-sour-tofu.jpg
+
 ingredients:
 - slug: tofu
   amount: 1 block
@@ -28,7 +31,7 @@ ingredients:
   amount:
   notes:
 - slug: soba noodles
-  amount: 400 g
+  amount: 3 bunches
   notes:
 - slug: avocado oil
   amount: 2 tbsp
@@ -37,7 +40,10 @@ ingredients:
   amount: 4 cloves
   notes: minced
 - slug: baby bok choy
-  amount: 4
+  amount: 6
+  notes: sliced
+- slug: carrots
+  amount: 2
   notes: sliced
 - slug: green onions
   amount: 1 bunch
@@ -59,7 +65,7 @@ ingredients:
 ⁣⁣
 2. ⁣Cook Soba according to package instructions. ⁣
 ⁣⁣
-3. ⁣While Soba cooks, in the same frying pan used for the tofu, add oil and fry garlic, bok choy and onions. Season with soy sauce. ⁣
+3. ⁣While Soba cooks, in the same frying pan used for the tofu, add oil and fry garlic, bok choy, carrots and onions. Season with soy sauce. ⁣
 ⁣⁣
 4. ⁣Drain noodles and add to frying pan. Toss with veggies and season with soy sauce according to your taste. ⁣
 ⁣⁣

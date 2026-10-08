@@ -5,6 +5,7 @@ servings: 4
 prep_time: 6
 cook_time: 20
 reference: https://whatgreatgrandmaate.com/paleo-mongolian-chicken-shishito-peppers/#recipe
+image: shishito-chicken.jpg
 ingredients:
 - slug: avocado oil
   amount: 4 tbsp
@@ -26,7 +27,7 @@ ingredients:
   notes: minced
 - slug: red pepper flakes
   amount: 1/2 tsp
-  notes: 
+  notes:
 - slug: coconut aminos
   amount: 1/3 C
   notes:
@@ -37,7 +38,7 @@ ingredients:
   amount: 1 tsp
   notes:
 - slug: sesame seeds
-  amount: 
+  amount:
   notes: toasted, for serving
 
 

@@ -59,4 +59,4 @@ ingredients:
 1. Preheat oven to 400 degrees F. Coat 12 muffin cups with cooking spray.
 2. Whisk eggs and brown sugar in a medium bowl until smooth. Whisk in bananas, buttermilk, wheat bran, oil and vanilla.
 3. Whisk whole-wheat flour, all-purpose flour, baking powder, baking soda, cinnamon and salt in a large bowl. Make a well in the dry ingredients; add the wet ingredients and stir with a rubber spatula until just combined. Stir in chocolate chips, if using. Scoop the batter into the prepared muffin cups (they'll be quite full). Sprinkle with walnuts, if using.
-4. Bake the muffins until the tops are golden brown and spring back when touched lightly, 15 to 25 minutes. Let cool in the pan for 5 minutes. Loosen edges and turn muffins out onto a wire rack to cool slightly before serving.
+4. Bake the muffins until the tops are golden brown and spring back when touched lightly, 15 to 20 minutes. Let cool in the pan for 5 minutes. Loosen edges and turn muffins out onto a wire rack to cool slightly before serving.

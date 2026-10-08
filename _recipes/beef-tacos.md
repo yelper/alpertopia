@@ -5,6 +5,9 @@ servings: 8
 prep_time: 10
 cook_time: 15
 reference: https://krollskorner.com/ingredient/beef-pork/crispy-beef-tacos/#wprm-recipe-container-64799
+
+image: beef-tacos.jpg
+
 ingredients:
 - slug: ground beef
   amount: 1 lb
@@ -25,10 +28,10 @@ ingredients:
   amount: 1 4oz can
   notes:
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: colby jack cheese
   amount: 8 oz
@@ -55,10 +58,10 @@ ingredients:
   amount:
   notes: to taste
 - slug: cilantro
-  amount: 
+  amount:
   notes: for serving
 - slug: pickled red onions
-  amount: 
+  amount:
   notes: for serving
 ---
 

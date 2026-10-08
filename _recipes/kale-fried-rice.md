@@ -5,6 +5,9 @@ servings: 2
 prep_time: 20
 cook_time: 15
 reference: https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/#tasty-recipes-23595
+
+image: kale-fried-rice.jpg
+
 ingredients:
 - slug: avocado oil
   amount: 2 tbsp

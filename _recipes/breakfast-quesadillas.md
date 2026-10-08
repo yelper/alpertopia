@@ -10,7 +10,7 @@ ingredients:
 - slug: eggs
   amount: 4
 - slug: hot sauce (cholula)
-  notes: 
+  amount: 10 dashes
 - slug: salt
   amount: pinch
 - slug: beans

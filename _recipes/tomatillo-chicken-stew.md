@@ -34,10 +34,10 @@ ingredients:
   amount: 2 lbs
   notes: trimmed of excess fat, cut into 1-inch cubes
 - slug: salt
-  amount: 
+  amount:
   notes: to taste
 - slug: black pepper
-  amount: 
+  amount:
   notes: to taste
 - slug: olive oil
   amount:
@@ -56,7 +56,7 @@ ingredients:
   notes: ground
 - slug: chicken broth
   amount: 1 1/2 C
-  notes: 
+  notes:
 - slug: tomatillo sauce
   amount: 2 C
   notes:
@@ -68,6 +68,7 @@ ingredients:
   notes: stems and leaves, rinsed and chopped
 - slug: rice
   amount: 1 C
+  notes: uncooked
 ---
 
 1. Make the tomatillo sauce and rice

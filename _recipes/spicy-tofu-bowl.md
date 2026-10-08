@@ -1,10 +1,13 @@
 ---
 title: Spicy Peanut Tofu Bowls
 categories: [asian dinner]
-servings: 6
+servings: 5
 prep_time: 10
 cook_time: 30
 reference: https://pinchofyum.com/spicy-peanut-tofu-bowls#tasty-recipes-56991
+
+image: spicy-tofu-bowl.jpg
+
 ingredients:
 - slug: tofu
   amount: 2 blocks
@@ -13,17 +16,20 @@ ingredients:
   amount: 2 tbsp
   notes:
 - slug: olive oil
-  amount: 
-  notes: 
+  amount:
+  notes:
 - slug: salt
-  amount: 
-  notes: 
+  amount:
+  notes:
 - slug: broccoli
   amount: 2 small heads
   notes: cut into florets
 - slug: bell peppers
   amount: 2
   notes: red, cut into strips
+- slug: onion
+  amount: 1
+  notes: diced
 - slug: rice
   amount: 1 1/2 C
   notes: uncooked

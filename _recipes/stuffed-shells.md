@@ -5,6 +5,9 @@ servings: 6
 prep_time: 15
 cook_time: 50
 reference: https://www.allrecipes.com/recipe/21532/stuffed-shells-iii/
+
+image: stuffed-shells.jpg
+
 ingredients:
 - slug: jumbo pasta shells
   amount: 12 oz
@@ -17,7 +20,7 @@ ingredients:
   notes: shredded
 - slug: parmesan cheese
   amount: 8 oz
-  notes: 
+  notes:
 - slug: eggs
   amount: 2
   notes: beaten
@@ -29,7 +32,7 @@ ingredients:
   notes:
 - slug: black pepper
   amount: 1 tsp
-  notes: 
+  notes:
 - slug: pasta sauce
   amount: 28 oz
   notes:
