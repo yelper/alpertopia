@@ -110,6 +110,15 @@ h1, h2, h3, h4, h5, h6, [id] {
     font-size: 0.9em;
 }
 
+/** blog index-specific styling */
+.blog-title, .blog-excerpt {
+    margin-bottom: 0.3rem;
+}
+
+.blog-date {
+    margin-bottom: 0.5rem;
+}
+
 /** post-specific styling */
 article {
     ul li {
@@ -124,6 +133,20 @@ article {
                 margin-bottom: 1rem;
             }
         }
+
+        #page__comments {
+            > div {
+                margin: 2rem 0;
+            }
+        }
+
+        .img-372 {
+            max-width: 60%;
+        }
+
+        .img-372-sm {
+            max-width: 40%;
+        }
     }
 }
 
@@ -135,6 +158,11 @@ article {
     &.show {
         display: flex;
     }
+}
+
+.autoComplete_wrapper mark {
+    padding: 0 !important;
+    color: inherit !important;
 }
 
 /* recipe list styling */

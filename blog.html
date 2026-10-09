@@ -1,44 +1,28 @@
 ---
 layout: default
-title: Alper's blog index
+title: Alper's blogpost index
 ---
 
 <div class="row mt-3 mb-3">
   <div class="col-md-8">
-    <h1>Blog index</h1>
+    <h1>Blogpost index</h1>
+    <p>A collection of posts about visualization or my work.  <a href="#personal">Personal posts are below</a>.</p>
   </div>
 </div>
 {% assign w_posts = site.posts | where_exp: 'post', 'post.categories contains "vis"' %}
 {% assign p_posts = site.posts | where_exp: 'post', 'post.categories contains "personal"' %}
 
 {% for post in w_posts %}
-<div class="row my-3">
-  <div class="col-lg-3 col-md-4 mb-3">
-    <a href="{{ post.url }}">
-      <img class="img-fluid" src="/assets/img/{{ post.teaser }}" alt="Teaser image for this blog post.">
-    </a>
-  </div>
-  <div class="col-lg-6 col-md-8">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="text-muted">{{ post.date | date_to_long_string }}</p>
-    <p>{{ post.excerpt }}</p>
-  </div>
-</div>
+{% include post-list.html post=post %}
 {% endfor %}
 
-<hr>
-<h2 class="mt-4 mb-5"><a name="personal">Personal blog posts</a></h2>
-{% for post in p_posts %}
-<div class="row my-3">
-  <div class="col-lg-3 col-md-4 mb-3">
-    <a href="{{ post.url }}">
-      <img class="img-fluid" src="/assets/img/{{ post.teaser }}" alt="Teaser image for this blog post.">
-    </a>
-  </div>
-  <div class="col-lg-6 col-md-8">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="text-muted">{{ post.date | date_to_long_string }}</p>
-    <p>{{ post.excerpt }}</p>
-  </div>
+<div class="row mt-5">
+  <a name="personal"></a><h2 class="d-flex align-items-center">
+    Personal posts
+    <a href="#" class="back-to-top ps-3" title="Back to top"><span class="fa fa-arrow-up" aria-hidden="true"></span></a>
+  </h2> 
+  <p>A smattering of musings!</p>
 </div>
+{% for post in p_posts %}
+{% include post-list.html post=post %}
 {% endfor %}

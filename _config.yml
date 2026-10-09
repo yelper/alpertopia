@@ -24,10 +24,24 @@ twitter_username: yelperalp
 github_username:  yelper
 social_image_path: /assets/img/face2.jpg
 
+# seo
+twitter:
+  username: yelperalp
+  card: summary
+
+social:
+  name: Alper Sarikaya
+  links:
+    - https://bsky.app/profile/alper.datav.is
+    - http://github.com/yelper/
+    - https://vis.social/@alper
+    - https://keybase.io/yelper
+
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 #  - jekyll-contentblocks
 
 permalink: /blog/:year/:month/:title/
