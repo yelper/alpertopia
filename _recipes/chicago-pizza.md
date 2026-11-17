@@ -5,6 +5,9 @@ servings: 2 14-inch pizzas
 prep_time: hella
 cook_time: 55
 reference: https://cooking.nytimes.com/recipes/1023971-chicago-thin-crust-tavern-style-pizza-with-sausage-and-giardiniera
+
+image: chicago-pizza.jpg
+
 ingredients:
 - slug: bread flour
   amount: 300 g
@@ -74,7 +77,7 @@ ingredients:
   notes: shredded
 - slug: italian sausage
   amount: 8 oz
-  notes: 
+  notes:
 ---
 
 1. Make the dough: Combine the flour, sugar, salt and yeast in the bowl of a stand mixer (see Tips). Whisk together to combine, then add the water and oil. Mix at low speed with the dough hook attachment, stopping occasionally to scrape down the sides of the bowl with a rubber spatula, until the dough comes together in a shaggy ball. Cover the bowl and let the dough rest for 10 minutes. Mix on medium-low speed until the dough is silky and pulls away from the sides of the bowl, about 5 minutes. Transfer the dough to a lightly floured work surface.

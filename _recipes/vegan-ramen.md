@@ -5,6 +5,9 @@ servings: 4
 prep_time: 20
 cook_time: 20
 reference: https://www.forksoverknives.com/recipes/vegan-soups-stews/creamy-vegan-ramen/
+
+image: vegan-ramen.jpg
+
 ingredients:
 - slug: trumpet mushrooms
   amount: 2 C

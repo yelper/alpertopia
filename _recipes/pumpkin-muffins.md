@@ -9,8 +9,8 @@ ingredients:
 - slug: coconut oil
   amount: 1/3 C
   notes: melted
-- slug: honey
-  amount: 1/2 C
+- slug: honey or maple syrup
+  amount: 1/3 C
   notes:
 - slug: eggs
   amount: 2
@@ -23,7 +23,7 @@ ingredients:
   notes:
 - slug: pumpkin pie spice
   amount: 2 tsp
-  notes: 
+  notes:
 - slug: baking soda
   amount: 1 tsp
   notes:
@@ -39,6 +39,8 @@ ingredients:
 - slug: rolled oats
   amount: 1/3 C
   notes: plus more for sprinkling
+- slug: cranberries or nuts
+  amount: 3/4 C
 
 ---
 

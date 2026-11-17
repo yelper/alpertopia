@@ -5,6 +5,9 @@ servings: 4
 prep_time: 20
 cook_time: 10
 reference: Bon Appetit
+
+image: smash-burger.jpg
+
 ingredients:
 - slug: mayonnaise
   amount: 3/4 C

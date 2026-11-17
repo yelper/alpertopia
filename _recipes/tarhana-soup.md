@@ -5,6 +5,9 @@ servings: 4
 prep_time: 10
 cook_time: 20
 reference: Anne
+
+image: tarhana-soup.jpg
+
 ingredients:
 - slug: broth
   amount: 2 C
@@ -22,7 +25,7 @@ ingredients:
   amount:
   notes:
 - slug: oregano
-  amount: 
+  amount:
   notes: dried
 - slug: cayenne pepper
   amount:

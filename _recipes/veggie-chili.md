@@ -5,6 +5,9 @@ servings: 5
 prep_time: 20
 cook_time: 40
 reference: https://cookieandkate.com/vegetarian-chili-recipe/
+
+image: veggie-chili.jpg
+
 ingredients:
 - slug: olive oil
   amount: 2 tbsp
